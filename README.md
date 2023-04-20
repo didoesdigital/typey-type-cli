@@ -358,7 +358,7 @@ This project and everyone participating in it is governed by the [Code of Conduc
 
 ## License
 
-See [LICENSE](./LICENSE).
+See [LICENSE.md](./LICENSE.md).
 
 ## Author
 
