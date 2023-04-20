@@ -35,10 +35,21 @@ Requirements:
     - `cp`
     - `rsync`
 
-Clone this repo:
+This project includes a Git submodule for [steno dictionaries](https://github.com/didoesdigital/steno-dictionaries). If you want to clone this repository as well as its submodules, you can use the `--recursive` parameter:
 
+```sh
+git clone --recursive git@github.com:didoesdigital/typey-type-cli.git
 ```
-git clone git@github.com:didoesdigital/typey-type-cli.git
+
+Alternatively, if you've already cloned the repository without the `--recursive` parameter, you can load its submodules using `submodule update`:
+
+```sh
+git submodule update --init --recursive
+```
+
+Change directory into the cloned repository:
+
+```sh
 cd typey-type-cli
 ```
 
@@ -48,7 +59,7 @@ Yarn install the dependencies:
 yarn install
 ```
 
-You'll also need the Typey Type data repo, which you *can* clone by itself but I recommend setting up the Typey Type app with the data repo included as a submodule so you have everything you might want in the right place:
+You'll also need the Typey Type data repo somewhere nearby to produce lessons, which you *can* clone by itself but I recommend setting up the Typey Type app with the data repo included as a submodule so you have everything you might want in the right place:
 
 ```
 cd ../
