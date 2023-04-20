@@ -42,7 +42,6 @@ Top nouns
 'door': TKAOR
 'morning': PHORPBG
 'myself': PHAO*EUS
-'gutenberg': HRO*ER/TKPWUT/*EPB/PWERG
 'power': POUR
 'themselves': TH*EPLS
 'present': PREPBT

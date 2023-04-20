@@ -40,7 +40,6 @@ word
 door
 morning
 myself
-gutenberg
 power
 themselves
 present
