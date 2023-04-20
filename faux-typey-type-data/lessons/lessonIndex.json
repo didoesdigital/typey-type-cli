@@ -355,6 +355,15 @@
     "subcategory": "",
     "path": "/drills/top-verbs/lesson.txt",
     "wordCount": 321,
+    "suggestedNext": "/drills/top-nouns/lesson.txt"
+  },
+  {
+    "title": "Top nouns",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/top-nouns/lesson.txt",
+    "wordCount": 300,
     "suggestedNext": "/drills/top-adjectives/lesson.txt"
   },
   {
