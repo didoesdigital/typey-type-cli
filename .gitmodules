@@ -1,0 +1,4 @@
+[submodule "didoesdigital/steno-dictionaries"]
+	path = didoesdigital/steno-dictionaries
+	url = git@github.com:didoesdigital/steno-dictionaries.git
+	branch = master
