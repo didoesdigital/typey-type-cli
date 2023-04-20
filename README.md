@@ -240,6 +240,8 @@ These terms are not necessarily technically accurate, but are used frequently th
 
 To create a new lesson, you need to create the new lesson's source files outlined in the next section, add the lesson to the index (`lesson-source-data/sourceLessonIndex.json`), then run the `make lessons` command to build the new lesson using those new source files.
 
+You can also add lessons directly to the community’s lessons spreadsheet. See [Typey Type lessons](https://didoesdigital.com/typey-type/lessons) to learn more.
+
 ### How to make a great lesson
 
 Aim for lessons that are around 50–300 words long. Short lessons less than 10 words often result in heavily skewed speed scores and are over too quickly. Longer lessons drag on, and not everyone is aware or comfortable to hit "Stop" before reaching the end.
