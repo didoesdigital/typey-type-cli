@@ -238,7 +238,7 @@ These terms are not necessarily technically accurate, but are used frequently th
 
 ## Create a new lesson
 
-To create a new lesson, you need to create the new lesson's source files outlined in the next section, then run the `make lessons` command to build the new lesson using those new source files.
+To create a new lesson, you need to create the new lesson's source files outlined in the next section, add the lesson to the index (`lesson-source-data/sourceLessonIndex.json`), then run the `make lessons` command to build the new lesson using those new source files.
 
 ### How to make a great lesson
 
