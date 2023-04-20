@@ -1,0 +1,11 @@
+{
+  "title": "The Lion in Love",
+  "subtitle": "",
+  "category": "Stories",
+  "subcategory": "Aesop’s Fables",
+  "path": "/stories/fables/the-lion-in-love/lesson.txt",
+  "wordList": "words.txt",
+  "vocabulary": [
+    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
+  ]
+}

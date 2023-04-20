@@ -1,0 +1,11 @@
+{
+  "title": "A Leaf From Heaven",
+  "subtitle": "",
+  "category": "Stories",
+  "subcategory": "Hans Christian Andersen’s Fairy Tales",
+  "path": "/stories/hans-christian-andersen/a-leaf-from-heaven/lesson.txt",
+  "wordList": "words.txt",
+  "vocabulary": [
+    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
+  ]
+}

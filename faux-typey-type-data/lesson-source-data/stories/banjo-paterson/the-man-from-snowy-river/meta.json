@@ -1,0 +1,12 @@
+{
+  "title": "The Man from Snowy River",
+  "subtitle": "",
+  "category": "Stories",
+  "subcategory": "Banjo Paterson",
+  "path": "/stories/banjo-paterson/the-man-from-snowy-river/lesson.txt",
+  "customMessage": "Hint: use the Aussie vocabulary dictionary",
+  "wordList": "words.txt",
+  "vocabulary": [
+    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
+  ]
+}

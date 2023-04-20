@@ -1,0 +1,11 @@
+{
+  "title": "Project Gutenberg sentences using top 100 words",
+  "subtitle": "",
+  "category": "Drills",
+  "subcategory": "",
+  "path": "/drills/project-gutenberg-sentences-using-top-100-words/lesson.txt",
+  "wordList": "words.txt",
+  "vocabulary": [
+    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
+  ]
+}

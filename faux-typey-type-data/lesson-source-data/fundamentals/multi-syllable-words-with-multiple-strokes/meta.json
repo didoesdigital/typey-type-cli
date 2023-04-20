@@ -1,0 +1,15 @@
+{
+  "title": "Multi-syllable words with multiple strokes",
+  "subtitle": "",
+  "category": "Fundamentals",
+  "subcategory": "",
+  "path": "/fundamentals/multi-syllable-words-with-multiple-strokes/lesson.txt",
+  "vocabulary": ["didoesdigital/top-10000-project-gutenberg-words.json"],
+  "translationExclusions": ["mingled", "startled"],
+  "rules": {
+    "isMultiStroke": true,
+    "moreThanOneSyllable": true,
+    "hasForcedWordEnding": false,
+    "hasStar": false
+  }
+}

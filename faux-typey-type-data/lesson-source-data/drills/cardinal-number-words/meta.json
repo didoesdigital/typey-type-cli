@@ -1,0 +1,11 @@
+{
+  "title": "Cardinal Number Words",
+  "subtitle": "",
+  "category": "Drills",
+  "subcategory": "",
+  "path": "/drills/cardinal-number-words/lesson.txt",
+  "wordList": "words.txt",
+  "vocabulary": [
+    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
+  ]
+}

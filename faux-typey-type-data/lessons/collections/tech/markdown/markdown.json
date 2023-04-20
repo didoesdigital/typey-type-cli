@@ -1,0 +1,21 @@
+{
+"1-RB/PHARBG/TKO*UPB": "# Markdown",
+"2-RB": "{^}## {-|}",
+"3-RB": "{^}### {-|}",
+"4-RB": "{^}#### {-|}",
+"5RB": "{^}##### {-|}",
+"-6RB": "{^}###### {-|}",
+"HRAOUL": "{^}--------------------",
+"HRAO*UL": "{^}====================",
+"TPHAO*EUPBL/KH-FG/KOED/KH*FG": "inline `code`",
+"SKH-FGS/PWHROBG/SKH*FGS": "{^}```block```{^}",
+"KW-T/PWHROBG/TK-LS/KWOET": "> Blockquote",
+"PWHR-T/PW*ULT/-D": "- Bulleted",
+"PWHR*T/HR*EUS": "+ List",
+"PH*LG": "[](){#Left Left Left}{^}",
+"PH*PBLG": "![](){#Left Left Left}{^}",
+"PH*LG/KP-PL/STPH-G/STPH-G/HAOEPTS/KP-PL/KROPL": "[example](https://example.com)",
+"PH-FPL/EFPL/SEUS/PH*FPL": "*emphasis*",
+"PH-FPLS/STROPBG/PH*FPLS": "**strong**",
+"PH-FPLSZ/STROPBG/EFPL/SEUS/PH*FPLSZ": "***strong emphasis***"
+}

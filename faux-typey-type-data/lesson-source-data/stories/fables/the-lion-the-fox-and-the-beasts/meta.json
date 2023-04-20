@@ -1,0 +1,11 @@
+{
+  "title": "The Lion, the Fox, and the Beasts",
+  "subtitle": "",
+  "category": "Stories",
+  "subcategory": "Aesop’s Fables",
+  "path": "/stories/fables/the-lion-the-fox-and-the-beasts/lesson.txt",
+  "wordList": "words.txt",
+  "vocabulary": [
+    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
+  ]
+}

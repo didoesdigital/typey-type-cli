@@ -1,0 +1,15 @@
+{
+  "title": "Punctuation",
+  "subtitle": "",
+  "category": "Fundamentals",
+  "subcategory": "",
+  "path": "/fundamentals/punctuation/lesson.txt",
+  "recommendedDictionarySet": ["didoesdigital/punctuation.json"],
+  "vocabulary": ["didoesdigital/punctuation.json"],
+  "customMessage": "Hint: use exact spacing setting",
+  "wordList": "words.txt",
+  "rules": {
+    "hasPunctuation": true,
+    "hasShortTranslations": true
+  }
+}

@@ -1,0 +1,16 @@
+CSS media object
+
+'/* the media object */': OEU/STA*R/S-P/-T/PHO*EUD/OB/SKWREBGT/S-P/STA*R/OEU
+'.media {margin:10px;}': P-P/PHO*EUD/TPR-BGT/PHARPB/KHR-PB/#SO/P*/KP*/SKWR*RBGS/TPR*BGT
+'.media, .bd {': P-P/PHO*EUD/KW-BG/S-P/P-P/PW*/TK*/TPR-BGT
+'overflow:hidden;': AUFR/TPHROE/KHR-PB/HEUD/TKEPB/SKWR*RBGS
+'_overflow:visible; zoom:1;}': R*UPBD/AUFR/TPHROE/KHR-PB/SREUBL/SKWR*RBGS/SAO*PL/KHR-PB/#S/TPR*BGT
+'.media .img {': P-P/PHO*EUD/S-P/P-P/*EUP/PH*/TKPW*/TPR-BGT
+'float:left;': TPHROET/KHR-PB/HREFT/SKWR*RBGS
+'margin-right': PHARPB/H-PB/RAOEUT
+'.media .img img{': P-P/PHO*EUD/S-P/P-P/*EU/PH*/TKPW*/S-P/*EU/PH*/TKPW*/TPR-BGT
+'display:block;}': STKPWHRAEU/KHR-PB/PWHROBG/SKWR*RBGS/TP*BGT
+'.media .imgExt{': P-P/PHO*EUD/S-P/P-P/*EU/PH*/TKPW*/*EP/KP*/T*/TPR-BGT
+'float:right;': TPHROET/KHR-PB/RAOEUT/SKWR*RBGS
+'margin-left': PHARPB/H-PB/HREFT
+warning_message=Hint: use the relevant tech dictionary

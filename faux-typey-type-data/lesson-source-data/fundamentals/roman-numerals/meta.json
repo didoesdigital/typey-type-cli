@@ -1,0 +1,13 @@
+{
+  "title": "Roman numerals",
+  "subtitle": "",
+  "category": "Fundamentals",
+  "subcategory": "",
+  "path": "/fundamentals/roman-numerals/lesson.txt",
+  "recommendedDictionarySet": ["didoesdigital/roman-numerals.json"],
+  "vocabulary": ["didoesdigital/top-10000-project-gutenberg-words.json"],
+  "wordList": "words.txt",
+  "rules": {
+    "isRomanNumeral": true
+  }
+}

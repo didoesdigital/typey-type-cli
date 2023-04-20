@@ -1,0 +1,10 @@
+Two-key briefs *-G
+
+'something': S-G
+'kilogram': K-G
+'prognosis': P-G
+'handgun': H-G
+'ago': AG
+'egg': EG
+'ugh': UG
+'being': -BG

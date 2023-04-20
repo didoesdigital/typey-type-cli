@@ -1,0 +1,11 @@
+{
+  "title": "Kew Gardens",
+  "subtitle": "",
+  "category": "Stories",
+  "subcategory": "Virginia Woolf",
+  "path": "/stories/virginia-woolf/kew-gardens/lesson.txt",
+  "wordList": "words.txt",
+  "vocabulary": [
+    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
+  ]
+}

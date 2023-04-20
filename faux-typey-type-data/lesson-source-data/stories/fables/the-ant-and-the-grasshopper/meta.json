@@ -1,0 +1,11 @@
+{
+  "title": "The Ant and the Grasshopper",
+  "subtitle": "",
+  "category": "Stories",
+  "subcategory": "Aesop’s Fables",
+  "path": "/stories/fables/the-ant-and-the-grasshopper/lesson.txt",
+  "wordList": "words.txt",
+  "vocabulary": [
+    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
+  ]
+}

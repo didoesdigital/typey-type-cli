@@ -1,0 +1,11 @@
+{
+  "title": "Common Words",
+  "subtitle": "",
+  "category": "Drills",
+  "subcategory": "",
+  "path": "/drills/common-words/lesson.txt",
+  "wordList": "words.txt",
+  "vocabulary": [
+    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
+  ]
+}

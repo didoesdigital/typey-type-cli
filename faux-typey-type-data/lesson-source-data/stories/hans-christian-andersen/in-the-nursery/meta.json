@@ -1,0 +1,11 @@
+{
+  "title": "In the Nursery",
+  "subtitle": "",
+  "category": "Stories",
+  "subcategory": "Hans Christian Andersen’s Fairy Tales",
+  "path": "/stories/hans-christian-andersen/in-the-nursery/lesson.txt",
+  "wordList": "words.txt",
+  "vocabulary": [
+    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
+  ]
+}

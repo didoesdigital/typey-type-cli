@@ -1,0 +1,17 @@
+$(document)
+.ready(
+function(){
+// jQuery
+$("#steno")
+html("Hello world");
+$( "a" )
+.click(
+function( event ) {
+console.log(
+"Success!" );
+event
+.preventDefault();
+$( this )
+.hide( "slow" );
+});
+});

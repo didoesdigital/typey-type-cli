@@ -1,0 +1,11 @@
+{
+  "title": "The Phoenix Bird",
+  "subtitle": "",
+  "category": "Stories",
+  "subcategory": "Hans Christian Andersen’s Fairy Tales",
+  "path": "/stories/hans-christian-andersen/the-phoenix-bird/lesson.txt",
+  "wordList": "words.txt",
+  "vocabulary": [
+    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
+  ]
+}

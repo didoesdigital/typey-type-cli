@@ -1,0 +1,72 @@
+Pronouns and Contractions
+
+'I': EU
+'I have': SREU
+'I would': EULD
+'I'd': AOEUD
+'I've': AOEUF
+'all': AUL
+'all's': AUL/AES
+'anybody': TPHEUB
+'anybody's': TPHEUB/AES
+'else': ELS
+'else's': ELS/AES
+'everyone': EFRPB
+'everyone else': EFRPB/ELS
+'everyone else's': EFRPB/ELS/AES
+'everyone's': EFRPB/AES
+'he': HE
+'he has': HEZ
+'he is': HE/S
+'he would': HE/WO
+'he'd': HAOED
+'he's': HAOES
+'individual': SREUD
+'individual's': SREUD/AES
+'it': T
+'it has': T-Z
+'it is': T/S
+'it would': T-LD
+'it'd': T*D
+'it's': T-S
+'its': EUTS
+'no one': TPHOEUPB
+'no one's': TPHO/W*UPBS
+'nobody': TPHOEB
+'nobody's': TPHOEB/AES
+'nothing': TPHOG
+'nothing's': TPHOG/AES
+'one': WUPB
+'one's': W*UPBS
+'other's': OER/AES
+'people': PAOEPL
+'people's': PAOEPL/AES
+'she': SHE
+'she has': SHEZ
+'she is': SHES
+'she would': SHELD
+'she'd': SHAOED
+'she's': SHAOES
+'something': S-G
+'something's': S-G/AES
+'that': THA
+'that'd': THATD
+'that's': THATS
+'they': THE
+'they are': THE/R
+'they have': THE/SR
+'they would': THELD
+'they'd': THED
+'they're': THER
+'they've': THEF
+'what': WHA
+'what'd': WHATD
+'who': WHO
+'who are': WHO/R
+'who has': WHO*Z
+'who would': WHOLD
+'who'd': WHO*D
+'who's': WHOES
+'you': U
+'you'd': UD
+ignore_characters='^'

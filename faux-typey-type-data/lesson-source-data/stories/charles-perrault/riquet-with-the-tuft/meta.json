@@ -1,0 +1,11 @@
+{
+  "title": "Riquet With the Tuft",
+  "subtitle": "",
+  "category": "Stories",
+  "subcategory": "Charles Perrault’s Fairy Tales",
+  "path": "/stories/charles-perrault/riquet-with-the-tuft/lesson.txt",
+  "wordList": "words.txt",
+  "vocabulary": [
+    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
+  ]
+}

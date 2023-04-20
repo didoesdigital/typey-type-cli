@@ -1,0 +1,11 @@
+{
+  "title": "Hercules and the Waggoner",
+  "subtitle": "",
+  "category": "Stories",
+  "subcategory": "Aesop’s Fables",
+  "path": "/stories/fables/hercules-and-the-waggoner/lesson.txt",
+  "wordList": "words.txt",
+  "vocabulary": [
+    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
+  ]
+}

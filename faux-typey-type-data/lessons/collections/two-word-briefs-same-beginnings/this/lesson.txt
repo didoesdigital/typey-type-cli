@@ -1,0 +1,19 @@
+Two-word briefs This *
+
+'this afternoon': TH-FRPB
+'this be': TH-B
+'this can': TH-BG
+'this could': TH-BGD
+'this fast': TH-FZ
+'this happened': TH-PD
+'this happens': TH-PS
+'this has': TH-Z
+'this is': TH-S
+'this morning': TH-RPBG
+'this night': TH-PBT
+'this shall': TH-RB
+'this should': TH-RBD
+'this side': TH-DZ
+'this was': TH-FS
+'this were': TH-RP
+'this would': TH-LD

@@ -1,0 +1,14 @@
+{
+  "title": "Numbers",
+  "subtitle": "",
+  "category": "Fundamentals",
+  "subcategory": "",
+  "path": "/fundamentals/numbers/lesson.txt",
+  "recommendedDictionarySet": ["lesson-hints/numbers-lesson.json"],
+  "vocabulary": ["lesson-hints/numbers-lesson.json"],
+  "wordList": "words.txt",
+  "rules": {
+    "hasNumbers": true,
+    "hasDictionaryFormatting": false
+  }
+}

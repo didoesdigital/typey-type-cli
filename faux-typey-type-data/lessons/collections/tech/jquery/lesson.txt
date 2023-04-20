@@ -1,0 +1,20 @@
+jQuery
+
+'$(document)': TK-PL/TK-LS/PREPB/TKOBG/*PLT/PR*EPB
+'.ready(': P-P/RED/TKEU/TK-LS/PREPB
+'function(){': TPUBGS/TK-LS/PREPB/PR*EPB/TPR-BGT
+'// jQuery': OEU/OEU/SKWR*/KWAO*ER
+'$("#steno")': TK-PL/TK-LS/PREPB/KW-GS/HAERB/STOEUPB/KR-GS/PR*EPB
+'html("Hello world");': P-P/H*PLT/TK-LS/PREPB/KW-GS/HEL/HROE/WORLD/KR-GS/PR*EPB/SKWR*RBGS
+'$( "a" )': TP-PL/TK-LS/PREPB/KW-GS/AEU/KR-GS/PR*EPB
+'.click(': P-P/KHREUBG/TK-LS/PREPB
+'function( event ) {': TPUBGS/PREPB/AOE/SREPBT/PR*EPB/TPR-BGT
+'console.log(': KAUPB/SOEL/P-P/HROG/TK-LS/PREPB
+'"Success!" );': KW-GS/KPA*/SUBG/SES/SKHRAPL/KR-GS/PR*EPB/SKWR*RBGS
+'event': EFPBT
+'.preventDefault();': P-P/PRE/SREPBT/KPA*/TKE/TPAULT/TK-LS/PREPB/PR*EPB/SKWR*RBGS
+'$( this )': TK-PL/PREPB/TH/PR*EPB
+'.hide( "slow" );': P-P/HAOEUD/TK-LS/PREPB/KW-GS/SHROE/KR-GS/PR*EPB/SKWR*RBGS
+'});': TPR*BGT/PR*EPB/SKWR*RBGS
+'});': TPR*BGT/PR*EPB/SKWR*RBGS
+warning_message=Hint: use the relevant tech dictionary

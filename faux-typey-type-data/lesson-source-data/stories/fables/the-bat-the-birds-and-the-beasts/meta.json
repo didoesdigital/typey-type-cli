@@ -1,0 +1,11 @@
+{
+  "title": "The Bat, the Birds and the Beasts",
+  "subtitle": "",
+  "category": "Stories",
+  "subcategory": "Aesop’s Fables",
+  "path": "/stories/fables/the-bat-the-birds-and-the-beasts/lesson.txt",
+  "wordList": "words.txt",
+  "vocabulary": [
+    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
+  ]
+}

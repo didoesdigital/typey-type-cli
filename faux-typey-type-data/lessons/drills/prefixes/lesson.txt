@@ -1,0 +1,44 @@
+Prefixes
+
+'un^': UPB
+'in^': EUPB
+'im^': EUPL
+'ir^': EUR
+'re^': RE
+'dis^': TKEUS
+'de^': TKE
+'en^': EPB
+'em^': EPL
+'up^': AUP
+'co-^': KOE
+'co^': KAU
+'con^': KAUPB
+'out^': AOUT
+'for^': TPAUR
+'fore^': TPOER
+'mis^': PHEUZ
+'pro^': PRO
+'pre-^': PR*E
+'pre^': PRE
+'sub^': SAUB
+'self-^': SEF
+'semi^': SPHEU
+'back^': PWAEBG
+'down^': KWROUPB
+'over^': AUFR
+'under^': UPBD
+'inter^': EUPBT
+'intro^': EURPBT
+'hyper^': HAOEURP
+'micro^': PHAOEURBG
+'super^': SAOUP
+'trans^': TRAPBZ
+'anti^': A*EUPBT
+'anti-^': A*EUPBT/H-PB
+'mid^': PHEUD
+'mid-^': PHEUD/H-PB
+'non^': TPHAUPB
+'non-^': TPHA*UPB
+'on^': AUPB
+ignore_characters='^'
+warning_message=Hint: use exact spacing setting and don’t type ^

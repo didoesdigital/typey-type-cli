@@ -1,0 +1,13 @@
+{
+  "title": "Pronouns and Contractions",
+  "subtitle": "",
+  "category": "Drills",
+  "subcategory": "",
+  "path": "/drills/pronouns-contractions/lesson.txt",
+  "wordList": "words.txt",
+  "ignoredCharacters": "^",
+  "slug": "pronouns-contractions",
+  "vocabulary": [
+    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
+  ]
+}

@@ -1,0 +1,452 @@
+{
+  "noviceCourse": [
+    {
+      "path": "/lessons/fundamentals/numbers/flashcards",
+      "lessonTitle": "Numbers",
+      "target": 100
+    },
+    {
+      "path": "/lessons/fundamentals/introduction/flashcards",
+      "lessonTitle": "Introduction",
+      "target": 15
+    },
+    {
+      "path": "/lessons/drills/top-100-words/flashcards",
+      "lessonTitle": "Top 100 words",
+      "target": 100
+    },
+    {
+      "path": "/lessons/fundamentals/fingerspelling/flashcards",
+      "lessonTitle": "Fingerspelling",
+      "target": 26
+    },
+    {
+      "path": "/lessons/fundamentals/punctuation/flashcards",
+      "lessonTitle": "Punctuation",
+      "target": 27
+    }
+  ],
+  "beginnerCourse": [
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-briefs/flashcards",
+      "lessonTitle": "Multi-syllable words with briefs",
+      "target": 15
+    },
+    {
+      "path": "/lessons/drills/top-200-words-spoken-on-tv/flashcards",
+      "lessonTitle": "Top 200 words spoken on TV",
+      "target": 200
+    },
+    {
+      "path": "/lessons/drills/top-1000-words/flashcards",
+      "lessonTitle": "Top 1000 words",
+      "target": 1000
+    },
+    {
+      "path": "/lessons/drills/common-words/flashcards",
+      "lessonTitle": "Common words",
+      "target": 100
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-simple-keys/flashcards",
+      "lessonTitle": "One-syllable words with simple keys",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-more-consonants/flashcards",
+      "lessonTitle": "One-syllable words with more consonants",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-f-as-v-or-s/flashcards",
+      "lessonTitle": "One-syllable words with F as V or S",
+      "target": 11
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-unstressed-vowels/flashcards",
+      "lessonTitle": "One-syllable words with unstressed vowels",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-inversion/flashcards",
+      "lessonTitle": "One-syllable words with inversion",
+      "target": 5
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-short-i-vowel/flashcards",
+      "lessonTitle": "One-syllable words with short I vowel",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-short-vowels/flashcards",
+      "lessonTitle": "One-syllable words with short vowels",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-long-vowels/flashcards",
+      "lessonTitle": "One-syllable words with long vowels",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-diphthongs/flashcards",
+      "lessonTitle": "One-syllable words with diphthongs",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-vowel-disambiguators/flashcards",
+      "lessonTitle": "One-syllable words with vowel disambiguators",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-left-hand-consonants-with-multiple-keys/flashcards",
+      "lessonTitle": "One-syllable words with left-hand consonants with multiple keys",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-right-hand-consonants-with-multiple-keys/flashcards",
+      "lessonTitle": "One-syllable words with right-hand consonants with multiple keys",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-digraphs/flashcards",
+      "lessonTitle": "One-syllable words with digraphs",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-compound-clusters/flashcards",
+      "lessonTitle": "One-syllable words with compound clusters",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-multiple-strokes/flashcards",
+      "lessonTitle": "One-syllable words with multiple strokes",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-compound-clusters/flashcards",
+      "lessonTitle": "Multi-syllable words with compound clusters",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-inversion/flashcards",
+      "lessonTitle": "Multi-syllable words with inversion",
+      "target": 15
+    }
+  ],
+  "competentCourse": [
+    {
+      "path": "/lessons/drills/two-letter-words-common/flashcards",
+      "lessonTitle": "Two Letter Words: Common",
+      "target": 71
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-prefixes/flashcards",
+      "lessonTitle": "Multi-syllable words with prefixes",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-suffixes/flashcards",
+      "lessonTitle": "Multi-syllable words with suffixes",
+      "target": 15
+    },
+    {
+      "path": "/lessons/drills/pronouns/flashcards",
+      "lessonTitle": "Pronouns",
+      "target": 81
+    },
+    {
+      "path": "/lessons/drills/pronouns-continued/flashcards",
+      "lessonTitle": "Pronouns continued",
+      "target": 60
+    },
+    {
+      "path": "/lessons/drills/pronouns-contractions/flashcards",
+      "lessonTitle": "Pronouns and Contractions",
+      "target": 69
+    },
+    {
+      "path": "/lessons/drills/titles/flashcards",
+      "lessonTitle": "Titles",
+      "target": 21
+    },
+    {
+      "path": "/lessons/drills/email-salutations-and-complimentary-closings/flashcards",
+      "lessonTitle": "Email Salutations and Complimentary Closings",
+      "target": 49
+    },
+    {
+      "path": "/lessons/drills/apostrophes/flashcards",
+      "lessonTitle": "Apostrophes",
+      "target": 29
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-briefs/flashcards",
+      "lessonTitle": "Multi-syllable words with briefs",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-doubled-consonant-letters/flashcards",
+      "lessonTitle": "Multi-syllable words with doubled consonant letters",
+      "target": 15
+    },
+    {
+      "path": "/lessons/drills/calendar/flashcards",
+      "lessonTitle": "Calendar",
+      "target": 12
+    },
+    {
+      "path": "/lessons/drills/superlatives/flashcards",
+      "lessonTitle": "Superlatives",
+      "target": 79
+    },
+    {
+      "path": "/lessons/drills/time/flashcards",
+      "lessonTitle": "Time",
+      "target": 62
+    },
+    {
+      "path": "/lessons/drills/longest-words/flashcards",
+      "lessonTitle": "Longest words",
+      "target": 10
+    },
+    {
+      "path": "/lessons/drills/homophones/flashcards",
+      "lessonTitle": "Homophones",
+      "target": 100
+    },
+    {
+      "path": "/lessons/drills/emotions/flashcards",
+      "lessonTitle": "Emotions",
+      "target": 104
+    },
+    {
+      "path": "/lessons/drills/top-first-names-in-the-us-over-the-last-100-years/flashcards",
+      "lessonTitle": "Top first names in the US over the last 100 years",
+      "target": 200
+    }
+  ],
+  "proficientCourse": [
+    {
+      "lessonTitle": "Two-word briefs: * of",
+      "path": "/lessons/collections/two-word-briefs-same-endings/of/flashcards"
+    },
+    {
+      "path": "/lessons/drills/prefixes/flashcards",
+      "lessonTitle": "Prefixes",
+      "target": 40
+    },
+    {
+      "path": "/lessons/drills/suffixes/flashcards",
+      "lessonTitle": "Suffixes",
+      "target": 144
+    },
+    {
+      "lessonTitle": "Two-key briefs: *-D",
+      "path": "/lessons/collections/two-key-briefs/two-key-briefs--D/flashcards"
+    },
+    {
+      "lessonTitle": "Two-key briefs: H-*",
+      "path": "/lessons/collections/two-key-briefs/two-key-briefs-H/flashcards"
+    },
+    {
+      "lessonTitle": "Two-key briefs: R-*",
+      "path": "/lessons/collections/two-key-briefs/two-key-briefs-R/flashcards"
+    },
+    {
+      "lessonTitle": "Two-key briefs: *E*",
+      "path": "/lessons/collections/two-key-briefs/two-key-briefs-E/flashcards"
+    },
+    {
+      "lessonTitle": "Two-key briefs: *U*",
+      "path": "/lessons/collections/two-key-briefs/two-key-briefs-U/flashcards"
+    },
+    {
+      "lessonTitle": "Two-key briefs: K-*",
+      "path": "/lessons/collections/two-key-briefs/two-key-briefs-K/flashcards"
+    },
+    {
+      "lessonTitle": "Two-key briefs: *-T",
+      "path": "/lessons/collections/two-key-briefs/two-key-briefs--T/flashcards"
+    },
+    {
+      "lessonTitle": "Two-key briefs: T-*",
+      "path": "/lessons/collections/two-key-briefs/two-key-briefs-T/flashcards"
+    },
+    {
+      "lessonTitle": "Two-key briefs: *-R",
+      "path": "/lessons/collections/two-key-briefs/two-key-briefs--R/flashcards"
+    },
+    {
+      "lessonTitle": "Two-key briefs: W-*",
+      "path": "/lessons/collections/two-key-briefs/two-key-briefs-W/flashcards"
+    },
+    {
+      "lessonTitle": "Two-key briefs: *A*",
+      "path": "/lessons/collections/two-key-briefs/two-key-briefs-A/flashcards"
+    },
+    {
+      "lessonTitle": "Two-key briefs: P-*",
+      "path": "/lessons/collections/two-key-briefs/two-key-briefs-P/flashcards"
+    },
+    {
+      "lessonTitle": "Two-key briefs: S-*, *-S, and *-Z",
+      "path": "/lessons/collections/two-key-briefs/two-key-briefs-S--S--Z/flashcards"
+    },
+    {
+      "lessonTitle": "Two-key briefs: *-L",
+      "path": "/lessons/collections/two-key-briefs/two-key-briefs--L/flashcards"
+    },
+    {
+      "lessonTitle": "Two-key briefs: *-B",
+      "path": "/lessons/collections/two-key-briefs/two-key-briefs--B/flashcards"
+    },
+    {
+      "lessonTitle": "Two-key briefs: *-F",
+      "path": "/lessons/collections/two-key-briefs/two-key-briefs--F/flashcards"
+    },
+    {
+      "lessonTitle": "Two-key briefs: *-G",
+      "path": "/lessons/collections/two-key-briefs/two-key-briefs--G/flashcards"
+    },
+    {
+      "lessonTitle": "Two-key briefs: *-P",
+      "path": "/lessons/collections/two-key-briefs/two-key-briefs--P/flashcards"
+    },
+    {
+      "lessonTitle": "Two-key briefs: *O*",
+      "path": "/lessons/collections/two-key-briefs/two-key-briefs-O/flashcards"
+    },
+    {
+      "lessonTitle": "Two-word briefs: How *",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/how/flashcards"
+    },
+    {
+      "lessonTitle": "Two-word briefs: That *",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/that/flashcards"
+    },
+    {
+      "lessonTitle": "Two-word briefs: Who *",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/who/flashcards"
+    },
+    {
+      "lessonTitle": "Two-word briefs: You *",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/you/flashcards"
+    },
+    {
+      "lessonTitle": "Two-word briefs: With *",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/with/flashcards"
+    },
+    {
+      "lessonTitle": "Two-word briefs: What *",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/what/flashcards"
+    },
+    {
+      "lessonTitle": "Two-word briefs: The *",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/the/flashcards"
+    },
+    {
+      "lessonTitle": "Two-word briefs: There *",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/there/flashcards"
+    },
+    {
+      "lessonTitle": "Two-word briefs: He *",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/he/flashcards"
+    },
+    {
+      "lessonTitle": "Two-word briefs: On *",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/on/flashcards"
+    },
+    {
+      "lessonTitle": "Two-word briefs: And *",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/and/flashcards"
+    },
+    {
+      "lessonTitle": "Two-word briefs: We *",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/we/flashcards"
+    },
+    {
+      "lessonTitle": "Two-word briefs: Too *",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/too/flashcards"
+    },
+    {
+      "lessonTitle": "Two-word briefs: Where *",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/where/flashcards"
+    },
+    {
+      "lessonTitle": "Two-word briefs: They *",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/they/flashcards"
+    },
+    {
+      "lessonTitle": "Two-word briefs: It *",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/it/flashcards"
+    },
+    {
+      "lessonTitle": "Two-word briefs: Which *",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/which/flashcards"
+    },
+    {
+      "lessonTitle": "Two-word briefs: When *",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/when/flashcards"
+    },
+    {
+      "lessonTitle": "Two-word briefs: This *",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/this/flashcards"
+    },
+    {
+      "lessonTitle": "Two-word briefs: Of *",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/of/flashcards"
+    },
+    {
+      "lessonTitle": "Two-word briefs: Would",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/would/flashcards"
+    },
+    {
+      "lessonTitle": "Two-word briefs: She",
+      "path": "/lessons/collections/two-word-briefs-same-beginnings/she/flashcards"
+    },
+    {
+      "lessonTitle": "Two-word briefs: * in",
+      "path": "/lessons/collections/two-word-briefs-same-endings/in/flashcards"
+    },
+    {
+      "lessonTitle": "Two-word briefs: * that",
+      "path": "/lessons/collections/two-word-briefs-same-endings/that/flashcards"
+    },
+    {
+      "lessonTitle": "Two-word briefs: * be",
+      "path": "/lessons/collections/two-word-briefs-same-endings/be/flashcards"
+    },
+    {
+      "lessonTitle": "Two-word briefs: * the",
+      "path": "/lessons/collections/two-word-briefs-same-endings/the/flashcards"
+    },
+    {
+      "lessonTitle": "Two-word briefs: * had",
+      "path": "/lessons/collections/two-word-briefs-same-endings/had/flashcards"
+    },
+    {
+      "lessonTitle": "Two-word briefs: * and",
+      "path": "/lessons/collections/two-word-briefs-same-endings/and/flashcards"
+    },
+    {
+      "lessonTitle": "Two-word briefs: * is",
+      "path": "/lessons/collections/two-word-briefs-same-endings/is/flashcards"
+    },
+    {
+      "lessonTitle": "Two-word briefs: * to",
+      "path": "/lessons/collections/two-word-briefs-same-endings/to/flashcards"
+    }
+  ],
+  "expertCourse": [
+    {
+      "path": "/lessons/drills/two-letter-words-rare/flashcards",
+      "lessonTitle": "Two Letter Words: Rare",
+      "target": 51
+    },
+    {
+      "path": "/lessons/drills/single-stroke-briefs/flashcards",
+      "lessonTitle": "Single-Stroke Briefs",
+      "target": 6677
+    }
+  ]
+}

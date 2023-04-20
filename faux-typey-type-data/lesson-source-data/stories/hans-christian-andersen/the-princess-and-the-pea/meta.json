@@ -1,0 +1,11 @@
+{
+  "title": "The Princess and the Pea",
+  "subtitle": "",
+  "category": "Stories",
+  "subcategory": "Hans Christian Andersen’s Fairy Tales",
+  "path": "/stories/hans-christian-andersen/the-princess-and-the-pea/lesson.txt",
+  "wordList": "words.txt",
+  "vocabulary": [
+    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
+  ]
+}

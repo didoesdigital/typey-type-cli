@@ -1,0 +1,32 @@
+One-syllable words with short I vowel
+
+'still': STEUL
+'killed': KEULD
+'hills': HEULS
+'skill': SKEUL
+'swift': SWEUFT
+'stir': STEUR
+'wilt': WEULT
+'trip': TREUP
+'stirred': STEURD
+'stiff': STEUF
+'sits': SEUTS
+'whip': WHEUP
+'twisted': TWEUFTD
+'strip': STREUP
+'stripped': STREUPD
+'skirts': SKEURTS
+'skirt': SKEURT
+'wrist': WREUFT
+'writ': WREUT
+'Swiss': SWEUS
+'skilled': SKEULD
+'whipped': WHEUPD
+'width': WEUTD
+'pigs': PEUGZ
+'twist': TWEUFT
+'tips': TEUPS
+'Whig': WHEUG
+'whirl': WHEURL
+'spit': SPEUT
+'whit': WHEUT

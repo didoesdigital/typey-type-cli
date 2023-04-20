@@ -1,0 +1,13 @@
+{
+  "title": "Multi-syllable words with prefixes",
+  "subtitle": "",
+  "category": "Fundamentals",
+  "subcategory": "",
+  "path": "/fundamentals/multi-syllable-words-with-prefixes/lesson.txt",
+  "vocabulary": ["didoesdigital/top-10000-project-gutenberg-words.json"],
+  "rules": {
+    "startsWithPrefix": true,
+    "moreThanOneSyllable": true,
+    "hasStar": false
+  }
+}

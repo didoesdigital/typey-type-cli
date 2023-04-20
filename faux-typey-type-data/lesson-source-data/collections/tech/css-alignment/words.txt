@@ -1,0 +1,15 @@
+align
+float
+position
+absolute
+fixed
+top
+right
+bottom
+left
+margin
+max
+max-width
+min
+min-height
+padding

@@ -1,0 +1,11 @@
+{
+  "title": "The Elfin Hill",
+  "subtitle": "",
+  "category": "Stories",
+  "subcategory": "Hans Christian Andersen’s Fairy Tales",
+  "path": "/stories/hans-christian-andersen/the-elfin-hill/lesson.txt",
+  "wordList": "words.txt",
+  "vocabulary": [
+    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
+  ]
+}

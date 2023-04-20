@@ -1,0 +1,11 @@
+{
+  "title": "Cat-Skin",
+  "subtitle": "",
+  "category": "Stories",
+  "subcategory": "Grimms’ Fairy Tales",
+  "path": "/stories/grimm/cat-skin/lesson.txt",
+  "wordList": "words.txt",
+  "vocabulary": [
+    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
+  ]
+}

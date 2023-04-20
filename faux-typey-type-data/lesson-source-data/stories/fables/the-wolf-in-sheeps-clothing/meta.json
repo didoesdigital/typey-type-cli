@@ -1,0 +1,11 @@
+{
+  "title": "The Wolf in Sheep's Clothing",
+  "subtitle": "",
+  "category": "Stories",
+  "subcategory": "Aesop’s Fables",
+  "path": "/stories/fables/the-wolf-in-sheeps-clothing/lesson.txt",
+  "wordList": "words.txt",
+  "vocabulary": [
+    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
+  ]
+}

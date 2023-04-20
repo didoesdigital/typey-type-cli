@@ -1,0 +1,39 @@
+Suffix and prefix briefs
+
+'^-cum-^': K*UPL
+'^ure in': AOUR/EUPB
+'^s allow': AS/HROU
+'^s acquire': AS/KWAOEUR
+'^s arrive': AS/RAOEUF
+'^s will': HR-Z
+'^s onto': OEPBTS
+'^ing on': OPBG
+'^s on': OPBS
+'^s or': ORS
+'^s about': PW-S
+'^s is': S-S
+'^er and': SKP*ER
+'^ing and': SKP-G
+'^s and the': SKP-TS
+'^est and': SKPEFT
+'^s so': SOS
+'^ed it': T-D
+'^ing it': T-G
+'^en that': THA*EPB
+'^ed that': THAD
+'^ing that': THAG
+'^ing there': THR-G
+'^g to': TKPW*/TO
+'^ed to': TOD
+'^ing to': TOG
+'^-to-^': TO*
+'^ed in': TPH-D
+'^ing in': TPH-G
+'^s in': TPH-S
+'^s from': TPR-S
+'^ed with': W-D
+'^s with': W-S
+'^s who have': WHOS/SR
+'^s would': WOS
+ignore_characters='^'
+warning_message=Hint: use ignore spacing setting and don’t type ^

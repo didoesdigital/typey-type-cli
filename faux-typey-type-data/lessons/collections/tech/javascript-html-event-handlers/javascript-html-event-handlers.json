@@ -1,0 +1,14 @@
+{
+"AUPB/PWHRUR": "onblur",
+"AUPB/KHREUBG": "onclick",
+"AUPB/ROEUR": "onerror",
+"AUPB/TPOEUBGS": "onfocus",
+"AUPB/KAOE/SKWROUPB": "onkeydown",
+"AUPB/KAOE/PRES": "onkeypress",
+"AUPB/KAOE/SKWRUP": "onkeyup",
+"AUPB/PHOUS/O*EFR": "onmouseover",
+"AUPB/HRAOD": "onload",
+"AUPB/PHOUS/SKWRUP": "onmouseup",
+"AUPB/PHOUS/SKWROUPB": "onmousedown",
+"AUPB/SPHEUT": "onsubmit"
+}

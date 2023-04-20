@@ -1,0 +1,25 @@
+Two-word briefs He *
+
+'he believe': HEBL
+'he believed': HEBLD
+'he believes': HEBLS
+'he can': KE
+'he could': HEBGD
+'he feels': HEFLS
+'he felt': HEFLT
+'he has': HEZ
+'he recalls': HERLS
+'he recollected': HERBGD
+'he recollects': HERBGS
+'he remembered': HERPLD
+'he remembers': HERPLS
+'he said': HEBS
+'he say': HEBZ
+'he says': HEBSZ
+'he should': HERBD
+'he think': HEPBG
+'he thinks': HEPBGS
+'he understand': HEPBDZ
+'he wanted': HEPTD
+'he wants': HEPTS
+'he was': EFS

@@ -1,0 +1,12 @@
+{
+  "title": "Titles",
+  "subtitle": "",
+  "category": "Drills",
+  "subcategory": "",
+  "path": "/drills/titles/lesson.txt",
+  "wordList": "words.txt",
+  "customMessage": "Hint: use TK-LS between strokes",
+  "vocabulary": [
+    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
+  ]
+}

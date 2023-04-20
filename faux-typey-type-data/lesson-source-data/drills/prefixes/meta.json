@@ -1,0 +1,16 @@
+{
+  "title": "Prefixes",
+  "subtitle": "",
+  "category": "Drills",
+  "subcategory": "",
+  "path": "/drills/prefixes/lesson.txt",
+  "customMessage": "Hint: use exact spacing setting and don’t type ^",
+  "ignoredCharacters": "^",
+  "wordList": "words.txt",
+  "vocabulary": [
+    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
+  ],
+  "presentationOptions": {
+    "replaceAffixCurlies": true
+  }
+}

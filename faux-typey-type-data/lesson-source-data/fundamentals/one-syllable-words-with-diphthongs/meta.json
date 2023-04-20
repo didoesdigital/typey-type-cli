@@ -1,0 +1,16 @@
+{
+  "title": "One-syllable words with diphthongs",
+  "subtitle": "",
+  "category": "Fundamentals",
+  "subcategory": "",
+  "path": "/fundamentals/one-syllable-words-with-diphthongs/lesson.txt",
+  "vocabulary": ["didoesdigital/top-10000-project-gutenberg-words.json"],
+  "rules": {
+    "hasDiphthong": true,
+    "isOneSyllable": true,
+    "isSingleStroke": true,
+    "hasSimpleStenoKeys": true,
+    "hasStar": false,
+    "isBrief": false
+  }
+}

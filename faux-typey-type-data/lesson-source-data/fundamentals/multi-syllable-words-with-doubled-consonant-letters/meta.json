@@ -1,0 +1,17 @@
+{
+  "title": "Multi-syllable words with doubled consonant letters",
+  "subtitle": "",
+  "category": "Fundamentals",
+  "subcategory": "",
+  "path": "/fundamentals/multi-syllable-words-with-doubled-consonant-letters/lesson.txt",
+  "vocabulary": ["didoesdigital/top-10000-project-gutenberg-words.json"],
+  "rules": {
+    "moreThanOneSyllable": true,
+    "hasDoubleConsonants": true,
+    "isFingerspelled": false,
+    "hasPunctuation": false,
+    "isUppercase": false,
+    "hasForcedWordEnding": false,
+    "hasDictionaryFormatting": false
+  }
+}

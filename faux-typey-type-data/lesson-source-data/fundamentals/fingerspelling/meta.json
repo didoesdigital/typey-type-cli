@@ -1,0 +1,14 @@
+{
+  "title": "Fingerspelling",
+  "subtitle": "",
+  "category": "Fundamentals",
+  "subcategory": "",
+  "path": "/fundamentals/fingerspelling/lesson.txt",
+  "recommendedDictionarySet": ["didoesdigital/fingerspelling.json"],
+  "vocabulary": ["didoesdigital/top-10000-project-gutenberg-words.json"],
+  "customMessage": "Hint: use “Case sensitive” setting to learn how to fingerspell uppercase and lowercase letters",
+  "wordList": "words.txt",
+  "rules": {
+    "isFingerspelled": true
+  }
+}

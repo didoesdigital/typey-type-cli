@@ -1,0 +1,16 @@
+{
+  "title": "One-syllable words with vowel disambiguators",
+  "subtitle": "",
+  "category": "Fundamentals",
+  "subcategory": "",
+  "path": "/fundamentals/one-syllable-words-with-vowel-disambiguators/lesson.txt",
+  "vocabulary": ["didoesdigital/top-10000-project-gutenberg-words.json"],
+  "rules": {
+    "hasVowelDisambiguator": true,
+    "isOneSyllable": true,
+    "isSingleStroke": true,
+    "hasSimpleStenoKeys": true,
+    "hasStar": false,
+    "isBrief": false
+  }
+}

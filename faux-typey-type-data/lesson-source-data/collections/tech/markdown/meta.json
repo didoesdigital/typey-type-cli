@@ -1,0 +1,15 @@
+{
+  "title": "Markdown",
+  "subtitle": "",
+  "category": "Collections",
+  "subcategory": "Tech",
+  "path": "/collections/tech/markdown/lesson.txt",
+  "customMessage": "Hint: use the relevant tech dictionary",
+  "wordList": "words.txt",
+  "vocabulary": ["lesson-hints/markdown-lesson.json"],
+  "presentationOptions": {
+    "replaceArrowNavigation": true,
+    "replaceCapitalisationFormatting": true,
+    "replaceSuppressedSpaces": true
+  }
+}

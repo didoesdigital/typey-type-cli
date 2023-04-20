@@ -1,0 +1,11 @@
+{
+  "title": "Top 10000 Project Gutenberg words",
+  "subtitle": "",
+  "category": "Drills",
+  "subcategory": "",
+  "path": "/drills/top-10000-project-gutenberg-words/lesson.txt",
+  "wordList": "words.txt",
+  "vocabulary": [
+    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
+  ]
+}

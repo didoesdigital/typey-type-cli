@@ -1,0 +1,19 @@
+{
+  "title": "One-syllable words with long vowels",
+  "subtitle": "",
+  "category": "Fundamentals",
+  "subcategory": "",
+  "path": "/fundamentals/one-syllable-words-with-long-vowels/lesson.txt",
+  "vocabulary": ["didoesdigital/top-10000-project-gutenberg-words.json"],
+  "rules": {
+    "hasAnyLongVowel": true,
+    "isOneSyllable": true,
+    "hasMoreThanOneConsonsant": true,
+    "isSingleStroke": true,
+    "hasSimpleStenoKeys": true,
+    "hasCapitalLetter": false,
+    "hasPunctuation": false,
+    "hasStar": false,
+    "isBrief": false
+  }
+}

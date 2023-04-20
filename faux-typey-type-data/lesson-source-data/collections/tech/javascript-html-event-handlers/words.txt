@@ -1,0 +1,12 @@
+onblur
+onclick
+onerror
+onfocus
+onkeydown
+onkeypress
+onkeyup
+onmouseover
+onload
+onmouseup
+onmousedown
+onsubmit

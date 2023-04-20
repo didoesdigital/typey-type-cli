@@ -1,0 +1,12 @@
+{
+  "title": "Pronouns Continued",
+  "subtitle": "",
+  "category": "Drills",
+  "subcategory": "",
+  "path": "/drills/pronouns-continued/lesson.txt",
+  "wordList": "words.txt",
+  "ignoredCharacters": "^",
+  "vocabulary": [
+    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
+  ]
+}

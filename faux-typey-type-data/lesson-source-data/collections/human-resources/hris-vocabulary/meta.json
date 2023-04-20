@@ -1,0 +1,14 @@
+{
+  "title": "Human Resources vocabulary",
+  "subtitle": "",
+  "category": "Collections",
+  "subcategory": "Human resources (HR)",
+  "path": "/collections/human-resources/hris-vocabulary/lesson.txt",
+  "wordList": "words.txt",
+  "customMessage": "Hint: use the Human Resources dictionary",
+  "slug": "hris-vocabulary",
+  "vocabulary": [
+    "didoesdigital/human-resources.json",
+    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
+  ]
+}

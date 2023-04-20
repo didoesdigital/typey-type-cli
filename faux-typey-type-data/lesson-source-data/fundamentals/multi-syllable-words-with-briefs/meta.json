@@ -1,0 +1,15 @@
+{
+  "title": "Multi-syllable words with briefs",
+  "subtitle": "",
+  "category": "Fundamentals",
+  "subcategory": "",
+  "path": "/fundamentals/multi-syllable-words-with-briefs/lesson.txt",
+  "vocabulary": ["didoesdigital/top-10000-project-gutenberg-words.json"],
+  "rules": {
+    "isBrief": true,
+    "isRomanNumeral": false,
+    "isUppercase": false,
+    "moreThanOneSyllable": true,
+    "isSingleStroke": true
+  }
+}

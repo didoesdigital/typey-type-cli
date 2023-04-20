@@ -1,0 +1,12 @@
+# Ignore artifacts:
+build
+
+*.md
+*.html
+coverage/
+build/
+faux-typey-type-data/dictionaries
+faux-typey-type-data/didoesdigital
+faux-typey-type-data/lessons
+faux-typey-type-data/lesson-intermediate-data
+typey-type-data

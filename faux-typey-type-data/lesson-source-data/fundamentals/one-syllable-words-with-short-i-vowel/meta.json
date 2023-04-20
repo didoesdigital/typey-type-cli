@@ -1,0 +1,18 @@
+{
+  "title": "One-syllable words with short I vowel",
+  "subtitle": "",
+  "category": "Fundamentals",
+  "subcategory": "",
+  "path": "/fundamentals/one-syllable-words-with-short-i-vowel/lesson.txt",
+  "vocabulary": ["didoesdigital/top-10000-project-gutenberg-words.json"],
+  "rules": {
+    "hasOnlyShortIVowel": true,
+    "isOneSyllable": true,
+    "hasSomeConsonants": true,
+    "isSingleStroke": true,
+    "hasSimpleStenoKeys": true,
+    "hasStar": false,
+    "isBrief": false,
+    "hasDisambiguatingBrief": false
+  }
+}

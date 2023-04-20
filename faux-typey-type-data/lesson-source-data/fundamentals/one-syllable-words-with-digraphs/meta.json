@@ -1,0 +1,18 @@
+{
+  "title": "One-syllable words with digraphs",
+  "subtitle": "",
+  "category": "Fundamentals",
+  "subcategory": "",
+  "path": "/fundamentals/one-syllable-words-with-digraphs/lesson.txt",
+  "vocabulary": ["didoesdigital/top-10000-project-gutenberg-words.json"],
+  "rules": {
+    "hasDigraphs": true,
+    "hasSomeConsonants": true,
+    "hasCompoundClusters": false,
+    "hasAnyVowelKey": true,
+    "isOneSyllable": true,
+    "isSingleStroke": true,
+    "hasStar": false,
+    "isBrief": false
+  }
+}

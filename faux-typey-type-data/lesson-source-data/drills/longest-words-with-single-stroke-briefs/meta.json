@@ -1,0 +1,11 @@
+{
+  "title": "Longest Words with Single-Stroke Briefs",
+  "subtitle": "",
+  "category": "Drills",
+  "subcategory": "",
+  "path": "/drills/longest-words-with-single-stroke-briefs/lesson.txt",
+  "wordList": "words.txt",
+  "vocabulary": [
+    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
+  ]
+}

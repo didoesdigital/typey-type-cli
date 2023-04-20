@@ -1,0 +1,23 @@
+{
+"PAPBLG/STPH*FPLT": "package;",
+"EUPL/PORT": "import",
+"OEP/TK-LS/TP*/HR*/P-P": "openfl.",
+"TKPHRAEU/TP-PL": "display.",
+"KPA/SPRAOEUT/STPH*FPLT": "Sprite;",
+"KHRAS": "class",
+"KPA/PHAEUPB": "Main",
+"EBGS/TEPBDZ": "extends",
+"KPA/SPRAOEUT": "Sprite",
+"TPR-BGT": "{",
+"PHREUBG": "public",
+"TPUBGS": "function",
+"TPHU": "new",
+"PREPB/PR*EPB": "()",
+"SPER": "super",
+"PREPB/PR*EPB/STPH*FPLT": "();",
+"TRAEUS/PREPB": "trace(",
+"KW-GS/KPA*/H-L": "\"Hello",
+"KPA/WORLD/SKHRAPL/KR-GS": "World!\"",
+"PR*EPB/STPH*FPLT": ");",
+"TPR*BGT": "}"
+}

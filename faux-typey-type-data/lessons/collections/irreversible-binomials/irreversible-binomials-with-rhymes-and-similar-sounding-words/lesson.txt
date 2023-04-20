@@ -1,0 +1,70 @@
+Irreversible binomials with rhymes and similar-sounding words
+
+'break and take': PWRAEBG/SKP/TAEUBG
+'box and cox': PWOBGS/SKP/KR*/O*/KP*
+'chalk and talk': KHAUBG/SKP/TAUBG
+'charts and darts': KHARTS/SKP/TKARTS
+'chips and dip': KHEUPS/SKP/TKEUP
+'double trouble': TKUBL/TRUBL
+'even Steven': AOEPB/STAOEFPB
+'fender bender': TPEPBD/*ER/PWEPB/TKER
+'five and dime': TPAOEUF/SKP/TKAOEUPL
+'flotsam and jetsam': TPHROT/SAPL/SKP/SKWRET/SAPL
+'no fuss, no muss': TPHO/TPUS/KW-BG/TPHO/PHUS
+'handy-dandy': HAPBD/KWREU/TKAPBD/KWREU
+'harum-scarum': HAEURPL/SKAEURPL
+'helter-skelter': HELT/ER/SKELT/ER
+'higgledy-piggledy': HEULG/PEULG
+'high and dry': HAOEU/SKP/TKRAOEU
+'hire and fire': HEUR/SKP/TPAOEUR
+'hit it and quit': HEUT/T/SKP/KWEUT
+'hither and thither': H*EURT/SKP/TH*EURT
+'hocus pocus': HOEBG/SKWRUS/POEBG/SKWRUS/TP-PL
+'hoi polloi': HOEU/PHROEU
+'hoity toity': H*/O*/*EU/T*/KWR*/S-P/T*/O*/*EU/T*/KWR*
+'hot to trot': HOT/TO/TROT
+'huff and puff': HUF/SKP/PUF
+'hustle and bustle': HUFL/SKP/PWUFL
+'lap and gap': HRAP/SKP/TKPWAP
+'lean, mean, fightin' machine': HRAOEPB/KW-BG/PHAOEPB/KW-BG/TPAOEUT/*G/PH-PB
+'lick 'em and stick 'em': HREUBG/*EPL/SKP/STEUBG/*EPL
+'lout and proud': HROUT/SKP/PROUD
+'mean, green, fightin' machine': PHAOEPB/KW-BG/TKPWRAOEPB/KW-BG/TPAOEUT/*G/PH-PB
+'meet and greet': PHAOET/SKP/TKPWRAOET
+'motor voter': PHOERT/SROERT
+'my way or the highway': PHEU/WAEU/OR/-T/HAOEU/WAEU
+'namby-pamby': TPH*/A*/PH*/PW*/KWR*/H-PB/P*/A*/PH*/PW*/KWR*
+'name and shame': TPHAEUPL/SKP/SHAEUPL
+'name it and claim it': TPHAEUPL/T/SKP/KHRAEUPL/T
+'near and dear': TPHAOER/SKP/TKAER
+'never, ever': TPHEFR/KW-BG/-FR
+'nitty gritty': TPH*EUT/T*/KWREU/TKPWREUT/TEU
+'odds and sods': ODZ/SKP/SODZ
+'onwards and upwards': OPB/WARDZ/SKP/UP/WARDZ
+'orgy porgy': OR/SKWREU/S-P/P*/O*/R*/TKPW*/KWR*
+'out and about': OUT/SKP/PW
+'out and proud': OUT/SKP/PROUD
+'pell-mell': PEL/H-F/PHEL
+'pump and dump': PUFRP/SKP/TKUFRP
+'rough and tough': RUF/SKP/TUF
+'shout and clout': SHOUT/SKP/KHROUT
+'saggy baggy': SAG/TKPWEU/PWAG/KWREU
+'shake and bake': SHAEUBG/SKP/PWAEUBG
+'slowly but surely': SHROEL/PWUT/SHURL
+'smoke and joke': SPHOEBG/SKP/SKWROEBG
+'son of a gun': SOPB/-F/AEU/TKPW-PB
+'stash and dash': STARB/SKP/TKARB
+'stop and drop': STOP/SKP/TKROP
+'so far, so good': SOFR/KW-BG/SO/TKPWAOD
+'surf and turf': SRUF/SKP/T*UFR
+'time and tide': TAOEUPL/SKP/TAOEUD
+'town and gown': TOUPB/SKP/TKPWOUPB
+'use it or lose it': AOUS/T/OR/HRUZ/T
+'wake and bake': WAEUBG/SKP/PWAEUBG
+'wear and tear': WAER/SKP/TAER
+'weed and feed': WAO*ED/SKP/TPAOED
+'wham, bam, thank you, ma'am': WHAPL/KW-BG/PWAPL/KW-BG/THAPBG/U/KW-BG/PHAPL
+'willy nilly': WEUL/KWREU/TPHEUL/HREU
+'wine and dine': WAOEUPB/SKP/TKAOEUPB
+'yea or nay': KWRA*EU/OR/TPHAEU
+'the yeas and the nays': -T/KWRA*EU/-S/SKP/-T/TPHAEU/-S

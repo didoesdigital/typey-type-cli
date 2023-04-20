@@ -1,0 +1,11 @@
+{
+  "title": "The Velveteen Rabbit",
+  "subtitle": "",
+  "category": "Stories",
+  "subcategory": "Margery Williams’s books",
+  "path": "/stories/margery-williams/the-velveteen-rabbit/lesson.txt",
+  "wordList": "words.txt",
+  "vocabulary": [
+    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
+  ]
+}

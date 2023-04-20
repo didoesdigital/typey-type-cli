@@ -1,0 +1,22 @@
+Markdown
+
+'# Markdown': 1-RB/PHARBG/TKO*UPB
+'##': 2-RB
+'###': 3-RB
+'####': 4-RB
+'#####': 5RB
+'######': -6RB
+'--------------------': HRAOUL
+'====================': HRAO*UL
+'inline `code`': TPHAO*EUPBL/KH-FG/KOED/KH*FG
+'```block```': SKH-FGS/PWHROBG/SKH*FGS
+'> Blockquote': KW-T/PWHROBG/TK-LS/KWOET
+'- Bulleted': PWHR-T/PW*ULT/-D
+'+ List': PWHR*T/HR*EUS
+'[]()': PH*LG
+'![]()': PH*PBLG
+'[example](https://example.com)': PH*LG/KP-PL/STPH-G/STPH-G/HAOEPTS/KP-PL/KROPL
+'*emphasis*': PH-FPL/EFPL/SEUS/PH*FPL
+'**strong**': PH-FPLS/STROPBG/PH*FPLS
+'***strong emphasis***': PH-FPLSZ/STROPBG/EFPL/SEUS/PH*FPLSZ
+warning_message=Hint: use the relevant tech dictionary

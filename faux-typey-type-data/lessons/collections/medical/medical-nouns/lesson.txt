@@ -1,0 +1,23 @@
+Medical nouns
+
+'neurons': TPHAOURPBS
+'basal': PWA*EUFL
+'dorsal': TKOFRL
+'posterior': PROEFRT
+'parietal': PRAOEURLT
+'orbital': ORB/TAL
+'frontal': TPROPBL
+'prefrontal': PRE/TPROPBL
+'gyrus': SKWRAOEURS
+'ganglia': TKPWHRA*
+'striatum': STRAO*EUPL
+'cortex': KOR/TEBGS
+'lobe': HROEB
+'amygdala': A/PHEUG/TKHRA
+'sensory': SO*EURPBS
+'anterior': AERPBT
+'cingulate': SEUPBG/HRAT
+'supplementary': S*UPLT/AER
+'insula': EUPBS/HRA
+'hippocampus': HEUP/KAPLS
+'hippocampal': HEUP/KA*PL/A*L

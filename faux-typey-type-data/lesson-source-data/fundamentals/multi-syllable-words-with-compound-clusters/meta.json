@@ -1,0 +1,18 @@
+{
+  "title": "Multi-syllable words with compound clusters",
+  "subtitle": "",
+  "category": "Fundamentals",
+  "subcategory": "",
+  "path": "/fundamentals/multi-syllable-words-with-compound-clusters/lesson.txt",
+  "vocabulary": ["didoesdigital/top-10000-project-gutenberg-words.json"],
+  "rules": {
+    "hasCompoundClusters": true,
+    "hasSomeConsonants": true,
+    "hasInversion": false,
+    "hasDigraphs": false,
+    "hasAnyVowelKey": true,
+    "moreThanOneSyllable": true,
+    "isSingleStroke": true,
+    "isBrief": false
+  }
+}

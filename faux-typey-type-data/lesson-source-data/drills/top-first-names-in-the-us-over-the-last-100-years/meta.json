@@ -1,0 +1,11 @@
+{
+  "title": "Top first names in the US over the last 100 years",
+  "subtitle": "",
+  "category": "Drills",
+  "subcategory": "",
+  "path": "/drills/top-first-names-in-the-us-over-the-last-100-years/lesson.txt",
+  "wordList": "words.txt",
+  "vocabulary": [
+    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
+  ]
+}

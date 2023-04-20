@@ -1,0 +1,10 @@
+Two-key briefs H-*
+
+'this': TH
+'will': HR
+'he': HE
+'uh': HU
+'?': H-F
+'handgun': H-G
+'had the': H-T
+'had had': H-D

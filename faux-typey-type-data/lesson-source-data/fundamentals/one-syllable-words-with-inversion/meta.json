@@ -1,0 +1,18 @@
+{
+  "title": "One-syllable words with inversion",
+  "subtitle": "",
+  "category": "Fundamentals",
+  "subcategory": "",
+  "path": "/fundamentals/one-syllable-words-with-inversion/lesson.txt",
+  "vocabulary": ["didoesdigital/top-10000-project-gutenberg-words.json"],
+  "rules": {
+    "hasInversion": true,
+    "isOneSyllable": true,
+    "hasOnlyOneVowelKey": true,
+    "hasSomeConsonants": true,
+    "isSingleStroke": true,
+    "hasSimpleStenoKeys": true,
+    "hasStar": false,
+    "isBrief": false
+  }
+}

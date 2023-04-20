@@ -1,0 +1,24 @@
+git
+add .
+add dict.JSON
+git add
+status
+git status
+log -p
+diff
+diff --cached
+git diff
+git diff --cached
+commit -v
+git commit -v
+git commit -v --amend
+push origin master
+pull --rebase
+checkout -b hotfix
+git checkout
+git checkout -b
+reset HEAD^
+reset --hard origin/master
+merge
+git merge
+GitHub

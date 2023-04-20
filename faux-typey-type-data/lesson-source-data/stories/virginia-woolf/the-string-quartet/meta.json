@@ -1,0 +1,11 @@
+{
+  "title": "The String Quartet",
+  "subtitle": "",
+  "category": "Stories",
+  "subcategory": "Virginia Woolf",
+  "path": "/stories/virginia-woolf/the-string-quartet/lesson.txt",
+  "wordList": "words.txt",
+  "vocabulary": [
+    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
+  ]
+}

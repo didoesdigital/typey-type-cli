@@ -1,0 +1,15 @@
+{
+  "title": "Multi-syllable words with inversion",
+  "subtitle": "",
+  "category": "Fundamentals",
+  "subcategory": "",
+  "path": "/fundamentals/multi-syllable-words-with-inversion/lesson.txt",
+  "vocabulary": ["didoesdigital/top-10000-project-gutenberg-words.json"],
+  "rules": {
+    "hasInversion": true,
+    "moreThanOneSyllable": true,
+    "hasSuppressedSpaceStroke": false,
+    "hasStar": false,
+    "isBrief": false
+  }
+}

@@ -1,0 +1,112 @@
+Irreversible binomials with alliteration
+
+'bag and baggage': PWAG/SKP/PWAG/APBLG
+'baubles and beads': PWAUB/-LS/SKP/PWAOEDZ
+'beams and balance': PWAOEPLS/SKP/PWAL
+'bed and breakfast': PWED/SKP/PWR-FT
+'belt and braces': PWELT/SKP/PWRAEUS/-S
+'big and bad': PWEUG/SKP/PWAD
+'the birds and the bees': -T/PWEURDZ/SKP/-T/PWAOES
+'bish bash bosh': PW*/*EU/*RB/PWARB/PWO*RB
+'black and blue': PWHRABG/SKP/PWHRU
+'bold and beautiful': PWOLD/SKP/PWAOUFL
+'bootleggers and Baptists': PWAOT/HREG/*ER/-S/SKP/PWAPT/EUFT/-S
+'boxers or briefs': PWOBGS/*ER/-S/OR/PWRAOEFS
+'bread and butter': PWRAED/SKP/PWAOURT
+'bull and boar': PWUL/SKP/PWO*R
+'cash and carry': KARB/SKP/KAER
+'chalk and cheese': KHAUBG/SKP/KHAOES
+'cliques and clans': KHRAOEBG/-S/SKP/KHRAPB/-S
+'command and control': KPHAPBD/SKP/KROL
+'cookies and cream': KAOBG/EUS/SKP/KRAOEPL
+'deaf and dumb': TKEF/SKP/TKUPL
+'between the devil and the deep blue sea': TWAOEPB/-T/TKEFL/SKP/-T/TKAOEP/PWHRU/SAE
+'dine and dash': TKAOEUPB/SKP/TKARB
+'down and dirty': TKOUPB/SKP/TKOEURT
+'dribs and drabs': TKREUBS/APBD/TKRABS
+'drink and drive': TKREU/SKP/TKRAOEUF
+'drunk and disorderly': TKR*UPBG/SKP/TKEUS/ORD/HREU
+'Dungeons and Dragons': TK*PBD/TK*PBD
+'fast and furious': TPAFT/SKP/TPAOURS
+'feast or famine': TPAOEFT/OR/TPAPL/-PB
+'fire and faggot': TPAOEUR/SKP/TPAGT
+'fire and fury': TPAOEUR/SKP/TPAOU/REU
+'flip-flop': TPHREUP/TPHROP
+'flora and fauna': TPHROER/SKP/TPAU/TPHA
+'footloose and fancy-free': TPAOT/TK-LS/HRAOS/SKP/TPAEPBS/TPRAO*E
+'forgive and forget': TPAURG/SKP/TPORGT
+'form and function': TPORPL/SKP/TPUBGS
+'footloose and fancy free': TPAOT/TK-LS/HRAOS/SKP/TPAEPBS/TPRAOE
+'friend or foe': TPREPBD/OR/TPOE
+'fun and frolics': TPUPB/SKP/TPROL/EUBGS
+'fur and feathers': TPUR/SKP/TP*ET/ERS
+'ghosts and goblins': TKPWOEFTS/SKP/TKPWOB/HREUPBS
+'grins and giggles': TKPWREUPB/-S/SKP/TKPWEUG/-LS
+'guys and gals': TKPWAOEUS/SKP/TKPWA*LS
+'to have and to hold': TO/SR/SKP/TO/HOLD
+'hearth and home': HAERT/SKP/HOEPL
+'hem and haw': HEPL/SKP/HAU
+'hoot and holler': HAOT/SKP/HOL/*ER
+'Jew and Gentile': SKWRAOU/SKP/KPA/SKWREPB/TAOEUL
+'juking and jiving': SKWRAOUBG/-G/SKP/SKWRAOEUF/-G
+'king and country': KEUPBG/SKP/KREU
+'kit and caboodle': KEUT/SKP/KA/PWAOD/*L
+'kith and kin': KAO*EU/*T/SKP/KEUPB
+'last but not least': HRAFT/PWUT/TPHOT/HRAOEFT
+'latitude and longitude': HRAT/TAOUD/SKP/HROPBG/TAOUD
+'Lend-Lease': KPA/HREPBD/H-PB/KPA*/HRAOES
+'life and limb': HRAOEUF/SKP/HREUPL
+'live and learn': HREUF/SKP/HRERPB
+'lock and load': HROBG/SKP/HRAOD
+'love it or leave it': HRUF/T/OR/HREF/T
+'mix and match': PHEUBGS/SKP/PHAFP
+'meek and mild': PHAOEBG/SKP/PHAOEULD
+'name and number': TPHAEUPL/SKP/TPHUPL
+'part and parcel': PART/SKP/PAR/SEL
+'peas in a pod': PAOEZ/TPH/AEU/POD
+'pen and pencil': PEPB/SKP/PEPB/SEUL
+'pen and paper': PEPB/SKP/PAEUP
+'pig in a poke': PEUG/TPH/AEU/POEBG
+'pillar to post': PEUL/AR/TO/POEFT
+'pots and pans': POTS/SKP/PAPBS
+'publish or perish': PHR*EURB/OR/PER/EURB
+'rags to riches': RAG/-S/TO/REUFPS
+'ranting and raving': RAPBT/-G/SKP/RAEUFG
+'read and write': RAED/SKP/WREU
+'ready to rumble': R-D/TO/RUPL/-BL
+'rest and relaxation': REFT/SKP/RE/HRABG/SAEUGS
+'without rhyme or reason': WOUT/RAOEUPL/OR/R-PB
+'right and wrong': RAOEUT/SKP/WROPBG
+'rock and roll': ROBG/SKP/ROL
+'rough and ready': RUF/SKP/R-D
+'rules and regulations': RAOULS/SKP/RAEUGS/-S
+'safe and secure': SAEUF/SKP/SKUR
+'safe and sound': SAEUF/SKP/SOUPBD
+'shot and shell': SHOT/SKP/SHEL
+'shower and shave': SHOUR/SKP/SHAF
+'signs and symptoms': SPHEUPLS
+'slip and slide': SHREUP/SKP/SHRAOEUD
+'spick and span': SPEUBG/APBD/SPAPB
+'spit and shine': SPEUT/SKP/SHAOEUPB
+'Stars and Stripes': KPA/STARS/SKP/KPA/STRAOEUPS
+'sticks and stones': STEUBGS/SKP/STOEPBS
+'sugar and spice': SHURG/SKP/SPAOEUS
+'this or that': TH/OR/THA
+'tic-tac-toe': TEUBG/TABG/TOE
+'tit for tat': TEUT/TPOR/TAT
+'top and tail': TOP/SKP/TAEUL
+'toss and turn': TOS/SKP/TURPB
+'trick or treat': TREUBG/OR/S-P/TRAOET
+'trials and tribulations': TRAOEULS/SKP/TREUBL/AEUGS/-S
+'tried and tested': TRAOEUD/SKP/TEFTD
+'tried and true': TRAOEUD/SKP/TRAOU
+'truck and trailer': TRUBG/SKP/TRAEURL
+'wash and wear': WARB/SKP/WAER
+'watching and waiting': WAFPG/SKP/WAEUGT
+'weep and wail': WAOEP/SKP/WAEUL
+'wet and wild': WET/SKP/WAOEULD
+'whooping and hollering': WHAOP/-G/SKP/HOL/ERG
+'wild and wooly': WAOEULD/SKP/WAOL/KWREU
+'wise and wonderful': WAOEUS/SKP/WUFL
+'witches and warlocks': WEUFP/-S/SKP/WAR/HROBG/-S
+'wrack and ruin': WRABG/SKP/RAOUPB

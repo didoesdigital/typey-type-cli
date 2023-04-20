@@ -1,0 +1,26 @@
+{
+  "title": "Introduction",
+  "subtitle": "",
+  "category": "Fundamentals",
+  "subcategory": "",
+  "path": "/fundamentals/introduction/lesson.txt",
+  "vocabulary": ["didoesdigital/top-10000-project-gutenberg-words.json"],
+  "translationExclusions": ["pos", "sol", "spas", "pros"],
+  "rules": {
+    "hasOneConsonantOnEachSide": true,
+    "isOneSyllable": true,
+    "hasOnlyOneVowelKey": true,
+    "isSingleStroke": true,
+    "hasSimpleStenoKeys": true,
+    "outlineIsTranslation": true,
+    "fewerThanFiveCharacters": true,
+    "hasOneKeyPerFinger": true,
+    "hasStretchKeys": false,
+    "hasPhillyShift": false,
+    "hasInversion": false,
+    "hasStar": false,
+    "hasEfAsVeeOrEss": false,
+    "hasUnstressedVowels": false,
+    "isBrief": false
+  }
+}

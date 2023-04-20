@@ -1,0 +1,24 @@
+Two-word briefs They *
+
+'they believe': THEBL
+'they believed': THEBLD
+'they can': THEBG
+'they could': THEBGD
+'they did': TKHE
+'they do': TKHOE
+'they ever': THEFR
+'they felt': THEFLT
+'they recall': THERL
+'they recalled': THERLD
+'they recollect': THERBG
+'they recollected': THERBGD
+'they said': THEBS
+'they say': THEBZ
+'they says': THEBSZ
+'they should': THERBD
+'they understand': THEPBDZ
+'they want': THEPT
+'they wanted': THEPTD
+'they was': THEFS
+'they were': THERP
+'they would': THELD

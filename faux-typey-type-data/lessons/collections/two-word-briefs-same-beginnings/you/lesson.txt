@@ -1,0 +1,27 @@
+Two-word briefs You *
+
+'you believe': UBL
+'you believed': UBLD
+'you can': UBG
+'you could': UBGD
+'you do': TKO*U
+'you ever': UFR
+'you felt': UFLT
+'you find': UFPBD
+'you is': SU
+'you know': KWRAOUPB
+'you recalled': URLD
+'you recollect': URBG
+'you remember': URPL
+'you remembered': URPLD
+'you said': UBS
+'you say': UBZ
+'you says': UBSZ
+'you should': SHO*U
+'you think': UPBG
+'you this': THU
+'you want': UPT
+'you wanted': UPTD
+'you were': URP
+'you will': HR*U
+'you would': ULD

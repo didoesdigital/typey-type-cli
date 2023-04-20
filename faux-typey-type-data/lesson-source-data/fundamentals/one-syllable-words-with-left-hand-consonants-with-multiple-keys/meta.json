@@ -1,0 +1,19 @@
+{
+  "title": "One-syllable words with left-hand consonants with multiple keys",
+  "subtitle": "",
+  "category": "Fundamentals",
+  "subcategory": "",
+  "path": "/fundamentals/one-syllable-words-with-left-hand-consonants-with-multiple-keys/lesson.txt",
+  "vocabulary": ["didoesdigital/top-10000-project-gutenberg-words.json"],
+  "rules": {
+    "hasLhsConsonantWithMultipleKeys": true,
+    "hasRhsConsonantWithMultipleKeys": false,
+    "hasDigraphs": false,
+    "hasCompoundClusters": false,
+    "hasAnyVowelKey": true,
+    "isOneSyllable": true,
+    "hasSomeConsonants": true,
+    "isSingleStroke": true,
+    "isBrief": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "title": "One-syllable words with compound clusters",
+  "subtitle": "",
+  "category": "Fundamentals",
+  "subcategory": "",
+  "path": "/fundamentals/one-syllable-words-with-compound-clusters/lesson.txt",
+  "vocabulary": ["didoesdigital/top-10000-project-gutenberg-words.json"],
+  "rules": {
+    "hasCompoundClusters": true,
+    "hasSomeConsonants": true,
+    "hasDigraphs": false,
+    "hasAnyVowelKey": true,
+    "isOneSyllable": true,
+    "isSingleStroke": true,
+    "isBrief": false
+  }
+}

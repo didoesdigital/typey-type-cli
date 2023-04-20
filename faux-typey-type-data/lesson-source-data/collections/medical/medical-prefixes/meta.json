@@ -1,0 +1,14 @@
+{
+  "title": "Medical prefixes",
+  "subtitle": "",
+  "category": "Collections",
+  "subcategory": "Medical",
+  "path": "/collections/medical/medical-prefixes/lesson.txt",
+  "wordList": "words.txt",
+  "ignoredCharacters": "^",
+  "customMessage": "Hint: use ignore spacing setting and don’t type ^",
+  "vocabulary": ["lesson-hints/medical-prefixes-lesson.json"],
+  "presentationOptions": {
+    "replaceAffixCurlies": true
+  }
+}

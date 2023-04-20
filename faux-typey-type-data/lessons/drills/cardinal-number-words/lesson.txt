@@ -1,0 +1,40 @@
+Cardinal Number Words
+
+'one thousand': WUPB/THOUD
+'one hundred': WUPB/HUPB
+'ninety': TPHAOEUPBT
+'eighty': AEUBGT
+'seventy': SEFPBT
+'sixty': SEUBGT
+'fifty': TPAEFT
+'forty': TPOURT
+'thirty': THEURT
+'twenty': TWEPBT
+'twenty-nine': TWEPBT/TPHAOEUPB
+'twenty-eight': TWEPBT/AET
+'twenty-seven': TWEPBT/SEFPB
+'twenty-six': TWEPBT/SEUBGS
+'twenty-five': TWEPBT/TPAOEUF
+'twenty-four': TWEPBT/TPOUR
+'twenty-three': TWEPBT/THRAOE
+'twenty-two': TWEPBT/TWO
+'twenty-one': TWEPBT/WUPB
+'nineteen': TPHAOEUPB/TAOEPB
+'eighteen': AET/TAOEPB
+'seventeen': STPAOEPB
+'sixteen': STAOEPB
+'fifteen': TPEUF/TAOEPB
+'fourteen': TPRAOEPB
+'thirteen': THRAOEPB
+'twelve': TWEFL
+'eleven': HREFPB
+'ten': TEPB
+'nine': TPHAOEUPB
+'eight': AET
+'seven': SEFPB
+'six': SEUBGS
+'five': TPAOEUF
+'four': TPOUR
+'three': THRAOE
+'two': TWO
+'one': WUPB

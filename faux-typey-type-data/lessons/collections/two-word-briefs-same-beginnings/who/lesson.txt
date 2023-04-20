@@ -1,0 +1,36 @@
+Two-word briefs Who *
+
+'who believe': WHOBL
+'who believed': WHOBLD
+'who believes': WHOBLS
+'who can': WHOBG
+'who could': WHOBGD
+'who else': WHOELS
+'who feel': WHOFL
+'who feels': WHOFLS
+'who felt': WHOFLT
+'who had': HOD
+'who happened': WHOPD
+'who happens': WHOPS
+'who is': SWHO
+'who recollect': WHORBG
+'who recollected': WHORBGD
+'who remember': WHORPL
+'who remembered': WHORPLD
+'who remembers': WHORPLS
+'who said': WHOBS
+'who say': WHOBZ
+'who says': WHOBSZ
+'who shall': WHORB
+'who she': SWHOE
+'who should': WHORBD
+'who the': WHOT
+'who think': WHOPBG
+'who thinks': WHOPBGS
+'who understand': WHOPBDZ
+'who want': WHOPT
+'who wanted': WHOPTD
+'who wants': WHOPTS
+'who was': HOFS
+'who were': HORP
+'who would': WHOLD

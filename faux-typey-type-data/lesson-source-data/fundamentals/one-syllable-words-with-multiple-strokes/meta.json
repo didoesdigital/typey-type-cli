@@ -1,0 +1,18 @@
+{
+  "title": "One-syllable words with multiple strokes",
+  "subtitle": "",
+  "category": "Fundamentals",
+  "subcategory": "",
+  "path": "/fundamentals/one-syllable-words-with-multiple-strokes/lesson.txt",
+  "vocabulary": ["didoesdigital/top-10000-project-gutenberg-words.json"],
+  "rules": {
+    "isMultiStroke": true,
+    "isOneSyllable": true,
+    "moreThanTwoCharacters": true,
+    "hasNumbers": false,
+    "hasCapitalLetter": false,
+    "hasPunctuation": false,
+    "hasForcedWordEnding": false,
+    "hasStar": false
+  }
+}

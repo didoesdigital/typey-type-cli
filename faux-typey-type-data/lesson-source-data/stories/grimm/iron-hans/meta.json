@@ -1,0 +1,11 @@
+{
+  "title": "Iron Hans",
+  "subtitle": "",
+  "category": "Stories",
+  "subcategory": "Grimms’ Fairy Tales",
+  "path": "/stories/grimm/iron-hans/lesson.txt",
+  "wordList": "words.txt",
+  "vocabulary": [
+    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
+  ]
+}

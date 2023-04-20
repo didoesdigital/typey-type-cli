@@ -1,0 +1,11 @@
+{
+  "title": "The Old Man and His Grandson",
+  "subtitle": "",
+  "category": "Stories",
+  "subcategory": "Grimms’ Fairy Tales",
+  "path": "/stories/grimm/the-old-man-and-his-grandson/lesson.txt",
+  "wordList": "words.txt",
+  "vocabulary": [
+    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
+  ]
+}

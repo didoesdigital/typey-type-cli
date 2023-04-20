@@ -1,0 +1,265 @@
+{
+  "introduction": {
+    "hasOneConsonantOnEachSide": true,
+    "isOneSyllable": true,
+    "hasOnlyOneVowelKey": true,
+    "isSingleStroke": true,
+    "hasSimpleStenoKeys": true,
+    "outlineIsTranslation": true,
+    "fewerThanFiveCharacters": true,
+    "hasOneKeyPerFinger": true,
+    "hasStretchKeys": false,
+    "hasPhillyShift": false,
+    "hasInversion": false,
+    "hasStar": false,
+    "hasEfAsVeeOrEss": false,
+    "hasUnstressedVowels": false,
+    "isBrief": false
+  },
+  "one-syllable-words-with-simple-keys": {
+    "hasOneConsonantOnEachSide": true,
+    "isOneSyllable": true,
+    "hasOnlyOneVowelKey": true,
+    "isSingleStroke": true,
+    "hasSimpleStenoKeys": true,
+    "hasInversion": false,
+    "hasStar": false,
+    "hasEfAsVeeOrEss": false,
+    "hasUnstressedVowels": false,
+    "isBrief": false
+  },
+  "one-syllable-words-with-more-consonants": {
+    "hasSomeConsonants": true,
+    "isOneSyllable": true,
+    "hasOnlyOneVowelKey": true,
+    "isSingleStroke": true,
+    "hasSimpleStenoKeys": true,
+    "hasInversion": false,
+    "hasStar": false,
+    "hasEfAsVeeOrEss": false,
+    "hasUnstressedVowels": false,
+    "isBrief": false
+  },
+  "one-syllable-words-with-f-as-v-or-s": {
+    "hasEfAsVeeOrEss": true,
+    "isOneSyllable": true,
+    "hasOnlyOneVowelKey": true,
+    "hasSomeConsonants": true,
+    "isSingleStroke": true,
+    "hasSimpleStenoKeys": true,
+    "hasInversion": false,
+    "hasStar": false,
+    "hasUnstressedVowels": false,
+    "isBrief": false
+  },
+  "one-syllable-words-with-unstressed-vowels": {
+    "hasUnstressedVowels": true,
+    "isOneSyllable": true,
+    "hasOnlyOneVowelKey": true,
+    "hasSomeConsonants": true,
+    "isSingleStroke": true,
+    "hasSimpleStenoKeys": true,
+    "hasInversion": false,
+    "hasStar": false,
+    "isBrief": false
+  },
+  "one-syllable-words-with-inversion": {
+    "hasInversion": true,
+    "isOneSyllable": true,
+    "hasOnlyOneVowelKey": true,
+    "hasSomeConsonants": true,
+    "isSingleStroke": true,
+    "hasSimpleStenoKeys": true,
+    "hasStar": false,
+    "isBrief": false
+  },
+  "one-syllable-words-with-short-i-vowel": {
+    "hasOnlyShortIVowel": true,
+    "isOneSyllable": true,
+    "hasSomeConsonants": true,
+    "isSingleStroke": true,
+    "hasSimpleStenoKeys": true,
+    "hasStar": false,
+    "isBrief": false,
+    "hasDisambiguatingBrief": false
+  },
+  "one-syllable-words-with-short-vowels": {
+    "hasAnyShortVowel": true,
+    "isOneSyllable": true,
+    "hasSomeConsonants": true,
+    "isSingleStroke": true,
+    "hasSimpleStenoKeys": true,
+    "hasStar": false,
+    "isBrief": false
+  },
+  "one-syllable-words-with-long-vowels": {
+    "hasAnyLongVowel": true,
+    "isOneSyllable": true,
+    "hasOneConsonantOnEachSide": true,
+    "hasSomeConsonants": true,
+    "isSingleStroke": true,
+    "hasSimpleStenoKeys": true,
+    "hasCapitalLetter": false,
+    "hasPunctuation": false,
+    "hasStar": false,
+    "isBrief": false
+  },
+  "one-syllable-words-with-diphthongs": {
+    "hasDiphthong": true,
+    "isOneSyllable": true,
+    "isSingleStroke": true,
+    "hasSimpleStenoKeys": true,
+    "hasStar": false,
+    "isBrief": false
+  },
+  "one-syllable-words-with-vowel-disambiguators": {
+    "hasVowelDisambiguator": true,
+    "isOneSyllable": true,
+    "isSingleStroke": true,
+    "hasSimpleStenoKeys": true,
+    "hasStar": false,
+    "isBrief": false
+  },
+  "one-syllable-words-with-left-hand-consonants-with-multiple-keys": {
+    "hasLhsConsonantWithMultipleKeys": true,
+    "hasRhsConsonantWithMultipleKeys": false,
+    "hasDigraphs": false,
+    "hasCompoundClusters": false,
+    "hasAnyVowelKey": true,
+    "isOneSyllable": true,
+    "hasSomeConsonants": true,
+    "isSingleStroke": true,
+    "isBrief": false
+  },
+  "one-syllable-words-with-right-hand-consonants-with-multiple-keys": {
+    "hasRhsConsonantWithMultipleKeys": true,
+    "hasLhsConsonantWithMultipleKeys": false,
+    "hasDigraphs": false,
+    "hasCompoundClusters": false,
+    "hasAnyVowelKey": true,
+    "isOneSyllable": true,
+    "hasSomeConsonants": true,
+    "isSingleStroke": true,
+    "isBrief": false
+  },
+  "one-syllable-words-with-digraphs": {
+    "hasDigraphs": true,
+    "hasSomeConsonants": true,
+    "hasCompoundClusters": false,
+    "hasAnyVowelKey": true,
+    "isOneSyllable": true,
+    "isSingleStroke": true,
+    "hasStar": false,
+    "isBrief": false
+  },
+  "one-syllable-words-with-compound-clusters": {
+    "hasCompoundClusters": true,
+    "hasSomeConsonants": true,
+    "hasDigraphs": false,
+    "hasAnyVowelKey": true,
+    "isOneSyllable": true,
+    "isSingleStroke": true,
+    "isBrief": false
+  },
+  "multi-syllable-words-with-inversion": {
+    "hasInversion": true,
+    "moreThanOneSyllable": true,
+    "hasSuppressedSpaceStroke": false,
+    "hasStar": false,
+    "isBrief": false
+  },
+  "multi-syllable-words-with-compound-clusters": {
+    "hasCompoundClusters": true,
+    "hasSomeConsonants": true,
+    "hasInversion": false,
+    "hasDigraphs": false,
+    "hasAnyVowelKey": true,
+    "moreThanOneSyllable": true,
+    "isSingleStroke": true,
+    "isBrief": false
+  },
+  "multi-syllable-words-with-briefs": {
+    "isBrief": true,
+    "translationExclusions": ["III"],
+    "moreThanOneSyllable": true,
+    "isSingleStroke": true
+  },
+  "steno-briefs-for-a-qwerty-keyboard": {
+    "non_nkro_keyboards": true
+  },
+  "one-syllable-words-with-multiple-strokes": {
+    "isMultiStroke": true,
+    "isOneSyllable": true,
+    "moreThanTwoCharacters": true,
+    "hasNumbers": false,
+    "hasCapitalLetter": false,
+    "hasPunctuation": false,
+    "hasForcedWordEnding": false,
+    "hasStar": false
+  },
+  "multi-syllable-words-with-multiple-strokes": {
+    "isMultiStroke": true,
+    "moreThanOneSyllable": true,
+    "hasForcedWordEnding": false,
+    "hasStar": false
+  },
+  "multi-syllable-words-with-suffixes": {
+    "endsWithSuffix": true,
+    "moreThanOneSyllable": true,
+    "hasStar": false
+  },
+  "multi-syllable-words-with-prefixes": {
+    "startsWithPrefix": true,
+    "moreThanOneSyllable": true,
+    "hasStar": false
+  },
+  "fingerspelling": {
+    "isFingerspelled": true,
+    "hasDictionaryFormatting": false
+  },
+  "numbers": {
+    "hasNumbers": true,
+    "hasShortTranslations": true,
+    "hasDictionaryFormatting": false
+  },
+  "punctuation": {
+    "hasPunctuation": true,
+    "hasShortTranslations": true,
+    "hasDictionaryFormatting": false
+  },
+  "longest-words-with-single-stroke-briefs": {
+    "hasLongWords": true,
+    "isSingleStroke": true,
+    "hasCapitalLetter": false,
+    "hasPunctuation": false,
+    "hasCoding": false,
+    "hasMedical": false,
+    "hasDictionaryFormatting": false
+  },
+  "longest-medical-words-with-single-stroke-briefs": {
+    "hasLongWords": true,
+    "isSingleStroke": true,
+    "hasMedical": true,
+    "hasCapitalLetter": false,
+    "hasPunctuation": false,
+    "hasCoding": false,
+    "hasDictionaryFormatting": false
+  },
+  "long-phrases": {
+    "hasLongTranslations": true,
+    "hasDictionaryFormatting": false
+  },
+  "apostrophes": {
+    "hasContractionsPluralsOrPossessives": true,
+    "hasDictionaryFormatting": false
+  },
+  "multi-syllable-words-with-doubled-consonant-letters": {
+    "moreThanOneSyllable": true,
+    "hasDoubleConsonants": true,
+    "isFingerspelled": false,
+    "hasPunctuation": false,
+    "isUppercase": false,
+    "hasForcedWordEnding": false,
+    "hasDictionaryFormatting": false
+  }
+}

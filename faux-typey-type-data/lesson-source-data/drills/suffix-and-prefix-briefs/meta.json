@@ -1,0 +1,16 @@
+{
+  "title": "Suffix and prefix briefs",
+  "subtitle": "",
+  "category": "Drills",
+  "subcategory": "",
+  "path": "/drills/suffix-and-prefix-briefs/lesson.txt",
+  "customMessage": "Hint: use ignore spacing setting and don’t type ^",
+  "ignoredCharacters": "^",
+  "wordList": "words.txt",
+  "vocabulary": [
+    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
+  ],
+  "presentationOptions": {
+    "replaceAffixCurlies": true
+  }
+}

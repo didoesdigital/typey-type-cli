@@ -1,0 +1,11 @@
+{
+  "title": "Blue Beard",
+  "subtitle": "",
+  "category": "Stories",
+  "subcategory": "Charles Perrault’s Fairy Tales",
+  "path": "/stories/charles-perrault/blue-beard/lesson.txt",
+  "wordList": "words.txt",
+  "vocabulary": [
+    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
+  ]
+}

@@ -1,0 +1,51 @@
+Email Salutations and Complimentary Closings
+
+'Hi': KPA/HEU
+'Hey': KPA/HAEU
+'Hello': KPA/H-L
+'Dear': KPA/TKAER
+'Good morning': KPA/TKPWORPBG
+'Good afternoon': KPA/TKPWAEFPB
+'Good day': KPA/TKPWAEUD
+'Greetings': KPA/TKPWRAOEGTS
+'thanks': THAPBGS
+'again': TKPWEPB
+'thank you': THAUG
+'take': TAEUBG
+'care': KAEUR
+'looking': HRAOG
+'forward': TPAORD
+'speak': SPAOEBG
+'with': W
+'you': U
+'soon': SAOPB
+'talk': TAUBG
+'soon': SAOPB
+'Cheers,': KPA/KHAOERS/KW-BG
+'Best,': KPA/PWEFT/KW-BG
+'All': KPA/AUL
+'the': -T
+'best,': PWEFT/KW-BG
+'Kind': KPA/KEUPBD
+'regards,': RARDZ/KW-BG
+'Warmest': KPA/WARPL/EFT
+'regards,': RARDZ/KW-BG
+'Sincerely,': KPA/SEUPBS/HREU/KW-BG
+'Respectfully,': KPA/R-PT/TPHREU/KW-BG
+'With': KPA/W
+'anticipation,': SPAEUGS/KW-BG
+'Kind': KPA/KEUPBD
+'thoughts,': THAUTS/KW-BG
+'Write': KPA/WREU
+'soon,': SAOPB/KW-BG
+'With': KPA/W
+'many': PHAEPB
+'thanks,': THAPBGS/KW-BG
+'Best': KPA/PWEFT
+'wishes,': WEURBS/KW-BG
+'Stay tuned,': KPA/STAOUPBD/KW-BG
+'Sent': KPA/SEPBT
+'from': TPR
+'my': PHEU
+'steno': STOEUPB
+'machine': PH-PB

@@ -1,0 +1,13 @@
+{
+  "title": "Ruby",
+  "subtitle": "",
+  "category": "Collections",
+  "subcategory": "Tech",
+  "path": "/collections/tech/ruby/lesson.txt",
+  "wordList": "words.txt",
+  "customMessage": "Hint: use the relevant tech dictionary",
+  "vocabulary": [
+    "didoesdigital/ruby.json",
+    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "title": "JavaScript objects, properties, and methods",
+  "subtitle": "",
+  "category": "Collections",
+  "subcategory": "Tech",
+  "path": "/collections/tech/javascript-objects-properties-methods/lesson.txt",
+  "wordList": "words.txt",
+  "customMessage": "Hint: use the relevant tech dictionary",
+  "slug": "javascript-objects-properties-methods",
+  "vocabulary": [
+    "didoesdigital/javascript.json",
+    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
+  ]
+}

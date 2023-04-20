@@ -1,0 +1,13 @@
+{
+  "title": "JavaScript DOM events",
+  "subtitle": "",
+  "category": "Collections",
+  "subcategory": "Tech",
+  "path": "/collections/tech/javascript-dom-events/lesson.txt",
+  "wordList": "words.txt",
+  "customMessage": "Hint: use the relevant tech dictionary",
+  "vocabulary": [
+    "didoesdigital/javascript.json",
+    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
+  ]
+}

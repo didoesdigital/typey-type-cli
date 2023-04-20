@@ -1,0 +1,24 @@
+Steno party tricks
+
+'principal': PREUPBS/PAL
+'paralysis': PRAL/SEUS
+'identify': AOEUD/TPAOEU
+'separate': SEP/RAT
+'vertical': SRERT/K-L
+'silent': SAOEU/HREPBT
+'efficiency': TPEURB/SEU
+'initiative': TPHEURB/TEUF
+'visual': SREUZ/WAL
+'cluster': KHRUS/TER
+'as well as': SW-LS
+'acute decompensated heart failure': TKH*F
+'spell your name, please': SPURPBLS
+'spell your full name, please': SPUFRPBLS
+'spell your first name, please': SP*UFRPBLS
+'spell your last name, please': SP*URPBLS
+'randomized, controlled trials': TKRO*EULS
+'head, eyes, ears, nose, and throat': HAO*EPBT
+'ladies and gentlemen of the jury': HRAEURPBLG
+'state your full legal name for the record': STUFRPBLD
+'antidisestablishmentarianism': SHRA*EURPL
+'supercalifragilisticexpialidocious': STPRAPBLG

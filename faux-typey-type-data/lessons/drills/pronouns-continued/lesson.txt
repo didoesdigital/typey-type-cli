@@ -1,0 +1,63 @@
+Pronouns Continued
+
+'a': AEU
+'everyone': EFRPB
+'anyone': TPHEUPB
+'anybody': TPHEUB
+'anybody's': TPHEUB/AES
+'anyone else': TPHEUPBLS
+'anything': TPHEUG
+'anything else': TPHEUG/ELS
+'nobody': TPHOEB
+'nobody's': TPHOEB/AES
+'some': SOPL
+'some body': SOPL/PWO*ED
+'somebody': S-B
+'someone': SPH-PB
+'something': S-G
+'something's': S-G/AES
+'certain': SERPB
+'co': KR*/O*
+'company': K-P
+'each': AOEFP
+'each other': AOEFP/OER
+'else': ELS
+'every': EF
+'everybody': EFRB
+'everyone else': EFRPB/ELS
+'everything': EFRG
+'human': HAOUPL
+'human being': HAOUB
+'individual': SREUD
+'people': PAOEPL
+'person': PERPB
+'any': TPHEU
+'all': AUL
+'enough': TPHUF
+'a few': AEU/TPU
+'another': TPHOER
+'both': PWO*T
+'either': AOERT
+'neither': TPHAOERT
+'few': TPAOU
+'many': PHAEPB
+'most': PHOFT
+'naught': TPHAUT
+'none': TPHOPB
+'nothing': TPHOG
+'per': PER
+'pers': PER/-S
+'plenty': PHREPBT
+'same': SAEUPL
+'several': SEFRL
+'so': SO
+'such': SUFP
+'thee': THAOE
+'thine': THAOEUPB
+'thou': THO*U
+'thy': THAO*EU
+'thyself': THAOEU/SEFL
+'whatsoever': WHA/SOFR
+'whosoever': WHO/SOFR
+'whomsoever': WHOPL/SOFR
+ignore_characters='^'

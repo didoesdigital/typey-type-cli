@@ -1,0 +1,17 @@
+{
+  "title": "One-syllable words with short vowels",
+  "subtitle": "",
+  "category": "Fundamentals",
+  "subcategory": "",
+  "path": "/fundamentals/one-syllable-words-with-short-vowels/lesson.txt",
+  "vocabulary": ["didoesdigital/top-10000-project-gutenberg-words.json"],
+  "rules": {
+    "hasAnyShortVowel": true,
+    "isOneSyllable": true,
+    "hasSomeConsonants": true,
+    "isSingleStroke": true,
+    "hasSimpleStenoKeys": true,
+    "hasStar": false,
+    "isBrief": false
+  }
+}

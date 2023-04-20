@@ -1,0 +1,1580 @@
+{
+  "discoverCourse": [
+    {
+      "path": "/lessons/fundamentals/introduction/lesson.txt",
+      "lessonTitle": "Introduction",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-simple-keys/lesson.txt",
+      "lessonTitle": "One-syllable words with simple keys",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-more-consonants/lesson.txt",
+      "lessonTitle": "One-syllable words with more consonants",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-f-as-v-or-s/lesson.txt",
+      "lessonTitle": "One-syllable words with F as V or S",
+      "target": 11
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-unstressed-vowels/lesson.txt",
+      "lessonTitle": "One-syllable words with unstressed vowels",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-inversion/lesson.txt",
+      "lessonTitle": "One-syllable words with inversion",
+      "target": 7
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-short-i-vowel/lesson.txt",
+      "lessonTitle": "One-syllable words with short I vowel",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-short-vowels/lesson.txt",
+      "lessonTitle": "One-syllable words with short vowels",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-long-vowels/lesson.txt",
+      "lessonTitle": "One-syllable words with long vowels",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-diphthongs/lesson.txt",
+      "lessonTitle": "One-syllable words with diphthongs",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-vowel-disambiguators/lesson.txt",
+      "lessonTitle": "One-syllable words with vowel disambiguators",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-left-hand-consonants-with-multiple-keys/lesson.txt",
+      "lessonTitle": "One-syllable words with left-hand consonants with multiple keys",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-right-hand-consonants-with-multiple-keys/lesson.txt",
+      "lessonTitle": "One-syllable words with right-hand consonants with multiple keys",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-digraphs/lesson.txt",
+      "lessonTitle": "One-syllable words with digraphs",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-compound-clusters/lesson.txt",
+      "lessonTitle": "One-syllable words with compound clusters",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-multiple-strokes/lesson.txt",
+      "lessonTitle": "One-syllable words with multiple strokes",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/fingerspelling/lesson.txt",
+      "lessonTitle": "Fingerspelling",
+      "target": 26
+    },
+    {
+      "path": "/lessons/fundamentals/punctuation/lesson.txt",
+      "lessonTitle": "Punctuation",
+      "target": 27
+    },
+    {
+      "path": "/lessons/fundamentals/numbers/lesson.txt",
+      "lessonTitle": "Numbers",
+      "target": 10
+    },
+    {
+      "path": "/lessons/fundamentals/roman-numerals/lesson.txt",
+      "lessonTitle": "Roman numerals",
+      "target": 12
+    },
+    {
+      "path": "/lessons/drills/top-100-words/lesson.txt",
+      "lessonTitle": "Top 100 words",
+      "target": 100
+    },
+    {
+      "path": "/lessons/drills/top-200-words-spoken-on-tv/lesson.txt",
+      "lessonTitle": "Top 200 words spoken on TV",
+      "target": 100
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-prefixes/lesson.txt",
+      "lessonTitle": "Multi-syllable words with prefixes",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-suffixes/lesson.txt",
+      "lessonTitle": "Multi-syllable words with suffixes",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-multiple-strokes/lesson.txt",
+      "lessonTitle": "Multi-syllable words with multiple strokes",
+      "target": 15
+    },
+    {
+      "path": "/lessons/drills/pronouns/lesson.txt",
+      "lessonTitle": "Pronouns",
+      "target": 81
+    },
+    {
+      "path": "/lessons/drills/pronouns-continued/lesson.txt",
+      "lessonTitle": "Pronouns continued",
+      "target": 60
+    },
+    {
+      "path": "/lessons/drills/pronouns-contractions/lesson.txt",
+      "lessonTitle": "Pronouns and Contractions",
+      "target": 69
+    },
+    {
+      "path": "/lessons/drills/titles/lesson.txt",
+      "lessonTitle": "Titles",
+      "target": 21
+    },
+    {
+      "path": "/lessons/drills/email-salutations-and-complimentary-closings/lesson.txt",
+      "lessonTitle": "Email Salutations and Complimentary Closings",
+      "target": 49
+    },
+    {
+      "path": "/lessons/drills/apostrophes/lesson.txt",
+      "lessonTitle": "Apostrophes",
+      "target": 29
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-compound-clusters/lesson.txt",
+      "lessonTitle": "Multi-syllable words with compound clusters",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-inversion/lesson.txt",
+      "lessonTitle": "Multi-syllable words with inversion",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-briefs/lesson.txt",
+      "lessonTitle": "Multi-syllable words with briefs",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-doubled-consonant-letters/lesson.txt",
+      "lessonTitle": "Multi-syllable words with doubled consonant letters",
+      "target": 15
+    },
+    {
+      "path": "/lessons/drills/common-words/lesson.txt",
+      "lessonTitle": "Common words",
+      "target": 100
+    },
+    {
+      "path": "/lessons/fundamentals/numbers/lesson.txt",
+      "lessonTitle": "Numbers",
+      "target": 100
+    },
+    {
+      "path": "/lessons/drills/ordinal-number-words/lesson.txt",
+      "lessonTitle": "Cardinal Number Words",
+      "target": 38
+    },
+    {
+      "path": "/lessons/drills/ordinal-number-words/lesson.txt",
+      "lessonTitle": "Ordinal Number Words",
+      "target": 38
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-prefixes/lesson.txt",
+      "lessonTitle": "Multi-syllable words with prefixes",
+      "target": 50
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-suffixes/lesson.txt",
+      "lessonTitle": "Multi-syllable words with suffixes",
+      "target": 50
+    },
+    {
+      "path": "/lessons/drills/calendar/lesson.txt",
+      "lessonTitle": "Calendar",
+      "target": 12
+    },
+    {
+      "path": "/lessons/drills/superlatives/lesson.txt",
+      "lessonTitle": "Superlatives",
+      "target": 79
+    },
+    {
+      "path": "/lessons/drills/single-stroke-briefs/lesson.txt",
+      "lessonTitle": "Single-Stroke Briefs",
+      "target": 100
+    },
+    {
+      "path": "/lessons/drills/time/lesson.txt",
+      "lessonTitle": "Time",
+      "target": 62
+    },
+    {
+      "path": "/lessons/drills/longest-words/lesson.txt",
+      "lessonTitle": "Longest words",
+      "target": 10
+    },
+    {
+      "path": "/lessons/drills/longest-words-with-single-stroke-briefs/lesson.txt",
+      "lessonTitle": "Longest Words with Single-Stroke Briefs",
+      "target": 10
+    },
+    {
+      "path": "/lessons/drills/top-200-words-spoken-on-tv/lesson.txt",
+      "lessonTitle": "Top 200 words spoken on TV",
+      "target": 200
+    },
+    {
+      "path": "/lessons/drills/top-1000-words/lesson.txt",
+      "lessonTitle": "Top 1000 words",
+      "target": 300
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-prefixes/lesson.txt",
+      "lessonTitle": "Multi-syllable words with prefixes",
+      "target": 100
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-suffixes/lesson.txt",
+      "lessonTitle": "Multi-syllable words with suffixes",
+      "target": 100
+    },
+    {
+      "path": "/lessons/drills/homophones/lesson.txt",
+      "lessonTitle": "Homophones",
+      "target": 100
+    },
+    {
+      "path": "/lessons/drills/emotions/lesson.txt",
+      "lessonTitle": "Emotions",
+      "target": 104
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-multiple-strokes/lesson.txt",
+      "lessonTitle": "One-syllable words with multiple strokes",
+      "target": 50
+    },
+    {
+      "path": "/lessons/drills/longest-words-with-single-stroke-briefs/lesson.txt",
+      "lessonTitle": "Longest Words with Single-Stroke Briefs",
+      "target": 50
+    },
+    {
+      "path": "/lessons/drills/top-1000-words/lesson.txt",
+      "lessonTitle": "Top 1000 words",
+      "target": 1000
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-prefixes/lesson.txt",
+      "lessonTitle": "Multi-syllable words with prefixes",
+      "target": 150
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-suffixes/lesson.txt",
+      "lessonTitle": "Multi-syllable words with suffixes",
+      "target": 150
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-multiple-strokes/lesson.txt",
+      "lessonTitle": "One-syllable words with multiple strokes",
+      "target": 70
+    },
+    {
+      "path": "/lessons/drills/longest-words-with-single-stroke-briefs/lesson.txt",
+      "lessonTitle": "Longest Words with Single-Stroke Briefs",
+      "target": 60
+    },
+    {
+      "path": "/lessons/drills/top-10000-project-gutenberg-words/lesson.txt",
+      "lessonTitle": "Top 10000 Project Gutenberg words",
+      "target": 2000
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-prefixes/lesson.txt",
+      "lessonTitle": "Multi-syllable words with prefixes",
+      "target": 200
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-suffixes/lesson.txt",
+      "lessonTitle": "Multi-syllable words with suffixes",
+      "target": 200
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-multiple-strokes/lesson.txt",
+      "lessonTitle": "One-syllable words with multiple strokes",
+      "target": 90
+    },
+    {
+      "path": "/lessons/drills/longest-words-with-single-stroke-briefs/lesson.txt",
+      "lessonTitle": "Longest Words with Single-Stroke Briefs",
+      "target": 70
+    },
+    {
+      "path": "/lessons/drills/top-10000-project-gutenberg-words/lesson.txt",
+      "lessonTitle": "Top 10000 Project Gutenberg words",
+      "target": 3000
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-prefixes/lesson.txt",
+      "lessonTitle": "Multi-syllable words with prefixes",
+      "target": 250
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-suffixes/lesson.txt",
+      "lessonTitle": "Multi-syllable words with suffixes",
+      "target": 250
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-multiple-strokes/lesson.txt",
+      "lessonTitle": "One-syllable words with multiple strokes",
+      "target": 100
+    },
+    {
+      "path": "/lessons/drills/longest-words-with-single-stroke-briefs/lesson.txt",
+      "lessonTitle": "Longest Words with Single-Stroke Briefs",
+      "target": 80
+    },
+    {
+      "path": "/lessons/drills/top-10000-project-gutenberg-words/lesson.txt",
+      "lessonTitle": "Top 10000 Project Gutenberg words",
+      "target": 4000
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-prefixes/lesson.txt",
+      "lessonTitle": "Multi-syllable words with prefixes",
+      "target": 300
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-suffixes/lesson.txt",
+      "lessonTitle": "Multi-syllable words with suffixes",
+      "target": 300
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-inversion/lesson.txt",
+      "lessonTitle": "Multi-syllable words with inversion",
+      "target": 100
+    },
+    {
+      "path": "/lessons/drills/longest-words-with-single-stroke-briefs/lesson.txt",
+      "lessonTitle": "Longest Words with Single-Stroke Briefs",
+      "target": 90
+    },
+    {
+      "path": "/lessons/drills/top-10000-project-gutenberg-words/lesson.txt",
+      "lessonTitle": "Top 10000 Project Gutenberg words",
+      "target": 5000
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-prefixes/lesson.txt",
+      "lessonTitle": "Multi-syllable words with prefixes",
+      "target": 350
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-suffixes/lesson.txt",
+      "lessonTitle": "Multi-syllable words with suffixes",
+      "target": 350
+    },
+    {
+      "path": "/lessons/drills/longest-words-with-single-stroke-briefs/lesson.txt",
+      "lessonTitle": "Longest Words with Single-Stroke Briefs",
+      "target": 100
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-prefixes/lesson.txt",
+      "lessonTitle": "Multi-syllable words with prefixes",
+      "target": 400
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-suffixes/lesson.txt",
+      "lessonTitle": "Multi-syllable words with suffixes",
+      "target": 400
+    },
+    {
+      "path": "/lessons/drills/top-10000-project-gutenberg-words/lesson.txt",
+      "lessonTitle": "Top 10000 Project Gutenberg words",
+      "target": 6000
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-prefixes/lesson.txt",
+      "lessonTitle": "Multi-syllable words with prefixes",
+      "target": 500
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-suffixes/lesson.txt",
+      "lessonTitle": "Multi-syllable words with suffixes",
+      "target": 500
+    },
+    {
+      "path": "/lessons/drills/top-10000-project-gutenberg-words/lesson.txt",
+      "lessonTitle": "Top 10000 Project Gutenberg words",
+      "target": 7000
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-prefixes/lesson.txt",
+      "lessonTitle": "Multi-syllable words with prefixes",
+      "target": 600
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-suffixes/lesson.txt",
+      "lessonTitle": "Multi-syllable words with suffixes",
+      "target": 600
+    },
+    {
+      "path": "/lessons/drills/top-10000-project-gutenberg-words/lesson.txt",
+      "lessonTitle": "Top 10000 Project Gutenberg words",
+      "target": 8000
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-prefixes/lesson.txt",
+      "lessonTitle": "Multi-syllable words with prefixes",
+      "target": 700
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-suffixes/lesson.txt",
+      "lessonTitle": "Multi-syllable words with suffixes",
+      "target": 700
+    },
+    {
+      "path": "/lessons/drills/top-10000-project-gutenberg-words/lesson.txt",
+      "lessonTitle": "Top 10000 Project Gutenberg words",
+      "target": 9000
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-prefixes/lesson.txt",
+      "lessonTitle": "Multi-syllable words with prefixes",
+      "target": 800
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-suffixes/lesson.txt",
+      "lessonTitle": "Multi-syllable words with suffixes",
+      "target": 800
+    },
+    {
+      "path": "/lessons/drills/top-10000-project-gutenberg-words/lesson.txt",
+      "lessonTitle": "Top 10000 Project Gutenberg words",
+      "target": 10000
+    },
+    {
+      "path": "/lessons/drills/single-stroke-briefs/lesson.txt",
+      "lessonTitle": "Single-Stroke Briefs",
+      "target": 100
+    },
+    {
+      "path": "/lessons/collections/irreversible-binomials/irreversible-binomials-with-opposites-and-antonyms/lesson.txt",
+      "lessonTitle": "Irreversible binomials with opposites and antonyms",
+      "target": 99
+    },
+    {
+      "path": "/lessons/drills/single-stroke-briefs/lesson.txt",
+      "lessonTitle": "Single-Stroke Briefs",
+      "target": 200
+    },
+    {
+      "path": "/lessons/collections/irreversible-binomials/irreversible-binomials-with-related-words-and-synonyms/lesson.txt",
+      "lessonTitle": "Irreversible binomials with related words and synonyms",
+      "target": 54
+    },
+    {
+      "path": "/lessons/drills/single-stroke-briefs/lesson.txt",
+      "lessonTitle": "Single-Stroke Briefs",
+      "target": 300
+    },
+    {
+      "path": "/lessons/collections/irreversible-binomials/irreversible-binomials-with-alliteration/lesson.txt",
+      "lessonTitle": "Irreversible binomials with alliteration",
+      "target": 110
+    },
+    {
+      "path": "/lessons/drills/single-stroke-briefs/lesson.txt",
+      "lessonTitle": "Single-Stroke Briefs",
+      "target": 5000
+    },
+    {
+      "path": "/lessons/collections/irreversible-binomials/irreversible-binomials-with-rhymes-and-similar-sounding-words/lesson.txt",
+      "lessonTitle": "Irreversible binomials with rhymes and similar-sounding words",
+      "target": 68
+    },
+    {
+      "path": "/lessons/drills/single-stroke-briefs/lesson.txt",
+      "lessonTitle": "Single-Stroke Briefs",
+      "target": 5000
+    }
+  ]
+  , "revisionCourse": [
+    {
+      "path": "/lessons/drills/top-100-words/lesson.txt",
+      "lessonTitle": "Top 100 words",
+      "target": 100
+    },
+    {
+      "path": "/lessons/drills/top-200-words-spoken-on-tv/lesson.txt",
+      "lessonTitle": "Top 200 words spoken on TV",
+      "target": 100
+    },
+    {
+      "path": "/lessons/drills/common-words/lesson.txt",
+      "lessonTitle": "Common words",
+      "target": 100
+    },
+    {
+      "path": "/lessons/drills/top-1000-words/lesson.txt",
+      "lessonTitle": "Top 1000 words",
+      "target": 1000
+    },
+    {
+      "path": "/lessons/drills/top-10000-project-gutenberg-words/lesson.txt",
+      "lessonTitle": "Top 10000 Project Gutenberg words",
+      "target": 10000
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-prefixes/lesson.txt",
+      "lessonTitle": "Multi-syllable words with prefixes",
+      "target": 100
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-suffixes/lesson.txt",
+      "lessonTitle": "Multi-syllable words with suffixes",
+      "target": 100
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-briefs/lesson.txt",
+      "lessonTitle": "Multi-syllable words with briefs",
+      "target": 100
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-simple-keys/lesson.txt",
+      "lessonTitle": "One-syllable words with simple keys",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-more-consonants/lesson.txt",
+      "lessonTitle": "One-syllable words with more consonants",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-f-as-v-or-s/lesson.txt",
+      "lessonTitle": "One-syllable words with F as V or S",
+      "target": 11
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-unstressed-vowels/lesson.txt",
+      "lessonTitle": "One-syllable words with unstressed vowels",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-inversion/lesson.txt",
+      "lessonTitle": "One-syllable words with inversion",
+      "target": 7
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-short-i-vowel/lesson.txt",
+      "lessonTitle": "One-syllable words with short I vowel",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-short-vowels/lesson.txt",
+      "lessonTitle": "One-syllable words with short vowels",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-long-vowels/lesson.txt",
+      "lessonTitle": "One-syllable words with long vowels",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-diphthongs/lesson.txt",
+      "lessonTitle": "One-syllable words with diphthongs",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-vowel-disambiguators/lesson.txt",
+      "lessonTitle": "One-syllable words with vowel disambiguators",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-left-hand-consonants-with-multiple-keys/lesson.txt",
+      "lessonTitle": "One-syllable words with left-hand consonants with multiple keys",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-right-hand-consonants-with-multiple-keys/lesson.txt",
+      "lessonTitle": "One-syllable words with right-hand consonants with multiple keys",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-digraphs/lesson.txt",
+      "lessonTitle": "One-syllable words with digraphs",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-compound-clusters/lesson.txt",
+      "lessonTitle": "One-syllable words with compound clusters",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-multiple-strokes/lesson.txt",
+      "lessonTitle": "One-syllable words with multiple strokes",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/fingerspelling/lesson.txt",
+      "lessonTitle": "Fingerspelling",
+      "target": 26
+    },
+    {
+      "path": "/lessons/fundamentals/punctuation/lesson.txt",
+      "lessonTitle": "Punctuation",
+      "target": 27
+    },
+    {
+      "path": "/lessons/fundamentals/numbers/lesson.txt",
+      "lessonTitle": "Numbers",
+      "target": 100
+    },
+    {
+      "path": "/lessons/drills/cardinal-number-words/lesson.txt",
+      "lessonTitle": "Cardinal Number Words",
+      "target": 38
+    },
+    {
+      "path": "/lessons/drills/ordinal-number-words/lesson.txt",
+      "lessonTitle": "Ordinal Number Words",
+      "target": 38
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-multiple-strokes/lesson.txt",
+      "lessonTitle": "Multi-syllable words with multiple strokes",
+      "target": 15
+    },
+    {
+      "path": "/lessons/drills/pronouns/lesson.txt",
+      "lessonTitle": "Pronouns",
+      "target": 81
+    },
+    {
+      "path": "/lessons/drills/pronouns-continued/lesson.txt",
+      "lessonTitle": "Pronouns continued",
+      "target": 60
+    },
+    {
+      "path": "/lessons/drills/pronouns-contractions/lesson.txt",
+      "lessonTitle": "Pronouns and Contractions",
+      "target": 69
+    },
+    {
+      "path": "/lessons/drills/titles/lesson.txt",
+      "lessonTitle": "Titles",
+      "target": 21
+    },
+    {
+      "path": "/lessons/drills/email-salutations-and-complimentary-closings/lesson.txt",
+      "lessonTitle": "Email Salutations and Complimentary Closings",
+      "target": 49
+    },
+    {
+      "path": "/lessons/drills/apostrophes/lesson.txt",
+      "lessonTitle": "Apostrophes",
+      "target": 29
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-compound-clusters/lesson.txt",
+      "lessonTitle": "Multi-syllable words with compound clusters",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-inversion/lesson.txt",
+      "lessonTitle": "Multi-syllable words with inversion",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-doubled-consonant-letters/lesson.txt",
+      "lessonTitle": "Multi-syllable words with doubled consonant letters",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/numbers/lesson.txt",
+      "lessonTitle": "Numbers",
+      "target": 100
+    },
+    {
+      "path": "/lessons/drills/calendar/lesson.txt",
+      "lessonTitle": "Calendar",
+      "target": 12
+    },
+    {
+      "path": "/lessons/drills/superlatives/lesson.txt",
+      "lessonTitle": "Superlatives",
+      "target": 79
+    },
+    {
+      "path": "/lessons/drills/single-stroke-briefs/lesson.txt",
+      "lessonTitle": "Single-Stroke Briefs",
+      "target": 100
+    },
+    {
+      "path": "/lessons/drills/time/lesson.txt",
+      "lessonTitle": "Time",
+      "target": 62
+    },
+    {
+      "path": "/lessons/drills/longest-words/lesson.txt",
+      "lessonTitle": "Longest words",
+      "target": 10
+    },
+    {
+      "path": "/lessons/drills/homophones/lesson.txt",
+      "lessonTitle": "Homophones",
+      "target": 100
+    },
+    {
+      "path": "/lessons/drills/emotions/lesson.txt",
+      "lessonTitle": "Emotions",
+      "target": 104
+    },
+    {
+      "path": "/lessons/collections/irreversible-binomials/irreversible-binomials-with-opposites-and-antonyms/lesson.txt",
+      "lessonTitle": "Irreversible binomials with opposites and antonyms",
+      "target": 99
+    },
+    {
+      "path": "/lessons/drills/single-stroke-briefs/lesson.txt",
+      "lessonTitle": "Single-Stroke Briefs",
+      "target": 200
+    },
+    {
+      "path": "/lessons/collections/irreversible-binomials/irreversible-binomials-with-related-words-and-synonyms/lesson.txt",
+      "lessonTitle": "Irreversible binomials with related words and synonyms",
+      "target": 54
+    },
+    {
+      "path": "/lessons/drills/single-stroke-briefs/lesson.txt",
+      "lessonTitle": "Single-Stroke Briefs",
+      "target": 300
+    },
+    {
+      "path": "/lessons/collections/irreversible-binomials/irreversible-binomials-with-alliteration/lesson.txt",
+      "lessonTitle": "Irreversible binomials with alliteration",
+      "target": 110
+    },
+    {
+      "path": "/lessons/drills/single-stroke-briefs/lesson.txt",
+      "lessonTitle": "Single-Stroke Briefs",
+      "target": 5000
+    },
+    {
+      "path": "/lessons/collections/irreversible-binomials/irreversible-binomials-with-rhymes-and-similar-sounding-words/lesson.txt",
+      "lessonTitle": "Irreversible binomials with rhymes and similar-sounding words",
+      "target": 68
+    },
+    {
+      "path": "/lessons/drills/single-stroke-briefs/lesson.txt",
+      "lessonTitle": "Single-Stroke Briefs",
+      "target": 5000
+    }
+  ]
+  , "drillCourse": [
+    {
+      "path": "/lessons/drills/top-100-words/lesson.txt",
+      "lessonTitle": "Top 100 words",
+      "target": 100
+    },
+    {
+      "path": "/lessons/drills/top-200-words-spoken-on-tv/lesson.txt",
+      "lessonTitle": "Top 200 words spoken on TV",
+      "target": 100
+    },
+    {
+      "path": "/lessons/drills/common-words/lesson.txt",
+      "lessonTitle": "Common words",
+      "target": 100
+    },
+    {
+      "path": "/lessons/drills/top-1000-words/lesson.txt",
+      "lessonTitle": "Top 1000 words",
+      "target": 1000
+    },
+    {
+      "path": "/lessons/drills/top-10000-project-gutenberg-words/lesson.txt",
+      "lessonTitle": "Top 10000 Project Gutenberg words",
+      "target": 10000
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-prefixes/lesson.txt",
+      "lessonTitle": "Multi-syllable words with prefixes",
+      "target": 100
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-suffixes/lesson.txt",
+      "lessonTitle": "Multi-syllable words with suffixes",
+      "target": 100
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-briefs/lesson.txt",
+      "lessonTitle": "Multi-syllable words with briefs",
+      "target": 100
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-diphthongs/lesson.txt",
+      "lessonTitle": "One-syllable words with diphthongs",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-vowel-disambiguators/lesson.txt",
+      "lessonTitle": "One-syllable words with vowel disambiguators",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-digraphs/lesson.txt",
+      "lessonTitle": "One-syllable words with digraphs",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/one-syllable-words-with-compound-clusters/lesson.txt",
+      "lessonTitle": "One-syllable words with compound clusters",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/fingerspelling/lesson.txt",
+      "lessonTitle": "Fingerspelling",
+      "target": 26
+    },
+    {
+      "path": "/lessons/fundamentals/punctuation/lesson.txt",
+      "lessonTitle": "Punctuation",
+      "target": 27
+    },
+    {
+      "path": "/lessons/fundamentals/numbers/lesson.txt",
+      "lessonTitle": "Numbers",
+      "target": 100
+    },
+    {
+      "path": "/lessons/fundamentals/roman-numerals/lesson.txt",
+      "lessonTitle": "Roman numerals",
+      "target": 12
+    },
+    {
+      "path": "/lessons/drills/pronouns/lesson.txt",
+      "lessonTitle": "Pronouns",
+      "target": 81
+    },
+    {
+      "path": "/lessons/drills/pronouns-continued/lesson.txt",
+      "lessonTitle": "Pronouns continued",
+      "target": 60
+    },
+    {
+      "path": "/lessons/drills/pronouns-contractions/lesson.txt",
+      "lessonTitle": "Pronouns and Contractions",
+      "target": 69
+    },
+    {
+      "path": "/lessons/drills/titles/lesson.txt",
+      "lessonTitle": "Titles",
+      "target": 21
+    },
+    {
+      "path": "/lessons/drills/email-salutations-and-complimentary-closings/lesson.txt",
+      "lessonTitle": "Email Salutations and Complimentary Closings",
+      "target": 49
+    },
+    {
+      "path": "/lessons/drills/apostrophes/lesson.txt",
+      "lessonTitle": "Apostrophes",
+      "target": 29
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-compound-clusters/lesson.txt",
+      "lessonTitle": "Multi-syllable words with compound clusters",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-inversion/lesson.txt",
+      "lessonTitle": "Multi-syllable words with inversion",
+      "target": 15
+    },
+    {
+      "path": "/lessons/fundamentals/multi-syllable-words-with-doubled-consonant-letters/lesson.txt",
+      "lessonTitle": "Multi-syllable words with doubled consonant letters",
+      "target": 15
+    },
+    {
+      "path": "/lessons/drills/calendar/lesson.txt",
+      "lessonTitle": "Calendar",
+      "target": 12
+    },
+    {
+      "path": "/lessons/drills/superlatives/lesson.txt",
+      "lessonTitle": "Superlatives",
+      "target": 79
+    },
+    {
+      "path": "/lessons/drills/single-stroke-briefs/lesson.txt",
+      "lessonTitle": "Single-Stroke Briefs",
+      "target": 100
+    },
+    {
+      "path": "/lessons/drills/homophones/lesson.txt",
+      "lessonTitle": "Homophones",
+      "target": 100
+    },
+    {
+      "path": "/lessons/drills/emotions/lesson.txt",
+      "lessonTitle": "Emotions",
+      "target": 104
+    },
+    {
+      "path": "/lessons/drills/time/lesson.txt",
+      "lessonTitle": "Time",
+      "target": 62
+    },
+    {
+      "path": "/lessons/drills/cardinal-number-words/lesson.txt",
+      "lessonTitle": "Cardinal Number Words",
+      "target": 38
+    },
+    {
+      "path": "/lessons/drills/ordinal-number-words/lesson.txt",
+      "lessonTitle": "Ordinal Number Words",
+      "target": 38
+    },
+    {
+      "path": "/lessons/drills/longest-words/lesson.txt",
+      "lessonTitle": "Longest words",
+      "target": 10
+    },
+    {
+      "path": "/lessons/collections/irreversible-binomials/irreversible-binomials-with-opposites-and-antonyms/lesson.txt",
+      "lessonTitle": "Irreversible binomials with opposites and antonyms",
+      "target": 99
+    },
+    {
+      "path": "/lessons/drills/single-stroke-briefs/lesson.txt",
+      "lessonTitle": "Single-Stroke Briefs",
+      "target": 200
+    },
+    {
+      "path": "/lessons/collections/irreversible-binomials/irreversible-binomials-with-related-words-and-synonyms/lesson.txt",
+      "lessonTitle": "Irreversible binomials with related words and synonyms",
+      "target": 54
+    },
+    {
+      "path": "/lessons/drills/single-stroke-briefs/lesson.txt",
+      "lessonTitle": "Single-Stroke Briefs",
+      "target": 300
+    },
+    {
+      "path": "/lessons/collections/irreversible-binomials/irreversible-binomials-with-alliteration/lesson.txt",
+      "lessonTitle": "Irreversible binomials with alliteration",
+      "target": 110
+    },
+    {
+      "path": "/lessons/drills/single-stroke-briefs/lesson.txt",
+      "lessonTitle": "Single-Stroke Briefs",
+      "target": 5000
+    },
+    {
+      "path": "/lessons/collections/irreversible-binomials/irreversible-binomials-with-rhymes-and-similar-sounding-words/lesson.txt",
+      "lessonTitle": "Irreversible binomials with rhymes and similar-sounding words",
+      "target": 68
+    },
+    {
+      "path": "/lessons/drills/single-stroke-briefs/lesson.txt",
+      "lessonTitle": "Single-Stroke Briefs",
+      "target": 5000
+    }
+  ]
+  , "practiceCourse": [
+    {
+      "path": "/lessons/stories/proverbs/proverbs-starting-with-u/lesson.txt",
+      "lessonTitle": "Proverbs starting with U",
+      "target": 6
+    },
+    {
+      "path": "/lessons/stories/proverbs/proverbs-starting-with-v/lesson.txt",
+      "lessonTitle": "Proverbs starting with V",
+      "target": 6
+    },
+    {
+      "path": "/lessons/stories/proverbial-phrases/proverbial-phrases-starting-with-z/lesson.txt",
+      "lessonTitle": "Proverbial phrases starting with Z",
+      "target": 7
+    },
+    {
+      "path": "/lessons/stories/proverbial-phrases/proverbial-phrases-starting-with-v/lesson.txt",
+      "lessonTitle": "Proverbial phrases starting with V",
+      "target": 11
+    },
+    {
+      "path": "/lessons/stories/proverbs/proverbs-starting-with-r/lesson.txt",
+      "lessonTitle": "Proverbs starting with R",
+      "target": 12
+    },
+    {
+      "path": "/lessons/stories/proverbial-phrases/proverbial-phrases-starting-with-j/lesson.txt",
+      "lessonTitle": "Proverbial phrases starting with J",
+      "target": 14
+    },
+    {
+      "path": "/lessons/stories/proverbial-phrases/proverbial-phrases-starting-with-u/lesson.txt",
+      "lessonTitle": "Proverbial phrases starting with U",
+      "target": 30
+    },
+    {
+      "path": "/lessons/stories/proverbs/proverbs-starting-with-m/lesson.txt",
+      "lessonTitle": "Proverbs starting with M",
+      "target": 32
+    },
+    {
+      "path": "/lessons/stories/proverbs/proverbs-starting-with-s/lesson.txt",
+      "lessonTitle": "Proverbs starting with S",
+      "target": 36
+    },
+    {
+      "path": "/lessons/stories/proverbs/proverbs-starting-with-o/lesson.txt",
+      "lessonTitle": "Proverbs starting with O",
+      "target": 40
+    },
+    {
+      "path": "/lessons/stories/proverbs/proverbs-starting-with-c/lesson.txt",
+      "lessonTitle": "Proverbs starting with C",
+      "target": 47
+    },
+    {
+      "path": "/lessons/stories/proverbial-phrases/proverbial-phrases-starting-with-r/lesson.txt",
+      "lessonTitle": "Proverbial phrases starting with R",
+      "target": 48
+    },
+    {
+      "path": "/lessons/stories/proverbs/proverbs-starting-with-p/lesson.txt",
+      "lessonTitle": "Proverbs starting with P",
+      "target": 59
+    },
+    {
+      "path": "/lessons/stories/proverbs/proverbs-starting-with-f/lesson.txt",
+      "lessonTitle": "Proverbs starting with F",
+      "target": 61
+    },
+    {
+      "path": "/lessons/stories/proverbial-phrases/proverbial-phrases-starting-with-k/lesson.txt",
+      "lessonTitle": "Proverbial phrases starting with K",
+      "target": 61
+    },
+    {
+      "path": "/lessons/stories/fables/the-two-crabs/lesson.txt",
+      "lessonTitle": "The Two Crabs",
+      "target": 62
+    },
+    {
+      "path": "/lessons/stories/proverbs/proverbs-starting-with-g/lesson.txt",
+      "lessonTitle": "Proverbs starting with G",
+      "target": 64
+    },
+    {
+      "path": "/lessons/stories/proverbs/proverbs-starting-with-l/lesson.txt",
+      "lessonTitle": "Proverbs starting with L",
+      "target": 67
+    },
+    {
+      "path": "/lessons/stories/fables/the-serpent-and-the-file/lesson.txt",
+      "lessonTitle": "The Serpent and the File",
+      "target": 68
+    },
+    {
+      "path": "/lessons/stories/proverbs/proverbs-starting-with-n/lesson.txt",
+      "lessonTitle": "Proverbs starting with N",
+      "target": 70
+    },
+    {
+      "path": "/lessons/stories/fables/the-wolf-and-the-kid/lesson.txt",
+      "lessonTitle": "The Wolf and the Kid",
+      "target": 72
+    },
+    {
+      "path": "/lessons/stories/fables/the-fox-and-the-mask/lesson.txt",
+      "lessonTitle": "The Fox and the Mask",
+      "target": 75
+    },
+    {
+      "path": "/lessons/stories/fables/the-bald-man-and-the-fly/lesson.txt",
+      "lessonTitle": "The Bald Man and the Fly",
+      "target": 78
+    },
+    {
+      "path": "/lessons/stories/fables/the-old-woman-and-the-wine-jar/lesson.txt",
+      "lessonTitle": "The Old Woman and the Wine-Jar",
+      "target": 77
+    },
+    {
+      "path": "/lessons/stories/fables/the-eagle-and-the-arrow/lesson.txt",
+      "lessonTitle": "The Eagle and the Arrow",
+      "target": 81
+    },
+    {
+      "path": "/lessons/stories/fables/the-man-and-the-wood/lesson.txt",
+      "lessonTitle": "The Man and the Wood",
+      "target": 83
+    },
+    {
+      "path": "/lessons/stories/proverbs/proverbs-starting-with-b/lesson.txt",
+      "lessonTitle": "Proverbs starting with B",
+      "target": 84
+    },
+    {
+      "path": "/lessons/stories/fables/the-fisher-and-the-little-fish/lesson.txt",
+      "lessonTitle": "The Fisher and the Little Fish",
+      "target": 85
+    },
+    {
+      "path": "/lessons/stories/fables/the-trumpeter-taken-prisoner/lesson.txt",
+      "lessonTitle": "The Trumpeter Taken Prisoner",
+      "target": 85
+    },
+    {
+      "path": "/lessons/stories/proverbial-phrases/proverbial-phrases-starting-with-p/lesson.txt",
+      "lessonTitle": "Proverbial phrases starting with P",
+      "target": 86
+    },
+    {
+      "path": "/lessons/stories/proverbial-phrases/proverbial-phrases-starting-with-g/lesson.txt",
+      "lessonTitle": "Proverbial phrases starting with G",
+      "target": 87
+    },
+    {
+      "path": "/lessons/stories/proverbs/proverbs-starting-with-e/lesson.txt",
+      "lessonTitle": "Proverbs starting with E",
+      "target": 90
+    },
+    {
+      "path": "/lessons/stories/fables/the-two-pots/lesson.txt",
+      "lessonTitle": "The Two Pots",
+      "target": 92
+    },
+    {
+      "path": "/lessons/stories/fables/the-cock-and-the-pearl/lesson.txt",
+      "lessonTitle": "The Cock and the Pearl",
+      "target": 95
+    },
+    {
+      "path": "/lessons/stories/fables/the-fisher/lesson.txt",
+      "lessonTitle": "The Fisher",
+      "target": 96
+    },
+    {
+      "path": "/lessons/stories/fables/the-fox-and-the-lion/lesson.txt",
+      "lessonTitle": "The Fox and the Lion",
+      "target": 97
+    },
+    {
+      "path": "/lessons/stories/fables/hercules-and-the-waggoner/lesson.txt",
+      "lessonTitle": "Hercules and the Waggoner",
+      "target": 98
+    },
+    {
+      "path": "/lessons/stories/fables/the-man-and-the-wooden-god/lesson.txt",
+      "lessonTitle": "The Man and the Wooden God",
+      "target": 101
+    },
+    {
+      "path": "/lessons/stories/fables/the-lion-and-the-statue/lesson.txt",
+      "lessonTitle": "The Lion and the Statue",
+      "target": 104
+    },
+    {
+      "path": "/lessons/stories/fables/the-wolf-in-sheeps-clothing/lesson.txt",
+      "lessonTitle": "The Wolf in Sheep's Clothing",
+      "target": 105
+    },
+    {
+      "path": "/lessons/stories/proverbs/proverbs-starting-with-h/lesson.txt",
+      "lessonTitle": "Proverbs starting with H",
+      "target": 106
+    },
+    {
+      "path": "/lessons/stories/fables/the-bundle-of-sticks/lesson.txt",
+      "lessonTitle": "The Bundle of Sticks",
+      "target": 106
+    },
+    {
+      "path": "/lessons/stories/fables/the-jay-and-the-peacock/lesson.txt",
+      "lessonTitle": "The Jay and the Peacock",
+      "target": 106
+    },
+    {
+      "path": "/lessons/stories/fables/the-ass-in-the-lions-skin/lesson.txt",
+      "lessonTitle": "The Ass in the Lion's Skin",
+      "target": 107
+    },
+    {
+      "path": "/lessons/stories/proverbial-phrases/proverbial-phrases-starting-with-c/lesson.txt",
+      "lessonTitle": "Proverbial phrases starting with C",
+      "target": 110
+    },
+    {
+      "path": "/lessons/stories/fables/the-one-eyed-doe/lesson.txt",
+      "lessonTitle": "The One-Eyed Doe",
+      "target": 110
+    },
+    {
+      "path": "/lessons/stories/fables/the-tortoise-and-the-birds/lesson.txt",
+      "lessonTitle": "The Tortoise and the Birds",
+      "target": 113
+    },
+    {
+      "path": "/lessons/stories/fables/the-fox-and-the-grapes/lesson.txt",
+      "lessonTitle": "The Fox and the Grapes",
+      "target": 116
+    },
+    {
+      "path": "/lessons/stories/fables/the-dog-and-the-shadow/lesson.txt",
+      "lessonTitle": "The Dog and the Shadow",
+      "target": 118
+    },
+    {
+      "path": "/lessons/stories/fables/the-goose-with-the-golden-eggs/lesson.txt",
+      "lessonTitle": "The Goose With the Golden Eggs",
+      "target": 120
+    },
+    {
+      "path": "/lessons/stories/proverbs/proverbs-starting-with-w/lesson.txt",
+      "lessonTitle": "Proverbs starting with W",
+      "target": 124
+    },
+    {
+      "path": "/lessons/stories/proverbs/proverbs-starting-with-y/lesson.txt",
+      "lessonTitle": "Proverbs starting with Y",
+      "target": 124
+    },
+    {
+      "path": "/lessons/stories/fables/the-hares-and-the-frogs/lesson.txt",
+      "lessonTitle": "The Hares and the Frogs",
+      "target": 125
+    },
+    {
+      "path": "/lessons/stories/fables/the-cat-maiden/lesson.txt",
+      "lessonTitle": "The Cat-Maiden",
+      "target": 126
+    },
+    {
+      "path": "/lessons/stories/fables/the-sick-lion/lesson.txt",
+      "lessonTitle": "The Sick Lion",
+      "target": 127
+    },
+    {
+      "path": "/lessons/stories/fables/the-fox-and-the-goat/lesson.txt",
+      "lessonTitle": "The Fox and the Goat",
+      "target": 128
+    },
+    {
+      "path": "/lessons/stories/fables/the-mountains-in-labour/lesson.txt",
+      "lessonTitle": "The Mountains in Labour",
+      "target": 130
+    },
+    {
+      "path": "/lessons/stories/fables/the-tree-and-the-reed/lesson.txt",
+      "lessonTitle": "The Tree and the Reed",
+      "target": 131
+    },
+    {
+      "path": "/lessons/stories/fables/the-woodman-and-the-serpent/lesson.txt",
+      "lessonTitle": "The Woodman and the Serpent",
+      "target": 132
+    },
+    {
+      "path": "/lessons/stories/fables/the-hart-and-the-hunter/lesson.txt",
+      "lessonTitle": "The Hart and the Hunter",
+      "target": 134
+    },
+    {
+      "path": "/lessons/stories/fables/the-swallow-and-the-other-birds/lesson.txt",
+      "lessonTitle": "The Swallow and the Other Birds",
+      "target": 135
+    },
+    {
+      "path": "/lessons/stories/proverbial-phrases/proverbial-phrases-starting-with-b/lesson.txt",
+      "lessonTitle": "Proverbial phrases starting with B",
+      "target": 142
+    },
+    {
+      "path": "/lessons/stories/fables/the-man-and-his-two-wives/lesson.txt",
+      "lessonTitle": "The Man and His Two Wives",
+      "target": 142
+    },
+    {
+      "path": "/lessons/stories/fables/the-buffoon-and-the-countryman/lesson.txt",
+      "lessonTitle": "The Buffoon and the Countryman",
+      "target": 143
+    },
+    {
+      "path": "/lessons/stories/fables/the-bat-the-birds-and-the-beasts/lesson.txt",
+      "lessonTitle": "The Bat, the Birds and the Beasts",
+      "target": 147
+    },
+    {
+      "path": "/lessons/stories/fables/the-ant-and-the-grasshopper/lesson.txt",
+      "lessonTitle": "The Ant and the Grasshopper",
+      "target": 150
+    },
+    {
+      "path": "/lessons/stories/fables/the-fox-and-the-cat/lesson.txt",
+      "lessonTitle": "The Fox and the Cat",
+      "target": 151
+    },
+    {
+      "path": "/lessons/stories/fables/the-nurse-and-the-wolf/lesson.txt",
+      "lessonTitle": "The Nurse and the Wolf",
+      "target": 154
+    },
+    {
+      "path": "/lessons/stories/fables/the-belly-and-the-members/lesson.txt",
+      "lessonTitle": "The Belly and the Members",
+      "target": 155
+    },
+    {
+      "path": "/lessons/stories/fables/the-man-and-the-serpent/lesson.txt",
+      "lessonTitle": "The Man and the Serpent",
+      "target": 155
+    },
+    {
+      "path": "/lessons/stories/fables/the-wolf-and-the-lamb/lesson.txt",
+      "lessonTitle": "The Wolf and the Lamb",
+      "target": 156
+    },
+    {
+      "path": "/lessons/stories/proverbial-phrases/proverbial-phrases-starting-with-f/lesson.txt",
+      "lessonTitle": "Proverbial phrases starting with F",
+      "target": 163
+    },
+    {
+      "path": "/lessons/stories/fables/the-fox-and-the-crow/lesson.txt",
+      "lessonTitle": "The Fox and the Crow",
+      "target": 163
+    },
+    {
+      "path": "/lessons/stories/proverbial-phrases/proverbial-phrases-starting-with-e/lesson.txt",
+      "lessonTitle": "Proverbial phrases starting with E",
+      "target": 165
+    },
+    {
+      "path": "/lessons/stories/fables/the-asss-brains/lesson.txt",
+      "lessonTitle": "The Ass's Brains",
+      "target": 166
+    },
+    {
+      "path": "/lessons/stories/fables/the-fox-the-cock-and-the-dog/lesson.txt",
+      "lessonTitle": "The Fox, the Cock, and the Dog",
+      "target": 169
+    },
+    {
+      "path": "/lessons/stories/fables/the-milkmaid-and-her-pail/lesson.txt",
+      "lessonTitle": "The Milkmaid and Her Pail",
+      "target": 169
+    },
+    {
+      "path": "/lessons/stories/fables/the-young-thief-and-his-mother/lesson.txt",
+      "lessonTitle": "The Young Thief and His Mother",
+      "target": 170
+    },
+    {
+      "path": "/lessons/stories/fables/the-horse-hunter-and-stag/lesson.txt",
+      "lessonTitle": "The Horse, Hunter, and Stag",
+      "target": 172
+    },
+    {
+      "path": "/lessons/stories/fables/the-lion-the-fox-and-the-beasts/lesson.txt",
+      "lessonTitle": "The Lion, the Fox, and the Beasts",
+      "target": 175
+    },
+    {
+      "path": "/lessons/stories/fables/the-fox-without-a-tail/lesson.txt",
+      "lessonTitle": "The Fox Without a Tail",
+      "target": 176
+    },
+    {
+      "path": "/lessons/stories/fables/the-crow-and-the-pitcher/lesson.txt",
+      "lessonTitle": "The Crow and the Pitcher",
+      "target": 176
+    },
+    {
+      "path": "/lessons/stories/fables/the-wolf-and-the-crane/lesson.txt",
+      "lessonTitle": "The Wolf and the Crane",
+      "target": 180
+    },
+    {
+      "path": "/lessons/stories/proverbial-phrases/proverbial-phrases-starting-with-n/lesson.txt",
+      "lessonTitle": "Proverbial phrases starting with N",
+      "target": 183
+    },
+    {
+      "path": "/lessons/stories/fables/the-lion-and-the-mouse/lesson.txt",
+      "lessonTitle": "The Lion and the Mouse",
+      "target": 184
+    },
+    {
+      "path": "/lessons/stories/proverbs/proverbs-starting-with-d/lesson.txt",
+      "lessonTitle": "Proverbs starting with D",
+      "target": 185
+    },
+    {
+      "path": "/lessons/stories/proverbial-phrases/proverbial-phrases-starting-with-s/lesson.txt",
+      "lessonTitle": "Proverbial phrases starting with S",
+      "target": 186
+    },
+    {
+      "path": "/lessons/stories/fables/the-frog-and-the-ox/lesson.txt",
+      "lessonTitle": "The Frog and the Ox",
+      "target": 186
+    },
+    {
+      "path": "/lessons/stories/proverbial-phrases/proverbial-phrases-starting-with-y/lesson.txt",
+      "lessonTitle": "Proverbial phrases starting with Y",
+      "target": 187
+    },
+    {
+      "path": "/lessons/stories/fables/the-dog-and-the-wolf/lesson.txt",
+      "lessonTitle": "The Dog and the Wolf",
+      "target": 192
+    },
+    {
+      "path": "/lessons/stories/fables/the-shepherds-boy/lesson.txt",
+      "lessonTitle": "The Shepherd's Boy",
+      "target": 192
+    },
+    {
+      "path": "/lessons/stories/proverbial-phrases/proverbial-phrases-starting-with-l/lesson.txt",
+      "lessonTitle": "Proverbial phrases starting with L",
+      "target": 193
+    },
+    {
+      "path": "/lessons/stories/proverbial-phrases/proverbial-phrases-starting-with-h/lesson.txt",
+      "lessonTitle": "Proverbial phrases starting with H",
+      "target": 198
+    },
+    {
+      "path": "/lessons/stories/proverbial-phrases/proverbial-phrases-starting-with-o/lesson.txt",
+      "lessonTitle": "Proverbial phrases starting with O",
+      "target": 198
+    },
+    {
+      "path": "/lessons/stories/proverbial-phrases/proverbial-phrases-starting-with-m/lesson.txt",
+      "lessonTitle": "Proverbial phrases starting with M",
+      "target": 217
+    },
+    {
+      "path": "/lessons/stories/grimm/the-old-man-and-his-grandson/lesson.txt",
+      "lessonTitle": "The Old Man and His Grandson",
+      "target": 249
+    },
+    {
+      "path": "/lessons/stories/proverbs/proverbs-starting-with-t/lesson.txt",
+      "lessonTitle": "Proverbs starting with T",
+      "target": 256
+    },
+    {
+      "path": "/lessons/stories/fables/the-hare-with-many-friends/lesson.txt",
+      "lessonTitle": "The Hare With Many Friends",
+      "target": 269
+    },
+    {
+      "path": "/lessons/stories/proverbs/proverbs-starting-with-i/lesson.txt",
+      "lessonTitle": "Proverbs starting with I",
+      "target": 273
+    },
+    {
+      "path": "/lessons/stories/fables/the-frogs-desiring-a-king/lesson.txt",
+      "lessonTitle": "The Frogs Desiring a King",
+      "target": 284
+    },
+    {
+      "path": "/lessons/stories/proverbial-phrases/proverbial-phrases-starting-with-w/lesson.txt",
+      "lessonTitle": "Proverbial phrases starting with W",
+      "target": 288
+    },
+    {
+      "path": "/lessons/stories/fables/the-town-mouse-and-the-country-mouse/lesson.txt",
+      "lessonTitle": "The Town Mouse and the Country Mouse",
+      "target": 290
+    },
+    {
+      "path": "/lessons/stories/queen-elizabeth-i/speech-to-the-troops-at-tilbury/lesson.txt",
+      "lessonTitle": "Speech to the Troops at Tilbury",
+      "target": 311
+    },
+    {
+      "path": "/lessons/stories/proverbial-phrases/proverbial-phrases-starting-with-d/lesson.txt",
+      "lessonTitle": "Proverbial phrases starting with D",
+      "target": 330
+    },
+    {
+      "path": "/lessons/stories/proverbs/proverbs-starting-with-a/lesson.txt",
+      "lessonTitle": "Proverbs starting with A",
+      "target": 363
+    },
+    {
+      "path": "/lessons/stories/proverbial-phrases/proverbial-phrases-starting-with-a/lesson.txt",
+      "lessonTitle": "Proverbial phrases starting with A",
+      "target": 394
+    },
+    {
+      "path": "/lessons/stories/proverbial-phrases/proverbial-phrases-starting-with-i/lesson.txt",
+      "lessonTitle": "Proverbial phrases starting with I",
+      "target": 655
+    },
+    {
+      "path": "/lessons/stories/proverbial-phrases/proverbial-phrases-starting-with-t/lesson.txt",
+      "lessonTitle": "Proverbial phrases starting with T",
+      "target": 808
+    },
+    {
+      "path": "/lessons/drills/project-gutenberg-sentences-using-top-100-words/lesson.txt",
+      "lessonTitle": "Project Gutenberg sentences using top 100 words",
+      "target": 193
+    },
+    {
+      "path": "/lessons/stories/virginia-woolf/blue-and-green/lesson.txt",
+      "lessonTitle": "Blue and Green",
+      "target": 261
+    },
+    {
+      "path": "/lessons/stories/virginia-woolf/monday-or-tuesday/lesson.txt",
+      "lessonTitle": "Monday or Tuesday",
+      "target": 290
+    },
+    {
+      "path": "/lessons/stories/queen-elizabeth-i/speech-to-the-troops-at-tilbury/lesson.txt",
+      "lessonTitle": "Speech to the Troops at Tilbury",
+      "target": 311
+    },
+    {
+      "path": "/lessons/stories/banjo-paterson/the-man-from-snowy-river/lesson.txt",
+      "lessonTitle": "The Man from Snowy River",
+      "target": 1063
+    },
+    {
+      "path": "/lessons/stories/henry-handel-richardson/two-hanged-women/lesson.txt",
+      "lessonTitle": "Two Hanged Women",
+      "target": 1875
+    },
+    {
+      "path": "/lessons/stories/margery-williams/the-velveteen-rabbit/lesson.txt",
+      "lessonTitle": "The Velveteen Rabbit",
+      "target": 3877
+    }
+  ]
+}

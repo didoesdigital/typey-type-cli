@@ -1,0 +1,13 @@
+/* the media object */
+.media {margin:10px;}
+.media, .bd {
+overflow:hidden;
+_overflow:visible; zoom:1;}
+.media .img {
+float:left;
+margin-right
+.media .img img{
+display:block;}
+.media .imgExt{
+float:right;
+margin-left

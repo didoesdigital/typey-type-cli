@@ -1,0 +1,10 @@
+Two-key briefs R-*
+
+'have': SR
+'interest': TR
+'consider': KR
+'were': WR
+'will': HR
+'Ra': RA
+'ro': RO
+'are you': RU

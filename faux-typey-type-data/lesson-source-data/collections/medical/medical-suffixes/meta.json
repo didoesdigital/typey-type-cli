@@ -1,0 +1,13 @@
+{
+  "title": "Medical suffixes",
+  "subtitle": "",
+  "category": "Collections",
+  "subcategory": "Medical",
+  "path": "/collections/medical/medical-suffixes/lesson.txt",
+  "wordList": "words.txt",
+  "ignoredCharacters": "^",
+  "customMessage": "Hint: use ignore spacing setting and don’t type ^",
+  "vocabulary": [
+    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
+  ]
+}

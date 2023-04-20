@@ -1,0 +1,22 @@
+{
+"A/RA*EU": "Array",
+"KPA/TKAEUT": "Date",
+"SRA*EL": "eval",
+"TPUBGS": "function",
+"HAS/OEPB/PROT": "hasOwnProperty",
+"KPA/TPEUPBT": "Infinity",
+"S/KPA*/TPAOEUPBT": "isFinite",
+"S/TPHAPB": "isNaN",
+"S/KPA*/PRO/TOE/TAOEUP/KPA*/-F": "isPrototypeOf",
+"HREPBG": "length",
+"KPA/PHA*T": "Math",
+"TPHAPB": "NaN",
+"TPHAEUPL": "name",
+"TPH*URPL": "Number",
+"PO*PB": "Object",
+"PROET/TAOEUP": "prototype",
+"KPA/STREUPBG": "String",
+"TO/STR*EUPBG": "toString",
+"UPB/TKAOE/TPAOEUPBD": "undefined",
+"SRAOUL/KPA*/-F": "valueOf"
+}

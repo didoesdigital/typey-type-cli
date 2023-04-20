@@ -1,0 +1,11 @@
+{
+  "title": "UX design vocabulary",
+  "subtitle": "",
+  "category": "Collections",
+  "subcategory": "User experience design",
+  "path": "/collections/user-experience/ux-vocabulary/lesson.txt",
+  "wordList": "words.txt",
+  "customMessage": "Hint: use the UX design vocabulary dictionary",
+  "slug": "ux-vocabulary",
+  "recommendedDictionarySet": ["didoesdigital/ux-design.json"]
+}

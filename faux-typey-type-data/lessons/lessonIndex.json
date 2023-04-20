@@ -1,0 +1,4133 @@
+[
+  {
+    "title": "Introduction",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/introduction/lesson.txt",
+    "wordCount": 52,
+    "overview": "/fundamentals/introduction/lesson-overview.html",
+    "suggestedNext": "/fundamentals/one-syllable-words-with-simple-keys/lesson.txt"
+  },
+  {
+    "title": "One-syllable words with simple keys",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/one-syllable-words-with-simple-keys/lesson.txt",
+    "wordCount": 163,
+    "overview": "/fundamentals/one-syllable-words-with-simple-keys/lesson-overview.html",
+    "suggestedNext": "/fundamentals/one-syllable-words-with-more-consonants/lesson.txt"
+  },
+  {
+    "title": "One-syllable words with more consonants",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/one-syllable-words-with-more-consonants/lesson.txt",
+    "wordCount": 95,
+    "overview": "/fundamentals/one-syllable-words-with-more-consonants/lesson-overview.html",
+    "suggestedNext": "/fundamentals/one-syllable-words-with-f-as-v-or-s/lesson.txt"
+  },
+  {
+    "title": "One-syllable words with F as V or S",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/one-syllable-words-with-f-as-v-or-s/lesson.txt",
+    "wordCount": 11,
+    "overview": "/fundamentals/one-syllable-words-with-f-as-v-or-s/lesson-overview.html",
+    "suggestedNext": "/fundamentals/one-syllable-words-with-unstressed-vowels/lesson.txt"
+  },
+  {
+    "title": "One-syllable words with unstressed vowels",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/one-syllable-words-with-unstressed-vowels/lesson.txt",
+    "wordCount": 34,
+    "overview": "/fundamentals/one-syllable-words-with-unstressed-vowels/lesson-overview.html",
+    "suggestedNext": "/fundamentals/one-syllable-words-with-inversion/lesson.txt"
+  },
+  {
+    "title": "One-syllable words with inversion",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/one-syllable-words-with-inversion/lesson.txt",
+    "wordCount": 7,
+    "overview": "/fundamentals/one-syllable-words-with-inversion/lesson-overview.html",
+    "suggestedNext": "/fundamentals/one-syllable-words-with-short-i-vowel/lesson.txt"
+  },
+  {
+    "title": "One-syllable words with short I vowel",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/one-syllable-words-with-short-i-vowel/lesson.txt",
+    "wordCount": 30,
+    "overview": "/fundamentals/one-syllable-words-with-short-i-vowel/lesson-overview.html",
+    "suggestedNext": "/fundamentals/one-syllable-words-with-short-vowels/lesson.txt"
+  },
+  {
+    "title": "One-syllable words with short vowels",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/one-syllable-words-with-short-vowels/lesson.txt",
+    "wordCount": 179,
+    "overview": "/fundamentals/one-syllable-words-with-short-vowels/lesson-overview.html",
+    "suggestedNext": "/fundamentals/one-syllable-words-with-long-vowels/lesson.txt"
+  },
+  {
+    "title": "One-syllable words with long vowels",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/one-syllable-words-with-long-vowels/lesson.txt",
+    "wordCount": 219,
+    "overview": "/fundamentals/one-syllable-words-with-long-vowels/lesson-overview.html",
+    "suggestedNext": "/fundamentals/one-syllable-words-with-diphthongs/lesson.txt"
+  },
+  {
+    "title": "One-syllable words with diphthongs",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/one-syllable-words-with-diphthongs/lesson.txt",
+    "wordCount": 42,
+    "overview": "/fundamentals/one-syllable-words-with-diphthongs/lesson-overview.html",
+    "suggestedNext": "/fundamentals/one-syllable-words-with-vowel-disambiguators/lesson.txt"
+  },
+  {
+    "title": "One-syllable words with vowel disambiguators",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/one-syllable-words-with-vowel-disambiguators/lesson.txt",
+    "wordCount": 49,
+    "overview": "/fundamentals/one-syllable-words-with-vowel-disambiguators/lesson-overview.html",
+    "suggestedNext": "/fundamentals/one-syllable-words-with-left-hand-consonants-with-multiple-keys/lesson.txt"
+  },
+  {
+    "title": "One-syllable words with left-hand consonants with multiple keys",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/one-syllable-words-with-left-hand-consonants-with-multiple-keys/lesson.txt",
+    "wordCount": 647,
+    "overview": "/fundamentals/one-syllable-words-with-left-hand-consonants-with-multiple-keys/lesson-overview.html",
+    "suggestedNext": "/fundamentals/one-syllable-words-with-right-hand-consonants-with-multiple-keys/lesson.txt"
+  },
+  {
+    "title": "One-syllable words with right-hand consonants with multiple keys",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/one-syllable-words-with-right-hand-consonants-with-multiple-keys/lesson.txt",
+    "wordCount": 373,
+    "overview": "/fundamentals/one-syllable-words-with-right-hand-consonants-with-multiple-keys/lesson-overview.html",
+    "suggestedNext": "/fundamentals/one-syllable-words-with-digraphs/lesson.txt"
+  },
+  {
+    "title": "One-syllable words with digraphs",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/one-syllable-words-with-digraphs/lesson.txt",
+    "wordCount": 264,
+    "overview": "/fundamentals/one-syllable-words-with-digraphs/lesson-overview.html",
+    "suggestedNext": "/fundamentals/one-syllable-words-with-compound-clusters/lesson.txt"
+  },
+  {
+    "title": "One-syllable words with compound clusters",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/one-syllable-words-with-compound-clusters/lesson.txt",
+    "wordCount": 61,
+    "overview": "/fundamentals/one-syllable-words-with-compound-clusters/lesson-overview.html",
+    "suggestedNext": "/fundamentals/one-syllable-words-with-multiple-strokes/lesson.txt"
+  },
+  {
+    "title": "One-syllable words with multiple strokes",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/one-syllable-words-with-multiple-strokes/lesson.txt",
+    "wordCount": 145,
+    "overview": "/fundamentals/one-syllable-words-with-multiple-strokes/lesson-overview.html",
+    "suggestedNext": "/fundamentals/multi-syllable-words-with-compound-clusters/lesson.txt"
+  },
+  {
+    "title": "Multi-syllable words with compound clusters",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/multi-syllable-words-with-compound-clusters/lesson.txt",
+    "wordCount": 228,
+    "overview": "/fundamentals/multi-syllable-words-with-compound-clusters/lesson-overview.html",
+    "suggestedNext": "/fundamentals/multi-syllable-words-with-inversion/lesson.txt"
+  },
+  {
+    "title": "Multi-syllable words with inversion",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/multi-syllable-words-with-inversion/lesson.txt",
+    "wordCount": 130,
+    "suggestedNext": "/fundamentals/multi-syllable-words-with-briefs/lesson.txt"
+  },
+  {
+    "title": "Multi-syllable words with briefs",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/multi-syllable-words-with-briefs/lesson.txt",
+    "wordCount": 298,
+    "overview": "/fundamentals/multi-syllable-words-with-briefs/lesson-overview.html",
+    "suggestedNext": "/fundamentals/multi-syllable-words-with-prefixes/lesson.txt"
+  },
+  {
+    "title": "Multi-syllable words with prefixes",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/multi-syllable-words-with-prefixes/lesson.txt",
+    "wordCount": 921,
+    "overview": "/fundamentals/multi-syllable-words-with-prefixes/lesson-overview.html",
+    "suggestedNext": "/fundamentals/multi-syllable-words-with-suffixes/lesson.txt"
+  },
+  {
+    "title": "Multi-syllable words with suffixes",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/multi-syllable-words-with-suffixes/lesson.txt",
+    "wordCount": 1375,
+    "overview": "/fundamentals/multi-syllable-words-with-suffixes/lesson-overview.html",
+    "suggestedNext": "/fundamentals/multi-syllable-words-with-doubled-consonant-letters/lesson.txt"
+  },
+  {
+    "title": "Multi-syllable words with doubled consonant letters",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/multi-syllable-words-with-doubled-consonant-letters/lesson.txt",
+    "wordCount": 1202,
+    "suggestedNext": "/fundamentals/multi-syllable-words-with-multiple-strokes/lesson.txt"
+  },
+  {
+    "title": "Multi-syllable words with multiple strokes",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/multi-syllable-words-with-multiple-strokes/lesson.txt",
+    "wordCount": 3416,
+    "suggestedNext": "/fundamentals/fingerspelling/lesson.txt"
+  },
+  {
+    "title": "Fingerspelling",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/fingerspelling/lesson.txt",
+    "wordCount": 52,
+    "overview": "/fundamentals/fingerspelling/lesson-overview.html",
+    "suggestedNext": "/fundamentals/punctuation/lesson.txt"
+  },
+  {
+    "title": "Punctuation",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/punctuation/lesson.txt",
+    "wordCount": 30,
+    "overview": "/fundamentals/punctuation/lesson-overview.html",
+    "suggestedNext": "/fundamentals/numbers/lesson.txt"
+  },
+  {
+    "title": "Numbers",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/numbers/lesson.txt",
+    "wordCount": 129,
+    "overview": "/fundamentals/numbers/lesson-overview.html",
+    "suggestedNext": "/fundamentals/roman-numerals/lesson.txt"
+  },
+  {
+    "title": "Roman numerals",
+    "subtitle": "",
+    "category": "Fundamentals",
+    "subcategory": "",
+    "path": "/fundamentals/roman-numerals/lesson.txt",
+    "wordCount": 12,
+    "overview": "/fundamentals/roman-numerals/lesson-overview.html",
+    "suggestedNext": "/drills/top-100-words/lesson.txt"
+  },
+  {
+    "title": "Top 100 words",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/top-100-words/lesson.txt",
+    "wordCount": 100,
+    "overview": "/drills/top-100-words/lesson-overview.html",
+    "suggestedNext": "/drills/top-200-words-spoken-on-tv/lesson.txt"
+  },
+  {
+    "title": "Top 200 words spoken on TV",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/top-200-words-spoken-on-tv/lesson.txt",
+    "wordCount": 200,
+    "suggestedNext": "/drills/top-1000-words/lesson.txt"
+  },
+  {
+    "title": "Top 1000 words",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/top-1000-words/lesson.txt",
+    "wordCount": 1000,
+    "suggestedNext": "/drills/top-10000-project-gutenberg-words/lesson.txt"
+  },
+  {
+    "title": "Top 10000 Project Gutenberg words",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/top-10000-project-gutenberg-words/lesson.txt",
+    "wordCount": 10000,
+    "suggestedNext": "/drills/project-gutenberg-sentences-using-top-100-words/lesson.txt"
+  },
+  {
+    "title": "Project Gutenberg sentences using top 100 words",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/project-gutenberg-sentences-using-top-100-words/lesson.txt",
+    "wordCount": 20566,
+    "suggestedNext": "/drills/longest-words/lesson.txt"
+  },
+  {
+    "title": "Longest Words",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/longest-words/lesson.txt",
+    "wordCount": 100,
+    "suggestedNext": "/drills/longest-words-with-single-stroke-briefs/lesson.txt"
+  },
+  {
+    "title": "Longest Words with Single-Stroke Briefs",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/longest-words-with-single-stroke-briefs/lesson.txt",
+    "wordCount": 99,
+    "suggestedNext": "/drills/common-words/lesson.txt"
+  },
+  {
+    "title": "Common Words",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/common-words/lesson.txt",
+    "wordCount": 997,
+    "suggestedNext": "/drills/single-stroke-briefs/lesson.txt"
+  },
+  {
+    "title": "Single-Stroke Briefs",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/single-stroke-briefs/lesson.txt",
+    "wordCount": 6651,
+    "suggestedNext": "/drills/top-verbs/lesson.txt"
+  },
+  {
+    "title": "Top verbs",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/top-verbs/lesson.txt",
+    "wordCount": 321,
+    "suggestedNext": "/drills/top-adjectives/lesson.txt"
+  },
+  {
+    "title": "Top adjectives",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/top-adjectives/lesson.txt",
+    "wordCount": 148,
+    "suggestedNext": "/drills/top-first-names-in-the-us-over-the-last-100-years/lesson.txt"
+  },
+  {
+    "title": "Top first names in the US over the last 100 years",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/top-first-names-in-the-us-over-the-last-100-years/lesson.txt",
+    "wordCount": 200,
+    "suggestedNext": "/drills/orthography-rules/lesson.txt"
+  },
+  {
+    "title": "Orthography rules",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/orthography-rules/lesson.txt",
+    "wordCount": 36,
+    "suggestedNext": "/drills/email-salutations-and-complimentary-closings/lesson.txt"
+  },
+  {
+    "title": "Email Salutations and Complimentary Closings",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/email-salutations-and-complimentary-closings/lesson.txt",
+    "wordCount": 49,
+    "suggestedNext": "/drills/homophones/lesson.txt"
+  },
+  {
+    "title": "Homophones",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/homophones/lesson.txt",
+    "wordCount": 999,
+    "suggestedNext": "/drills/pronouns/lesson.txt"
+  },
+  {
+    "title": "Pronouns",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/pronouns/lesson.txt",
+    "wordCount": 81,
+    "suggestedNext": "/drills/pronouns-continued/lesson.txt"
+  },
+  {
+    "title": "Pronouns Continued",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/pronouns-continued/lesson.txt",
+    "wordCount": 60,
+    "suggestedNext": "/drills/pronouns-contractions/lesson.txt"
+  },
+  {
+    "title": "Pronouns and Contractions",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/pronouns-contractions/lesson.txt",
+    "wordCount": 69,
+    "suggestedNext": "/drills/titles/lesson.txt"
+  },
+  {
+    "title": "Titles",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/titles/lesson.txt",
+    "wordCount": 21,
+    "suggestedNext": "/drills/calendar/lesson.txt"
+  },
+  {
+    "title": "Calendar",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/calendar/lesson.txt",
+    "wordCount": 24,
+    "suggestedNext": "/drills/time/lesson.txt"
+  },
+  {
+    "title": "Time",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/time/lesson.txt",
+    "wordCount": 62,
+    "suggestedNext": "/drills/emotions/lesson.txt"
+  },
+  {
+    "title": "Emotions",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/emotions/lesson.txt",
+    "wordCount": 104,
+    "suggestedNext": "/drills/superlatives/lesson.txt"
+  },
+  {
+    "title": "Superlatives",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/superlatives/lesson.txt",
+    "wordCount": 79,
+    "suggestedNext": "/drills/fr-fer/lesson.txt"
+  },
+  {
+    "title": "FR: -fer",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/fr-fer/lesson.txt",
+    "wordCount": 33,
+    "suggestedNext": "/drills/fr-ver/lesson.txt"
+  },
+  {
+    "title": "FR: -ver",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/fr-ver/lesson.txt",
+    "wordCount": 78,
+    "suggestedNext": "/drills/two-letter-words-common/lesson.txt"
+  },
+  {
+    "title": "Two Letter Words: Common",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/two-letter-words-common/lesson.txt",
+    "wordCount": 63,
+    "suggestedNext": "/drills/two-letter-words-rare/lesson.txt"
+  },
+  {
+    "title": "Two Letter Words: Rare",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/two-letter-words-rare/lesson.txt",
+    "wordCount": 51,
+    "suggestedNext": "/drills/cardinal-number-words/lesson.txt"
+  },
+  {
+    "title": "Cardinal Number Words",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/cardinal-number-words/lesson.txt",
+    "wordCount": 38,
+    "suggestedNext": "/drills/ordinal-number-words/lesson.txt"
+  },
+  {
+    "title": "Ordinal Number Words",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/ordinal-number-words/lesson.txt",
+    "wordCount": 38,
+    "suggestedNext": "/drills/apostrophes/lesson.txt"
+  },
+  {
+    "title": "Apostrophes",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/apostrophes/lesson.txt",
+    "wordCount": 415,
+    "overview": "/drills/apostrophes/lesson-overview.html",
+    "suggestedNext": "/drills/stenotypos/lesson.txt"
+  },
+  {
+    "title": "Stenotypos",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/stenotypos/lesson.txt",
+    "wordCount": 92,
+    "suggestedNext": "/drills/prefixes/lesson.txt"
+  },
+  {
+    "title": "Prefixes",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/prefixes/lesson.txt",
+    "wordCount": 40,
+    "suggestedNext": "/drills/suffixes/lesson.txt"
+  },
+  {
+    "title": "Suffixes",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/suffixes/lesson.txt",
+    "wordCount": 141,
+    "suggestedNext": "/drills/suffix-and-prefix-briefs/lesson.txt"
+  },
+  {
+    "title": "Suffix and prefix briefs",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/suffix-and-prefix-briefs/lesson.txt",
+    "wordCount": 35,
+    "suggestedNext": "/drills/steno-party-tricks/lesson.txt"
+  },
+  {
+    "title": "Steno party tricks",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/steno-party-tricks/lesson.txt",
+    "wordCount": 22,
+    "suggestedNext": "/drills/jade-gg-phrasing-briefs/lesson.txt"
+  },
+  {
+    "title": "Jade-GG: phrasing briefs",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/jade-gg-phrasing-briefs/lesson.txt",
+    "wordCount": 2081,
+    "overview": "/drills/jade-gg-phrasing-briefs/lesson-overview.html",
+    "suggestedNext": "/collections/user-experience/ux-vocabulary/lesson.txt"
+  },
+  {
+    "title": "UX design vocabulary",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "User experience design",
+    "path": "/collections/user-experience/ux-vocabulary/lesson.txt",
+    "wordCount": 179,
+    "suggestedNext": "/collections/tech/markdown/lesson.txt"
+  },
+  {
+    "title": "Markdown",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Tech",
+    "path": "/collections/tech/markdown/lesson.txt",
+    "wordCount": 19,
+    "suggestedNext": "/collections/tech/html/lesson.txt"
+  },
+  {
+    "title": "HTML",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Tech",
+    "path": "/collections/tech/html/lesson.txt",
+    "wordCount": 25,
+    "suggestedNext": "/collections/tech/css-alignment/lesson.txt"
+  },
+  {
+    "title": "CSS alignment",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Tech",
+    "path": "/collections/tech/css-alignment/lesson.txt",
+    "wordCount": 15,
+    "suggestedNext": "/collections/tech/css-media-object/lesson.txt"
+  },
+  {
+    "title": "CSS media object",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Tech",
+    "path": "/collections/tech/css-media-object/lesson.txt",
+    "wordCount": 13,
+    "suggestedNext": "/collections/tech/css-declarations/lesson.txt"
+  },
+  {
+    "title": "CSS declarations",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Tech",
+    "path": "/collections/tech/css-declarations/lesson.txt",
+    "wordCount": 26,
+    "suggestedNext": "/collections/tech/javascript-keywords/lesson.txt"
+  },
+  {
+    "title": "JavaScript keywords",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Tech",
+    "path": "/collections/tech/javascript-keywords/lesson.txt",
+    "wordCount": 43,
+    "suggestedNext": "/collections/tech/javascript-objects-properties-methods/lesson.txt"
+  },
+  {
+    "title": "JavaScript objects, properties, and methods",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Tech",
+    "path": "/collections/tech/javascript-objects-properties-methods/lesson.txt",
+    "wordCount": 20,
+    "suggestedNext": "/collections/tech/javascript-html-event-handlers/lesson.txt"
+  },
+  {
+    "title": "JavaScript HTML event handlers",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Tech",
+    "path": "/collections/tech/javascript-html-event-handlers/lesson.txt",
+    "wordCount": 12,
+    "suggestedNext": "/collections/tech/javascript-dom-events/lesson.txt"
+  },
+  {
+    "title": "JavaScript DOM events",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Tech",
+    "path": "/collections/tech/javascript-dom-events/lesson.txt",
+    "wordCount": 111,
+    "suggestedNext": "/collections/tech/react/lesson.txt"
+  },
+  {
+    "title": "React",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Tech",
+    "path": "/collections/tech/react/lesson.txt",
+    "wordCount": 59,
+    "suggestedNext": "/collections/tech/git/lesson.txt"
+  },
+  {
+    "title": "Git",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Tech",
+    "path": "/collections/tech/git/lesson.txt",
+    "wordCount": 24,
+    "suggestedNext": "/collections/tech/ruby/lesson.txt"
+  },
+  {
+    "title": "Ruby",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Tech",
+    "path": "/collections/tech/ruby/lesson.txt",
+    "wordCount": 137,
+    "suggestedNext": "/collections/tech/jquery/lesson.txt"
+  },
+  {
+    "title": "jQuery",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Tech",
+    "path": "/collections/tech/jquery/lesson.txt",
+    "wordCount": 17,
+    "suggestedNext": "/collections/tech/haxe/lesson.txt"
+  },
+  {
+    "title": "Haxe",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Tech",
+    "path": "/collections/tech/haxe/lesson.txt",
+    "wordCount": 23,
+    "suggestedNext": "/collections/medical/medical-suffixes/lesson.txt"
+  },
+  {
+    "title": "Medical suffixes",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Medical",
+    "path": "/collections/medical/medical-suffixes/lesson.txt",
+    "wordCount": 8,
+    "suggestedNext": "/collections/medical/medical-nouns/lesson.txt"
+  },
+  {
+    "title": "Medical nouns",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Medical",
+    "path": "/collections/medical/medical-nouns/lesson.txt",
+    "wordCount": 21,
+    "suggestedNext": "/collections/medical/medical-prefixes/lesson.txt"
+  },
+  {
+    "title": "Medical prefixes",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Medical",
+    "path": "/collections/medical/medical-prefixes/lesson.txt",
+    "wordCount": 6,
+    "suggestedNext": "/collections/human-resources/hris-vocabulary/lesson.txt"
+  },
+  {
+    "title": "Human Resources vocabulary",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Human resources (HR)",
+    "path": "/collections/human-resources/hris-vocabulary/lesson.txt",
+    "wordCount": 136,
+    "suggestedNext": "/collections/two-key-briefs/two-key-briefs-S--S--Z/lesson.txt"
+  },
+  {
+    "title": "Two-key briefs S-*, *-S, and *-Z",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/collections/two-key-briefs/two-key-briefs-S--S--Z/lesson.txt",
+    "wordCount": 13,
+    "suggestedNext": "/collections/two-key-briefs/two-key-briefs-T/lesson.txt"
+  },
+  {
+    "title": "Two-key briefs T-*",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/collections/two-key-briefs/two-key-briefs-T/lesson.txt",
+    "wordCount": 12,
+    "suggestedNext": "/collections/two-key-briefs/two-key-briefs-K/lesson.txt"
+  },
+  {
+    "title": "Two-key briefs K-*",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/collections/two-key-briefs/two-key-briefs-K/lesson.txt",
+    "wordCount": 12,
+    "suggestedNext": "/collections/two-key-briefs/two-key-briefs-P/lesson.txt"
+  },
+  {
+    "title": "Two-key briefs P-*",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/collections/two-key-briefs/two-key-briefs-P/lesson.txt",
+    "wordCount": 6,
+    "suggestedNext": "/collections/two-key-briefs/two-key-briefs-W/lesson.txt"
+  },
+  {
+    "title": "Two-key briefs W-*",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/collections/two-key-briefs/two-key-briefs-W/lesson.txt",
+    "wordCount": 10,
+    "suggestedNext": "/collections/two-key-briefs/two-key-briefs-H/lesson.txt"
+  },
+  {
+    "title": "Two-key briefs H-*",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/collections/two-key-briefs/two-key-briefs-H/lesson.txt",
+    "wordCount": 8,
+    "suggestedNext": "/collections/two-key-briefs/two-key-briefs-R/lesson.txt"
+  },
+  {
+    "title": "Two-key briefs R-*",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/collections/two-key-briefs/two-key-briefs-R/lesson.txt",
+    "wordCount": 8,
+    "suggestedNext": "/collections/two-key-briefs/two-key-briefs-A/lesson.txt"
+  },
+  {
+    "title": "Two-key briefs A-*",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/collections/two-key-briefs/two-key-briefs-A/lesson.txt",
+    "wordCount": 12,
+    "suggestedNext": "/collections/two-key-briefs/two-key-briefs-O/lesson.txt"
+  },
+  {
+    "title": "Two-key briefs O-*",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/collections/two-key-briefs/two-key-briefs-O/lesson.txt",
+    "wordCount": 12,
+    "suggestedNext": "/collections/two-key-briefs/two-key-briefs-E/lesson.txt"
+  },
+  {
+    "title": "Two-key briefs E-*",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/collections/two-key-briefs/two-key-briefs-E/lesson.txt",
+    "wordCount": 11,
+    "suggestedNext": "/collections/two-key-briefs/two-key-briefs-U/lesson.txt"
+  },
+  {
+    "title": "Two-key briefs U-*",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/collections/two-key-briefs/two-key-briefs-U/lesson.txt",
+    "wordCount": 16,
+    "suggestedNext": "/collections/two-key-briefs/two-key-briefs--F/lesson.txt"
+  },
+  {
+    "title": "Two-key briefs *-F",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/collections/two-key-briefs/two-key-briefs--F/lesson.txt",
+    "wordCount": 10,
+    "suggestedNext": "/collections/two-key-briefs/two-key-briefs--R/lesson.txt"
+  },
+  {
+    "title": "Two-key briefs *-R",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/collections/two-key-briefs/two-key-briefs--R/lesson.txt",
+    "wordCount": 7,
+    "suggestedNext": "/collections/two-key-briefs/two-key-briefs--P/lesson.txt"
+  },
+  {
+    "title": "Two-key briefs *-P",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/collections/two-key-briefs/two-key-briefs--P/lesson.txt",
+    "wordCount": 4,
+    "suggestedNext": "/collections/two-key-briefs/two-key-briefs--B/lesson.txt"
+  },
+  {
+    "title": "Two-key briefs *-B",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/collections/two-key-briefs/two-key-briefs--B/lesson.txt",
+    "wordCount": 5,
+    "suggestedNext": "/collections/two-key-briefs/two-key-briefs--L/lesson.txt"
+  },
+  {
+    "title": "Two-key briefs *-L",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/collections/two-key-briefs/two-key-briefs--L/lesson.txt",
+    "wordCount": 6,
+    "suggestedNext": "/collections/two-key-briefs/two-key-briefs--G/lesson.txt"
+  },
+  {
+    "title": "Two-key briefs *-G",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/collections/two-key-briefs/two-key-briefs--G/lesson.txt",
+    "wordCount": 8,
+    "suggestedNext": "/collections/two-key-briefs/two-key-briefs--T/lesson.txt"
+  },
+  {
+    "title": "Two-key briefs *-T",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/collections/two-key-briefs/two-key-briefs--T/lesson.txt",
+    "wordCount": 9,
+    "suggestedNext": "/collections/two-key-briefs/two-key-briefs--D/lesson.txt"
+  },
+  {
+    "title": "Two-key briefs *-D",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-key briefs",
+    "path": "/collections/two-key-briefs/two-key-briefs--D/lesson.txt",
+    "wordCount": 6,
+    "suggestedNext": "/collections/two-word-briefs-same-beginnings/how/lesson.txt"
+  },
+  {
+    "title": "Two-word briefs How *",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/collections/two-word-briefs-same-beginnings/how/lesson.txt",
+    "wordCount": 18,
+    "suggestedNext": "/collections/two-word-briefs-same-beginnings/that/lesson.txt"
+  },
+  {
+    "title": "Two-word briefs That *",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/collections/two-word-briefs-same-beginnings/that/lesson.txt",
+    "wordCount": 22,
+    "suggestedNext": "/collections/two-word-briefs-same-beginnings/who/lesson.txt"
+  },
+  {
+    "title": "Two-word briefs Who *",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/collections/two-word-briefs-same-beginnings/who/lesson.txt",
+    "wordCount": 34,
+    "suggestedNext": "/collections/two-word-briefs-same-beginnings/you/lesson.txt"
+  },
+  {
+    "title": "Two-word briefs You *",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/collections/two-word-briefs-same-beginnings/you/lesson.txt",
+    "wordCount": 25,
+    "suggestedNext": "/collections/two-word-briefs-same-beginnings/with/lesson.txt"
+  },
+  {
+    "title": "Two-word briefs With *",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/collections/two-word-briefs-same-beginnings/with/lesson.txt",
+    "wordCount": 8,
+    "suggestedNext": "/collections/two-word-briefs-same-beginnings/what/lesson.txt"
+  },
+  {
+    "title": "Two-word briefs What *",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/collections/two-word-briefs-same-beginnings/what/lesson.txt",
+    "wordCount": 24,
+    "suggestedNext": "/collections/two-word-briefs-same-beginnings/the/lesson.txt"
+  },
+  {
+    "title": "Two-word briefs The *",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/collections/two-word-briefs-same-beginnings/the/lesson.txt",
+    "wordCount": 6,
+    "suggestedNext": "/collections/two-word-briefs-same-beginnings/there/lesson.txt"
+  },
+  {
+    "title": "Two-word briefs There *",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/collections/two-word-briefs-same-beginnings/there/lesson.txt",
+    "wordCount": 9,
+    "suggestedNext": "/collections/two-word-briefs-same-beginnings/he/lesson.txt"
+  },
+  {
+    "title": "Two-word briefs He *",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/collections/two-word-briefs-same-beginnings/he/lesson.txt",
+    "wordCount": 23,
+    "suggestedNext": "/collections/two-word-briefs-same-beginnings/on/lesson.txt"
+  },
+  {
+    "title": "Two-word briefs On *",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/collections/two-word-briefs-same-beginnings/on/lesson.txt",
+    "wordCount": 4,
+    "suggestedNext": "/collections/two-word-briefs-same-beginnings/and/lesson.txt"
+  },
+  {
+    "title": "Two-word briefs And *",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/collections/two-word-briefs-same-beginnings/and/lesson.txt",
+    "wordCount": 38,
+    "suggestedNext": "/collections/two-word-briefs-same-beginnings/we/lesson.txt"
+  },
+  {
+    "title": "Two-word briefs We *",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/collections/two-word-briefs-same-beginnings/we/lesson.txt",
+    "wordCount": 18,
+    "suggestedNext": "/collections/two-word-briefs-same-beginnings/too/lesson.txt"
+  },
+  {
+    "title": "Two-word briefs Too *",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/collections/two-word-briefs-same-beginnings/too/lesson.txt",
+    "wordCount": 10,
+    "suggestedNext": "/collections/two-word-briefs-same-beginnings/where/lesson.txt"
+  },
+  {
+    "title": "Two-word briefs Where *",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/collections/two-word-briefs-same-beginnings/where/lesson.txt",
+    "wordCount": 15,
+    "suggestedNext": "/collections/two-word-briefs-same-beginnings/they/lesson.txt"
+  },
+  {
+    "title": "Two-word briefs They *",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/collections/two-word-briefs-same-beginnings/they/lesson.txt",
+    "wordCount": 22,
+    "suggestedNext": "/collections/two-word-briefs-same-beginnings/it/lesson.txt"
+  },
+  {
+    "title": "Two-word briefs It *",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/collections/two-word-briefs-same-beginnings/it/lesson.txt",
+    "wordCount": 14,
+    "suggestedNext": "/collections/two-word-briefs-same-beginnings/which/lesson.txt"
+  },
+  {
+    "title": "Two-word briefs Which *",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/collections/two-word-briefs-same-beginnings/which/lesson.txt",
+    "wordCount": 5,
+    "suggestedNext": "/collections/two-word-briefs-same-beginnings/when/lesson.txt"
+  },
+  {
+    "title": "Two-word briefs When *",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/collections/two-word-briefs-same-beginnings/when/lesson.txt",
+    "wordCount": 16,
+    "suggestedNext": "/collections/two-word-briefs-same-beginnings/this/lesson.txt"
+  },
+  {
+    "title": "Two-word briefs This *",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/collections/two-word-briefs-same-beginnings/this/lesson.txt",
+    "wordCount": 17,
+    "suggestedNext": "/collections/two-word-briefs-same-beginnings/of/lesson.txt"
+  },
+  {
+    "title": "Two-word briefs Of *",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/collections/two-word-briefs-same-beginnings/of/lesson.txt",
+    "wordCount": 5,
+    "suggestedNext": "/collections/two-word-briefs-same-beginnings/would/lesson.txt"
+  },
+  {
+    "title": "Two-word briefs Would",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/collections/two-word-briefs-same-beginnings/would/lesson.txt",
+    "wordCount": 11,
+    "suggestedNext": "/collections/two-word-briefs-same-beginnings/she/lesson.txt"
+  },
+  {
+    "title": "Two-word briefs She",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same beginnings",
+    "path": "/collections/two-word-briefs-same-beginnings/she/lesson.txt",
+    "wordCount": 30,
+    "suggestedNext": "/collections/two-word-briefs-same-endings/in/lesson.txt"
+  },
+  {
+    "title": "Two-word briefs * in",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same endings",
+    "path": "/collections/two-word-briefs-same-endings/in/lesson.txt",
+    "wordCount": 37,
+    "suggestedNext": "/collections/two-word-briefs-same-endings/that/lesson.txt"
+  },
+  {
+    "title": "Two-word briefs * that",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same endings",
+    "path": "/collections/two-word-briefs-same-endings/that/lesson.txt",
+    "wordCount": 5,
+    "suggestedNext": "/collections/two-word-briefs-same-endings/be/lesson.txt"
+  },
+  {
+    "title": "Two-word briefs * be",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same endings",
+    "path": "/collections/two-word-briefs-same-endings/be/lesson.txt",
+    "wordCount": 8,
+    "suggestedNext": "/collections/two-word-briefs-same-endings/the/lesson.txt"
+  },
+  {
+    "title": "Two-word briefs * the",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same endings",
+    "path": "/collections/two-word-briefs-same-endings/the/lesson.txt",
+    "wordCount": 37,
+    "suggestedNext": "/collections/two-word-briefs-same-endings/had/lesson.txt"
+  },
+  {
+    "title": "Two-word briefs * had",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same endings",
+    "path": "/collections/two-word-briefs-same-endings/had/lesson.txt",
+    "wordCount": 9,
+    "suggestedNext": "/collections/two-word-briefs-same-endings/and/lesson.txt"
+  },
+  {
+    "title": "Two-word briefs * and",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same endings",
+    "path": "/collections/two-word-briefs-same-endings/and/lesson.txt",
+    "wordCount": 38,
+    "suggestedNext": "/collections/two-word-briefs-same-endings/is/lesson.txt"
+  },
+  {
+    "title": "Two-word briefs * is",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same endings",
+    "path": "/collections/two-word-briefs-same-endings/is/lesson.txt",
+    "wordCount": 80,
+    "suggestedNext": "/collections/two-word-briefs-same-endings/to/lesson.txt"
+  },
+  {
+    "title": "Two-word briefs * to",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same endings",
+    "path": "/collections/two-word-briefs-same-endings/to/lesson.txt",
+    "wordCount": 116,
+    "suggestedNext": "/collections/two-word-briefs-same-endings/of/lesson.txt"
+  },
+  {
+    "title": "Two-word briefs * of",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Two-word briefs, same endings",
+    "path": "/collections/two-word-briefs-same-endings/of/lesson.txt",
+    "wordCount": 38,
+    "suggestedNext": "/collections/irreversible-binomials/irreversible-binomials-with-opposites-and-antonyms/lesson.txt"
+  },
+  {
+    "title": "Irreversible binomials with opposites and antonyms",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Irreversible binomials",
+    "path": "/collections/irreversible-binomials/irreversible-binomials-with-opposites-and-antonyms/lesson.txt",
+    "wordCount": 99,
+    "suggestedNext": "/collections/irreversible-binomials/irreversible-binomials-with-related-words-and-synonyms/lesson.txt"
+  },
+  {
+    "title": "Irreversible binomials with related words and synonyms",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Irreversible binomials",
+    "path": "/collections/irreversible-binomials/irreversible-binomials-with-related-words-and-synonyms/lesson.txt",
+    "wordCount": 54,
+    "suggestedNext": "/collections/irreversible-binomials/irreversible-binomials-with-alliteration/lesson.txt"
+  },
+  {
+    "title": "Irreversible binomials with alliteration",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Irreversible binomials",
+    "path": "/collections/irreversible-binomials/irreversible-binomials-with-alliteration/lesson.txt",
+    "wordCount": 110,
+    "suggestedNext": "/collections/irreversible-binomials/irreversible-binomials-with-rhymes-and-similar-sounding-words/lesson.txt"
+  },
+  {
+    "title": "Irreversible binomials with rhymes and similar-sounding words",
+    "subtitle": "",
+    "category": "Collections",
+    "subcategory": "Irreversible binomials",
+    "path": "/collections/irreversible-binomials/irreversible-binomials-with-rhymes-and-similar-sounding-words/lesson.txt",
+    "wordCount": 68,
+    "suggestedNext": "/stories/proverbial-phrases/proverbial-phrases-starting-with-a/lesson.txt"
+  },
+  {
+    "title": "Proverbial phrases starting with A",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbial phrases",
+    "path": "/stories/proverbial-phrases/proverbial-phrases-starting-with-a/lesson.txt",
+    "wordCount": 394,
+    "suggestedNext": "/stories/proverbial-phrases/proverbial-phrases-starting-with-b/lesson.txt"
+  },
+  {
+    "title": "Proverbial phrases starting with B",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbial phrases",
+    "path": "/stories/proverbial-phrases/proverbial-phrases-starting-with-b/lesson.txt",
+    "wordCount": 138,
+    "suggestedNext": "/stories/proverbial-phrases/proverbial-phrases-starting-with-c/lesson.txt"
+  },
+  {
+    "title": "Proverbial phrases starting with C",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbial phrases",
+    "path": "/stories/proverbial-phrases/proverbial-phrases-starting-with-c/lesson.txt",
+    "wordCount": 103,
+    "suggestedNext": "/stories/proverbial-phrases/proverbial-phrases-starting-with-d/lesson.txt"
+  },
+  {
+    "title": "Proverbial phrases starting with D",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbial phrases",
+    "path": "/stories/proverbial-phrases/proverbial-phrases-starting-with-d/lesson.txt",
+    "wordCount": 330,
+    "suggestedNext": "/stories/proverbial-phrases/proverbial-phrases-starting-with-e/lesson.txt"
+  },
+  {
+    "title": "Proverbial phrases starting with E",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbial phrases",
+    "path": "/stories/proverbial-phrases/proverbial-phrases-starting-with-e/lesson.txt",
+    "wordCount": 165,
+    "suggestedNext": "/stories/proverbial-phrases/proverbial-phrases-starting-with-f/lesson.txt"
+  },
+  {
+    "title": "Proverbial phrases starting with F",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbial phrases",
+    "path": "/stories/proverbial-phrases/proverbial-phrases-starting-with-f/lesson.txt",
+    "wordCount": 163,
+    "suggestedNext": "/stories/proverbial-phrases/proverbial-phrases-starting-with-g/lesson.txt"
+  },
+  {
+    "title": "Proverbial phrases starting with G",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbial phrases",
+    "path": "/stories/proverbial-phrases/proverbial-phrases-starting-with-g/lesson.txt",
+    "wordCount": 87,
+    "suggestedNext": "/stories/proverbial-phrases/proverbial-phrases-starting-with-h/lesson.txt"
+  },
+  {
+    "title": "Proverbial phrases starting with H",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbial phrases",
+    "path": "/stories/proverbial-phrases/proverbial-phrases-starting-with-h/lesson.txt",
+    "wordCount": 198,
+    "suggestedNext": "/stories/proverbial-phrases/proverbial-phrases-starting-with-i/lesson.txt"
+  },
+  {
+    "title": "Proverbial phrases starting with I",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbial phrases",
+    "path": "/stories/proverbial-phrases/proverbial-phrases-starting-with-i/lesson.txt",
+    "wordCount": 655,
+    "suggestedNext": "/stories/proverbial-phrases/proverbial-phrases-starting-with-j/lesson.txt"
+  },
+  {
+    "title": "Proverbial phrases starting with J",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbial phrases",
+    "path": "/stories/proverbial-phrases/proverbial-phrases-starting-with-j/lesson.txt",
+    "wordCount": 14,
+    "suggestedNext": "/stories/proverbial-phrases/proverbial-phrases-starting-with-k/lesson.txt"
+  },
+  {
+    "title": "Proverbial phrases starting with K",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbial phrases",
+    "path": "/stories/proverbial-phrases/proverbial-phrases-starting-with-k/lesson.txt",
+    "wordCount": 61,
+    "suggestedNext": "/stories/proverbial-phrases/proverbial-phrases-starting-with-l/lesson.txt"
+  },
+  {
+    "title": "Proverbial phrases starting with L",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbial phrases",
+    "path": "/stories/proverbial-phrases/proverbial-phrases-starting-with-l/lesson.txt",
+    "wordCount": 193,
+    "suggestedNext": "/stories/proverbial-phrases/proverbial-phrases-starting-with-m/lesson.txt"
+  },
+  {
+    "title": "Proverbial phrases starting with M",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbial phrases",
+    "path": "/stories/proverbial-phrases/proverbial-phrases-starting-with-m/lesson.txt",
+    "wordCount": 217,
+    "suggestedNext": "/stories/proverbial-phrases/proverbial-phrases-starting-with-n/lesson.txt"
+  },
+  {
+    "title": "Proverbial phrases starting with N",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbial phrases",
+    "path": "/stories/proverbial-phrases/proverbial-phrases-starting-with-n/lesson.txt",
+    "wordCount": 183,
+    "suggestedNext": "/stories/proverbial-phrases/proverbial-phrases-starting-with-o/lesson.txt"
+  },
+  {
+    "title": "Proverbial phrases starting with O",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbial phrases",
+    "path": "/stories/proverbial-phrases/proverbial-phrases-starting-with-o/lesson.txt",
+    "wordCount": 198,
+    "suggestedNext": "/stories/proverbial-phrases/proverbial-phrases-starting-with-p/lesson.txt"
+  },
+  {
+    "title": "Proverbial phrases starting with P",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbial phrases",
+    "path": "/stories/proverbial-phrases/proverbial-phrases-starting-with-p/lesson.txt",
+    "wordCount": 86,
+    "suggestedNext": "/stories/proverbial-phrases/proverbial-phrases-starting-with-r/lesson.txt"
+  },
+  {
+    "title": "Proverbial phrases starting with R",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbial phrases",
+    "path": "/stories/proverbial-phrases/proverbial-phrases-starting-with-r/lesson.txt",
+    "wordCount": 48,
+    "suggestedNext": "/stories/proverbial-phrases/proverbial-phrases-starting-with-s/lesson.txt"
+  },
+  {
+    "title": "Proverbial phrases starting with S",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbial phrases",
+    "path": "/stories/proverbial-phrases/proverbial-phrases-starting-with-s/lesson.txt",
+    "wordCount": 186,
+    "suggestedNext": "/stories/proverbial-phrases/proverbial-phrases-starting-with-t/lesson.txt"
+  },
+  {
+    "title": "Proverbial phrases starting with T",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbial phrases",
+    "path": "/stories/proverbial-phrases/proverbial-phrases-starting-with-t/lesson.txt",
+    "wordCount": 808,
+    "suggestedNext": "/stories/proverbial-phrases/proverbial-phrases-starting-with-u/lesson.txt"
+  },
+  {
+    "title": "Proverbial phrases starting with U",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbial phrases",
+    "path": "/stories/proverbial-phrases/proverbial-phrases-starting-with-u/lesson.txt",
+    "wordCount": 30,
+    "suggestedNext": "/stories/proverbial-phrases/proverbial-phrases-starting-with-v/lesson.txt"
+  },
+  {
+    "title": "Proverbial phrases starting with V",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbial phrases",
+    "path": "/stories/proverbial-phrases/proverbial-phrases-starting-with-v/lesson.txt",
+    "wordCount": 11,
+    "suggestedNext": "/stories/proverbial-phrases/proverbial-phrases-starting-with-w/lesson.txt"
+  },
+  {
+    "title": "Proverbial phrases starting with W",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbial phrases",
+    "path": "/stories/proverbial-phrases/proverbial-phrases-starting-with-w/lesson.txt",
+    "wordCount": 288,
+    "suggestedNext": "/stories/proverbial-phrases/proverbial-phrases-starting-with-y/lesson.txt"
+  },
+  {
+    "title": "Proverbial phrases starting with Y",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbial phrases",
+    "path": "/stories/proverbial-phrases/proverbial-phrases-starting-with-y/lesson.txt",
+    "wordCount": 187,
+    "suggestedNext": "/stories/proverbial-phrases/proverbial-phrases-starting-with-z/lesson.txt"
+  },
+  {
+    "title": "Proverbial phrases starting with Z",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbial phrases",
+    "path": "/stories/proverbial-phrases/proverbial-phrases-starting-with-z/lesson.txt",
+    "wordCount": 7,
+    "suggestedNext": "/stories/proverbs/proverbs-starting-with-a/lesson.txt"
+  },
+  {
+    "title": "Proverbs starting with A",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbs",
+    "path": "/stories/proverbs/proverbs-starting-with-a/lesson.txt",
+    "wordCount": 363,
+    "suggestedNext": "/stories/proverbs/proverbs-starting-with-b/lesson.txt"
+  },
+  {
+    "title": "Proverbs starting with B",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbs",
+    "path": "/stories/proverbs/proverbs-starting-with-b/lesson.txt",
+    "wordCount": 84,
+    "suggestedNext": "/stories/proverbs/proverbs-starting-with-c/lesson.txt"
+  },
+  {
+    "title": "Proverbs starting with C",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbs",
+    "path": "/stories/proverbs/proverbs-starting-with-c/lesson.txt",
+    "wordCount": 47,
+    "suggestedNext": "/stories/proverbs/proverbs-starting-with-d/lesson.txt"
+  },
+  {
+    "title": "Proverbs starting with D",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbs",
+    "path": "/stories/proverbs/proverbs-starting-with-d/lesson.txt",
+    "wordCount": 185,
+    "suggestedNext": "/stories/proverbs/proverbs-starting-with-e/lesson.txt"
+  },
+  {
+    "title": "Proverbs starting with E",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbs",
+    "path": "/stories/proverbs/proverbs-starting-with-e/lesson.txt",
+    "wordCount": 90,
+    "suggestedNext": "/stories/proverbs/proverbs-starting-with-f/lesson.txt"
+  },
+  {
+    "title": "Proverbs starting with F",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbs",
+    "path": "/stories/proverbs/proverbs-starting-with-f/lesson.txt",
+    "wordCount": 61,
+    "suggestedNext": "/stories/proverbs/proverbs-starting-with-g/lesson.txt"
+  },
+  {
+    "title": "Proverbs starting with G",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbs",
+    "path": "/stories/proverbs/proverbs-starting-with-g/lesson.txt",
+    "wordCount": 64,
+    "suggestedNext": "/stories/proverbs/proverbs-starting-with-h/lesson.txt"
+  },
+  {
+    "title": "Proverbs starting with H",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbs",
+    "path": "/stories/proverbs/proverbs-starting-with-h/lesson.txt",
+    "wordCount": 106,
+    "suggestedNext": "/stories/proverbs/proverbs-starting-with-i/lesson.txt"
+  },
+  {
+    "title": "Proverbs starting with I",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbs",
+    "path": "/stories/proverbs/proverbs-starting-with-i/lesson.txt",
+    "wordCount": 273,
+    "suggestedNext": "/stories/proverbs/proverbs-starting-with-l/lesson.txt"
+  },
+  {
+    "title": "Proverbs starting with L",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbs",
+    "path": "/stories/proverbs/proverbs-starting-with-l/lesson.txt",
+    "wordCount": 67,
+    "suggestedNext": "/stories/proverbs/proverbs-starting-with-m/lesson.txt"
+  },
+  {
+    "title": "Proverbs starting with M",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbs",
+    "path": "/stories/proverbs/proverbs-starting-with-m/lesson.txt",
+    "wordCount": 32,
+    "suggestedNext": "/stories/proverbs/proverbs-starting-with-n/lesson.txt"
+  },
+  {
+    "title": "Proverbs starting with N",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbs",
+    "path": "/stories/proverbs/proverbs-starting-with-n/lesson.txt",
+    "wordCount": 70,
+    "suggestedNext": "/stories/proverbs/proverbs-starting-with-o/lesson.txt"
+  },
+  {
+    "title": "Proverbs starting with O",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbs",
+    "path": "/stories/proverbs/proverbs-starting-with-o/lesson.txt",
+    "wordCount": 40,
+    "suggestedNext": "/stories/proverbs/proverbs-starting-with-p/lesson.txt"
+  },
+  {
+    "title": "Proverbs starting with P",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbs",
+    "path": "/stories/proverbs/proverbs-starting-with-p/lesson.txt",
+    "wordCount": 59,
+    "suggestedNext": "/stories/proverbs/proverbs-starting-with-r/lesson.txt"
+  },
+  {
+    "title": "Proverbs starting with R",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbs",
+    "path": "/stories/proverbs/proverbs-starting-with-r/lesson.txt",
+    "wordCount": 12,
+    "suggestedNext": "/stories/proverbs/proverbs-starting-with-s/lesson.txt"
+  },
+  {
+    "title": "Proverbs starting with S",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbs",
+    "path": "/stories/proverbs/proverbs-starting-with-s/lesson.txt",
+    "wordCount": 36,
+    "suggestedNext": "/stories/proverbs/proverbs-starting-with-t/lesson.txt"
+  },
+  {
+    "title": "Proverbs starting with T",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbs",
+    "path": "/stories/proverbs/proverbs-starting-with-t/lesson.txt",
+    "wordCount": 256,
+    "suggestedNext": "/stories/proverbs/proverbs-starting-with-u/lesson.txt"
+  },
+  {
+    "title": "Proverbs starting with U",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbs",
+    "path": "/stories/proverbs/proverbs-starting-with-u/lesson.txt",
+    "wordCount": 6,
+    "suggestedNext": "/stories/proverbs/proverbs-starting-with-v/lesson.txt"
+  },
+  {
+    "title": "Proverbs starting with V",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbs",
+    "path": "/stories/proverbs/proverbs-starting-with-v/lesson.txt",
+    "wordCount": 6,
+    "suggestedNext": "/stories/proverbs/proverbs-starting-with-w/lesson.txt"
+  },
+  {
+    "title": "Proverbs starting with W",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbs",
+    "path": "/stories/proverbs/proverbs-starting-with-w/lesson.txt",
+    "wordCount": 124,
+    "suggestedNext": "/stories/proverbs/proverbs-starting-with-y/lesson.txt"
+  },
+  {
+    "title": "Proverbs starting with Y",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Proverbs",
+    "path": "/stories/proverbs/proverbs-starting-with-y/lesson.txt",
+    "wordCount": 124,
+    "suggestedNext": "/stories/charles-perrault/the-fairy/lesson.txt"
+  },
+  {
+    "title": "The Fairy",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Charles Perrault’s Fairy Tales",
+    "path": "/stories/charles-perrault/the-fairy/lesson.txt",
+    "wordCount": 913,
+    "suggestedNext": "/stories/charles-perrault/little-red-riding-hood/lesson.txt"
+  },
+  {
+    "title": "Little Red Riding-Hood",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Charles Perrault’s Fairy Tales",
+    "path": "/stories/charles-perrault/little-red-riding-hood/lesson.txt",
+    "wordCount": 667,
+    "suggestedNext": "/stories/charles-perrault/cinderilla-or-the-little-glass-slipper/lesson.txt"
+  },
+  {
+    "title": "Cinderilla or the Little Glass Slipper",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Charles Perrault’s Fairy Tales",
+    "path": "/stories/charles-perrault/cinderilla-or-the-little-glass-slipper/lesson.txt",
+    "wordCount": 2566,
+    "suggestedNext": "/stories/charles-perrault/blue-beard/lesson.txt"
+  },
+  {
+    "title": "Blue Beard",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Charles Perrault’s Fairy Tales",
+    "path": "/stories/charles-perrault/blue-beard/lesson.txt",
+    "wordCount": 1853,
+    "suggestedNext": "/stories/charles-perrault/the-ridiculous-wishes/lesson.txt"
+  },
+  {
+    "title": "The Ridiculous Wishes",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Charles Perrault’s Fairy Tales",
+    "path": "/stories/charles-perrault/the-ridiculous-wishes/lesson.txt",
+    "wordCount": 1048,
+    "suggestedNext": "/stories/charles-perrault/donkey-skin/lesson.txt"
+  },
+  {
+    "title": "Donkey-Skin",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Charles Perrault’s Fairy Tales",
+    "path": "/stories/charles-perrault/donkey-skin/lesson.txt",
+    "wordCount": 4813,
+    "suggestedNext": "/stories/charles-perrault/the-sleeping-beauty-in-the-wood/lesson.txt"
+  },
+  {
+    "title": "The Sleeping Beauty in the Wood",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Charles Perrault’s Fairy Tales",
+    "path": "/stories/charles-perrault/the-sleeping-beauty-in-the-wood/lesson.txt",
+    "wordCount": 3702,
+    "suggestedNext": "/stories/charles-perrault/little-thumb/lesson.txt"
+  },
+  {
+    "title": "Little Thumb",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Charles Perrault’s Fairy Tales",
+    "path": "/stories/charles-perrault/little-thumb/lesson.txt",
+    "wordCount": 3729,
+    "suggestedNext": "/stories/charles-perrault/riquet-with-the-tuft/lesson.txt"
+  },
+  {
+    "title": "Riquet With the Tuft",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Charles Perrault’s Fairy Tales",
+    "path": "/stories/charles-perrault/riquet-with-the-tuft/lesson.txt",
+    "wordCount": 2585,
+    "suggestedNext": "/stories/charles-perrault/the-master-cat-or-puss-in-boots/lesson.txt"
+  },
+  {
+    "title": "The Master Cat or Puss in Boots",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Charles Perrault’s Fairy Tales",
+    "path": "/stories/charles-perrault/the-master-cat-or-puss-in-boots/lesson.txt",
+    "wordCount": 1719,
+    "suggestedNext": "/stories/hans-christian-andersen/the-ugly-duckling/lesson.txt"
+  },
+  {
+    "title": "The Ugly Duckling",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-ugly-duckling/lesson.txt",
+    "wordCount": 3773,
+    "suggestedNext": "/stories/hans-christian-andersen/the-angel/lesson.txt"
+  },
+  {
+    "title": "The Angel",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-angel/lesson.txt",
+    "wordCount": 954,
+    "suggestedNext": "/stories/hans-christian-andersen/the-tinder-box/lesson.txt"
+  },
+  {
+    "title": "The Tinder-Box",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-tinder-box/lesson.txt",
+    "wordCount": 2882,
+    "suggestedNext": "/stories/hans-christian-andersen/the-drop-of-water/lesson.txt"
+  },
+  {
+    "title": "The Drop of Water",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-drop-of-water/lesson.txt",
+    "wordCount": 588,
+    "suggestedNext": "/stories/hans-christian-andersen/ole-luk-oie-the-dream-god/lesson.txt"
+  },
+  {
+    "title": "Ole-Luk-Oie, the Dream-God",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/ole-luk-oie-the-dream-god/lesson.txt",
+    "wordCount": 3937,
+    "suggestedNext": "/stories/hans-christian-andersen/a-great-grief/lesson.txt"
+  },
+  {
+    "title": "A Great Grief",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/a-great-grief/lesson.txt",
+    "wordCount": 748,
+    "suggestedNext": "/stories/hans-christian-andersen/the-jewish-maiden/lesson.txt"
+  },
+  {
+    "title": "The Jewish Maiden",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-jewish-maiden/lesson.txt",
+    "wordCount": 1842,
+    "suggestedNext": "/stories/hans-christian-andersen/the-psyche/lesson.txt"
+  },
+  {
+    "title": "The Psyche",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-psyche/lesson.txt",
+    "wordCount": 4693,
+    "suggestedNext": "/stories/hans-christian-andersen/everything-in-the-right-place/lesson.txt"
+  },
+  {
+    "title": "Everything in the Right Place",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/everything-in-the-right-place/lesson.txt",
+    "wordCount": 3125,
+    "suggestedNext": "/stories/hans-christian-andersen/the-thorny-road-of-honor/lesson.txt"
+  },
+  {
+    "title": "The Thorny Road of Honor",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-thorny-road-of-honor/lesson.txt",
+    "wordCount": 1582,
+    "suggestedNext": "/stories/hans-christian-andersen/a-story/lesson.txt"
+  },
+  {
+    "title": "A Story",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/a-story/lesson.txt",
+    "wordCount": 1729,
+    "suggestedNext": "/stories/hans-christian-andersen/the-dumb-book/lesson.txt"
+  },
+  {
+    "title": "The Dumb Book",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-dumb-book/lesson.txt",
+    "wordCount": 697,
+    "suggestedNext": "/stories/hans-christian-andersen/two-brothers/lesson.txt"
+  },
+  {
+    "title": "Two Brothers",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/two-brothers/lesson.txt",
+    "wordCount": 730,
+    "suggestedNext": "/stories/hans-christian-andersen/the-portuguese-duck/lesson.txt"
+  },
+  {
+    "title": "The Portuguese Duck",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-portuguese-duck/lesson.txt",
+    "wordCount": 2185,
+    "suggestedNext": "/stories/hans-christian-andersen/little-tiny-or-thumbelina/lesson.txt"
+  },
+  {
+    "title": "Little Tiny or Thumbelina",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/little-tiny-or-thumbelina/lesson.txt",
+    "wordCount": 4331,
+    "suggestedNext": "/stories/hans-christian-andersen/jack-the-dullard/lesson.txt"
+  },
+  {
+    "title": "Jack the Dullard",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/jack-the-dullard/lesson.txt",
+    "wordCount": 1617,
+    "suggestedNext": "/stories/hans-christian-andersen/the-child-in-the-grave/lesson.txt"
+  },
+  {
+    "title": "The Child in the Grave",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-child-in-the-grave/lesson.txt",
+    "wordCount": 1758,
+    "suggestedNext": "/stories/hans-christian-andersen/the-bird-of-popular-song/lesson.txt"
+  },
+  {
+    "title": "The Bird of Popular Song",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-bird-of-popular-song/lesson.txt",
+    "wordCount": 1193,
+    "suggestedNext": "/stories/hans-christian-andersen/the-girl-who-trod-on-the-loaf/lesson.txt"
+  },
+  {
+    "title": "The Girl Who Trod on the Loaf",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-girl-who-trod-on-the-loaf/lesson.txt",
+    "wordCount": 2449,
+    "suggestedNext": "/stories/hans-christian-andersen/the-beetle-who-went-on-his-travels/lesson.txt"
+  },
+  {
+    "title": "The Beetle Who Went on His Travels",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-beetle-who-went-on-his-travels/lesson.txt",
+    "wordCount": 2997,
+    "suggestedNext": "/stories/hans-christian-andersen/the-puppet-show-man/lesson.txt"
+  },
+  {
+    "title": "The Puppet-Show Man",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-puppet-show-man/lesson.txt",
+    "wordCount": 1660,
+    "suggestedNext": "/stories/hans-christian-andersen/the-old-house/lesson.txt"
+  },
+  {
+    "title": "The Old House",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-old-house/lesson.txt",
+    "wordCount": 3089,
+    "suggestedNext": "/stories/hans-christian-andersen/the-swineherd/lesson.txt"
+  },
+  {
+    "title": "The Swineherd",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-swineherd/lesson.txt",
+    "wordCount": 1511,
+    "suggestedNext": "/stories/hans-christian-andersen/there-is-no-doubt-about-it/lesson.txt"
+  },
+  {
+    "title": "There Is No Doubt About It",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/there-is-no-doubt-about-it/lesson.txt",
+    "wordCount": 843,
+    "suggestedNext": "/stories/hans-christian-andersen/the-neighbouring-families/lesson.txt"
+  },
+  {
+    "title": "The Neighbouring Families",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-neighbouring-families/lesson.txt",
+    "wordCount": 3628,
+    "suggestedNext": "/stories/hans-christian-andersen/the-pea-blossom/lesson.txt"
+  },
+  {
+    "title": "The Pea Blossom",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-pea-blossom/lesson.txt",
+    "wordCount": 1314,
+    "suggestedNext": "/stories/hans-christian-andersen/the-red-shoes/lesson.txt"
+  },
+  {
+    "title": "The Red Shoes",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-red-shoes/lesson.txt",
+    "wordCount": 2270,
+    "suggestedNext": "/stories/hans-christian-andersen/the-shirt-collar/lesson.txt"
+  },
+  {
+    "title": "The Shirt-Collar",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-shirt-collar/lesson.txt",
+    "wordCount": 930,
+    "suggestedNext": "/stories/hans-christian-andersen/the-snail-and-the-rose-tree/lesson.txt"
+  },
+  {
+    "title": "The Snail and the Rose-Tree",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-snail-and-the-rose-tree/lesson.txt",
+    "wordCount": 854,
+    "suggestedNext": "/stories/hans-christian-andersen/the-golden-treasure/lesson.txt"
+  },
+  {
+    "title": "The Golden Treasure",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-golden-treasure/lesson.txt",
+    "wordCount": 3082,
+    "suggestedNext": "/stories/hans-christian-andersen/beauty-of-form-and-beauty-of-mind/lesson.txt"
+  },
+  {
+    "title": "Beauty of Form and Beauty of Mind",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/beauty-of-form-and-beauty-of-mind/lesson.txt",
+    "wordCount": 2742,
+    "suggestedNext": "/stories/hans-christian-andersen/the-butterfly/lesson.txt"
+  },
+  {
+    "title": "The Butterfly",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-butterfly/lesson.txt",
+    "wordCount": 965,
+    "suggestedNext": "/stories/hans-christian-andersen/she-was-good-for-nothing/lesson.txt"
+  },
+  {
+    "title": "She Was Good for Nothing",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/she-was-good-for-nothing/lesson.txt",
+    "wordCount": 3013,
+    "suggestedNext": "/stories/hans-christian-andersen/the-top-and-ball/lesson.txt"
+  },
+  {
+    "title": "The Top and Ball",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-top-and-ball/lesson.txt",
+    "wordCount": 896,
+    "suggestedNext": "/stories/hans-christian-andersen/the-phoenix-bird/lesson.txt"
+  },
+  {
+    "title": "The Phoenix Bird",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-phoenix-bird/lesson.txt",
+    "wordCount": 499,
+    "suggestedNext": "/stories/hans-christian-andersen/the-little-elder-tree-mother/lesson.txt"
+  },
+  {
+    "title": "The Little Elder-Tree Mother",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-little-elder-tree-mother/lesson.txt",
+    "wordCount": 2974,
+    "suggestedNext": "/stories/hans-christian-andersen/the-loveliest-rose-in-the-world/lesson.txt"
+  },
+  {
+    "title": "The Loveliest Rose in the World",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-loveliest-rose-in-the-world/lesson.txt",
+    "wordCount": 820,
+    "suggestedNext": "/stories/hans-christian-andersen/the-elf-of-the-rose/lesson.txt"
+  },
+  {
+    "title": "The Elf of the Rose",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-elf-of-the-rose/lesson.txt",
+    "wordCount": 1985,
+    "suggestedNext": "/stories/hans-christian-andersen/the-goblin-and-the-huckster/lesson.txt"
+  },
+  {
+    "title": "The Goblin and the Huckster",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-goblin-and-the-huckster/lesson.txt",
+    "wordCount": 1536,
+    "suggestedNext": "/stories/hans-christian-andersen/two-maidens/lesson.txt"
+  },
+  {
+    "title": "Two Maidens",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/two-maidens/lesson.txt",
+    "wordCount": 663,
+    "suggestedNext": "/stories/hans-christian-andersen/the-farm-yard-cock-and-the-weather-cock/lesson.txt"
+  },
+  {
+    "title": "The Farm-Yard Cock and the Weather-Cock",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-farm-yard-cock-and-the-weather-cock/lesson.txt",
+    "wordCount": 849,
+    "suggestedNext": "/stories/hans-christian-andersen/the-toad/lesson.txt"
+  },
+  {
+    "title": "The Toad",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-toad/lesson.txt",
+    "wordCount": 2829,
+    "suggestedNext": "/stories/hans-christian-andersen/the-sunbeam-and-the-captive/lesson.txt"
+  },
+  {
+    "title": "The Sunbeam and the Captive",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-sunbeam-and-the-captive/lesson.txt",
+    "wordCount": 364,
+    "suggestedNext": "/stories/hans-christian-andersen/the-old-grave-stone/lesson.txt"
+  },
+  {
+    "title": "The Old Grave-Stone",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-old-grave-stone/lesson.txt",
+    "wordCount": 1276,
+    "suggestedNext": "/stories/hans-christian-andersen/the-saucy-boy/lesson.txt"
+  },
+  {
+    "title": "The Saucy Boy",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-saucy-boy/lesson.txt",
+    "wordCount": 762,
+    "suggestedNext": "/stories/hans-christian-andersen/the-last-pearl/lesson.txt"
+  },
+  {
+    "title": "The Last Pearl",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-last-pearl/lesson.txt",
+    "wordCount": 948,
+    "suggestedNext": "/stories/hans-christian-andersen/something/lesson.txt"
+  },
+  {
+    "title": "Something",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/something/lesson.txt",
+    "wordCount": 2778,
+    "suggestedNext": "/stories/hans-christian-andersen/the-bell/lesson.txt"
+  },
+  {
+    "title": "The Bell",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-bell/lesson.txt",
+    "wordCount": 1959,
+    "suggestedNext": "/stories/hans-christian-andersen/grandmother/lesson.txt"
+  },
+  {
+    "title": "Grandmother",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/grandmother/lesson.txt",
+    "wordCount": 734,
+    "suggestedNext": "/stories/hans-christian-andersen/the-flax/lesson.txt"
+  },
+  {
+    "title": "The Flax",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-flax/lesson.txt",
+    "wordCount": 1732,
+    "suggestedNext": "/stories/hans-christian-andersen/the-flying-trunk/lesson.txt"
+  },
+  {
+    "title": "The Flying Trunk",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-flying-trunk/lesson.txt",
+    "wordCount": 2194,
+    "suggestedNext": "/stories/hans-christian-andersen/the-storks/lesson.txt"
+  },
+  {
+    "title": "The Storks",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-storks/lesson.txt",
+    "wordCount": 1883,
+    "suggestedNext": "/stories/hans-christian-andersen/the-will-o-the-wisp-is-in-the-town-says-the-moor-woman/lesson.txt"
+  },
+  {
+    "title": "The Will-O-the Wisp Is in the Town, Says the Moor Woman",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-will-o-the-wisp-is-in-the-town-says-the-moor-woman/lesson.txt",
+    "wordCount": 4585,
+    "suggestedNext": "/stories/hans-christian-andersen/the-snow-man/lesson.txt"
+  },
+  {
+    "title": "The Snow Man",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-snow-man/lesson.txt",
+    "wordCount": 1963,
+    "suggestedNext": "/stories/hans-christian-andersen/the-silver-shilling/lesson.txt"
+  },
+  {
+    "title": "The Silver Shilling",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-silver-shilling/lesson.txt",
+    "wordCount": 1903,
+    "suggestedNext": "/stories/hans-christian-andersen/the-snowdrop/lesson.txt"
+  },
+  {
+    "title": "The Snowdrop",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-snowdrop/lesson.txt",
+    "wordCount": 1497,
+    "suggestedNext": "/stories/hans-christian-andersen/the-last-dream-of-the-old-oak/lesson.txt"
+  },
+  {
+    "title": "The Last Dream of the Old Oak",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-last-dream-of-the-old-oak/lesson.txt",
+    "wordCount": 2220,
+    "suggestedNext": "/stories/hans-christian-andersen/holger-danske/lesson.txt"
+  },
+  {
+    "title": "Holger Danske",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/holger-danske/lesson.txt",
+    "wordCount": 1743,
+    "suggestedNext": "/stories/hans-christian-andersen/little-tuk/lesson.txt"
+  },
+  {
+    "title": "Little Tuk",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/little-tuk/lesson.txt",
+    "wordCount": 1583,
+    "suggestedNext": "/stories/hans-christian-andersen/ib-and-little-christina/lesson.txt"
+  },
+  {
+    "title": "Ib and Little Christina",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/ib-and-little-christina/lesson.txt",
+    "wordCount": 4737,
+    "suggestedNext": "/stories/hans-christian-andersen/the-happy-family/lesson.txt"
+  },
+  {
+    "title": "The Happy Family",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-happy-family/lesson.txt",
+    "wordCount": 1303,
+    "suggestedNext": "/stories/hans-christian-andersen/the-old-church-bell/lesson.txt"
+  },
+  {
+    "title": "The Old Church Bell",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-old-church-bell/lesson.txt",
+    "wordCount": 2052,
+    "suggestedNext": "/stories/hans-christian-andersen/little-idas-flowers/lesson.txt"
+  },
+  {
+    "title": "Little Ida's Flowers",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/little-idas-flowers/lesson.txt",
+    "wordCount": 2945,
+    "suggestedNext": "/stories/hans-christian-andersen/our-aunt/lesson.txt"
+  },
+  {
+    "title": "Our Aunt",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/our-aunt/lesson.txt",
+    "wordCount": 2295,
+    "suggestedNext": "/stories/hans-christian-andersen/the-races/lesson.txt"
+  },
+  {
+    "title": "The Races",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-races/lesson.txt",
+    "wordCount": 1199,
+    "suggestedNext": "/stories/hans-christian-andersen/the-pen-and-the-inkstand/lesson.txt"
+  },
+  {
+    "title": "The Pen and the Inkstand",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-pen-and-the-inkstand/lesson.txt",
+    "wordCount": 886,
+    "suggestedNext": "/stories/hans-christian-andersen/the-little-match-seller/lesson.txt"
+  },
+  {
+    "title": "The Little Match-Seller",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-little-match-seller/lesson.txt",
+    "wordCount": 989,
+    "suggestedNext": "/stories/hans-christian-andersen/the-story-of-the-wind/lesson.txt"
+  },
+  {
+    "title": "The Story of the Wind",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-story-of-the-wind/lesson.txt",
+    "wordCount": 4313,
+    "suggestedNext": "/stories/hans-christian-andersen/the-bell-deep/lesson.txt"
+  },
+  {
+    "title": "The Bell-Deep",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-bell-deep/lesson.txt",
+    "wordCount": 1297,
+    "suggestedNext": "/stories/hans-christian-andersen/the-thistles-experiences/lesson.txt"
+  },
+  {
+    "title": "The Thistle's Experiences",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-thistles-experiences/lesson.txt",
+    "wordCount": 1437,
+    "suggestedNext": "/stories/hans-christian-andersen/ole-the-tower-keeper/lesson.txt"
+  },
+  {
+    "title": "Ole the Tower-Keeper",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/ole-the-tower-keeper/lesson.txt",
+    "wordCount": 4157,
+    "suggestedNext": "/stories/hans-christian-andersen/the-bishop-of-borglum-and-his-warriors/lesson.txt"
+  },
+  {
+    "title": "The Bishop of Borglum and His Warriors",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-bishop-of-borglum-and-his-warriors/lesson.txt",
+    "wordCount": 2479,
+    "suggestedNext": "/stories/hans-christian-andersen/childrens-prattle/lesson.txt"
+  },
+  {
+    "title": "Children's Prattle",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/childrens-prattle/lesson.txt",
+    "wordCount": 828,
+    "suggestedNext": "/stories/hans-christian-andersen/the-story-of-the-year/lesson.txt"
+  },
+  {
+    "title": "The Story of the Year",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-story-of-the-year/lesson.txt",
+    "wordCount": 3329,
+    "suggestedNext": "/stories/hans-christian-andersen/the-money-box/lesson.txt"
+  },
+  {
+    "title": "The Money-Box",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-money-box/lesson.txt",
+    "wordCount": 965,
+    "suggestedNext": "/stories/hans-christian-andersen/the-swans-nest/lesson.txt"
+  },
+  {
+    "title": "The Swan's Nest",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-swans-nest/lesson.txt",
+    "wordCount": 531,
+    "suggestedNext": "/stories/hans-christian-andersen/by-the-almshouse-window/lesson.txt"
+  },
+  {
+    "title": "By the Almshouse Window",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/by-the-almshouse-window/lesson.txt",
+    "wordCount": 672,
+    "suggestedNext": "/stories/hans-christian-andersen/the-story-of-a-mother/lesson.txt"
+  },
+  {
+    "title": "The Story of a Mother",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-story-of-a-mother/lesson.txt",
+    "wordCount": 2032,
+    "suggestedNext": "/stories/hans-christian-andersen/a-leaf-from-heaven/lesson.txt"
+  },
+  {
+    "title": "A Leaf From Heaven",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/a-leaf-from-heaven/lesson.txt",
+    "wordCount": 1038,
+    "suggestedNext": "/stories/hans-christian-andersen/in-the-uttermost-parts-of-the-sea/lesson.txt"
+  },
+  {
+    "title": "In the Uttermost Parts of the Sea",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/in-the-uttermost-parts-of-the-sea/lesson.txt",
+    "wordCount": 905,
+    "suggestedNext": "/stories/hans-christian-andersen/in-the-nursery/lesson.txt"
+  },
+  {
+    "title": "In the Nursery",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/in-the-nursery/lesson.txt",
+    "wordCount": 1138,
+    "suggestedNext": "/stories/hans-christian-andersen/the-nightingale/lesson.txt"
+  },
+  {
+    "title": "The Nightingale",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-nightingale/lesson.txt",
+    "wordCount": 3537,
+    "suggestedNext": "/stories/hans-christian-andersen/delaying-is-not-forgetting/lesson.txt"
+  },
+  {
+    "title": "Delaying Is Not Forgetting",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/delaying-is-not-forgetting/lesson.txt",
+    "wordCount": 1052,
+    "suggestedNext": "/stories/hans-christian-andersen/the-fir-tree/lesson.txt"
+  },
+  {
+    "title": "The Fir Tree",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-fir-tree/lesson.txt",
+    "wordCount": 3236,
+    "suggestedNext": "/stories/hans-christian-andersen/the-elfin-hill/lesson.txt"
+  },
+  {
+    "title": "The Elfin Hill",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-elfin-hill/lesson.txt",
+    "wordCount": 2497,
+    "suggestedNext": "/stories/hans-christian-andersen/the-buckwheat/lesson.txt"
+  },
+  {
+    "title": "The Buckwheat",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-buckwheat/lesson.txt",
+    "wordCount": 640,
+    "suggestedNext": "/stories/hans-christian-andersen/the-jumper/lesson.txt"
+  },
+  {
+    "title": "The Jumper",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-jumper/lesson.txt",
+    "wordCount": 668,
+    "suggestedNext": "/stories/hans-christian-andersen/the-emperors-new-suit/lesson.txt"
+  },
+  {
+    "title": "The Emperor's New Suit",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-emperors-new-suit/lesson.txt",
+    "wordCount": 1584,
+    "suggestedNext": "/stories/hans-christian-andersen/the-darning-needle/lesson.txt"
+  },
+  {
+    "title": "The Darning-Needle",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-darning-needle/lesson.txt",
+    "wordCount": 1191,
+    "suggestedNext": "/stories/hans-christian-andersen/the-shadow/lesson.txt"
+  },
+  {
+    "title": "The Shadow",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-shadow/lesson.txt",
+    "wordCount": 4934,
+    "suggestedNext": "/stories/hans-christian-andersen/the-windmill/lesson.txt"
+  },
+  {
+    "title": "The Windmill",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-windmill/lesson.txt",
+    "wordCount": 905,
+    "suggestedNext": "/stories/hans-christian-andersen/what-the-old-man-does-is-always-right/lesson.txt"
+  },
+  {
+    "title": "What the Old Man Does Is Always Right",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/what-the-old-man-does-is-always-right/lesson.txt",
+    "wordCount": 2075,
+    "suggestedNext": "/stories/hans-christian-andersen/the-storm-shakes-the-shield/lesson.txt"
+  },
+  {
+    "title": "The Storm Shakes the Shield",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-storm-shakes-the-shield/lesson.txt",
+    "wordCount": 1629,
+    "suggestedNext": "/stories/hans-christian-andersen/the-shepherdess-and-the-sheep/lesson.txt"
+  },
+  {
+    "title": "The Shepherdess and the Sheep",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-shepherdess-and-the-sheep/lesson.txt",
+    "wordCount": 1769,
+    "suggestedNext": "/stories/hans-christian-andersen/little-claus-and-big-claus/lesson.txt"
+  },
+  {
+    "title": "Little Claus and Big Claus",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/little-claus-and-big-claus/lesson.txt",
+    "wordCount": 4430,
+    "suggestedNext": "/stories/hans-christian-andersen/the-shepherds-story-of-the-bond-of-friendship/lesson.txt"
+  },
+  {
+    "title": "The Shepherd's Story of the Bond of Friendship",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-shepherds-story-of-the-bond-of-friendship/lesson.txt",
+    "wordCount": 3265,
+    "suggestedNext": "/stories/hans-christian-andersen/a-rose-from-homers-grave/lesson.txt"
+  },
+  {
+    "title": "A Rose From Homer's Grave",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/a-rose-from-homers-grave/lesson.txt",
+    "wordCount": 488,
+    "suggestedNext": "/stories/hans-christian-andersen/the-daisy/lesson.txt"
+  },
+  {
+    "title": "The Daisy",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-daisy/lesson.txt",
+    "wordCount": 1454,
+    "suggestedNext": "/stories/hans-christian-andersen/the-brave-tin-soldier/lesson.txt"
+  },
+  {
+    "title": "The Brave Tin Soldier",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-brave-tin-soldier/lesson.txt",
+    "wordCount": 1732,
+    "suggestedNext": "/stories/hans-christian-andersen/what-one-can-invent/lesson.txt"
+  },
+  {
+    "title": "What One Can Invent",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/what-one-can-invent/lesson.txt",
+    "wordCount": 1267,
+    "suggestedNext": "/stories/hans-christian-andersen/the-old-street-lamp/lesson.txt"
+  },
+  {
+    "title": "The Old Street Lamp",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-old-street-lamp/lesson.txt",
+    "wordCount": 2822,
+    "suggestedNext": "/stories/hans-christian-andersen/anne-lisbeth/lesson.txt"
+  },
+  {
+    "title": "Anne Lisbeth",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/anne-lisbeth/lesson.txt",
+    "wordCount": 4364,
+    "suggestedNext": "/stories/hans-christian-andersen/the-wicked-prince/lesson.txt"
+  },
+  {
+    "title": "The Wicked Prince",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-wicked-prince/lesson.txt",
+    "wordCount": 978,
+    "suggestedNext": "/stories/hans-christian-andersen/in-a-thousand-years/lesson.txt"
+  },
+  {
+    "title": "In a Thousand Years",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/in-a-thousand-years/lesson.txt",
+    "wordCount": 731,
+    "suggestedNext": "/stories/hans-christian-andersen/the-conceited-apple-branch/lesson.txt"
+  },
+  {
+    "title": "The Conceited Apple-Branch",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-conceited-apple-branch/lesson.txt",
+    "wordCount": 1348,
+    "suggestedNext": "/stories/hans-christian-andersen/the-metal-pig/lesson.txt"
+  },
+  {
+    "title": "The Metal Pig",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-metal-pig/lesson.txt",
+    "wordCount": 4217,
+    "suggestedNext": "/stories/hans-christian-andersen/the-mail-coach-passengers/lesson.txt"
+  },
+  {
+    "title": "The Mail-Coach Passengers",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-mail-coach-passengers/lesson.txt",
+    "wordCount": 1628,
+    "suggestedNext": "/stories/hans-christian-andersen/a-cheerful-temper/lesson.txt"
+  },
+  {
+    "title": "A Cheerful Temper",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/a-cheerful-temper/lesson.txt",
+    "wordCount": 1591,
+    "suggestedNext": "/stories/hans-christian-andersen/the-princess-and-the-pea/lesson.txt"
+  },
+  {
+    "title": "The Princess and the Pea",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-princess-and-the-pea/lesson.txt",
+    "wordCount": 379,
+    "suggestedNext": "/stories/hans-christian-andersen/the-bottle-neck/lesson.txt"
+  },
+  {
+    "title": "The Bottle Neck",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Hans Christian Andersen’s Fairy Tales",
+    "path": "/stories/hans-christian-andersen/the-bottle-neck/lesson.txt",
+    "wordCount": 4375,
+    "suggestedNext": "/stories/grimm/the-little-peasant/lesson.txt"
+  },
+  {
+    "title": "The Little Peasant",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/the-little-peasant/lesson.txt",
+    "wordCount": 2069,
+    "suggestedNext": "/stories/grimm/the-turnip/lesson.txt"
+  },
+  {
+    "title": "The Turnip",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/the-turnip/lesson.txt",
+    "wordCount": 1153,
+    "suggestedNext": "/stories/grimm/the-four-clever-brothers/lesson.txt"
+  },
+  {
+    "title": "The Four Clever Brothers",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/the-four-clever-brothers/lesson.txt",
+    "wordCount": 1698,
+    "suggestedNext": "/stories/grimm/the-golden-goose/lesson.txt"
+  },
+  {
+    "title": "The Golden Goose",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/the-golden-goose/lesson.txt",
+    "wordCount": 1582,
+    "suggestedNext": "/stories/grimm/clever-hans/lesson.txt"
+  },
+  {
+    "title": "Clever Hans",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/clever-hans/lesson.txt",
+    "wordCount": 895,
+    "suggestedNext": "/stories/grimm/the-elves-and-the-shoemaker/lesson.txt"
+  },
+  {
+    "title": "The Elves and the Shoemaker",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/the-elves-and-the-shoemaker/lesson.txt",
+    "wordCount": 743,
+    "suggestedNext": "/stories/grimm/the-adventures-of-chanticleer-and-partlet/lesson.txt"
+  },
+  {
+    "title": "The Adventures of Chanticleer and Partlet",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/the-adventures-of-chanticleer-and-partlet/lesson.txt",
+    "wordCount": 1871,
+    "suggestedNext": "/stories/grimm/the-willow-wren-and-the-bear/lesson.txt"
+  },
+  {
+    "title": "The Willow-Wren and the Bear",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/the-willow-wren-and-the-bear/lesson.txt",
+    "wordCount": 908,
+    "suggestedNext": "/stories/grimm/fundevogel/lesson.txt"
+  },
+  {
+    "title": "Fundevogel",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/fundevogel/lesson.txt",
+    "wordCount": 938,
+    "suggestedNext": "/stories/grimm/clever-elsie/lesson.txt"
+  },
+  {
+    "title": "Clever Elsie",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/clever-elsie/lesson.txt",
+    "wordCount": 1335,
+    "suggestedNext": "/stories/grimm/the-fox-and-the-horse/lesson.txt"
+  },
+  {
+    "title": "The Fox and the Horse",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/the-fox-and-the-horse/lesson.txt",
+    "wordCount": 490,
+    "suggestedNext": "/stories/grimm/the-blue-light/lesson.txt"
+  },
+  {
+    "title": "The Blue Light",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/the-blue-light/lesson.txt",
+    "wordCount": 1739,
+    "suggestedNext": "/stories/grimm/the-valiant-little-tailor/lesson.txt"
+  },
+  {
+    "title": "The Valiant Little Tailor",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/the-valiant-little-tailor/lesson.txt",
+    "wordCount": 3336,
+    "suggestedNext": "/stories/grimm/the-fox-and-the-cat/lesson.txt"
+  },
+  {
+    "title": "The Fox and the Cat",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/the-fox-and-the-cat/lesson.txt",
+    "wordCount": 292,
+    "suggestedNext": "/stories/grimm/the-water-of-life/lesson.txt"
+  },
+  {
+    "title": "The Water of Life",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/the-water-of-life/lesson.txt",
+    "wordCount": 2822,
+    "suggestedNext": "/stories/grimm/hansel-and-gretel/lesson.txt"
+  },
+  {
+    "title": "Hansel and Gretel",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/hansel-and-gretel/lesson.txt",
+    "wordCount": 2929,
+    "suggestedNext": "/stories/grimm/the-wedding-of-mrs-fox/lesson.txt"
+  },
+  {
+    "title": "The Wedding of Mrs Fox",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/the-wedding-of-mrs-fox/lesson.txt",
+    "wordCount": 785,
+    "suggestedNext": "/stories/grimm/the-wolf-and-the-seven-little-kids/lesson.txt"
+  },
+  {
+    "title": "The Wolf and the Seven Little Kids",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/the-wolf-and-the-seven-little-kids/lesson.txt",
+    "wordCount": 1099,
+    "suggestedNext": "/stories/grimm/the-twelve-huntsmen/lesson.txt"
+  },
+  {
+    "title": "The Twelve Huntsmen",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/the-twelve-huntsmen/lesson.txt",
+    "wordCount": 1059,
+    "suggestedNext": "/stories/grimm/clever-gretel/lesson.txt"
+  },
+  {
+    "title": "Clever Gretel",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/clever-gretel/lesson.txt",
+    "wordCount": 932,
+    "suggestedNext": "/stories/grimm/hans-in-luck/lesson.txt"
+  },
+  {
+    "title": "Hans in Luck",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/hans-in-luck/lesson.txt",
+    "wordCount": 2351,
+    "suggestedNext": "/stories/grimm/the-fisherman-and-his-wife/lesson.txt"
+  },
+  {
+    "title": "The Fisherman and His Wife",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/the-fisherman-and-his-wife/lesson.txt",
+    "wordCount": 2115,
+    "suggestedNext": "/stories/grimm/sweetheart-roland/lesson.txt"
+  },
+  {
+    "title": "Sweetheart Roland",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/sweetheart-roland/lesson.txt",
+    "wordCount": 1473,
+    "suggestedNext": "/stories/grimm/the-goose-girl/lesson.txt"
+  },
+  {
+    "title": "The Goose-Girl",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/the-goose-girl/lesson.txt",
+    "wordCount": 2220,
+    "suggestedNext": "/stories/grimm/jorinda-and-jorindel/lesson.txt"
+  },
+  {
+    "title": "Jorinda and Jorindel",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/jorinda-and-jorindel/lesson.txt",
+    "wordCount": 1133,
+    "suggestedNext": "/stories/grimm/the-miser-in-the-bush/lesson.txt"
+  },
+  {
+    "title": "The Miser in the Bush",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/the-miser-in-the-bush/lesson.txt",
+    "wordCount": 1166,
+    "suggestedNext": "/stories/grimm/the-old-man-and-his-grandson/lesson.txt"
+  },
+  {
+    "title": "The Old Man and His Grandson",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/the-old-man-and-his-grandson/lesson.txt",
+    "wordCount": 249,
+    "suggestedNext": "/stories/grimm/iron-hans/lesson.txt"
+  },
+  {
+    "title": "Iron Hans",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/iron-hans/lesson.txt",
+    "wordCount": 3208,
+    "suggestedNext": "/stories/grimm/lily-and-the-lion/lesson.txt"
+  },
+  {
+    "title": "Lily and the Lion",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/lily-and-the-lion/lesson.txt",
+    "wordCount": 2336,
+    "suggestedNext": "/stories/grimm/snow-white-and-rose-red/lesson.txt"
+  },
+  {
+    "title": "Snow-White and Rose-Red",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/snow-white-and-rose-red/lesson.txt",
+    "wordCount": 2421,
+    "suggestedNext": "/stories/grimm/the-travelling-musicians/lesson.txt"
+  },
+  {
+    "title": "The Travelling Musicians",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/the-travelling-musicians/lesson.txt",
+    "wordCount": 1361,
+    "suggestedNext": "/stories/grimm/the-mouse-the-bird-and-the-sausage/lesson.txt"
+  },
+  {
+    "title": "The Mouse, the Bird, and the Sausage",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/the-mouse-the-bird-and-the-sausage/lesson.txt",
+    "wordCount": 704,
+    "suggestedNext": "/stories/grimm/the-golden-bird/lesson.txt"
+  },
+  {
+    "title": "The Golden Bird",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/the-golden-bird/lesson.txt",
+    "wordCount": 2527,
+    "suggestedNext": "/stories/grimm/the-queen-bee/lesson.txt"
+  },
+  {
+    "title": "The Queen Bee",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/the-queen-bee/lesson.txt",
+    "wordCount": 850,
+    "suggestedNext": "/stories/grimm/the-story-of-the-youth-who-went-forth-to-learn-what-fear-was/lesson.txt"
+  },
+  {
+    "title": "The Story of the Youth Who Went Forth to Learn What Fear Was",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/the-story-of-the-youth-who-went-forth-to-learn-what-fear-was/lesson.txt",
+    "wordCount": 3780,
+    "suggestedNext": "/stories/grimm/doctor-knowall/lesson.txt"
+  },
+  {
+    "title": "Doctor Knowall",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/doctor-knowall/lesson.txt",
+    "wordCount": 778,
+    "suggestedNext": "/stories/grimm/tom-thumb/lesson.txt"
+  },
+  {
+    "title": "Tom Thumb",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/tom-thumb/lesson.txt",
+    "wordCount": 2501,
+    "suggestedNext": "/stories/grimm/briar-rose/lesson.txt"
+  },
+  {
+    "title": "Briar Rose",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/briar-rose/lesson.txt",
+    "wordCount": 1510,
+    "suggestedNext": "/stories/grimm/rapunzel/lesson.txt"
+  },
+  {
+    "title": "Rapunzel",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/rapunzel/lesson.txt",
+    "wordCount": 1401,
+    "suggestedNext": "/stories/grimm/cat-skin/lesson.txt"
+  },
+  {
+    "title": "Cat-Skin",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/cat-skin/lesson.txt",
+    "wordCount": 2125,
+    "suggestedNext": "/stories/grimm/the-straw-the-coal-and-the-bean/lesson.txt"
+  },
+  {
+    "title": "The Straw, the Coal, and the Bean",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/the-straw-the-coal-and-the-bean/lesson.txt",
+    "wordCount": 503,
+    "suggestedNext": "/stories/grimm/the-white-snake/lesson.txt"
+  },
+  {
+    "title": "The White Snake",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/the-white-snake/lesson.txt",
+    "wordCount": 1601,
+    "suggestedNext": "/stories/grimm/old-sultan/lesson.txt"
+  },
+  {
+    "title": "Old Sultan",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/old-sultan/lesson.txt",
+    "wordCount": 870,
+    "suggestedNext": "/stories/grimm/the-frog-prince/lesson.txt"
+  },
+  {
+    "title": "The Frog-Prince",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/the-frog-prince/lesson.txt",
+    "wordCount": 1192,
+    "suggestedNext": "/stories/grimm/the-three-languages/lesson.txt"
+  },
+  {
+    "title": "The Three Languages",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/the-three-languages/lesson.txt",
+    "wordCount": 946,
+    "suggestedNext": "/stories/grimm/rumpelstiltskin/lesson.txt"
+  },
+  {
+    "title": "Rumpelstiltskin",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/rumpelstiltskin/lesson.txt",
+    "wordCount": 1138,
+    "suggestedNext": "/stories/grimm/king-grisly-beard/lesson.txt"
+  },
+  {
+    "title": "King Grisly-Beard",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/king-grisly-beard/lesson.txt",
+    "wordCount": 1469,
+    "suggestedNext": "/stories/grimm/the-twelve-dancing-princesses/lesson.txt"
+  },
+  {
+    "title": "The Twelve Dancing Princesses",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/the-twelve-dancing-princesses/lesson.txt",
+    "wordCount": 1601,
+    "suggestedNext": "/stories/grimm/the-king-of-the-golden-mountain/lesson.txt"
+  },
+  {
+    "title": "The King of the Golden Mountain",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/the-king-of-the-golden-mountain/lesson.txt",
+    "wordCount": 2468,
+    "suggestedNext": "/stories/grimm/snowdrop/lesson.txt"
+  },
+  {
+    "title": "Snowdrop",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/snowdrop/lesson.txt",
+    "wordCount": 2380,
+    "suggestedNext": "/stories/grimm/the-dog-and-the-sparrow/lesson.txt"
+  },
+  {
+    "title": "The Dog and the Sparrow",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/the-dog-and-the-sparrow/lesson.txt",
+    "wordCount": 1342,
+    "suggestedNext": "/stories/grimm/cat-and-mouse-in-partnership/lesson.txt"
+  },
+  {
+    "title": "Cat and Mouse in Partnership",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/cat-and-mouse-in-partnership/lesson.txt",
+    "wordCount": 975,
+    "suggestedNext": "/stories/grimm/the-raven/lesson.txt"
+  },
+  {
+    "title": "The Raven",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/the-raven/lesson.txt",
+    "wordCount": 2412,
+    "suggestedNext": "/stories/grimm/mother-holle/lesson.txt"
+  },
+  {
+    "title": "Mother Holle",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/mother-holle/lesson.txt",
+    "wordCount": 2651,
+    "suggestedNext": "/stories/grimm/the-juniper-tree/lesson.txt"
+  },
+  {
+    "title": "The Juniper-Tree",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/the-juniper-tree/lesson.txt",
+    "wordCount": 3077,
+    "suggestedNext": "/stories/grimm/frederick-and-catherine/lesson.txt"
+  },
+  {
+    "title": "Frederick and Catherine",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/frederick-and-catherine/lesson.txt",
+    "wordCount": 1902,
+    "suggestedNext": "/stories/grimm/the-pink/lesson.txt"
+  },
+  {
+    "title": "The Pink",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/the-pink/lesson.txt",
+    "wordCount": 1800,
+    "suggestedNext": "/stories/grimm/ashputtel/lesson.txt"
+  },
+  {
+    "title": "Ashputtel",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/ashputtel/lesson.txt",
+    "wordCount": 2563,
+    "suggestedNext": "/stories/grimm/the-seven-ravens/lesson.txt"
+  },
+  {
+    "title": "The Seven Ravens",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/the-seven-ravens/lesson.txt",
+    "wordCount": 1008,
+    "suggestedNext": "/stories/grimm/the-robber-bridegroom/lesson.txt"
+  },
+  {
+    "title": "The Robber Bridegroom",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/the-robber-bridegroom/lesson.txt",
+    "wordCount": 1474,
+    "suggestedNext": "/stories/grimm/the-salad/lesson.txt"
+  },
+  {
+    "title": "The Salad",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Grimms’ Fairy Tales",
+    "path": "/stories/grimm/the-salad/lesson.txt",
+    "wordCount": 2189,
+    "suggestedNext": "/stories/fables/androcles/lesson.txt"
+  },
+  {
+    "title": "Androcles",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/androcles/lesson.txt",
+    "wordCount": 268,
+    "suggestedNext": "/stories/fables/avaricious-and-envious/lesson.txt"
+  },
+  {
+    "title": "Avaricious and Envious",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/avaricious-and-envious/lesson.txt",
+    "wordCount": 142,
+    "suggestedNext": "/stories/fables/belling-the-cat/lesson.txt"
+  },
+  {
+    "title": "Belling the Cat",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/belling-the-cat/lesson.txt",
+    "wordCount": 181,
+    "suggestedNext": "/stories/fables/hercules-and-the-waggoner/lesson.txt"
+  },
+  {
+    "title": "Hercules and the Waggoner",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/hercules-and-the-waggoner/lesson.txt",
+    "wordCount": 98,
+    "suggestedNext": "/stories/fables/the-ant-and-the-grasshopper/lesson.txt"
+  },
+  {
+    "title": "The Ant and the Grasshopper",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-ant-and-the-grasshopper/lesson.txt",
+    "wordCount": 150,
+    "suggestedNext": "/stories/fables/the-ass-and-the-lapdog/lesson.txt"
+  },
+  {
+    "title": "The Ass and the Lapdog",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-ass-and-the-lapdog/lesson.txt",
+    "wordCount": 160,
+    "suggestedNext": "/stories/fables/the-ass-in-the-lions-skin/lesson.txt"
+  },
+  {
+    "title": "The Ass in the Lion's Skin",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-ass-in-the-lions-skin/lesson.txt",
+    "wordCount": 107,
+    "suggestedNext": "/stories/fables/the-asss-brains/lesson.txt"
+  },
+  {
+    "title": "The Ass's Brains",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-asss-brains/lesson.txt",
+    "wordCount": 166,
+    "suggestedNext": "/stories/fables/the-bald-man-and-the-fly/lesson.txt"
+  },
+  {
+    "title": "The Bald Man and the Fly",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-bald-man-and-the-fly/lesson.txt",
+    "wordCount": 78,
+    "suggestedNext": "/stories/fables/the-bat-the-birds-and-the-beasts/lesson.txt"
+  },
+  {
+    "title": "The Bat, the Birds and the Beasts",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-bat-the-birds-and-the-beasts/lesson.txt",
+    "wordCount": 147,
+    "suggestedNext": "/stories/fables/the-belly-and-the-members/lesson.txt"
+  },
+  {
+    "title": "The Belly and the Members",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-belly-and-the-members/lesson.txt",
+    "wordCount": 155,
+    "suggestedNext": "/stories/fables/the-buffoon-and-the-countryman/lesson.txt"
+  },
+  {
+    "title": "The Buffoon and the Countryman",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-buffoon-and-the-countryman/lesson.txt",
+    "wordCount": 143,
+    "suggestedNext": "/stories/fables/the-bundle-of-sticks/lesson.txt"
+  },
+  {
+    "title": "The Bundle of Sticks",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-bundle-of-sticks/lesson.txt",
+    "wordCount": 106,
+    "suggestedNext": "/stories/fables/the-cat-maiden/lesson.txt"
+  },
+  {
+    "title": "The Cat-Maiden",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-cat-maiden/lesson.txt",
+    "wordCount": 126,
+    "suggestedNext": "/stories/fables/the-cock-and-the-pearl/lesson.txt"
+  },
+  {
+    "title": "The Cock and the Pearl",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-cock-and-the-pearl/lesson.txt",
+    "wordCount": 95,
+    "suggestedNext": "/stories/fables/the-crow-and-the-pitcher/lesson.txt"
+  },
+  {
+    "title": "The Crow and the Pitcher",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-crow-and-the-pitcher/lesson.txt",
+    "wordCount": 176,
+    "suggestedNext": "/stories/fables/the-dog-and-the-shadow/lesson.txt"
+  },
+  {
+    "title": "The Dog and the Shadow",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-dog-and-the-shadow/lesson.txt",
+    "wordCount": 118,
+    "suggestedNext": "/stories/fables/the-dog-and-the-wolf/lesson.txt"
+  },
+  {
+    "title": "The Dog and the Wolf",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-dog-and-the-wolf/lesson.txt",
+    "wordCount": 192,
+    "suggestedNext": "/stories/fables/the-dog-in-the-manger/lesson.txt"
+  },
+  {
+    "title": "The Dog in the Manger",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-dog-in-the-manger/lesson.txt",
+    "wordCount": 99,
+    "suggestedNext": "/stories/fables/the-eagle-and-the-arrow/lesson.txt"
+  },
+  {
+    "title": "The Eagle and the Arrow",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-eagle-and-the-arrow/lesson.txt",
+    "wordCount": 81,
+    "suggestedNext": "/stories/fables/the-fisher-and-the-little-fish/lesson.txt"
+  },
+  {
+    "title": "The Fisher and the Little Fish",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-fisher-and-the-little-fish/lesson.txt",
+    "wordCount": 85,
+    "suggestedNext": "/stories/fables/the-fisher/lesson.txt"
+  },
+  {
+    "title": "The Fisher",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-fisher/lesson.txt",
+    "wordCount": 96,
+    "suggestedNext": "/stories/fables/the-four-oxen-and-the-lion/lesson.txt"
+  },
+  {
+    "title": "The Four Oxen and the Lion",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-four-oxen-and-the-lion/lesson.txt",
+    "wordCount": 96,
+    "suggestedNext": "/stories/fables/the-fox-and-the-cat/lesson.txt"
+  },
+  {
+    "title": "The Fox and the Cat",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-fox-and-the-cat/lesson.txt",
+    "wordCount": 151,
+    "suggestedNext": "/stories/fables/the-fox-and-the-crow/lesson.txt"
+  },
+  {
+    "title": "The Fox and the Crow",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-fox-and-the-crow/lesson.txt",
+    "wordCount": 163,
+    "suggestedNext": "/stories/fables/the-fox-and-the-goat/lesson.txt"
+  },
+  {
+    "title": "The Fox and the Goat",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-fox-and-the-goat/lesson.txt",
+    "wordCount": 128,
+    "suggestedNext": "/stories/fables/the-fox-and-the-grapes/lesson.txt"
+  },
+  {
+    "title": "The Fox and the Grapes",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-fox-and-the-grapes/lesson.txt",
+    "wordCount": 116,
+    "suggestedNext": "/stories/fables/the-fox-and-the-lion/lesson.txt"
+  },
+  {
+    "title": "The Fox and the Lion",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-fox-and-the-lion/lesson.txt",
+    "wordCount": 97,
+    "suggestedNext": "/stories/fables/the-fox-and-the-mask/lesson.txt"
+  },
+  {
+    "title": "The Fox and the Mask",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-fox-and-the-mask/lesson.txt",
+    "wordCount": 75,
+    "suggestedNext": "/stories/fables/the-fox-and-the-mosquitoes/lesson.txt"
+  },
+  {
+    "title": "The Fox and the Mosquitoes",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-fox-and-the-mosquitoes/lesson.txt",
+    "wordCount": 121,
+    "suggestedNext": "/stories/fables/the-fox-and-the-stork/lesson.txt"
+  },
+  {
+    "title": "The Fox and the Stork",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-fox-and-the-stork/lesson.txt",
+    "wordCount": 181,
+    "suggestedNext": "/stories/fables/the-fox-the-cock-and-the-dog/lesson.txt"
+  },
+  {
+    "title": "The Fox, the Cock, and the Dog",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-fox-the-cock-and-the-dog/lesson.txt",
+    "wordCount": 169,
+    "suggestedNext": "/stories/fables/the-fox-without-a-tail/lesson.txt"
+  },
+  {
+    "title": "The Fox Without a Tail",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-fox-without-a-tail/lesson.txt",
+    "wordCount": 176,
+    "suggestedNext": "/stories/fables/the-frog-and-the-ox/lesson.txt"
+  },
+  {
+    "title": "The Frog and the Ox",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-frog-and-the-ox/lesson.txt",
+    "wordCount": 186,
+    "suggestedNext": "/stories/fables/the-frogs-desiring-a-king/lesson.txt"
+  },
+  {
+    "title": "The Frogs Desiring a King",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-frogs-desiring-a-king/lesson.txt",
+    "wordCount": 284,
+    "suggestedNext": "/stories/fables/the-goose-with-the-golden-eggs/lesson.txt"
+  },
+  {
+    "title": "The Goose With the Golden Eggs",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-goose-with-the-golden-eggs/lesson.txt",
+    "wordCount": 120,
+    "suggestedNext": "/stories/fables/the-hare-and-the-tortoise/lesson.txt"
+  },
+  {
+    "title": "The Hare and the Tortoise",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-hare-and-the-tortoise/lesson.txt",
+    "wordCount": 150,
+    "suggestedNext": "/stories/fables/the-hare-with-many-friends/lesson.txt"
+  },
+  {
+    "title": "The Hare With Many Friends",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-hare-with-many-friends/lesson.txt",
+    "wordCount": 269,
+    "suggestedNext": "/stories/fables/the-hares-and-the-frogs/lesson.txt"
+  },
+  {
+    "title": "The Hares and the Frogs",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-hares-and-the-frogs/lesson.txt",
+    "wordCount": 125,
+    "suggestedNext": "/stories/fables/the-hart-and-the-hunter/lesson.txt"
+  },
+  {
+    "title": "The Hart and the Hunter",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-hart-and-the-hunter/lesson.txt",
+    "wordCount": 134,
+    "suggestedNext": "/stories/fables/the-hart-in-the-ox-stall/lesson.txt"
+  },
+  {
+    "title": "The Hart in the Ox-Stall",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-hart-in-the-ox-stall/lesson.txt",
+    "wordCount": 132,
+    "suggestedNext": "/stories/fables/the-horse-and-the-ass/lesson.txt"
+  },
+  {
+    "title": "The Horse and the Ass",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-horse-and-the-ass/lesson.txt",
+    "wordCount": 100,
+    "suggestedNext": "/stories/fables/the-horse-hunter-and-stag/lesson.txt"
+  },
+  {
+    "title": "The Horse, Hunter, and Stag",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-horse-hunter-and-stag/lesson.txt",
+    "wordCount": 172,
+    "suggestedNext": "/stories/fables/the-jay-and-the-peacock/lesson.txt"
+  },
+  {
+    "title": "The Jay and the Peacock",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-jay-and-the-peacock/lesson.txt",
+    "wordCount": 106,
+    "suggestedNext": "/stories/fables/the-labourer-and-the-nightingale/lesson.txt"
+  },
+  {
+    "title": "The Labourer and the Nightingale",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-labourer-and-the-nightingale/lesson.txt",
+    "wordCount": 148,
+    "suggestedNext": "/stories/fables/the-lion-and-the-mouse/lesson.txt"
+  },
+  {
+    "title": "The Lion and the Mouse",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-lion-and-the-mouse/lesson.txt",
+    "wordCount": 184,
+    "suggestedNext": "/stories/fables/the-lion-and-the-statue/lesson.txt"
+  },
+  {
+    "title": "The Lion and the Statue",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-lion-and-the-statue/lesson.txt",
+    "wordCount": 104,
+    "suggestedNext": "/stories/fables/the-lion-in-love/lesson.txt"
+  },
+  {
+    "title": "The Lion in Love",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-lion-in-love/lesson.txt",
+    "wordCount": 160,
+    "suggestedNext": "/stories/fables/the-lion-the-fox-and-the-beasts/lesson.txt"
+  },
+  {
+    "title": "The Lion, the Fox, and the Beasts",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-lion-the-fox-and-the-beasts/lesson.txt",
+    "wordCount": 175,
+    "suggestedNext": "/stories/fables/the-lions-share/lesson.txt"
+  },
+  {
+    "title": "The Lion's Share",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-lions-share/lesson.txt",
+    "wordCount": 166,
+    "suggestedNext": "/stories/fables/the-man-and-his-two-wives/lesson.txt"
+  },
+  {
+    "title": "The Man and His Two Wives",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-man-and-his-two-wives/lesson.txt",
+    "wordCount": 142,
+    "suggestedNext": "/stories/fables/the-man-and-the-satyr/lesson.txt"
+  },
+  {
+    "title": "The Man and the Satyr",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-man-and-the-satyr/lesson.txt",
+    "wordCount": 179,
+    "suggestedNext": "/stories/fables/the-man-and-the-serpent/lesson.txt"
+  },
+  {
+    "title": "The Man and the Serpent",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-man-and-the-serpent/lesson.txt",
+    "wordCount": 155,
+    "suggestedNext": "/stories/fables/the-man-and-the-wood/lesson.txt"
+  },
+  {
+    "title": "The Man and the Wood",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-man-and-the-wood/lesson.txt",
+    "wordCount": 83,
+    "suggestedNext": "/stories/fables/the-man-and-the-wooden-god/lesson.txt"
+  },
+  {
+    "title": "The Man and the Wooden God",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-man-and-the-wooden-god/lesson.txt",
+    "wordCount": 101,
+    "suggestedNext": "/stories/fables/the-man-the-boy-and-the-donkey/lesson.txt"
+  },
+  {
+    "title": "The Man, the Boy, and the Donkey",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-man-the-boy-and-the-donkey/lesson.txt",
+    "wordCount": 308,
+    "suggestedNext": "/stories/fables/the-milkmaid-and-her-pail/lesson.txt"
+  },
+  {
+    "title": "The Milkmaid and Her Pail",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-milkmaid-and-her-pail/lesson.txt",
+    "wordCount": 169,
+    "suggestedNext": "/stories/fables/the-miser-and-his-gold/lesson.txt"
+  },
+  {
+    "title": "The Miser and His Gold",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-miser-and-his-gold/lesson.txt",
+    "wordCount": 149,
+    "suggestedNext": "/stories/fables/the-mountains-in-labour/lesson.txt"
+  },
+  {
+    "title": "The Mountains in Labour",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-mountains-in-labour/lesson.txt",
+    "wordCount": 130,
+    "suggestedNext": "/stories/fables/the-nurse-and-the-wolf/lesson.txt"
+  },
+  {
+    "title": "The Nurse and the Wolf",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-nurse-and-the-wolf/lesson.txt",
+    "wordCount": 154,
+    "suggestedNext": "/stories/fables/the-old-man-and-death/lesson.txt"
+  },
+  {
+    "title": "The Old Man and Death",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-old-man-and-death/lesson.txt",
+    "wordCount": 102,
+    "suggestedNext": "/stories/fables/the-old-woman-and-the-wine-jar/lesson.txt"
+  },
+  {
+    "title": "The Old Woman and the Wine-Jar",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-old-woman-and-the-wine-jar/lesson.txt",
+    "wordCount": 77,
+    "suggestedNext": "/stories/fables/the-one-eyed-doe/lesson.txt"
+  },
+  {
+    "title": "The One-Eyed Doe",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-one-eyed-doe/lesson.txt",
+    "wordCount": 110,
+    "suggestedNext": "/stories/fables/the-peacock-and-juno/lesson.txt"
+  },
+  {
+    "title": "The Peacock and Juno",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-peacock-and-juno/lesson.txt",
+    "wordCount": 52,
+    "suggestedNext": "/stories/fables/the-serpent-and-the-file/lesson.txt"
+  },
+  {
+    "title": "The Serpent and the File",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-serpent-and-the-file/lesson.txt",
+    "wordCount": 68,
+    "suggestedNext": "/stories/fables/the-shepherds-boy/lesson.txt"
+  },
+  {
+    "title": "The Shepherd's Boy",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-shepherds-boy/lesson.txt",
+    "wordCount": 192,
+    "suggestedNext": "/stories/fables/the-sick-lion/lesson.txt"
+  },
+  {
+    "title": "The Sick Lion",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-sick-lion/lesson.txt",
+    "wordCount": 127,
+    "suggestedNext": "/stories/fables/the-swallow-and-the-other-birds/lesson.txt"
+  },
+  {
+    "title": "The Swallow and the Other Birds",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-swallow-and-the-other-birds/lesson.txt",
+    "wordCount": 135,
+    "suggestedNext": "/stories/fables/the-tortoise-and-the-birds/lesson.txt"
+  },
+  {
+    "title": "The Tortoise and the Birds",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-tortoise-and-the-birds/lesson.txt",
+    "wordCount": 113,
+    "suggestedNext": "/stories/fables/the-town-mouse-and-the-country-mouse/lesson.txt"
+  },
+  {
+    "title": "The Town Mouse and the Country Mouse",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-town-mouse-and-the-country-mouse/lesson.txt",
+    "wordCount": 290,
+    "suggestedNext": "/stories/fables/the-tree-and-the-reed/lesson.txt"
+  },
+  {
+    "title": "The Tree and the Reed",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-tree-and-the-reed/lesson.txt",
+    "wordCount": 131,
+    "suggestedNext": "/stories/fables/the-trumpeter-taken-prisoner/lesson.txt"
+  },
+  {
+    "title": "The Trumpeter Taken Prisoner",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-trumpeter-taken-prisoner/lesson.txt",
+    "wordCount": 85,
+    "suggestedNext": "/stories/fables/the-two-crabs/lesson.txt"
+  },
+  {
+    "title": "The Two Crabs",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-two-crabs/lesson.txt",
+    "wordCount": 62,
+    "suggestedNext": "/stories/fables/the-two-fellows-and-the-bear/lesson.txt"
+  },
+  {
+    "title": "The Two Fellows and the Bear",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-two-fellows-and-the-bear/lesson.txt",
+    "wordCount": 136,
+    "suggestedNext": "/stories/fables/the-two-pots/lesson.txt"
+  },
+  {
+    "title": "The Two Pots",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-two-pots/lesson.txt",
+    "wordCount": 92,
+    "suggestedNext": "/stories/fables/the-wind-and-the-sun/lesson.txt"
+  },
+  {
+    "title": "The Wind and the Sun",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-wind-and-the-sun/lesson.txt",
+    "wordCount": 131,
+    "suggestedNext": "/stories/fables/the-wolf-and-the-crane/lesson.txt"
+  },
+  {
+    "title": "The Wolf and the Crane",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-wolf-and-the-crane/lesson.txt",
+    "wordCount": 180,
+    "suggestedNext": "/stories/fables/the-wolf-and-the-kid/lesson.txt"
+  },
+  {
+    "title": "The Wolf and the Kid",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-wolf-and-the-kid/lesson.txt",
+    "wordCount": 72,
+    "suggestedNext": "/stories/fables/the-wolf-and-the-lamb/lesson.txt"
+  },
+  {
+    "title": "The Wolf and the Lamb",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-wolf-and-the-lamb/lesson.txt",
+    "wordCount": 156,
+    "suggestedNext": "/stories/fables/the-wolf-in-sheeps-clothing/lesson.txt"
+  },
+  {
+    "title": "The Wolf in Sheep's Clothing",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-wolf-in-sheeps-clothing/lesson.txt",
+    "wordCount": 105,
+    "suggestedNext": "/stories/fables/the-woodman-and-the-serpent/lesson.txt"
+  },
+  {
+    "title": "The Woodman and the Serpent",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-woodman-and-the-serpent/lesson.txt",
+    "wordCount": 132,
+    "suggestedNext": "/stories/fables/the-young-thief-and-his-mother/lesson.txt"
+  },
+  {
+    "title": "The Young Thief and His Mother",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Aesop’s Fables",
+    "path": "/stories/fables/the-young-thief-and-his-mother/lesson.txt",
+    "wordCount": 170,
+    "suggestedNext": "/stories/margery-williams/the-velveteen-rabbit/lesson.txt"
+  },
+  {
+    "title": "The Velveteen Rabbit",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Margery Williams’s books",
+    "path": "/stories/margery-williams/the-velveteen-rabbit/lesson.txt",
+    "wordCount": 3873,
+    "suggestedNext": "/stories/queen-elizabeth-i/speech-to-the-troops-at-tilbury/lesson.txt"
+  },
+  {
+    "title": "Speech to the Troops at Tilbury",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Queen Elizabeth I’s speeches",
+    "path": "/stories/queen-elizabeth-i/speech-to-the-troops-at-tilbury/lesson.txt",
+    "wordCount": 311,
+    "suggestedNext": "/stories/virginia-woolf/a-haunted-house/lesson.txt"
+  },
+  {
+    "title": "A Haunted House",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Virginia Woolf",
+    "path": "/stories/virginia-woolf/a-haunted-house/lesson.txt",
+    "wordCount": 679,
+    "suggestedNext": "/stories/virginia-woolf/a-society/lesson.txt"
+  },
+  {
+    "title": "A Society",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Virginia Woolf",
+    "path": "/stories/virginia-woolf/a-society/lesson.txt",
+    "wordCount": 5348,
+    "suggestedNext": "/stories/virginia-woolf/monday-or-tuesday/lesson.txt"
+  },
+  {
+    "title": "Monday or Tuesday",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Virginia Woolf",
+    "path": "/stories/virginia-woolf/monday-or-tuesday/lesson.txt",
+    "wordCount": 290,
+    "suggestedNext": "/stories/virginia-woolf/an-unwritten-novel/lesson.txt"
+  },
+  {
+    "title": "An Unwritten Novel",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Virginia Woolf",
+    "path": "/stories/virginia-woolf/an-unwritten-novel/lesson.txt",
+    "wordCount": 4318,
+    "suggestedNext": "/stories/virginia-woolf/the-string-quartet/lesson.txt"
+  },
+  {
+    "title": "The String Quartet",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Virginia Woolf",
+    "path": "/stories/virginia-woolf/the-string-quartet/lesson.txt",
+    "wordCount": 1453,
+    "suggestedNext": "/stories/virginia-woolf/blue-and-green/lesson.txt"
+  },
+  {
+    "title": "Blue and Green",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Virginia Woolf",
+    "path": "/stories/virginia-woolf/blue-and-green/lesson.txt",
+    "wordCount": 261,
+    "suggestedNext": "/stories/virginia-woolf/kew-gardens/lesson.txt"
+  },
+  {
+    "title": "Kew Gardens",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Virginia Woolf",
+    "path": "/stories/virginia-woolf/kew-gardens/lesson.txt",
+    "wordCount": 2593,
+    "suggestedNext": "/stories/virginia-woolf/the-mark-on-the-wall/lesson.txt"
+  },
+  {
+    "title": "The Mark on the Wall",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Virginia Woolf",
+    "path": "/stories/virginia-woolf/the-mark-on-the-wall/lesson.txt",
+    "wordCount": 3084,
+    "suggestedNext": "/stories/banjo-paterson/the-man-from-snowy-river/lesson.txt"
+  },
+  {
+    "title": "The Man from Snowy River",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Banjo Paterson",
+    "path": "/stories/banjo-paterson/the-man-from-snowy-river/lesson.txt",
+    "wordCount": 1063,
+    "suggestedNext": "/stories/henry-handel-richardson/two-hanged-women/lesson.txt"
+  },
+  {
+    "title": "Two Hanged Women",
+    "subtitle": "",
+    "category": "Stories",
+    "subcategory": "Henry Handel Richardson",
+    "path": "/stories/henry-handel-richardson/two-hanged-women/lesson.txt",
+    "wordCount": 1875,
+    "suggestedNext": "/drills/top-10000-project-gutenberg-words/lesson.txt"
+  }
+]

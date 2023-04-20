@@ -1,0 +1,139 @@
+Human Resources vocabulary
+
+'human resources': HAOUPL/SRORSZ
+'HR': H*P/R*P
+'human resource information system': HREURS
+'HRIS': HR*EURS
+'HR business partner': H*P/R*P/PWEUS/PARPB
+'HRBP': H*P/R*P/PW*P/P*P
+'learning and development': HRERPBG/SKP/SREPLT
+'L&D': HR*P/SP-PBD/TK*P
+'applicant tracking system': AP/PHREU/KAPBT/TRABG/-G/S-PL
+'ATS': A*P/T*P/S*P
+'organizational development': ORG/A*L/SREPLT
+'OD': O*P/TK*P
+'organisational development': ORG/A*L/A*U/SREPLT
+'learning management system': HRERPBG/PH-GT/S-PL
+'LMS': HR*P/PR*P/S*P
+'human': HAOUPL
+'human capital': HAOUPL/KA*L
+'people': PAOEPL
+'person': PERPB
+'personal': PERPBL
+'personnel': PERPB/EL
+'progress': PROG
+'process': PROEUS
+'effective': TPEF
+'effectiveness': TPEFPBS
+'effectively': TPEFL
+'employee': PHROE
+'engaged': EPB/TKPWAEUPBLGD
+'engagement': EPB/TKPWAEUPLT
+'experience': SPAOERPBS
+'flourish': TPHRUR/EURB
+'vulnerable': SRUPBL
+'authenticity': AUFT/TEUFT
+'status': ST*TS
+'certainty': SERPBT
+'autonomy': AU/TOPB/PHEU
+'relatedness': RAELTD/-PBS
+'fairness': TPAEURPBS
+'mastery': PHAFT/REU
+'leadership': HRAOERP
+'influence': WEPBS
+'collaboration': KHRAB/RAEUGS
+'management': PH-GT
+'talent': THREPBT
+'labor': HRAEUB
+'labour': HRAEU/PWOUR
+'workforce': WORBG/TPORS
+'organization': ORGS
+'organisation': ORGS/A*U
+'recruitment': RE/KRAOUPLT
+'dismissal': STKPHEUS/A*L
+'diversity': TKWEFRT
+'inclusion': KHRUGS
+'compensation': KPEPBGS
+'benefits': PWEFS
+'payroll': PAEURL
+'collective bargaining': KHREBGT/T*EUF/PWAR/TKPWAEUPB/-G
+'motivation': PHOET/SRAEUGS
+'interpersonal': SPWR/PERPBL
+'growth': TKPWRO*ET
+'mindset': PHAOEUPBD/SET
+'performance': P-FRPBS
+'performs': PORPLS
+'equal opportunity': KWAL/TAOUPBT
+'vision': SREUGS
+'purpose': PURP
+'mission': PHEUGS
+'staff': STAF
+'volunteers': SROL/TAOERS
+'contractors': KR-T/O*RS
+'consultants': KULT/APBLT/-S
+'pride': PRAOEUD
+'proud': PROUD
+'skills': SKEULS
+'mobility': PHOEBLT
+'mobile': PHOEBL
+'connection': KEBGS
+'connected': KEBGTD
+'commitment': KPHUPLT
+'committed': KPHEUTD
+'present commitment': PREPBT/KPHEUPLT
+'future commitment': TPAOUFP/KPHEUPLT
+'recommendation': REPLGS
+'recommended': REPLD
+'empowerment': EPL/POURPLT
+'empowered': EPL/POURD
+'happiness': HAEP/-PBS
+'happy': HAEP
+'satisfaction': SAEBGS
+'satisfied': SAED
+'innovation': TPHO*FGS
+'innovates': EUPB/SRAEUTS
+'innovative': EUPB/SRAEUFT
+'turnover': TURPB/O*EFR
+'absenteeism': AB/SEPBT/EUFPL
+'absentees': AB/SEPB/TAOE/-S
+'productivity': PROUBGT/*EUFT
+'productive': PROUBG/EUF
+'proactive': PRO/ABGT/EUF
+'intrinsic motivation': SPWREUPBS/EUBG/PHOET/SRAEUGS
+'positive emotions': PEUF/AO*EGS/-S
+'pro-social behavior': PROE/H-PB/SOERBL/PWAEUFR
+'pro-social behaviour': PROE/H-PB/SOERBL/PWAEUFR/A*U
+'co-operation': KOE/PRAEUGS
+'survey': SOEUF
+'impact': EUPL/PABGT
+'communication': KAEUBGS
+'communicated': KPHAOUPB/KAEUT/-D
+'communicates': KPHAOUPB/KAEUTS
+'ownership': OERP
+'alignment': A/HRAOEUPLT
+'enablement': EPB/-BL/*PLT
+'feedback': TPAOEB
+'recognition': REBGS
+'recognized': REFD
+'recognised': REFD/A*U
+'quality': KWALT
+'pulse': PULS
+'insight': EUPB/SAOEUT
+'teamwork': TAOEPL/WO*RBG
+'relationships': R*EUPS
+'participant': PARPT
+'efficiently': TPAOERBL
+'efficient': TP-RBT
+'efficiency': AOERB
+'integrate': EUPBT/TKPWRAET
+'integration': SPWE/TKPWRAEUGS
+'Culture Amp': KURPLT
+'BambooHR': PWAO*PL
+'Namely': KPA/TPHAEUPL/HREU
+'Workday': WO*RBG/TKAEU
+'ELMO': *URP/EL/PHOE
+'Greenhouse': KPA/TKPWRAOEPB/HOUS
+'ADP': A*PD
+'UltiPro': ULT/PROE
+'Zenefits': PW*EFS
+warning_message=Hint: use the Human Resources dictionary

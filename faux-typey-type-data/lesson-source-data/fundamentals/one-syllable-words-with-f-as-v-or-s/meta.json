@@ -1,0 +1,20 @@
+{
+  "title": "One-syllable words with F as V or S",
+  "subtitle": "",
+  "category": "Fundamentals",
+  "subcategory": "",
+  "path": "/fundamentals/one-syllable-words-with-f-as-v-or-s/lesson.txt",
+  "vocabulary": ["didoesdigital/top-10000-project-gutenberg-words.json"],
+  "rules": {
+    "hasEfAsVeeOrEss": true,
+    "isOneSyllable": true,
+    "hasOnlyOneVowelKey": true,
+    "hasSomeConsonants": true,
+    "isSingleStroke": true,
+    "hasSimpleStenoKeys": true,
+    "hasInversion": false,
+    "hasStar": false,
+    "hasUnstressedVowels": false,
+    "isBrief": false
+  }
+}

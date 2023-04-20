@@ -1,0 +1,10 @@
+{
+"PH*PLT": "{#Control_L(e)}",
+"PHR*B": "{#Control_L(Super_L(Down))}",
+"PHR*P": "{#Control_L(Super_L(Up))}",
+"SPWAOEUD": "{#Super_L(k(b))}",
+"SPWHRAOEUPL/TEGT": "Sublime Text",
+"SUBL": "subl",
+"TKAO*UP": "{#Shift_L(Super_L(d))}",
+"WUZ/WUZ": "{#}"
+}

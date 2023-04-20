@@ -1,0 +1,11 @@
+{
+  "title": "Snow-White and Rose-Red",
+  "subtitle": "",
+  "category": "Stories",
+  "subcategory": "Grimms’ Fairy Tales",
+  "path": "/stories/grimm/snow-white-and-rose-red/lesson.txt",
+  "wordList": "words.txt",
+  "vocabulary": [
+    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
+  ]
+}

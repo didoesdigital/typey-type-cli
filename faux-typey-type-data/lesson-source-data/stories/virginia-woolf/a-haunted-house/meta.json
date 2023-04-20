@@ -1,0 +1,11 @@
+{
+  "title": "A Haunted House",
+  "subtitle": "",
+  "category": "Stories",
+  "subcategory": "Virginia Woolf",
+  "path": "/stories/virginia-woolf/a-haunted-house/lesson.txt",
+  "wordList": "words.txt",
+  "vocabulary": [
+    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
+  ]
+}

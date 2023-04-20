@@ -1,0 +1,15 @@
+JavaScript HTML event handlers
+
+'onblur': AUPB/PWHRUR
+'onclick': AUPB/KHREUBG
+'onerror': AUPB/ROEUR
+'onfocus': AUPB/TPOEUBGS
+'onkeydown': AUPB/KAOE/SKWROUPB
+'onkeypress': AUPB/KAOE/PRES
+'onkeyup': AUPB/KAOE/SKWRUP
+'onmouseover': AUPB/PHOUS/O*EFR
+'onload': AUPB/HRAOD
+'onmouseup': AUPB/PHOUS/SKWRUP
+'onmousedown': AUPB/PHOUS/SKWROUPB
+'onsubmit': AUPB/SPHEUT
+warning_message=Hint: use the relevant tech dictionary

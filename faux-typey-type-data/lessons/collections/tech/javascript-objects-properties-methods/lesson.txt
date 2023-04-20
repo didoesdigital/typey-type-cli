@@ -1,0 +1,23 @@
+JavaScript objects, properties, and methods
+
+'Array': A/RA*EU
+'Date': KPA/TKAEUT
+'eval': SRA*EL
+'function': TPUBGS
+'hasOwnProperty': HAS/OEPB/PROT
+'Infinity': KPA/TPEUPBT
+'isFinite': S/KPA*/TPAOEUPBT
+'isNaN': S/TPHAPB
+'isPrototypeOf': S/KPA*/PRO/TOE/TAOEUP/KPA*/-F
+'length': HREPBG
+'Math': KPA/PHA*T
+'NaN': TPHAPB
+'name': TPHAEUPL
+'Number': TPH*URPL
+'Object': PO*PB
+'prototype': PROET/TAOEUP
+'String': KPA/STREUPBG
+'toString': TO/STR*EUPBG
+'undefined': UPB/TKAOE/TPAOEUPBD
+'valueOf': SRAOUL/KPA*/-F
+warning_message=Hint: use the relevant tech dictionary
