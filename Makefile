@@ -4,6 +4,8 @@ default: help
 help:
 	@echo "Try reading the README"
 
+export LC_ALL := C # makes `sort` work consistently
+
 CLI := node ./build/index.js
 # CLI := npx ts-node ./src/index.ts
 # CLI := npx ts-node --transpile-only ./src/index.ts

@@ -10,7 +10,7 @@ You can support [Di’s efforts on Patreon](https://www.patreon.com/didoesdigita
 
 ## Development
 
-Note: I've only run all of this on a Mac. It mostly uses POSIX-compatible tools so it's probably fine on other systems. Please let me know what other systems you run it successfully on.
+Note: I've tested this on macOS and Linux. It mostly uses POSIX-compatible tools. Please let me know what other systems you run it successfully on.
 
 Note: both the source and output lesson data is committed in git so that it's easy to `git diff` and compare the impact of dictionary changes across all lessons.
 
