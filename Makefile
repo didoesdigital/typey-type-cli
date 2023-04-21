@@ -49,6 +49,7 @@ PLOVER_DICTIONARIES := $(shell find $(PLOVER_DICTIONARIES_DIR) -name '*.json')
 LESSON_HINTS_DICTIONARIES := $(shell find $(LESSON_HINTS_DICTIONARIES_DIR) -name '*.json')
 INDIVIDUAL_DICTIONARIES := $(shell find $(INDIVIDUAL_DICTIONARIES_DIR) -name '*.json')
 DICTIONARY_INDEX := $(DICTIONARIES_SRC_DIR)/dictionaryIndex.json
+TYPEY_TARGET_DICT_DIR := $(DICTIONARIES_TARGET_DIR)/typey-type/
 TOP_10_DICTIONARY := $(DICTIONARIES_SRC_DIR)/typey-type/top-10.json
 RECOMMENDATIONS := $(LESSON_SRC_DIR)/recommendations.json
 FLASHCARDS_RECOMMENDATIONS := $(LESSON_SRC_DIR)/flashcardsRecommendations.json
@@ -106,6 +107,7 @@ $(LESSON_INTERMEDIATE_DIR)/typey-type-standard-dict-set-combined.json: build/ind
 typey-type-dict: $(DATA_DIR)/dictionaries/typey-type/typey-type.json
 $(DATA_DIR)/dictionaries/typey-type/typey-type.json: build/index.js $(TYPEY_TYPE_DICTIONARIES) $(ALL_TS_FILES)
 	@mkdir -p "$(DICTIONARY_INTERMEDIATE_DIR)" # make sure intermediate dictionary directory exists before adding subdirectories inside them
+	@mkdir -p "$(TYPEY_TARGET_DICT_DIR)" # make sure target typey-type subdirectory exists before adding files inside
 	@echo "Running build-typey-type-dictionary to build typey-type.json"
 	@$(CLI) build-typey-type-dictionary --target=$@
 
@@ -115,6 +117,7 @@ copy-dictionaries: build $(LESSON_HINTS_DICTIONARIES) $(INDIVIDUAL_DICTIONARIES)
 
 # build-recommendations-courses
 build-recommendations-courses: build $(RECOMMENDATIONS) $(FLASHCARDS_RECOMMENDATIONS)
+	@mkdir -p "$(LESSON_TARGET_DIR)"
 	@$(CLI) build-recommendations-courses
 
 # collect-misstrokes
