@@ -82,7 +82,9 @@ lessons: $(LESSONS_TARGETS)
 .SECONDEXPANSION:
 $(LESSONS_TARGETS): build/index.js $(ALL_TS_FILES) $(LESSON_INTERMEDIATE_DIR)/typey-type-standard-dict-set-combined.json $(TYPEY_TYPE_DICTIONARIES) $(LESSON_HINTS_DICTIONARIES) $(INDIVIDUAL_DICTIONARIES) $$(wildcard $$(patsubst $(DATA_DIR)/lessons/%/lesson.txt,$(LESSON_SRC_DIR)/%/lesson-overview.html,$$@)) $$(wildcard $$(patsubst $(DATA_DIR)/lessons/%/lesson.txt,$(LESSON_SRC_DIR)/%/words.txt,$$@)) $$(patsubst $(DATA_DIR)/lessons/%/lesson.txt,$(LESSON_SRC_DIR)/%/meta.json,$$@)
 	@mkdir -p "$$(dirname $@)" # make sure lesson target subdirectories exist before writing lesson file inside them
-	@mkdir -p "$$(dirname $(subst $(LESSON_TARGET_DIR),$(LESSON_INTERMEDIATE_DIR),$@))" # make sure intermediate lesson subdirectories exist before writing word count inside them
+	@mkdir -p "$(DICTIONARY_INTERMEDIATE_DIR)" # make sure intermediate dictionary directory exists before adding subdirectories inside them
+	@mkdir -p "$(LESSON_INTERMEDIATE_DIR)" # make sure intermediate lesson directory exists before adding subdirectories inside them
+	@mkdir -p "$$(dirname $(subst $(LESSON_TARGET_DIR),$(LESSON_INTERMEDIATE_DIR),$@))" # make sure intermediate lesson subdirectories exists before writing word count inside them
 	@$(CLI) build-lesson --target=$@ --metadata=$(lastword $^)
 
 # lesson-index
@@ -93,12 +95,15 @@ $(DATA_DIR)/lessons/lessonIndex.json: $(LESSON_INDEX_SRC) $(INTERMEDIATE_WORD_CO
 # intermediate-standard-dict
 intermediate-standard-dict: $(LESSON_INTERMEDIATE_DIR)/typey-type-standard-dict-set-combined.json
 $(LESSON_INTERMEDIATE_DIR)/typey-type-standard-dict-set-combined.json: build/index.js $(ALL_TS_FILES) $(TYPEY_TYPE_DICTIONARIES)
+	@mkdir -p "$(LESSON_INTERMEDIATE_DIR)" # make sure intermediate lesson directory exists before adding subdirectories inside them
+	@mkdir -p "$(DICTIONARY_INTERMEDIATE_DIR)" # make sure intermediate dictionary directory exists before adding subdirectories inside them
 	@echo "Running build-typey-type-dictionary for intermediate dict"
 	@$(CLI) build-typey-type-dictionary --target=$@
 
 # typey-type-dict
 typey-type-dict: $(DATA_DIR)/dictionaries/typey-type/typey-type.json
 $(DATA_DIR)/dictionaries/typey-type/typey-type.json: build/index.js $(TYPEY_TYPE_DICTIONARIES) $(ALL_TS_FILES)
+	@mkdir -p "$(DICTIONARY_INTERMEDIATE_DIR)" # make sure intermediate dictionary directory exists before adding subdirectories inside them
 	@echo "Running build-typey-type-dictionary to build typey-type.json"
 	@$(CLI) build-typey-type-dictionary --target=$@
 
@@ -113,6 +118,7 @@ build-recommendations-courses: build $(RECOMMENDATIONS) $(FLASHCARDS_RECOMMENDAT
 # collect-misstrokes
 collect-misstrokes: $(TARGET_MISSTROKES_JSON)
 $(TARGET_MISSTROKES_JSON): $(TYPEY_TYPE_DICTIONARIES) $(ORIGINAL_DICT) $(ORIGINAL_FINGERSPELLING_ENTRIES) copy-dictionaries $(DICT) $(NOT_MISSTROKE_DICTS) $(DICTIONARY_INTERMEDIATE_DIR)/deleted-dict-lines.txt $(DICTIONARY_INTERMEDIATE_DIR)/not-misstrokes.txt
+	@mkdir -p "$(DICTIONARY_INTERMEDIATE_DIR)" # make sure intermediate dictionary directory exists before adding subdirectories inside them
 	@mkdir -p "$$(dirname $@)" # make sure didoesdigital target subdirectory exists before writing misstrokes file inside
 	@comm -2 -3 $(DICTIONARY_INTERMEDIATE_DIR)/deleted-dict-lines.txt $(DICTIONARY_INTERMEDIATE_DIR)/not-misstrokes.txt | grep -v '"TKW-D": "\\u00f7",' | sed -e "1s/^/{\n/" -e '$$s/,$$/\n}/' > $(TARGET_MISSTROKES_JSON)
 
@@ -130,6 +136,7 @@ $(SORTED_DICT): $(DICT)
 
 $(ORIGINAL_DICT): $(DICT)
 # NOTE: The commit hash for the main Plover dict as it existed at "Mon Nov 2 07:11:45 2015 +1100": 6b9f830
+	@mkdir -p "$(DICTIONARY_INTERMEDIATE_DIR)" # make sure intermediate dictionary directory exists before adding subdirectories inside them
 	@git -C ./didoesdigital/steno-dictionaries show 6b9f830:dictionaries/dict.json > $(ORIGINAL_DICT)
 
 $(ORIGINAL_FINGERSPELLING_ENTRIES): ./didoesdigital/steno-dictionaries/dictionaries/dict.json
