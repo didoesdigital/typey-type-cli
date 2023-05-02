@@ -369,9 +369,13 @@ See the [CONTRIBUTING](./CONTRIBUTING.md) guidelines.
 
 This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behaviour to [typeytype@didoesdigital.com](mailto:typeytype@didoesdigital.com).
 
-## License
+## Licenses
 
-See [LICENSE.md](./LICENSE.md).
+The main project is licensed under MIT License, as shown in [LICENSE.md](./LICENSE.md), but the following files came from [Plover](https://github.com/openstenoproject/plover/) and are licensed under [GPL-2.0](./LICENSE_PLOVER):
+
+- [Plover’s Main Dictionary Jun 3, 2018 (latest)](./faux-typey-type-data/dictionaries/plover/main-3-jun-2018.json)
+- [Plover’s Main Dictionary Oct 5, 2016](./faux-typey-type-data/dictionaries/plover/main-5-oct-2016.json)
+- [Plover’s Commands Dictionary Jun 3, 2018 (latest)](./faux-typey-type-data/dictionaries/plover/commands-3-jun-2018.json)
 
 ## Author
 
