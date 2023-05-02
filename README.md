@@ -2,7 +2,7 @@
 
 This repo houses the [Typey Type](https://didoesdigital.com/typey-type) Command Line Interface (CLI) to build stenography (steno) lessons.
 
-The Typey Type CLI is used to build [Typey Type](https://didoesdigital.com/typey-type) stenography lessons by using source data in this repo to produce lessons and dictionaries in the [Typey Type data repo](https://github.com/didoesdigital/typey-type-data) repo.
+The Typey Type CLI is used to build [Typey Type](https://didoesdigital.com/typey-type) stenography lessons by using source data in this repo to produce lessons and dictionaries in the [Typey Type data repo](https://github.com/didoesdigital/typey-type-data).
 
 ## Sponsor
 
