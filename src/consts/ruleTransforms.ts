@@ -5,7 +5,7 @@ export type RuleTransforms = {
 
 const ruleTransforms: RuleTransforms = {
   // hasDictionaryFormatting: (translation: string) =>
-  //   translation.replace("{ }", "").replace("{-|}", ""),
+  //   translation.replace("{}", "").replace("{-|}", ""),
   hasPunctuation: (translation: string) =>
     translation.replace(/{&%}/, "%").replace(/{\^%}/, "%"),
   isFingerspelled: (translation: string) =>
