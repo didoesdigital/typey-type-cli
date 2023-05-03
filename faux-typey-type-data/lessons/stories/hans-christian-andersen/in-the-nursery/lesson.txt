@@ -408,11 +408,11 @@ In the Nursery
 'One': KPA/WUPB
 'Act': A*BGT
 'CHARACTERS': *URP/KRARS
-'MR.': *URP/PHR-FPLT
+'MR.': *URP/PH*P/R*/TP-PL
 'PIPE-HEAD,': *URP/PAOEUP/H-PB/*URP/HED/KW-BG
 'a': AEU
 'father.': TPAER/TP-PL
-'MR.': *URP/PHR-FPLT
+'MR.': *URP/PH*P/R*/TP-PL
 'WAISTCOAT,': *URP/WA*EUS/KOET/KW-BG
 'a': AEU
 'lover.': HRUFR/TP-PL
@@ -420,7 +420,7 @@ In the Nursery
 'GLOVE,': *URP/TKPWHROF/KW-BG
 'a': AEU
 'daughter.': TKAUR/TP-PL
-'MR.': *URP/PHR-FPLT
+'MR.': *URP/PH*P/R*/TP-PL
 'DE': *URP/TK*E
 'BOOTS,': *URP/PWAOTS/KW-BG
 'a': AEU
