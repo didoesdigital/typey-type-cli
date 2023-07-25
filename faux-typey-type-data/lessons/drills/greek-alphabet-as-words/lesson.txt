@@ -2,7 +2,7 @@ Greek alphabet as words
 
 'alpha': A*FL
 'beta': PWOEUT
-'gamma': TKPWAPL/PHA
+'gamma': TKPWOEUPL
 'delta': TKEL/TA
 'epsilon': EPS/HROPB
 'zeta': SA*EU/TA
