@@ -1,0 +1,26 @@
+Greek alphabet as words
+
+'Alpha': KPA/A*FL
+'Beta': KPA/PWOEUT
+'Gamma': KPA/TKPWAPL/PHA
+'Delta': KPA/TKEL/TA
+'Epsilon': KPA/EPS/HROPB
+'Zeta': KPA/SA*EU/TA
+'Eta': KPA/A*EU/TA
+'Theta': KPA/THO*EUT
+'Iota': KPA/KWROE/TA
+'Kappa': KPA/KAP/KWRA
+'Lambda': KPA/HRAPLD
+'Mu': KPA/PHU
+'Nu': KPA/TPH*U
+'Xi': KPA/KPEU
+'Omicron': KPA/OPL/KROPB
+'Pi': KPA/PEU
+'Rho': KPA/HRO*
+'Sigma': KPA/SEUG/PHA
+'Tau': KPA/TAU
+'Upsilon': KPA/UPS/HROPB
+'Phi': KPA/TP*EU
+'Chi': KPA/KHEU
+'Psi': KPA/SAO*EU
+'Omega': KPA/O/PHAEU/TKPWA
