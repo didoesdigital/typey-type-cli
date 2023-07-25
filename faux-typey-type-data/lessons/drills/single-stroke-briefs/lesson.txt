@@ -3460,7 +3460,7 @@ Single-Stroke Briefs
 'phenomenal': TPA*L
 'phenomenon': TPO*PB
 'phew': TPAO*U
-'phi': TPAO*E
+'phi': TP*EU
 'philanthropy': TPHRA*PBT
 'philosophical': TPO*FL
 'philosophy': TPEUFLS
