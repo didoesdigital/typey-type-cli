@@ -36,7 +36,7 @@ Fingerspelling pangram: The quick brown fox jumps over the lazy dog
 'e': *E
 ' ': S-P
 'l': HR*
-'a': AEU
+'a': A*
 'z': STKPW*
 'y': KWR*
 ' ': S-P

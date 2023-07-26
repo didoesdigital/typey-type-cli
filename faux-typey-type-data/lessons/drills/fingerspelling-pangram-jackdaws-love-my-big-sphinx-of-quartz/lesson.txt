@@ -1,11 +1,11 @@
 Fingerspelling pangram: Jackdaws love my big sphinx of quartz
 
 'J': SKWR*P
-'a': AEU
+'a': A*
 'c': KR*
 'k': K*
 'd': TK*
-'a': AEU
+'a': A*
 'w': W*
 's': S*
 ' ': S-P
@@ -33,7 +33,7 @@ Fingerspelling pangram: Jackdaws love my big sphinx of quartz
 ' ': S-P
 'q': KW*
 'u': *U
-'a': AEU
+'a': A*
 'r': R*
 't': T*
 'z': STKPW*

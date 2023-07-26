@@ -13,7 +13,7 @@ Fingerspelling pangram: How quickly daft jumping zebras vex
 'y': KWR*
 ' ': S-P
 'd': TK*
-'a': AEU
+'a': A*
 'f': TP*
 't': T*
 ' ': S-P
@@ -29,7 +29,7 @@ Fingerspelling pangram: How quickly daft jumping zebras vex
 'e': *E
 'b': PW*
 'r': R*
-'a': AEU
+'a': A*
 's': S*
 ' ': S-P
 'v': SR*

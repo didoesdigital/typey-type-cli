@@ -1,7 +1,7 @@
 Fingerspelling pangram: Pack my box with five dozen liquor jugs
 
 'P': P*P
-'a': AEU
+'a': A*
 'c': KR*
 'k': K*
 ' ': S-P

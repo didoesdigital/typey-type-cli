@@ -1,14 +1,14 @@
 Fingerspelling pangram: Waltz, bad nymph, for quick jigs vex
 
 'W': W*P
-'a': AEU
+'a': A*
 'l': HR*
 't': T*
 'z': STKPW*
 ',': KW-BG
 ' ': S-P
 'b': PW*
-'a': AEU
+'a': A*
 'd': TK*
 ' ': S-P
 'n': TPH*

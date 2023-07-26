@@ -19,7 +19,7 @@ Fingerspelling pangram: The five boxing wizards jump quickly
 'w': W*
 'i': *EU
 'z': STKPW*
-'a': AEU
+'a': A*
 'r': R*
 'd': TK*
 's': S*

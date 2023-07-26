@@ -31,6 +31,6 @@ Fingerspelling pangram: Glib jocks quiz nymph to vex dwarf
 ' ': S-P
 'd': TK*
 'w': W*
-'a': AEU
+'a': A*
 'r': R*
 'f': TP*
