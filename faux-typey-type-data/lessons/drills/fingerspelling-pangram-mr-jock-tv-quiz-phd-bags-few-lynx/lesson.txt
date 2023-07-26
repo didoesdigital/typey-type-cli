@@ -10,7 +10,7 @@ Fingerspelling pangram: Mr Jock, TV quiz PhD, bags few lynx
 ',': KW-BG
 ' ': S-P
 'T': T*P
-'V': 5R
+'V': SR*P
 ' ': S-P
 'q': KW*
 'u': *U
@@ -23,7 +23,7 @@ Fingerspelling pangram: Mr Jock, TV quiz PhD, bags few lynx
 ',': KW-BG
 ' ': S-P
 'b': PW*
-'a': AEU
+'a': A*
 'g': TKPW*
 's': S*
 ' ': S-P

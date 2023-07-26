@@ -4,8 +4,11 @@
   "category": "Drills",
   "subcategory": "",
   "path": "/drills/fingerspelling-pangram-mr-jock-tv-quiz-phd-bags-few-lynx/lesson.txt",
-  "wordList": "words.txt",
   "vocabulary": [
     "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
-  ]
+  ],
+  "wordList": "words.txt",
+  "presentationOptions": {
+    "replaceAffixCurlies": true
+  }
 }
