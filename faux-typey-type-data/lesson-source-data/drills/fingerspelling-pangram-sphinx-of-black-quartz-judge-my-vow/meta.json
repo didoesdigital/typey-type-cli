@@ -5,6 +5,7 @@
   "subcategory": "",
   "path": "/drills/fingerspelling-pangram-sphinx-of-black-quartz-judge-my-vow/lesson.txt",
   "wordList": "words.txt",
+  "customMessage": "Hint: use exact spacing setting",
   "vocabulary": [
     "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
   ],
