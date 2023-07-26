@@ -1,0 +1,36 @@
+Fingerspelling pangram: Glib jocks quiz nymph to vex dwarf
+
+'G': TKPW*P
+'l': HR*
+'i': *EU
+'b': PW*
+' ': S-P
+'j': SKWR*
+'o': O*
+'c': KR*
+'k': K*
+'s': S*
+' ': S-P
+'q': KW*
+'u': *U
+'i': *EU
+'z': STKPW*
+' ': S-P
+'n': TPH*
+'y': KWR*
+'m': PH*
+'p': P*
+'h': H*
+' ': S-P
+'t': T*
+'o': O*
+' ': S-P
+'v': SR*
+'e': *E
+'x': KP*
+' ': S-P
+'d': TK*
+'w': W*
+'a': AEU
+'r': R*
+'f': TP*

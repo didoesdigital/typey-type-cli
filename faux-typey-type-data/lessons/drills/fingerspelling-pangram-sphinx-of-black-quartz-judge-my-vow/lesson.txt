@@ -1,0 +1,38 @@
+Fingerspelling pangram: Sphinx of black quartz, judge my vow
+
+'S': S*P
+'p': P*
+'h': H*
+'i': *EU
+'n': TPH*
+'x': KP*
+' ': S-P
+'o': O*
+'f': TP*
+' ': S-P
+'b': PW*
+'l': HR*
+'a': AEU
+'c': KR*
+'k': K*
+' ': S-P
+'q': KW*
+'u': *U
+'a': AEU
+'r': R*
+'t': T*
+'z': STKPW*
+',': KW-BG
+' ': S-P
+'j': SKWR*
+'u': *U
+'d': TK*
+'g': TKPW*
+'e': *E
+' ': S-P
+'m': PH*
+'y': KWR*
+' ': S-P
+'v': SR*
+'o': O*
+'w': W*

@@ -1,0 +1,45 @@
+Fingerspelling pangram: The quick brown fox jumps over the lazy dog
+
+'T': T*P
+'h': H*
+'e': *E
+' ': S-P
+'q': KW*
+'u': *U
+'i': *EU
+'c': KR*
+'k': K*
+' ': S-P
+'b': PW*
+'r': R*
+'o': O*
+'w': W*
+'n': TPH*
+' ': S-P
+'f': TP*
+'o': O*
+'x': KP*
+' ': S-P
+'j': SKWR*
+'u': *U
+'m': PH*
+'p': P*
+'s': S*
+' ': S-P
+'o': O*
+'v': SR*
+'e': *E
+'r': R*
+' ': S-P
+'t': T*
+'h': H*
+'e': *E
+' ': S-P
+'l': HR*
+'a': AEU
+'z': STKPW*
+'y': KWR*
+' ': S-P
+'d': TK*
+'o': O*
+'g': TKPW*

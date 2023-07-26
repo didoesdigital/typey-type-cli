@@ -1,0 +1,39 @@
+Fingerspelling pangram: Jackdaws love my big sphinx of quartz
+
+'J': SKWR*P
+'a': AEU
+'c': KR*
+'k': K*
+'d': TK*
+'a': AEU
+'w': W*
+'s': S*
+' ': S-P
+'l': HR*
+'o': O*
+'v': SR*
+'e': *E
+' ': S-P
+'m': PH*
+'y': KWR*
+' ': S-P
+'b': PW*
+'i': *EU
+'g': TKPW*
+' ': S-P
+'s': S*
+'p': P*
+'h': H*
+'i': *EU
+'n': TPH*
+'x': KP*
+' ': S-P
+'o': O*
+'f': TP*
+' ': S-P
+'q': KW*
+'u': *U
+'a': AEU
+'r': R*
+'t': T*
+'z': STKPW*

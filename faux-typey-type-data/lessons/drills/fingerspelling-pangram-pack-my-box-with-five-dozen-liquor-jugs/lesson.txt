@@ -1,0 +1,41 @@
+Fingerspelling pangram: Pack my box with five dozen liquor jugs
+
+'P': P*P
+'a': AEU
+'c': KR*
+'k': K*
+' ': S-P
+'m': PH*
+'y': KWR*
+' ': S-P
+'b': PW*
+'o': O*
+'x': KP*
+' ': S-P
+'w': W*
+'i': *EU
+'t': T*
+'h': H*
+' ': S-P
+'f': TP*
+'i': *EU
+'v': SR*
+'e': *E
+' ': S-P
+'d': TK*
+'o': O*
+'z': STKPW*
+'e': *E
+'n': TPH*
+' ': S-P
+'l': HR*
+'i': *EU
+'q': KW*
+'u': *U
+'o': O*
+'r': R*
+' ': S-P
+'j': SKWR*
+'u': *U
+'g': TKPW*
+'s': S*

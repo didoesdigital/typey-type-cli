@@ -1,0 +1,38 @@
+Fingerspelling pangram: Waltz, bad nymph, for quick jigs vex
+
+'W': W*P
+'a': AEU
+'l': HR*
+'t': T*
+'z': STKPW*
+',': KW-BG
+' ': S-P
+'b': PW*
+'a': AEU
+'d': TK*
+' ': S-P
+'n': TPH*
+'y': KWR*
+'m': PH*
+'p': P*
+'h': H*
+',': KW-BG
+' ': S-P
+'f': TP*
+'o': O*
+'r': R*
+' ': S-P
+'q': KW*
+'u': *U
+'i': *EU
+'c': KR*
+'k': K*
+' ': S-P
+'j': SKWR*
+'i': *EU
+'g': TKPW*
+'s': S*
+' ': S-P
+'v': SR*
+'e': *E
+'x': KP*

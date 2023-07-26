@@ -1,0 +1,38 @@
+Fingerspelling pangram: The five boxing wizards jump quickly
+
+'T': T*P
+'h': H*
+'e': *E
+' ': S-P
+'f': TP*
+'i': *EU
+'v': SR*
+'e': *E
+' ': S-P
+'b': PW*
+'o': O*
+'x': KP*
+'i': *EU
+'n': TPH*
+'g': TKPW*
+' ': S-P
+'w': W*
+'i': *EU
+'z': STKPW*
+'a': AEU
+'r': R*
+'d': TK*
+'s': S*
+' ': S-P
+'j': SKWR*
+'u': *U
+'m': PH*
+'p': P*
+' ': S-P
+'q': KW*
+'u': *U
+'i': *EU
+'c': KR*
+'k': K*
+'l': HR*
+'y': KWR*

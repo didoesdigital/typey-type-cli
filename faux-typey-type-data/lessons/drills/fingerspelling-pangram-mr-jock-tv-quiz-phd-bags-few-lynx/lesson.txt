@@ -1,0 +1,37 @@
+Fingerspelling pangram: Mr Jock, TV quiz PhD, bags few lynx
+
+'M': PH*P
+'r': R*
+' ': S-P
+'J': SKWR*P
+'o': O*
+'c': KR*
+'k': K*
+',': KW-BG
+' ': S-P
+'T': T*P
+'V': 5R
+' ': S-P
+'q': KW*
+'u': *U
+'i': *EU
+'z': STKPW*
+' ': S-P
+'P': P*P
+'h': H*
+'D': TK*P
+',': KW-BG
+' ': S-P
+'b': PW*
+'a': AEU
+'g': TKPW*
+'s': S*
+' ': S-P
+'f': TP*
+'e': *E
+'w': W*
+' ': S-P
+'l': HR*
+'y': KWR*
+'n': TPH*
+'x': KP*
