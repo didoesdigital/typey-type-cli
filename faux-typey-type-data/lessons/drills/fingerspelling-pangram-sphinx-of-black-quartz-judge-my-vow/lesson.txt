@@ -36,3 +36,4 @@ Fingerspelling pangram: Sphinx of black quartz, judge my vow
 'v': SR*
 'o': O*
 'w': W*
+warning_message=Hint: use exact spacing setting

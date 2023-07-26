@@ -39,3 +39,4 @@ Fingerspelling pangram: Pack my box with five dozen liquor jugs
 'u': *U
 'g': TKPW*
 's': S*
+warning_message=Hint: use exact spacing setting

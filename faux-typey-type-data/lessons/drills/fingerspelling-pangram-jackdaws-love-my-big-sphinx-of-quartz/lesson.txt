@@ -37,3 +37,4 @@ Fingerspelling pangram: Jackdaws love my big sphinx of quartz
 'r': R*
 't': T*
 'z': STKPW*
+warning_message=Hint: use exact spacing setting

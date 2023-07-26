@@ -34,3 +34,4 @@ Fingerspelling pangram: Glib jocks quiz nymph to vex dwarf
 'a': A*
 'r': R*
 'f': TP*
+warning_message=Hint: use exact spacing setting

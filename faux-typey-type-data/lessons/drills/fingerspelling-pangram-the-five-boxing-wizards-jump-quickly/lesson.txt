@@ -36,3 +36,4 @@ Fingerspelling pangram: The five boxing wizards jump quickly
 'k': K*
 'l': HR*
 'y': KWR*
+warning_message=Hint: use exact spacing setting

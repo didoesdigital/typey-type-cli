@@ -43,3 +43,4 @@ Fingerspelling pangram: The quick brown fox jumps over the lazy dog
 'd': TK*
 'o': O*
 'g': TKPW*
+warning_message=Hint: use exact spacing setting

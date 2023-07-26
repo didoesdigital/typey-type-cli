@@ -36,3 +36,4 @@ Fingerspelling pangram: Waltz, bad nymph, for quick jigs vex
 'v': SR*
 'e': *E
 'x': KP*
+warning_message=Hint: use exact spacing setting

@@ -35,3 +35,4 @@ Fingerspelling pangram: Mr Jock, TV quiz PhD, bags few lynx
 'y': KWR*
 'n': TPH*
 'x': KP*
+warning_message=Hint: use exact spacing setting
