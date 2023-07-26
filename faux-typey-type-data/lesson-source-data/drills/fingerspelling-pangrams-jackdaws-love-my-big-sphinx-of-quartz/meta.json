@@ -1,0 +1,11 @@
+{
+  "title": "Fingerspelling pangram: Jackdaws love my big sphinx of quartz",
+  "subtitle": "",
+  "category": "Drills",
+  "subcategory": "",
+  "path": "/drills/fingerspelling-pangram-jackdaws-love-my-big-sphinx-of-quartz/lesson.txt",
+  "wordList": "words.txt",
+  "vocabulary": [
+    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
+  ]
+}

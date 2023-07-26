@@ -1,0 +1,11 @@
+{
+  "title": "Fingerspelling pangram: Sphinx of black quartz, judge my vow",
+  "subtitle": "",
+  "category": "Drills",
+  "subcategory": "",
+  "path": "/drills/fingerspelling-pangram-sphinx-of-black-quartz-judge-my-vow/lesson.txt",
+  "wordList": "words.txt",
+  "vocabulary": [
+    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
+  ]
+}

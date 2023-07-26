@@ -1,0 +1,11 @@
+{
+  "title": "Fingerspelling pangram: The quick brown fox jumps over the lazy dog",
+  "subtitle": "",
+  "category": "Drills",
+  "subcategory": "",
+  "path": "/drills/fingerspelling-pangram-the-quick-brown-fox-jumps-over-the-lazy-dog/lesson.txt",
+  "wordList": "words.txt",
+  "vocabulary": [
+    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
+  ]
+}

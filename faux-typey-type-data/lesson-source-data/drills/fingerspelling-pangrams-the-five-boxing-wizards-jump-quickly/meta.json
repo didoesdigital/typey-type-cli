@@ -1,0 +1,11 @@
+{
+  "title": "Fingerspelling pangram: The five boxing wizards jump quickly",
+  "subtitle": "",
+  "category": "Drills",
+  "subcategory": "",
+  "path": "/drills/fingerspelling-pangram-the-five-boxing-wizards-jump-quickly/lesson.txt",
+  "wordList": "words.txt",
+  "vocabulary": [
+    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
+  ]
+}

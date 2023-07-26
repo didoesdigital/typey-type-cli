@@ -1,0 +1,11 @@
+{
+  "title": "Fingerspelling pangram: Pack my box with five dozen liquor jugs",
+  "subtitle": "",
+  "category": "Drills",
+  "subcategory": "",
+  "path": "/drills/fingerspelling-pangram-pack-my-box-with-five-dozen-liquor-jugs/lesson.txt",
+  "wordList": "words.txt",
+  "vocabulary": [
+    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
+  ]
+}
