@@ -316,6 +316,7 @@ The source lesson metadata file is called `meta.json` and can include:
 - **rules:** An object containing rule names set to true or false to filter entries from available vocabulary to build a Fundamental lesson
 - **presentationOptions:** An object containing presentation transforms set to true or false to amend translations in entries, such as removing `{}` from affix entries like `{pre^}`:
     - `replaceAffixCurlies`
+    - `replaceGlueCurlies`
     - `replaceArrowNavigation`
     - `replaceCapitalisationFormatting`
     - `replaceSuppressedSpaces`

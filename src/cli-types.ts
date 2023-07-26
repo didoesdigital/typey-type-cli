@@ -85,6 +85,8 @@ export type Rules = {
 export type PresentationOptions = {
   /** replace curly braces or French brackets in affix entries and preserve carets */
   replaceAffixCurlies?: boolean;
+  /** replace glue curly braces or French brackets in glue entries and preserve carets */
+  replaceGlueCurlies?: boolean;
   /** replace arrow navigation key commands like {#Left} */
   replaceArrowNavigation?: boolean;
   /** replace forward-looking and retrospective capitalisation or uppercase formatting */

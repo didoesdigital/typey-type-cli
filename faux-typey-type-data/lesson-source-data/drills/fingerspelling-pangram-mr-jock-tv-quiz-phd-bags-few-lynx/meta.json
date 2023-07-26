@@ -9,6 +9,6 @@
   ],
   "wordList": "words.txt",
   "presentationOptions": {
-    "replaceAffixCurlies": true
+    "replaceGlueCurlies": true
   }
 }
