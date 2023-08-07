@@ -10,7 +10,6 @@ One-syllable words with multiple strokes
 'bowed': PWOE/-D
 'nodded': TPHOD/-D
 'gazed': TKPWAEZ/-D
-'senses': SEPBS/-S
 'handed': HAPBD/-D
 'crowded': KROUD/-D
 'les': HRE/-S

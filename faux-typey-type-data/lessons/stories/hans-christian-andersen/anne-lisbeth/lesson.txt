@@ -2561,7 +2561,7 @@ Anne Lisbeth
 'us': US
 'while': WHAOEUL
 'the': -T
-'senses': SEPBS/-S
+'senses': SEPBSZ
 'are': R
 'as': AS
 'it': T
@@ -2579,7 +2579,7 @@ Anne Lisbeth
 'thus': THUS
 'with': W
 'her': HER
-'senses': SEPBS/-S
+'senses': SEPBSZ
 'half': HAF
 'asleep,': A/SHRAOEP/KW-BG
 'but': PWUT
@@ -3867,7 +3867,7 @@ Anne Lisbeth
 'ground,': TKPWROUPBD/KW-BG
 'and': SKP
 'her': HER
-'senses': SEPBS/-S
+'senses': SEPBSZ
 'left': HREFT
 'her.': HER/TP-PL
 'It': KPA/T

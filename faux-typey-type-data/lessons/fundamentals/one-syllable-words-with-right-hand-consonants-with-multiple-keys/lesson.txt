@@ -155,6 +155,7 @@ One-syllable words with right-hand consonants with multiple keys
 'urged': URPBLGD
 'turns': TURPBS
 'keen': KAOEPB
+'senses': SEPBSZ
 'scheme': SKAOEPL
 'print': PREUPBT
 'smooth': SPHAO*T

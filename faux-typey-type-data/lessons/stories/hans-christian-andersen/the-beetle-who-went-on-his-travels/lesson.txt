@@ -190,7 +190,7 @@ The Beetle Who Went on His Travels
 'out': OUT
 'of': -F
 'your': KWROUR
-'senses,"': SEPBS/-S/KW-BG/KR-GS
+'senses,"': SEPBSZ/KW-BG/KR-GS
 'cried': KRAOEUD
 'the': -T
 'farrier.': TP*/A*/R*/R*/SKWREU/*ER/TP-PL

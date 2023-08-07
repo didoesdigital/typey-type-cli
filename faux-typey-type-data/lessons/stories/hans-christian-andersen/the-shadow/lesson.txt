@@ -786,7 +786,7 @@ The Shadow
 'acted': ABGD
 'on': OPB
 'the': -T
-'senses': SEPBS/-S
+'senses': SEPBSZ
 'with': W
 'magic': PHAPBLG/EUBG
 'power.': POUR/TP-PL

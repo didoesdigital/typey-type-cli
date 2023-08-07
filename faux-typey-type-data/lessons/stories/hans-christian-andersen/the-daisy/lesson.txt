@@ -516,7 +516,7 @@ The Daisy
 'daisy': TKAEU/SEU
 'recovered': ROFRD
 'its': EUTS
-'senses.': SEPBS/-S/TP-PL
+'senses.': SEPBSZ/TP-PL
 'Half': KPA/HAF
 'ashamed,': A/SHAEUPLD/KW-BG
 'yet': KWRET

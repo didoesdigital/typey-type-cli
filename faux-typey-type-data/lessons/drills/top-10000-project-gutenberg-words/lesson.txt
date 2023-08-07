@@ -2374,7 +2374,7 @@ Top 10000 Project Gutenberg words
 'boats': PWOETS
 'keen': KAOEPB
 'disposition': TK*EUPGS
-'senses': SEPBS/-S
+'senses': SEPBSZ
 'occasions': KWAEUGS/-S
 'readable': RAED/-BL
 'beloved': PWHROFD

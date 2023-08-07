@@ -660,7 +660,7 @@ A Society
 'come': KOPL
 'to': TO
 'her': HER
-'senses.': SEPBS/-S/TP-PL
+'senses.': SEPBSZ/TP-PL
 '"It's': KW-GS/KPA*/T-S
 'all': AUL
 'our': OUR

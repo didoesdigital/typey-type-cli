@@ -848,7 +848,7 @@ Blue Beard
 'somewhat': SWHA
 'recovered': ROFRD
 'her': HER
-'senses,': SEPBS/-S/KW-BG
+'senses,': SEPBSZ/KW-BG
 'she': SHE
 'took': TAOBG
 'up': UP

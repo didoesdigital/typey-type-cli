@@ -1470,7 +1470,7 @@ The Metal Pig
 'had': H
 'lost': HRO*S
 'his': HEUS
-'senses—then': SEPBS/-S/EPL/TKA*RB/THEPB
+'senses—then': SEPBSZ/EPL/TKA*RB/THEPB
 'a': AEU
 'cold': KOELD
 'shudder': SHUD/ER
