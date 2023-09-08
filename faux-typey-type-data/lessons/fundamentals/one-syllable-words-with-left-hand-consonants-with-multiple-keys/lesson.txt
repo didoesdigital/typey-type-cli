@@ -426,6 +426,7 @@ One-syllable words with left-hand consonants with multiple keys
 'fright': TPRAOEUT
 'cliffs': KHREUFS
 'git': TKPWEUT
+'dated': TKAEUTD
 'beef': PWAOEF
 'slay': SHRAEU
 'blade': PWHRAEUD

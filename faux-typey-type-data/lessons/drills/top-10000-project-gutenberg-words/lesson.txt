@@ -4637,7 +4637,7 @@ Top 10000 Project Gutenberg words
 'serving': SEFRBG
 'complexion': KPHR*EBGS
 'engage': EPB/TKPWAEUPBLG
-'tents': TEPBT/-S
+'tents': TEPBTS
 'herd': H*ERD
 'attain': A/TAEUPB
 'collect': KHREBGT
@@ -5310,7 +5310,7 @@ Top 10000 Project Gutenberg words
 'Arnold': ARPBLD
 'trousers': TROUZ/ERS
 'debate': TKPWA*EUT
-'dated': TKAEUT/-D
+'dated': TKAEUTD
 'tumult': TUPL/ULT
 'corruption': KRUPGS
 'summons': SPHUPBS
@@ -7535,7 +7535,7 @@ Top 10000 Project Gutenberg words
 'walker': WAUBG/*ER
 'outstretched': AOUT/STREFPD
 'procedure': PRAOEPBLG
-'wheeled': WHAOEL/-D
+'wheeled': WHAOELD
 'aye': AO*EU
 'oneself': WUPB/SEFL
 'recommendation': REPLGS
@@ -8989,7 +8989,7 @@ Top 10000 Project Gutenberg words
 'velocity': SHROFT
 'arctic': ART/EUBG
 'colleague': KHRAOEG
-'pins': PEUPB/-S
+'pins': PEUPBS
 'butcher': PWUFP/ER
 'drowsy': TKROU/SEU
 'butterfly': PW*URT/TPHRAOEU

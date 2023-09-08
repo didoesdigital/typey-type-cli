@@ -1217,7 +1217,7 @@ An Unwritten Novel
 'methodical': PHO*D/K-L
 'disposition': TK*EUPGS
 'of': -F
-'hat-pins.': HAT/H-PB/PEUPB/-S/TP-PL
+'hat-pins.': HAT/H-PB/PEUPBS/TP-PL
 'Perhaps': KPA/PRAPS
 'the': -T
 'shell': SHEL

@@ -1058,7 +1058,7 @@ The Last Dream of the Old Oak
 'halberd,': H*/A*/HR*/PW*/SKWR*E/R*D/KW-BG
 'pitching': PEUFPG
 'their': THAEUR
-'tents,': TEPBT/-S/KW-BG
+'tents,': TEPBTS/KW-BG
 'and': SKP
 'anon': A/TPHOPB
 'striking': STRAOEUG

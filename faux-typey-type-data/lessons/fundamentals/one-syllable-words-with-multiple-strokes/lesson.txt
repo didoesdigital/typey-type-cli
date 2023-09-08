@@ -44,7 +44,6 @@ One-syllable words with multiple strokes
 'danced': TKAPBS/-D
 'guarded': TKPWARD/-D
 'cursed': KURS/-D
-'tents': TEPBT/-S
 'tossed': TOS/-D
 'guided': TKPWAOEUD/-D
 'grasped': TKPWRAS/-PD
@@ -63,7 +62,6 @@ One-syllable words with multiple strokes
 'dresses': TKRES/-S
 'reigned': RAEPB/-D
 'vexed': SREBGS/-D
-'dated': TKAEUT/-D
 'pleaded': PHRAOED/-D
 'robes': ROEB/-S
 'chanced': KHAPBS/-D
@@ -105,7 +103,6 @@ One-syllable words with multiple strokes
 'tilde': TEUL/TKE
 'spies': SPAOEU/-S
 'blinded': PWHRAOEUPBD/-D
-'wheeled': WHAOEL/-D
 'clapped': KHRAP/-D
 'boasted': PWOEFT/-D
 'wrinkled': WREUPB/K-LD
@@ -126,7 +123,6 @@ One-syllable words with multiple strokes
 'phases': TPAEUZ/-Z
 'chaps': KHAP/-S
 'spotted': SPOT/-D
-'pins': PEUPB/-S
 'ante': APB/TAOE
 'bolted': PWOLT/-D
 'oats': OET/-S

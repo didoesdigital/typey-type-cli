@@ -1402,7 +1402,7 @@ The Old Church Bell
 'by': PWEU
 'playing': PHRAEUG
 'at': AT
-'nine-pins': TPHAOEUPB/H-PB/PEUPB/-S
+'nine-pins': TPHAOEUPB/H-PB/PEUPBS
 'together.': TOGT/TP-PL
 'The': KPA/-T
 'wind': WEUPBD

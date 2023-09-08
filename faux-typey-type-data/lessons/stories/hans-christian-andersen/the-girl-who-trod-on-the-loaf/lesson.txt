@@ -81,7 +81,7 @@ The Girl Who Trod on the Loaf
 'beetles,': PWAOET/-LS/KW-BG
 'and': SKP
 'stick': STEUBG
-'pins': PEUPB/-S
+'pins': PEUPBS
 'through': THRU
 'them.': THEPL/TP-PL
 'Then': KPA/THEPB

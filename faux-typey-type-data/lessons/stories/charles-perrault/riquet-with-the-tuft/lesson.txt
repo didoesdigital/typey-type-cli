@@ -1606,7 +1606,7 @@ Riquet With the Tuft
 'with': W
 'their': THAEUR
 'larding': HRARD/-G
-'pins': PEUPB/-S
+'pins': PEUPBS
 'in': TPH
 'their': THAEUR
 'hands,': HAPBDZ/KW-BG

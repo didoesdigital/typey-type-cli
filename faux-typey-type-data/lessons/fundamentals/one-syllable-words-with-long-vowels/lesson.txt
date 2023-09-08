@@ -184,6 +184,7 @@ One-syllable words with long vowels
 'soap': SOEP
 'hides': HAOEUDZ
 'wires': WAOEURS
+'wheeled': WHAOELD
 'heaped': HAOEPD
 'peer': PAOER
 'roast': ROEFT

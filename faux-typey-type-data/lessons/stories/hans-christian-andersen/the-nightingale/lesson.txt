@@ -1853,7 +1853,7 @@ The Nightingale
 'like': HRAOEUBG
 'bracelets': PWRAEUS/HRETS
 'and': SKP
-'breast-pins.': PWREFT/H-PB/PEUPB/-S/TP-PL
+'breast-pins.': PWREFT/H-PB/PEUPBS/TP-PL
 'Three': KPA/THRAOE
 'and': SKP
 'thirty': THEURT

@@ -865,7 +865,7 @@ Homophones
 'tease': TAOES
 'tees': TAOEZ
 'tense': TEPBS
-'tents': TEPBT/-S
+'tents': TEPBTS
 'than': THAPB
 'then': THEPB
 'there': THR
@@ -963,7 +963,7 @@ Homophones
 'whee': WHAOE
 'wet': WET
 'whet': WHET
-'wheeled': WHAOEL/-D
+'wheeled': WHAOELD
 'wield': WAOELD
 'which': WEU
 'witch': WEUFP

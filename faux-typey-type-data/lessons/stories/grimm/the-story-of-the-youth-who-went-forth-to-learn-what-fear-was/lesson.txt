@@ -2796,7 +2796,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'and': SKP
 'played': PHRAEUD
 'at': AT
-'nine-pins': TPHAOEUPB/H-PB/PEUPB/-S
+'nine-pins': TPHAOEUPB/H-PB/PEUPBS
 'with': W
 'them.': THEPL/TP-PL
 'The': KPA/-T
@@ -2912,7 +2912,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'been': PW-PB
 'playing': PHRAEUG
 'at': AT
-'nine-pins,'': TPHAOEUPB/H-PB/PEUPB/-S/KW-BG/AE
+'nine-pins,'': TPHAOEUPB/H-PB/PEUPBS/KW-BG/AE
 'he': HE
 'answered,': AEPBS/-D/KW-BG
 ''and': A*E/SKP

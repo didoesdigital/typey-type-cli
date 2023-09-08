@@ -767,7 +767,7 @@ The Shepherd's Story of the Bond of Friendship
 'ours.': OURS/TP-PL
 'They': KPA/THE
 'had': H
-'tents': TEPBT/-S
+'tents': TEPBTS
 'and': SKP
 'beds': PWEDZ
 'with': W
@@ -869,7 +869,7 @@ The Shepherd's Story of the Bond of Friendship
 'they': THE
 'pitched': PEUFPD
 'their': THAEUR
-'tents': TEPBT/-S
+'tents': TEPBTS
 'on': OPB
 'a': AEU
 'small': SPHAL

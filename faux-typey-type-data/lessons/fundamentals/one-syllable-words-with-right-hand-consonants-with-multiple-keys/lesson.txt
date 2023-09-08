@@ -221,6 +221,7 @@ One-syllable words with right-hand consonants with multiple keys
 'creek': KRAOEBG
 'cream': KRAOEPL
 'crowned': KROUPBD
+'tents': TEPBTS
 'pan': PAPB
 'paths': PA*TS
 'tune': TAOUPB
@@ -354,6 +355,7 @@ One-syllable words with right-hand consonants with multiple keys
 'spun': SPUPB
 'prints': PREUPBTS
 'ham': HAPL
+'pins': PEUPBS
 'twin': TWEUPB
 'scant': SKAPBT
 'baths': PWA*TS

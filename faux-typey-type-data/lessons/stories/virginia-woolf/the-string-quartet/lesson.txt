@@ -266,7 +266,7 @@ The String Quartet
 'coats,': KOETS/KW-BG
 'and': SKP
 'pearl': PERL
-'tie-pins': TAOEU/H-PB/PEUPB/-S
+'tie-pins': TAOEU/H-PB/PEUPBS
 'that': THA
 'come': KOPL
 'to': TO

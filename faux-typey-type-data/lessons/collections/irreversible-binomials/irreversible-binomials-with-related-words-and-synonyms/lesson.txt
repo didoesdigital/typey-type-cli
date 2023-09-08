@@ -39,7 +39,7 @@ Irreversible binomials with related words and synonyms
 'pain and suffering': PAEUPB/SKP/SUFRG
 'peace and quiet': PAES/SKP/KWAO*EUT
 'pick and choose': PEUBG/SKP/KHAOS
-'on pins and needles': OPB/PEUPB/-S/SKP/TPHAO*ELDZ
+'on pins and needles': OPB/PEUPBS/SKP/TPHAO*ELDZ
 'plain and simple': PHRAEUPB/SKP/S*EUPL
 'prim and proper': PREUPL/SKP/PROR
 'rant and rave': RAPBT/SKP/RAF
