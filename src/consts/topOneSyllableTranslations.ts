@@ -481,7 +481,7 @@ const topOneSyllableTranslations = new Set([
   "meant",
   "chair",
   "due",
-  "tom",
+  "Tom",
   "date",
   "lives",
   "lines",

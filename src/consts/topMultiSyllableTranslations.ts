@@ -322,7 +322,6 @@ const topMultiSyllableTranslations = new Set([
   "c.",
   "direction",
   "support",
-  "Tom",
   "waiting",
   "Christian",
   "village",
