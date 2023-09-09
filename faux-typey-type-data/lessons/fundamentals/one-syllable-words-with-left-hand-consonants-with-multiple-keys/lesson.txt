@@ -139,7 +139,6 @@ One-syllable words with left-hand consonants with multiple keys
 'loss': HROS
 'class': KHRAS
 'drink': TKREU
-'lying': HRAOEUG
 'smiled': SPHAOEULD
 'dog': TKOG
 'fit': TPEUT
@@ -198,7 +197,6 @@ One-syllable words with left-hand consonants with multiple keys
 'slaves': SHRAFS
 'slow': SHROE
 'grief': TKPWRAOEF
-'dying': TKAOEUG
 'fields': TPAOELDZ
 'drove': TKROEF
 'fees': TPAOES
@@ -219,6 +217,7 @@ One-syllable words with left-hand consonants with multiple keys
 'drop': TKROP
 'brief': PWRAOEF
 'goods': TKPWAODZ
+'mile': PHAOEUL
 'dull': TKUL
 'clouds': KHROUDZ
 'flight': TPHRAOEUT
@@ -226,6 +225,7 @@ One-syllable words with left-hand consonants with multiple keys
 'voices': SROEUFS
 'meat': PHAET
 'dogs': TKOGS
+'fled': TPHRED
 'fill': TPEUL
 'guide': TKPWAOEUD
 'lad': HRAD
@@ -254,7 +254,6 @@ One-syllable words with left-hand consonants with multiple keys
 'gets': TKPWETS
 'lights': HRAOEUTS
 'dared': TKAEURD
-'flying': TPHRAOEUG
 'bell': PWEL
 'begged': PWEGD
 'verse': SRERS
@@ -305,7 +304,6 @@ One-syllable words with left-hand consonants with multiple keys
 'boots': PWAOTS
 'bears': PWAERS
 'feed': TPAOED
-'fitted': TPEUTD
 'beard': PWAERD
 'breeze': PWRAOEZ
 'smell': SPHEL
@@ -426,7 +424,7 @@ One-syllable words with left-hand consonants with multiple keys
 'fright': TPRAOEUT
 'cliffs': KHREUFS
 'git': TKPWEUT
-'dated': TKAEUTD
+'gale': TKPWAEL
 'beef': PWAOEF
 'slay': SHRAEU
 'blade': PWHRAEUD
@@ -504,7 +502,6 @@ One-syllable words with left-hand consonants with multiple keys
 'moss': PHOS
 'plea': PHRAE
 'drinks': TKREUS
-'doubled': TKUBLD
 'flags': TPHRAGS
 'verb': SRERB
 'dove': TKOF
@@ -514,7 +511,6 @@ One-syllable words with left-hand consonants with multiple keys
 'yacht': KWROT
 'slid': SHREUD
 'lump': HRUFRP
-'drives': TKREUFS
 'grapes': TKPWRAEUPS
 'nail': TPHAEUL
 'mouse': PHOUS
@@ -525,7 +521,6 @@ One-syllable words with left-hand consonants with multiple keys
 'boot': PWAOT
 'goose': TKPWAOS
 'groves': TKPWROEFS
-'baffled': PWAFLD
 'lapse': HRAPS
 'eyed': KWRAOEUD
 'doll': TKOL
@@ -543,7 +538,6 @@ One-syllable words with left-hand consonants with multiple keys
 'sly': SHRAOEU
 'dipped': TKEUPD
 'Lloyd': HROEUD
-'muffled': PHUFLD
 'dwarf': TKWAFR
 'freight': TPRAET
 'dire': TKAOEUR
@@ -567,6 +561,7 @@ One-syllable words with left-hand consonants with multiple keys
 'leapt': HREPT
 'knit': TPHEUT
 'plight': PHRAOEUGT
+'vale': SRAEL
 'glove': TKPWHROF
 'kneel': TPHAOEL
 'bust': PWUFT
@@ -589,7 +584,6 @@ One-syllable words with left-hand consonants with multiple keys
 'lied': HRAOEUD
 'val': SRAL
 'snare': STPHAEUR
-'drying': TKRAOEUG
 'dart': TKART
 'gear': TKPWAOER
 'snug': STPHUG

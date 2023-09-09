@@ -5,14 +5,12 @@ One-syllable words with unstressed vowels
 'stopped': STOPD
 'started': STARTD
 'proved': PROFD
-'settled': SELTD
 'saved': SAFD
 'pressed': PREFD
 'pulled': PULD
 'helped': HEPD
 'stepped': STEPD
 'waves': WAFS
-'troubled': TRUBLD
 'rolled': ROLD
 'rested': REFTD
 'poured': PORD

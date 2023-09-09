@@ -23,7 +23,6 @@ One-syllable words with long vowels
 'street': STRAOET
 'wait': WAEUT
 'piece': PAOES
-'trying': TRAOEUG
 'race': RAEUS
 'ways': WAEUS
 'straight': STRAEUT
@@ -81,6 +80,7 @@ One-syllable words with long vowels
 'host': HOEFT
 'spare': SPAEUR
 'priests': PRAOEFTS
+'hole': HOEL
 'haste': HAEUFT
 'rear': RAOER
 'pipe': PAOEUP
@@ -98,8 +98,8 @@ One-syllable words with long vowels
 'cared': KAEURD
 'steel': STAOEL
 'scarce': SKAEURS
-'poets': POETS
 'seed': SAOED
+'sole': SOEL
 'writes': WRAOEUTS
 'sailed': SAEULD
 'rope': ROEP
@@ -118,6 +118,8 @@ One-syllable words with long vowels
 'cares': KAEURS
 'coal': KOEL
 'races': RAEUSZ
+'pile': PAOEUL
+'pole': POEL
 'seize': SAOEZ
 'corps': KOERP
 'wheels': WHAOELS
@@ -155,7 +157,6 @@ One-syllable words with long vowels
 'posts': POEFTS
 'code': KOED
 'strove': STROEF
-'trials': TRAOEULS
 'whites': WHAOEUTS
 'wiped': WAOEUPD
 'scared': SKAEURD
@@ -184,7 +185,6 @@ One-syllable words with long vowels
 'soap': SOEP
 'hides': HAOEUDZ
 'wires': WAOEURS
-'wheeled': WHAOELD
 'heaped': HAOEPD
 'peer': PAOER
 'roast': ROEFT

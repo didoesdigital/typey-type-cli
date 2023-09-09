@@ -34,7 +34,6 @@ One-syllable words with right-hand consonants with multiple keys
 'round': ROUPBD
 'sent': SEPBT
 'son': SOPB
-'hundred': HUPBD
 'times': TAOEUPLS
 'point': POEUPBT
 'speak': SPAOEBG
@@ -98,7 +97,6 @@ One-syllable words with right-hand consonants with multiple keys
 'weak': WAEBG
 'pointed': POEUPBTD
 'pounds': POUPBDZ
-'science': SKRAOEUPBS
 'worked': WORBGD
 'calm': KAUPL
 'wants': WAPBTS
@@ -132,7 +130,6 @@ One-syllable words with right-hand consonants with multiple keys
 'ruin': RAOUPB
 'wound': WOUPBD
 'whence': WHEPBS
-'triumph': TRAOEUFPL
 'pages': PAEUPBLGS
 'sounds': SOUPBDZ
 'win': WEUPB
@@ -155,7 +152,6 @@ One-syllable words with right-hand consonants with multiple keys
 'urged': URPBLGD
 'turns': TURPBS
 'keen': KAOEPB
-'senses': SEPBSZ
 'scheme': SKAOEPL
 'print': PREUPBT
 'smooth': SPHAO*T
@@ -172,7 +168,6 @@ One-syllable words with right-hand consonants with multiple keys
 'strain': STRAEUPB
 'track': TRABG
 'runs': RUPBS
-'poems': POEPLS
 'pains': PAEUPBS
 'taxes': TABGSZ
 'tones': TOEPBS
@@ -182,14 +177,12 @@ One-syllable words with right-hand consonants with multiple keys
 'walks': WAUBGS
 'owns': OEPBS
 'pick': PEUBG
-'ruined': RAOUPBD
 'scorn': SKORPB
 'stroke': STROBG
 'charges': KHARPBLGS
 'rent': REPBT
 'wages': WAEUPBLGS
 'pound': POUPBD
-'ruins': RAOUPBS
 'counted': KOUPBTD
 'wake': WAEUBG
 'trick': TREUBG
@@ -293,7 +286,6 @@ One-syllable words with right-hand consonants with multiple keys
 'sect': SEBGT
 'stained': STAEUPBD
 'Ken': KEPB
-'handled': HAPBLD
 'Hans': HAPBS
 'stain': STAEUPB
 'hints': HEUPBTS

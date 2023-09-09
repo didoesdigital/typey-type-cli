@@ -41,7 +41,6 @@ One-syllable words with short vowels
 'twelve': TWEFL
 'prove': PROF
 'hearts': HARTS
-'settled': SELTD
 'hills': HEULS
 'saved': SAFD
 'hurt': HURT
@@ -58,7 +57,6 @@ One-syllable words with short vowels
 'store': STOR
 'hers': HERS
 'waves': WAFS
-'troubled': TRUBLD
 'press': PRES
 'staff': STAF
 'rolled': ROLD

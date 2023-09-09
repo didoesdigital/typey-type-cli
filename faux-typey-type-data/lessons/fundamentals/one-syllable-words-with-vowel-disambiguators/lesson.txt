@@ -16,6 +16,7 @@ One-syllable words with vowel disambiguators
 'weight': WAET
 'proof': PRAOF
 'wear': WAER
+'tale': TAEL
 'roof': RAOF
 'cool': KAOL
 'waste': WAEFT
@@ -43,6 +44,7 @@ One-syllable words with vowel disambiguators
 'roared': RAORD
 'wears': WAERS
 'roofs': RAOFS
+'sales': SAELS
 'hoarse': HAORS
 'tool': TAOL
 'heal': HAEL
