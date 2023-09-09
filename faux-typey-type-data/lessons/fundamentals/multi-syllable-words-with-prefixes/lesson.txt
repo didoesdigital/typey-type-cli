@@ -903,6 +903,7 @@ Multi-syllable words with prefixes
 'embroidery': EPL/PWROEUD/REU
 'reproof': RE/PRAOF
 'indoors': EUPB/TKAORS
+'misled': PHEUZ/HRED
 'confines': KAUPB/TPAOEUPB/-S
 'acquiescence': A/KWAOES/EPBS
 'disconcerted': TKEUS/KOPB/SERT/-D

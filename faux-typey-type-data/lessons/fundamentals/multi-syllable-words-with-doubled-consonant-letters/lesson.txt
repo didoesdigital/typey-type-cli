@@ -20,6 +20,7 @@ Multi-syllable words with doubled consonant letters
 'appeared': A/PAOERD
 'suddenly': SULD
 'happy': HAEP
+'added': AD/-D
 'suppose': SPOS
 'effect': EFBGT
 'pretty': PREUT
@@ -98,6 +99,7 @@ Multi-syllable words with doubled consonant letters
 'possessed': POS/ES/-D
 'progress': PROG
 'narrow': TPHO*EUR
+'settled': SELTD
 'accept': SEP
 'carefully': KA*EUFL
 'bottom': PWOPLT
@@ -203,6 +205,7 @@ Multi-syllable words with doubled consonant letters
 'accomplished': PHREURBD
 'difficulties': TKOEUFLTS
 'uttered': UT/ERD
+'nodded': TPHOD/-D
 'attend': A/TEPBD
 'afford': AFRD
 'doubtless': TKOUT/*LS
@@ -289,6 +292,7 @@ Multi-syllable words with doubled consonant letters
 'Mississippi': PH*S
 'passages': PA*PBLGS
 'succession': SKEGS
+'fitted': TPEUTD
 'cutting': KUGT
 'commission': KPHEUGS
 'crossing': KROFG
@@ -301,6 +305,7 @@ Multi-syllable words with doubled consonant letters
 'legally': HRAOEG/HREU
 'corrupt': KRUPT
 'silly': SHREU
+'masses': PHAS/-S
 'indifferent': EUPB/TKEUFRPB
 'recall': -RL
 'occupation': OUPGS
@@ -368,6 +373,7 @@ Multi-syllable words with doubled consonant letters
 'afforded': A/TPORD/-D
 'affectionate': A*FBGS/TPHAT
 'arrange': A/RAEUPBG
+'puzzled': PUZ/*LD
 'committee': KPHAOE
 'effective': TPEF
 'confession': KAUPB/TPEGS
@@ -491,10 +497,12 @@ Multi-syllable words with doubled consonant letters
 'collect': KHREBGT
 'borrowed': PWO*ERD
 'assault': A/SAULT
+'struggled': STRULGD
 'officials': TPEURBLS
 'approval': A/PROFL
 'compassion': KPAGS
 'glittering': TKPWHREUT/ERG
+'tossed': TOS/-D
 'attachment': A/TAPLT
 'recollect': REBGT
 'barren': PWAEURPB
@@ -578,6 +586,7 @@ Multi-syllable words with doubled consonant letters
 'appreciation': PRAOEGS
 'suppressed': SPREFD
 'offensive': OFPBS/EUF
+'dresses': TKRES/-S
 'successive': SUBG/SES/EUF
 'buffalo': PWUF/HROE
 'bullet': PW*ULT
@@ -673,6 +682,7 @@ Multi-syllable words with doubled consonant letters
 'possibilities': POBLTS
 'accounted': K-TD
 'classical': KHRAL
+'kisses': KEUS/-S
 'affecting': A/TPEBGT/-G
 'efficient': TP-RBT
 'supporting': SPORG
@@ -865,6 +875,7 @@ Multi-syllable words with doubled consonant letters
 'umbrella': UPL/PWREL/HRA
 'thrilling': THREULG
 'abyss': A/PWEUS
+'baffled': PWAFLD
 'planning': PHRAPBG
 'incessantly': EUPB/SEFPBT/HREU
 'flattery': TPHRAT/REU
@@ -892,6 +903,7 @@ Multi-syllable words with doubled consonant letters
 'accursed': A*/KR*/TK-LS/KURS/-D
 'currency': KURPB/SEU
 'litter': HREUT/ER
+'clapped': KHRAP/-D
 'tariff': TAR/EUF
 'suggestive': SUG/EUF
 'commanders': KPHAPB/TKERS
@@ -911,6 +923,7 @@ Multi-syllable words with doubled consonant letters
 'corrections': KREBGS/-S
 'luggage': HRUG/APBLG
 'rubbish': RUB/EURB
+'muffled': PHUFLD
 'accents': ABG/SEPBTS
 'accidentally': STKEPBLT
 'Patty': PA*T/TEU
@@ -969,6 +982,7 @@ Multi-syllable words with doubled consonant letters
 'regardless': RARLD
 'fearfully': TPAOER/TPHREU
 'comments': KPHEPBTS
+'wedded': WED/-D
 'whiteness': WHAOEUT/-PBS
 'colleagues': KHRAOEGS
 'concession': KAUPB/SEGS
@@ -1022,6 +1036,7 @@ Multi-syllable words with doubled consonant letters
 'scaffold': SKAFLD
 'flutter': TPHRUT/ER
 'commotion': KPHOEGS
+'huddled': HUD/-LD
 'renaissance': RAEPBS
 'Clifford': KHREUFRD
 'spelling': SPELG
@@ -1061,6 +1076,7 @@ Multi-syllable words with doubled consonant letters
 'powerfully': POURL/HREU
 'Mitchell': PHEUFP/EL
 'Ellis': EL/HREUS
+'spotted': SPOT/-D
 'erroneous': ROEPB/KWROUS
 'withheld': WHELD
 'taller': TAURL
@@ -1094,6 +1110,7 @@ Multi-syllable words with doubled consonant letters
 'glimmer': TKPWHREURPL
 'redress': RE/TKRES
 'hardness': HARD/-PBS
+'dotted': TKOT/-D
 'heartless': HART/-LS
 'suppression': SPREGS
 'aggressive': A/TKPWREF
@@ -1176,6 +1193,7 @@ Multi-syllable words with doubled consonant letters
 'withhold': WOLD
 'aggregate': TKPWRAT
 'illegal': EUL/HRAOEL
+'presses': PRES/-S
 'dissolve': TKEUS/OFL
 'sullenly': SUL/-PB/HREU
 'assassination': A/SAS/TPHAEUGS
