@@ -1,5 +1,5 @@
-import topOneSyllableTranslations from "../../consts/topOneSyllableTranslations";
-import topMultiSyllableTranslations from "../../consts/topMultiSyllableTranslations";
+import topOneSyllableTranslations from "./consts/topOneSyllableTranslations";
+import topMultiSyllableTranslations from "./consts/topMultiSyllableTranslations";
 
 const isOneSyllable = (_outline: string, translation: string) => {
   const lowercaseTranslation = translation.toLowerCase();
