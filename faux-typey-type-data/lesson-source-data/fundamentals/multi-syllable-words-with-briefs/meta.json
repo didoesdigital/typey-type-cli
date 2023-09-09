@@ -10,6 +10,7 @@
     "isRomanNumeral": false,
     "isUppercase": false,
     "moreThanOneSyllable": true,
-    "isSingleStroke": true
+    "isSingleStroke": true,
+    "hasDictionaryFormatting": false
   }
 }
