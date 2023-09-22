@@ -262,4 +262,13 @@
     "hasForcedWordEnding": false,
     "hasDictionaryFormatting": false
   }
+  "emily-symbold": {
+    "moreThanOneSyllable": true,
+    "hasDoubleConsonants": true,
+    "isFingerspelled": false,
+    "hasPunctuation": false,
+    "isUppercase": false,
+    "hasForcedWordEnding": false,
+    "hasDictionaryFormatting": false
+  }
 }
