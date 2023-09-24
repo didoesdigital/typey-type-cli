@@ -336,7 +336,7 @@ The source lesson index file contains an ordered list of the lesson paths.
 ### Dictionaries
 
 - `didoesdigital` — Typey Type's main dictionaries based on Plover plus Di's own dictionaries
-- `individual` e.g. Jade's phrasing dictionary
+- `individual` — dictionaries made by individuals such as Jade's phrasing dictionary or Emily's symbols dictionary
 - `plover`
 - `lesson-hints` includes dictionaries that only exist to make lessons work better, such as `numbers-lesson.json`, that aren't intended for steno usage.
 
