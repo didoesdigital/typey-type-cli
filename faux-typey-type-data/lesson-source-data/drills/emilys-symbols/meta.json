@@ -1,0 +1,10 @@
+{
+  "title": "Emily's symbols",
+  "subtitle": "",
+  "category": "Drills",
+  "subcategory": "",
+  "path": "/drills/emilys-symbols/lesson.txt",
+  "customMessage": "Hint: use Emily's symbols dictionary",
+  "recommendedDictionarySet": ["individual/emilys-symbols.json"],
+  "wordList": "words.txt"
+}
