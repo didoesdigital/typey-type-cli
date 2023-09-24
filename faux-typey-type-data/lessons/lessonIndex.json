@@ -699,6 +699,16 @@
     "path": "/drills/jade-gg-phrasing-briefs/lesson.txt",
     "wordCount": 2081,
     "overview": "/drills/jade-gg-phrasing-briefs/lesson-overview.html",
+    "suggestedNext": "/drills/emilys-symbols/lesson.txt"
+  },
+  {
+    "title": "Emily's symbols",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/emilys-symbols/lesson.txt",
+    "wordCount": 104,
+    "overview": "/drills/emilys-symbols/lesson-overview.html",
     "suggestedNext": "/collections/user-experience/ux-vocabulary/lesson.txt"
   },
   {
@@ -4236,15 +4246,6 @@
     "subcategory": "Henry Handel Richardson",
     "path": "/stories/henry-handel-richardson/two-hanged-women/lesson.txt",
     "wordCount": 1875,
-    "suggestedNext": "/drills/top-10000-project-gutenberg-words/lesson.txt"
-  },
-  {
-    "title": "Emily's Symbol Dictionary",
-    "subtitle": "",
-    "category": "Python Dictionaries",
-    "subcategory": "Python Dictionaries",
-    "path": "/pydict/emily-symbols/lesson.txt",
-    "wordCount": 104,
     "suggestedNext": "/drills/top-10000-project-gutenberg-words/lesson.txt"
   }
 ]
