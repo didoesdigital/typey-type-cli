@@ -37,7 +37,7 @@ Emily's symbols
 '<': SKWHAO-UFPL
 '{': SKWHAO-EUFPL
 ')': SKWHAO-RBG
-'}': SKWHAO-ERBG
+']': SKWHAO-ERBG
 '>': SKWHAO-URBG
 '}': SKWHAO-EURBG
 '*': SKWHAO-L
