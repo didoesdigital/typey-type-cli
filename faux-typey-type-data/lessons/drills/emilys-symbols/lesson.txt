@@ -104,4 +104,4 @@ Emily's symbols
 '⊆': SKWHAO-EFPBG
 '⊇': SKWHAO-UFPBG
 '˜': SKWHAO-EUFPBG
-warning_message=Hint: use Emily's symbols dictionary
+warning_message=Hint: use Emily’s symbols dictionary and turn off simple typography setting
