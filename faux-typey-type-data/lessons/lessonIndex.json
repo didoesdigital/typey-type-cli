@@ -689,16 +689,6 @@
     "subcategory": "",
     "path": "/drills/steno-party-tricks/lesson.txt",
     "wordCount": 22,
-    "suggestedNext": "/drills/jade-gg-phrasing-briefs/lesson.txt"
-  },
-  {
-    "title": "Jade-GG: phrasing briefs",
-    "subtitle": "",
-    "category": "Drills",
-    "subcategory": "",
-    "path": "/drills/jade-gg-phrasing-briefs/lesson.txt",
-    "wordCount": 2081,
-    "overview": "/drills/jade-gg-phrasing-briefs/lesson-overview.html",
     "suggestedNext": "/drills/emilys-symbols/lesson.txt"
   },
   {
@@ -709,6 +699,16 @@
     "path": "/drills/emilys-symbols/lesson.txt",
     "wordCount": 104,
     "overview": "/drills/emilys-symbols/lesson-overview.html",
+    "suggestedNext": "/drills/jade-gg-phrasing-briefs/lesson.txt"
+  },
+  {
+    "title": "Jade-GG: phrasing briefs",
+    "subtitle": "",
+    "category": "Drills",
+    "subcategory": "",
+    "path": "/drills/jade-gg-phrasing-briefs/lesson.txt",
+    "wordCount": 2081,
+    "overview": "/drills/jade-gg-phrasing-briefs/lesson-overview.html",
     "suggestedNext": "/collections/user-experience/ux-vocabulary/lesson.txt"
   },
   {
