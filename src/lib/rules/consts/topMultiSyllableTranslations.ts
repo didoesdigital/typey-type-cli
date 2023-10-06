@@ -3558,6 +3558,7 @@ const topMultiSyllableTranslations = new Set([
   "legitimate",
   "accent",
   "symptoms",
+  "ragged",
   "Thursday",
   "manifested",
   "fidelity",

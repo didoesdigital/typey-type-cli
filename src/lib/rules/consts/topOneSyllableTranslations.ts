@@ -1822,7 +1822,6 @@ const topOneSyllableTranslations = new Set([
   "chanced",
   "locks",
   "votes",
-  "ragged",
   "bred",
   "limb",
   "crack",
