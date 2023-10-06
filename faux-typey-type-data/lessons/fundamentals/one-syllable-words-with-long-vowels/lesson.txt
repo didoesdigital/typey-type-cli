@@ -1,7 +1,9 @@
 One-syllable words with long vowels
 
 'here': HAOER
+'while': WHAOEUL
 'right': RAOEUT
+'whole': WHOEL
 'side': SAOEUD
 'white': WHAOEUT
 'keep': KAOEP
@@ -32,6 +34,7 @@ One-syllable words with long vowels
 'safe': SAEUF
 'spite': SPAOEUT
 'pride': PRAOEUD
+'rule': RAOUL
 'sword': SOERD
 'seat': SAOET
 'space': SPAEUS
@@ -48,6 +51,7 @@ One-syllable words with long vowels
 'waited': WAEUTD
 'tired': TAOEURD
 'heat': HAOET
+'style': STAOEUL
 'posted': POEFTD
 'twice': TWAOEUS
 'priest': PRAOEFT
@@ -194,6 +198,7 @@ One-syllable words with long vowels
 'stair': STAEUR
 'steer': STAOER
 'rides': RAOEUDZ
+'whale': WHAEUL
 'paved': PAEUFD
 'haze': HAEUZ
 'wade': WAEUD
@@ -203,6 +208,7 @@ One-syllable words with long vowels
 'pierce': PAOERS
 'paste': PAEUFT
 'trades': TRAEUDZ
+'role': ROEL
 'tire': TAOEUR
 'reap': RAOEP
 'peas': PAOEZ
@@ -213,6 +219,7 @@ One-syllable words with long vowels
 'cape': KAEUP
 'scare': SKAEUR
 'raid': RAEUD
+'stale': STAEUL
 'reed': RAOED
 'trait': TRAEUT
 'spade': SPAEUD

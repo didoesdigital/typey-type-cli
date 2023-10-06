@@ -604,6 +604,7 @@ Multi-syllable words with doubled consonant letters
 'gossip': TKPWOFP
 'attendance': A/TEPBD/APBS
 'accent': KP*EPBT
+'ragged': RAGD
 'succeeding': SUBG/SAOED/-G
 'approve': A/PROF
 'Miller': PHEUL/HRER

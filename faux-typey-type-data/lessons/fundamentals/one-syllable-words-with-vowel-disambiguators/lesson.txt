@@ -12,6 +12,7 @@ One-syllable words with vowel disambiguators
 'school': SKAOL
 'wood': WAOD
 'troops': TRAOPS
+'pale': PAEL
 'woods': WAODZ
 'weight': WAET
 'proof': PRAOF
@@ -24,8 +25,10 @@ One-syllable words with vowel disambiguators
 'schools': SKAOLS
 'swear': SWAER
 'roads': RAODZ
+'scale': SKAEL
 'tear': TAER
 'root': RAOT
+'sale': SAEL
 'seas': SAES
 'roots': RAOTS
 'coarse': KAORS

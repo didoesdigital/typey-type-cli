@@ -23,7 +23,6 @@ One-syllable words with unstressed vowels
 'robbed': ROBD
 'rubbed': RUBD
 'proves': PROFS
-'ragged': RAGD
 'rugged': RUGD
 'hurled': HURLD
 'courses': KORSZ

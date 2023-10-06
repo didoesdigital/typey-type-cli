@@ -8,7 +8,6 @@ One-syllable words with compound clusters
 'served': SEFRBD
 'rank': RA*PBG
 'milk': PH*EULG
-'branches': PWRAFRPBS
 'banks': PWA*PBGS
 'branch': PWRAFRPB
 'silk': S*EULG
@@ -39,11 +38,9 @@ One-syllable words with compound clusters
 'serves': SEFRBS
 'curve': KUFRB
 'flank': TPHRA*PBG
-'trenches': TREFRPBS
 'link': HR*EUPBG
 'ranch': RAFRPB
 'torch': TOFRPB
-'arches': AFRPBS
 'curved': KUFRBD
 'starve': STAFRB
 'Blanche': PWHRA*FRPB

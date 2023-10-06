@@ -96,6 +96,7 @@ One-syllable words with left-hand consonants with multiple keys
 'bear': PWAER
 'lips': HREUPS
 'foot': TPAOT
+'smile': SPHAOEUL
 'sleep': SHRAOEP
 'drew': TKRAOU
 'deal': TKAOEL
@@ -158,6 +159,7 @@ One-syllable words with left-hand consonants with multiple keys
 'false': TPALS
 'gate': TKPWAET
 'blow': PWHROE
+'file': TPAOEUL
 'faces': TPAEUFS
 'birds': PWEURDZ
 'failed': TPAEULD
@@ -272,6 +274,7 @@ One-syllable words with left-hand consonants with multiple keys
 'falls': TPAULS
 'fears': TPAOERZ
 'nights': TPHAOEUTS
+'male': PHAEL
 'mode': PHOED
 'brings': PWREUS
 'lamp': HRAFRP
@@ -282,7 +285,6 @@ One-syllable words with left-hand consonants with multiple keys
 'yard': KWRARD
 'Jews': SKWRAOUZ
 'Joe': SKWROE
-'noted': TPHOETD
 'deeds': TKAOEDZ
 'guest': TKPWEFT
 'bar': PWAR
@@ -404,10 +406,12 @@ One-syllable words with left-hand consonants with multiple keys
 'debts': TKETS
 'clad': KHRAD
 'lace': HRAEUS
+'Fred': TPRED
 'knelt': TPHELT
 'fog': TPOG
 'bits': PWEUTS
 'moves': PHOFS
+'vile': SRAOEUL
 'bliss': PWHREUS
 'joys': SKWROEUZ
 'flowed': TPHROED
@@ -429,6 +433,7 @@ One-syllable words with left-hand consonants with multiple keys
 'slay': SHRAEU
 'blade': PWHRAEUD
 'votes': SROETS
+'bred': PWRED
 'naught': TPHAUT
 'dug': TKUG
 'Jove': SKWROEF
@@ -438,6 +443,7 @@ One-syllable words with left-hand consonants with multiple keys
 'grip': TKPWREUP
 'juice': SKWRAOUS
 'blast': PWHRAFT
+'Nile': TPHAOEUL
 'boards': PWORDZ
 'dirt': TKEURT
 'breed': PWRAOED
@@ -488,6 +494,7 @@ One-syllable words with left-hand consonants with multiple keys
 'mess': PHES
 'bored': PWORD
 'frail': TPRAEUL
+'mule': PHAOUL
 'bolt': PWOLT
 'fraud': TPRAUD
 'jar': SKWRAR
@@ -639,6 +646,7 @@ One-syllable words with left-hand consonants with multiple keys
 'smite': SPHAOEUT
 'growl': TKPWROUL
 'jug': SKWRUG
+'Yale': KWRAEL
 'clash': KHRARB
 'clutch': KHRUFP
 'meats': PHAETS

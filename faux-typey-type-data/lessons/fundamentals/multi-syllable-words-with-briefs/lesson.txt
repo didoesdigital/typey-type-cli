@@ -29,7 +29,6 @@ Multi-syllable words with briefs
 'subject': SUBT
 'ready': R-D
 'account': K-T
-'can't': K-PBT
 'idea': KWR-D
 'continued': T-PBD
 'information': TPH-FGS
@@ -132,6 +131,7 @@ Multi-syllable words with briefs
 'reasonable': R-PBL
 'artist': TR-FT
 'ocean': OEGS
+'inches': TPH-FPS
 'essential': AOEGS
 'millions': PH-LS
 'district': TR-T
@@ -183,6 +183,7 @@ Multi-syllable words with briefs
 'respecting': R-PG
 'identify': AOEUFD
 'withdrew': WRAOU
+'uses': AOUSZ
 'engine': TPH-PBLG
 'examples': KP-PLS
 'Texas': T-BGS

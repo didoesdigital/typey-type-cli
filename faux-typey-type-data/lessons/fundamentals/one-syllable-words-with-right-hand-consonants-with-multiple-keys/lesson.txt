@@ -120,6 +120,7 @@ One-syllable words with right-hand consonants with multiple keys
 'strike': STRAOEUBG
 'stock': STOBG
 'signs': SAOEUPBS
+'queen': KWAOEPB
 'count': KOUPBT
 'wicked': WEUBGD
 'harm': HARPL
@@ -238,6 +239,7 @@ One-syllable words with right-hand consonants with multiple keys
 'tricks': TREUBGS
 'damned': TKA*PLD
 'cooked': KAOBGD
+'quaint': KWAEUPBT
 'crack': KRABG
 'stem': STEPL
 'schemes': SKAOEPLS

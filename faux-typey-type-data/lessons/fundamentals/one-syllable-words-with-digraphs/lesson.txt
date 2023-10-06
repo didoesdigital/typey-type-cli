@@ -78,7 +78,6 @@ One-syllable words with digraphs
 'choice': KHOEUS
 'shows': SHOES
 'thinks': THEUS
-'wishes': WEURBS
 'teach': TAOEFP
 'shop': SHOP
 'rushed': RURBD
@@ -88,7 +87,6 @@ One-syllable words with digraphs
 'shalt': SHALT
 'shade': SHAEUD
 'range': RAEUPBG
-'changes': KHAEUPBGS
 'thanks': THAPBGS
 'pushed': PURBD
 'stretched': STREFPD
@@ -106,6 +104,7 @@ One-syllable words with digraphs
 'chain': KHAEUPB
 'shoes': SHAOUS
 'Dutch': TKUFP
+'shed': SHED
 'hang': HAPBG
 'shock': SHOBG
 'songs': SOPBGS
@@ -131,13 +130,10 @@ One-syllable words with digraphs
 'flushed': TPHRURBD
 'shield': SHAOELD
 'chairs': KHAEURS
-'ashes': ARBS
-'bushes': PWURBS
 'wash': WARB
 'chiefs': KHAOEFS
 'cheer': KHAOER
 'cheap': KHAEP
-'chances': KHAPBSZ
 'springs': SPREUPBGS
 'string': STREUPBG
 'bush': PWURB
@@ -150,13 +146,11 @@ One-syllable words with digraphs
 'thanked': THAPBGD
 'shells': SHELS
 'push': PURB
-'riches': REUFPS
 'thread': THRED
 'checked': KHEBGD
 'shirt': SHEURT
 'sketch': SKEFP
 'thief': THAOEF
-'speeches': SPAOEFPS
 'thirst': THEUFRT
 'chains': KHAEUPBS
 'couch': KOUFP
@@ -165,7 +159,6 @@ One-syllable words with digraphs
 'brush': PWRURB
 'pitch': PEUFP
 'scotch': SKOFP
-'dishes': TKEURBS
 'sheer': SHAOER
 'shops': SHOPS
 'sprung': SPRUPBG

@@ -683,6 +683,7 @@ Multi-syllable words with suffixes
 'begging': PWEG/-G
 'imposing': EUPL/POES/-G
 'notable': TPHOET/-BL
+'Amy': AEUPL/KWREU
 'negotiations': TKPWOEGS/-S
 'assented': ASZ/EPBT/-D
 'respectful': R-PT/-FL

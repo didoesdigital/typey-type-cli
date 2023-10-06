@@ -111,7 +111,6 @@ One-syllable words with short vowels
 'rubbed': RUBD
 'proves': PROFS
 'rests': REFTS
-'ragged': RAGD
 'cups': KUPS
 'strip': STREUP
 'tops': TOPS

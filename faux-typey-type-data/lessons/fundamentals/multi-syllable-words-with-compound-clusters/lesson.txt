@@ -32,6 +32,7 @@ Multi-syllable words with compound clusters
 'protection': PREBGS
 'everybody': EFRB
 'vision': SREUGS
+'branches': PWRAFRPBS
 'conclusion': KHRAO*UGS
 'confusion': KAUFGS
 'emotion': AO*EGS
@@ -157,6 +158,7 @@ Multi-syllable words with compound clusters
 'definition': TKEUFGS
 'Prussian': PRUGS
 'depression': TKPREGS
+'trenches': TREFRPBS
 'identification': AOEUFGS
 'sanction': SAPBGS
 'duration': TKRAEUGS
@@ -169,6 +171,7 @@ Multi-syllable words with compound clusters
 'pension': PEPBGS
 'adoption': TKOPGS
 'estimation': STEUPLGS
+'arches': AFRPBS
 'variation': SRAEURGS
 'indication': KA*EUGS
 'reduction': RUBGS

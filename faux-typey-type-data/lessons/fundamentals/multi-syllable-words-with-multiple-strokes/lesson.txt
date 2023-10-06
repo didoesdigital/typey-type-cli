@@ -1585,6 +1585,7 @@ Multi-syllable words with multiple strokes
 'imposing': EUPL/POES/-G
 'notable': TPHOET/-BL
 'imprisoned': EUPL/PREUS/OPBD
+'Amy': AEUPL/KWREU
 'cargo': KARG/OE
 'prof.': PROEF/TP-PL
 'negotiations': TKPWOEGS/-S
