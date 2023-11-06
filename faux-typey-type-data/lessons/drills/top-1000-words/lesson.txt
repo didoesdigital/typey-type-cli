@@ -559,7 +559,7 @@ Top 1000 words
 'laid': HRAEUD
 'pass': PAS
 'led': HRED
-'copyright': KO*EP/RAOEUT
+'copyright': KPRAOEUT
 'doing': TK*G
 'army': AERPL
 'run': RUPB
