@@ -1748,7 +1748,7 @@ The Story of the Wind
 'little': HREUL
 'ruffs,': R*UF/-S/KW-BG
 'and': SKP
-'swords': SOERDZ
+'swords': SWORDZ
 'at': AT
 'their': THAEUR
 'sides.': SAOEUDZ/TP-PL

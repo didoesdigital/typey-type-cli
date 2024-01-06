@@ -2196,7 +2196,7 @@ Iron Hans
 'iron,': AOEURPB/KW-BG
 'and': SKP
 'their': THAEUR
-'swords': SOERDZ
+'swords': SWORDZ
 'flashed': TPHRARBD
 'in': TPH
 'the': -T
@@ -2798,7 +2798,7 @@ Iron Hans
 'point': POEUPBT
 'of': -F
 'his': HEUS
-'sword.': SOERD/TP-PL
+'sword.': SWORD/TP-PL
 'The': KPA/-T
 'youth': KWRAO*UT
 'nevertheless': TPHEFRLS

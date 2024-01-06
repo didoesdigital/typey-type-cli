@@ -1363,7 +1363,7 @@ The Red Shoes
 'a': AEU
 'broad': PWRAOD
 'shining': SHAOEUPBG
-'sword.': SOERD/TP-PL
+'sword.': SWORD/TP-PL
 '"Dance': KW-GS/KPA*/TKAPBS
 'you': U
 'shall,"': SHAL/KW-BG/KR-GS
@@ -2074,7 +2074,7 @@ The Red Shoes
 'carried': KAERD
 'the': -T
 'sharp': SHARP
-'sword,': SOERD/KW-BG
+'sword,': SWORD/KW-BG
 'but': PWUT
 'a': AEU
 'beautiful': PWAOUFL

@@ -23,6 +23,7 @@ One-syllable words with more consonants
 'stop': STOP
 'worse': WORS
 'start': START
+'sword': SWORD
 'heads': HEDZ
 'spread': SPRED
 'hearts': HARTS
@@ -52,6 +53,7 @@ One-syllable words with more consonants
 'ward': WARD
 'sets': SETS
 'purse': PURS
+'swords': SWORDZ
 'cart': KART
 'corpse': KORPS
 'trap': TRAP

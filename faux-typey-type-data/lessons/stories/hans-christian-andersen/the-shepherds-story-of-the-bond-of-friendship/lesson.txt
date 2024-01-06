@@ -787,7 +787,7 @@ The Shepherd's Story of the Bond of Friendship
 'all': AUL
 'armed': ARPLD
 'with': W
-'swords': SOERDZ
+'swords': SWORDZ
 'and': SKP
 'muskets.': PHUFBGT/-S/TP-PL
 'These': KPA/THEZ

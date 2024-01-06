@@ -904,7 +904,7 @@ The Bell-Deep
 'guard': TKPWARD
 'with': W
 'drawn': TKRAUPB
-'swords;': SOERDZ/STPH*FPLT
+'swords;': SWORDZ/STPH*FPLT
 'but': PWUT
 'the': -T
 'King's': KO*EUPBG/AES

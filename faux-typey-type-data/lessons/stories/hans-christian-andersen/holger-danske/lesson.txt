@@ -1357,7 +1357,7 @@ Holger Danske
 'lies': HRAO*EUS
 'in': TPH
 'a': AEU
-'sword,': SOERD/KW-BG
+'sword,': SWORD/KW-BG
 'and': SKP
 'he': HE
 'pointed': POEUPBTD
@@ -1465,7 +1465,7 @@ Holger Danske
 'who': WHO
 'used': AOUFD
 'a': AEU
-'sword,': SOERD/KW-BG
+'sword,': SWORD/KW-BG
 'but': PWUT
 'not': TPHOT
 'one': WUPB

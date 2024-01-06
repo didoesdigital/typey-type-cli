@@ -1697,7 +1697,7 @@ Blue Beard
 'who': WHO
 'drawing': TKRAUG
 'their': THAEUR
-'swords,': SOERDZ/KW-BG
+'swords,': SWORDZ/KW-BG
 'ran': RAPB
 'directly': TKREL
 'to': TO
@@ -1752,7 +1752,7 @@ Blue Beard
 'they': THE
 'ran': RAPB
 'their': THAEUR
-'swords': SOERDZ
+'swords': SWORDZ
 'thro'': T*/H*/R*/O*/-PBT
 'his': HEUS
 'body': PWO*ED

@@ -112,11 +112,11 @@ Proverbial phrases starting with O
 'who': WHO
 'believes': PWHREFS
 'in': TPH
-'Sword,': KPA/SOERD/KW-BG
+'Sword,': KPA/SWORD/KW-BG
 'dies': TKAOEUZ
 'by': PWEU
 'the': -T
-'Sword.': KPA/SOERD/TP-PL
+'Sword.': KPA/SWORD/TP-PL
 'One': KPA/WUPB
 'who': WHO
 'speaks': SPAOEBGS

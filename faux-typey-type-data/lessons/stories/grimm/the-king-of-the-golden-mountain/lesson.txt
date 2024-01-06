@@ -2012,7 +2012,7 @@ The King of the Golden Mountain
 'there': THR
 'was': WAS
 'a': AEU
-'sword': SOERD
+'sword': SWORD
 'that': THA
 'cut': KUT
 'off': OF
@@ -2106,7 +2106,7 @@ The King of the Golden Mountain
 'give': TKPWEUF
 'me': PHE
 'the': -T
-'sword.'': SOERD/TP-PL/AE
+'sword.'': SWORD/TP-PL/AE
 ''No,'': A*E/KPA*/TPHO/KW-BG/AE
 'said': SED
 'they;': THE/STPH*FPLT
@@ -2443,7 +2443,7 @@ The King of the Golden Mountain
 'he': HE
 'drew': TKRAOU
 'his': HEUS
-'sword.': SOERD/TP-PL
+'sword.': SWORD/TP-PL
 ''Heads': A*E/KPA*/HEDZ
 'Off!'': KPA/OF/SKHRAPL/AE
 'cried': KRAOEUD

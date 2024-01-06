@@ -2363,7 +2363,7 @@ The Valiant Little Tailor
 'drew': TKRAOU
 'out': OUT
 'his': HEUS
-'sword': SOERD
+'sword': SWORD
 'and': SKP
 'gave': TKPWAEUF
 'each': AOEFP

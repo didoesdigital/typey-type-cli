@@ -777,7 +777,7 @@ The Golden Treasure
 'uniform': KWRAOUFRPL
 'and': SKP
 'a': AEU
-'sword.': SOERD/TP-PL
+'sword.': SWORD/TP-PL
 '"Ah,': KW-GS/KPA*/AERBGS
 'you': U
 'learn': HRERPB

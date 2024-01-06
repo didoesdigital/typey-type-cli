@@ -188,7 +188,7 @@ The Swan's Nest
 'with': W
 'the': -T
 'drawn': TKRAUPB
-'sword.': SOERD/TP-PL
+'sword.': SWORD/TP-PL
 '"That': KW-GS/KPA*/THA
 'was': WAS
 'in': TPH

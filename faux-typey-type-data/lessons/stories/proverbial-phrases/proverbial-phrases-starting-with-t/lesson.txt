@@ -339,7 +339,7 @@ Proverbial phrases starting with T
 'mightier': PHAOEUT/KWRER
 'than': THAPB
 'the': -T
-'sword.': SOERD/TP-PL
+'sword.': SWORD/TP-PL
 'The': KPA/-T
 'pot': POT
 'calling': KAULG

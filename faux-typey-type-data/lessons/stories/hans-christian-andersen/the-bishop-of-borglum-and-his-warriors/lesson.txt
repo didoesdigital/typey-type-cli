@@ -1753,7 +1753,7 @@ The Bishop of Borglum and His Warriors
 'alive."': A/HRAOEUF/TP-PL/KR-GS
 'And': AFPBD
 'the': -T
-'sword': SOERD
+'sword': SWORD
 'leaps': HRAOEPS
 'from': TPR
 'the': -T

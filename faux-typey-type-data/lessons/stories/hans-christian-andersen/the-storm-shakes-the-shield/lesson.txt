@@ -162,7 +162,7 @@ The Storm Shakes the Shield
 'ones': WUPBZ
 'carried': KAERD
 'drawn': TKRAUPB
-'swords,': SOERDZ/KW-BG
+'swords,': SWORDZ/KW-BG
 'each': AOEFP
 'with': W
 'a': AEU

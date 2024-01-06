@@ -1069,7 +1069,7 @@ Top 10000 Project Gutenberg words
 'obliged': OE/PWHRAOEUPBLGD
 'enter': SPWER
 'rule': RAOUL
-'sword': SOERD
+'sword': SWORD
 'attack': A/TABG
 'seat': SAOET
 'game': TKPWAEUPL
@@ -4373,7 +4373,7 @@ Top 10000 Project Gutenberg words
 'ridge': REUPBLG
 'spoil': SPOEUL
 'liable': HRAOEUBL
-'swords': SOERDZ
+'swords': SWORDZ
 'hearty': HAR/TEU
 'BC': PW*P/KR*P
 'Abraham': AEUB/HAPL

@@ -58,11 +58,11 @@ Proverbial phrases starting with H
 'lives': HREUFS
 'by': PWEU
 'the': -T
-'sword,': SOERD/KW-BG
+'sword,': SWORD/KW-BG
 'dies': TKAOEUZ
 'by': PWEU
 'the': -T
-'sword.': SOERD/TP-PL
+'sword.': SWORD/TP-PL
 'He': KPA/HE
 'who': WHO
 'loves': HRUFS

@@ -665,7 +665,7 @@ The Flying Trunk
 'gave': TKPWAEUF
 'him': HEUPL
 'a': AEU
-'sword': SOERD
+'sword': SWORD
 'which': WEU
 'was': WAS
 'studded': STUD/TK-D

@@ -867,7 +867,7 @@ The White Snake
 'horse': HORS
 'with': W
 'his': HEUS
-'sword,': SOERD/KW-BG
+'sword,': SWORD/KW-BG
 'and': SKP
 'gave': TKPWAEUF
 'it': T

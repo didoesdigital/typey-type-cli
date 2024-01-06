@@ -31,7 +31,7 @@ The Bird of Popular Song
 'as': AS
 'a': AEU
 'well-tempered': W*EL/TEFRP/ERD
-'sword,': SOERD/KW-BG
+'sword,': SWORD/KW-BG
 'and': SKP
 'the': -T
 'trees': TRAOES
@@ -810,7 +810,7 @@ The Bird of Popular Song
 'as': AS
 'a': AEU
 'two-edged': TWO/H-PB/EPBLGD
-'sword,': SOERD/KW-BG
+'sword,': SWORD/KW-BG
 'the': -T
 'snow-flakes': STPHOE/H-PB/TPHRAEUBGS
 'chase': KHAEUS

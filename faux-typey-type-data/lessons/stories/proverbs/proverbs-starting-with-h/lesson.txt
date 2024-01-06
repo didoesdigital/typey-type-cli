@@ -65,12 +65,12 @@ Proverbs starting with H
 'lives': HREUFS
 'by': PWEU
 'the': -T
-'sword': SOERD
+'sword': SWORD
 'shall': SHAL
 'die': TKAOEU
 'by': PWEU
 'the': -T
-'sword.': SOERD/TP-PL
+'sword.': SWORD/TP-PL
 'He': KPA/HE
 'who': WHO
 'sleeps': SHRAOEPS

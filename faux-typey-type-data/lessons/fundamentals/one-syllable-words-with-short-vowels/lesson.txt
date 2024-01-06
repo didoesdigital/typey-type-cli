@@ -36,6 +36,7 @@ One-syllable words with short vowels
 'worse': WORS
 'start': START
 'proved': PROFD
+'sword': SWORD
 'heads': HEDZ
 'spread': SPRED
 'twelve': TWEFL
@@ -95,6 +96,7 @@ One-syllable words with short vowels
 'stores': STORS
 'sits': SEUTS
 'whip': WHEUP
+'swords': SWORDZ
 'hired': HEURD
 'twisted': TWEUFTD
 'robbed': ROBD

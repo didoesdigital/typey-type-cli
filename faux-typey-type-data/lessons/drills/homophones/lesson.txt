@@ -816,7 +816,7 @@ Homophones
 'soar': SAOR
 'sore': SOR
 'soared': SAORD
-'sword': SOERD
+'sword': SWORD
 'sold': SOELD
 'soled': SOL/-D
 'sole': SOEL

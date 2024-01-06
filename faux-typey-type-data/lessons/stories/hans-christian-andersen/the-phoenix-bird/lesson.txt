@@ -67,7 +67,7 @@ The Phoenix Bird
 'from': TPR
 'the': -T
 'flaming': TPHRAPLG
-'sword': SOERD
+'sword': SWORD
 'of': -F
 'the': -T
 'cherub': KHERB

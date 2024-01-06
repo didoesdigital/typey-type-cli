@@ -688,7 +688,7 @@ Old Sultan
 'was': WAS
 'carrying': KAERG
 'a': AEU
-'sword': SOERD
+'sword': SWORD
 'for': TPOR
 'Sultan': KPA/SUL/TAPB
 'to': TO

@@ -1602,7 +1602,7 @@ The Old House
 'boy.': PWOEU/TP-PL
 'Tanta-ra-ra."': KPA/TAPBT/SKWRA/H-PB/HRO*ER/RA/H-PB/HRO*ER/RA/TP-PL/KR-GS
 'The': KPA/-T
-'swords': SOERDZ
+'swords': SWORDZ
 'and': SKP
 'armor': AR/PHOR
 'on': OPB

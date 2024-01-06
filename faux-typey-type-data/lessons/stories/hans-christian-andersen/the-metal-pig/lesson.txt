@@ -729,7 +729,7 @@ The Metal Pig
 'whom': WHOPL
 'whetted': W*/H*/*E/T*/T*/-D
 'his': HEUS
-'sword,': SOERD/KW-BG
+'sword,': SWORD/KW-BG
 'and': SKP
 'was': WAS
 'named': TPHAEUPLD
@@ -741,7 +741,7 @@ The Metal Pig
 'another': TPHOER
 'group,': TKPWRAOURPBGS
 'the': -T
-'sword': SOERD
+'sword': SWORD
 'had': H
 'been': PW-PB
 'sharpened': SHARP/-PBD

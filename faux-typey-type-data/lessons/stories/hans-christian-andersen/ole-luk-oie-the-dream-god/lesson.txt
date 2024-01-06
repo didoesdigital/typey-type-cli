@@ -1098,7 +1098,7 @@ Ole-Luk-Oie, the Dream-God
 'and': SKP
 'had': H
 'golden': TKPWOELD/*EPB
-'swords,': SOERDZ/KW-BG
+'swords,': SWORDZ/KW-BG
 'and': SKP
 'made': PHAED
 'it': T

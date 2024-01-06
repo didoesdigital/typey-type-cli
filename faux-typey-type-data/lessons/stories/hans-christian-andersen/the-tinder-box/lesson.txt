@@ -20,7 +20,7 @@ The Tinder-Box
 'back,': PWABG/KW-BG
 'and': SKP
 'a': AEU
-'sword': SOERD
+'sword': SWORD
 'at': AT
 'his': HEUS
 'side;': SAOEUD/STPH*FPLT
@@ -70,7 +70,7 @@ The Tinder-Box
 'a': AEU
 'very': SRE
 'fine': TPAOEUPB
-'sword,': SOERD/KW-BG
+'sword,': SWORD/KW-BG
 'and': SKP
 'a': AEU
 'large': HRARPBLG
@@ -1025,7 +1025,7 @@ The Tinder-Box
 'will': HR
 'draw': TKRAU
 'my': PHEU
-'sword': SOERD
+'sword': SWORD
 'and': SKP
 'cut': KUT
 'off': OF

@@ -42,6 +42,7 @@ One-syllable words with simple keys
 'worse': WORS
 'start': START
 'hat': HAT
+'sword': SWORD
 'heads': HEDZ
 'spread': SPRED
 'hearts': HARTS
@@ -88,6 +89,7 @@ One-syllable words with simple keys
 'ward': WARD
 'sets': SETS
 'purse': PURS
+'swords': SWORDZ
 'pot': POT
 'cart': KART
 'corpse': KORPS

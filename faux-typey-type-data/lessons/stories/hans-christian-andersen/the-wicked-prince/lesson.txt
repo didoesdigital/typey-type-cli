@@ -35,7 +35,7 @@ The Wicked Prince
 'with': W
 'fire': TPAOEUR
 'and': SKP
-'sword,': SOERD/KW-BG
+'sword,': SWORD/KW-BG
 'and': SKP
 'his': HEUS
 'soldiers': SHRERPBLGS
@@ -850,7 +850,7 @@ The Wicked Prince
 'he': HE
 'drew': TKRAOU
 'his': HEUS
-'sword': SOERD
+'sword': SWORD
 'and': SKP
 'brandished': PWRAPBD/EURB/-D
 'it,': T/KW-BG

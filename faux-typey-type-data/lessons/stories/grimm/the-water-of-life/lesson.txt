@@ -976,7 +976,7 @@ The Water of Life
 'a': AEU
 'table': TAEUBL
 'a': AEU
-'sword': SOERD
+'sword': SWORD
 'and': SKP
 'a': AEU
 'loaf': HROEF
@@ -1242,7 +1242,7 @@ The Water of Life
 'he': HE
 'saw': SAU
 'the': -T
-'sword': SOERD
+'sword': SWORD
 'and': SKP
 'the': -T
 'loaf,': HROEF/KW-BG
@@ -1255,7 +1255,7 @@ The Water of Life
 'prize;': PRAOEUZ/STPH*FPLT
 'with': W
 'the': -T
-'sword': SOERD
+'sword': SWORD
 'you': U
 'can': K
 'at': AT
@@ -1501,7 +1501,7 @@ The Water of Life
 'king': KEUPBG
 'the': -T
 'wonderful': WUFL
-'sword,': SOERD/KW-BG
+'sword,': SWORD/KW-BG
 'and': SKP
 'he': HE
 'slew': SHRAO*U
@@ -2102,7 +2102,7 @@ The Water of Life
 'had': H
 'lent': HREPBT
 'his': HEUS
-'sword': SOERD
+'sword': SWORD
 'and': SKP
 'loaf': HROEF
 'of': -F

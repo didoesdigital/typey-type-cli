@@ -2765,7 +2765,7 @@ The Nightingale
 'one': WUPB
 'hand': HAPBD
 'his': HEUS
-'sword': SOERD
+'sword': SWORD
 'of': -F
 'state,': STAEUT/KW-BG
 'and': SKP
@@ -3047,7 +3047,7 @@ The Nightingale
 'the': -T
 'beautiful': PWAOUFL
 'golden': TKPWOELD/*EPB
-'sword': SOERD
+'sword': SWORD
 'and': SKP
 'that': THA
 'rich': REUFP
@@ -3475,7 +3475,7 @@ The Nightingale
 'the': -T
 'heavy': HOEUF
 'golden': TKPWOELD/*EPB
-'sword': SOERD
+'sword': SWORD
 'pressed': PREFD
 'to': TO
 'his': HEUS

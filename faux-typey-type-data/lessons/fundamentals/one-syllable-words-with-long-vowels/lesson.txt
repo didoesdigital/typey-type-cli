@@ -35,7 +35,6 @@ One-syllable words with long vowels
 'spite': SPAOEUT
 'pride': PRAOEUD
 'rule': RAOUL
-'sword': SOERD
 'seat': SAOET
 'space': SPAEUS
 'taste': TAEUFT
@@ -139,7 +138,6 @@ One-syllable words with long vowels
 'sweep': SWAOEP
 'traces': TRAEUFS
 'spear': SPAOER
-'swords': SOERDZ
 'sails': SAEULS
 'prose': PROES
 'codes': KOEDZ
