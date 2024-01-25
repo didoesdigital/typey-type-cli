@@ -134,7 +134,7 @@ The Swan's Nest
 'On': KPA/OPB
 'the': -T
 'fresh': TPRERB
-'sward': S*/WA*RD
+'sward': SWARD
 'of': -F
 'England': TKPWHRAEPBD
 'stood': STAOD

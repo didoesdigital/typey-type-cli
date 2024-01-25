@@ -4399,7 +4399,7 @@ Top 10000 Project Gutenberg words
 'widely': WAELD
 'Illinois': *EUL
 'Charlotte': KHARL/OT
-'endeavoured': EPB/TKEUFRD/A*U
+'endeavoured': EPB/TKEFRD/A*U
 'ardent': ARD/EPBT
 'cow': KOU
 'mill': PHEUL

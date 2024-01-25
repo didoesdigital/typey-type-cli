@@ -260,7 +260,7 @@ Everything in the Right Place
 'gate,': TKPWAET/KW-BG
 'the': -T
 'girl': TKPWEURL
-'endeavoured': EPB/TKEUFRD/A*U
+'endeavoured': EPB/TKEFRD/A*U
 'to': TO
 'scramble': SKRAPL/-BL
 'up,': UP/KW-BG
