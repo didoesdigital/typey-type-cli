@@ -242,6 +242,10 @@ To create a new lesson, you need to create the new lesson's source files outline
 
 You can also add lessons directly to the community’s lessons spreadsheet. See [Typey Type lessons](https://didoesdigital.com/typey-type/lessons) to learn more.
 
+### Copyright
+
+Use material that is in the [public domain](https://en.wikipedia.org/wiki/Public_domain) or otherwise legal to use in Typey Type. Check out the [Wikipedia List of countries' copyright lengths](https://en.wikipedia.org/wiki/List_of_countries%27_copyright_lengths).
+
 ### How to make a great lesson
 
 Aim for lessons that are around 50–300 words long. Short lessons less than 10 words often result in heavily skewed speed scores and are over too quickly. Longer lessons drag on, and not everyone is aware or comfortable to hit "Stop" before reaching the end.
