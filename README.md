@@ -286,6 +286,8 @@ For lessons specifically to practice affixes, try to make the entire lesson use 
 {^s and the}
 ```
 
+Check for non-ASCII characters that might be difficult to type and consider possible amendments. For example, lots of Project Gutenberg material uses back tick (grave) characters as quotation marks, which you might change to actual quotation marks. Here's a regular expression to quickly highlight non-ASCII and non-printable control characters: `[^\x20-\x7f]`
+
 ## Source files
 
 The lesson source files live in `lesson-source-data` in a category such as `Fundamentals`, `Drills`, `Collections` or `Stories` and, for Collections and Stories, a subcategory.
