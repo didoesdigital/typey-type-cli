@@ -74,7 +74,7 @@ The Chaos
 'word.': WORD/TP-PL
 'Sword': KPA/SWORD
 'and': SKP
-'sward,': S*/WA*RD/KW-BG
+'sward,': SWARD/KW-BG
 'retain': RE/TAEUPB
 'and': SKP
 'Britain': PWREU/TEUPB
@@ -133,7 +133,7 @@ The Chaos
 'via': SRAOE/A
 'Recipe,': KPA/RES/PEU/KW-BG
 'pipe,': PAOEUP/KW-BG
-'studding-sail,': S*/T*/*U/TK*/TK*/-G/H-PB/SAEUL/KW-BG
+'studding-sail,': STUD/-G/H-PB/SAEUL/KW-BG
 'choir;': KHOEUR/STPH*FPLT
 'Woven,': KPA/WOEFPB/KW-BG
 'oven,': OEFPB/KW-BG
@@ -157,8 +157,8 @@ The Chaos
 'Branch,': KPA/PWRAFRPB/KW-BG
 'ranch,': RAFRPB/KW-BG
 'measles,': PHAOEFLS/KW-BG
-'topsails,': T*/O*/P*/S*/A*/*EU/HR*/-S/KW-BG
-'aisles,': AOEUS/-LS/KW-BG
+'topsails,': TOP/TK-LS/SAEUL/-S/KW-BG
+'aisles,': AOEULSZ/KW-BG
 'Missiles,': KPA/PHEUFLS/KW-BG
 'similes,': SEUPL/HRE/-S/KW-BG
 'reviles.': RE/SRAOEUL/-S/TP-PL
@@ -221,7 +221,7 @@ The Chaos
 'mankind,': PHAPB/KAOEUPBD/KW-BG
 'Tortoise,': KPA/TOR/TOS/KW-BG
 'turquoise,': TUR/KOEUS/KW-BG
-'chamois-leather,': KR*/HA*PL/KWRO/SKWREU/-S/H-PB/HRE/THER/KW-BG
+'chamois-leather,': KR*/H*/A*/PH*/O*/*EU/S*/H-PB/HRE/THER/KW-BG
 'Reading,': KPA/RAEGD/KW-BG
 'Reading,': KPA/RAEGD/KW-BG
 'heathen,': HAOE/THEPB/KW-BG
@@ -240,7 +240,7 @@ The Chaos
 'you': U
 'ever': -FR
 'yet': KWRET
-'endeavoured': EPB/TKEUFRD/A*U
+'endeavoured': EPB/TKEFRD/A*U
 'To': KPA/TO
 'pronounce': PROUPBS
 'revered': RE/SRAOERD
@@ -290,7 +290,7 @@ The Chaos
 'with': W
 'khaki.': KA/KAOE/TP-PL
 'Discount,': KPA/TK-BG/KW-BG
-'viscount,': SREUFBG/SKWRO/UPB/T*/SP-S/KW-BG
+'viscount,': SR*/*EU/S*/TK-LS/KOUPBT/KW-BG
 'load': HRAOD
 'and': SKP
 'broad,': PWRAOD/KW-BG
@@ -376,7 +376,7 @@ The Chaos
 'revise,': RE/SRAOEUS/KW-BG
 'Rabies,': KPA/RAB/KWREUS/KW-BG
 'but': PWUT
-'lullabies.': HR*/*U/HR*/HR*/A*/PW*/AO*E/-S/TP-PL
+'lullabies.': HRUL/PWEU/-S/TP-PL
 'Of': KPA/-F
 'such': SUFP
 'puzzling': PUZ/-LG
@@ -877,7 +877,7 @@ The Chaos
 'Thales,': T*P/H*/KWRA/*L/-S/KW-BG
 'Aphrodite,': AFR/TKAOEUT/KW-BG
 'Paramour,': KPA/PAR/PHOUR/KW-BG
-'enamoured,': *E/TPH*/A*/PH*/O*UR/-D/KW-BG
+'enamoured,': EPB/APL/O*R/A*U/-D/KW-BG
 'flighty,': TPHRAOEUT/KWREU/KW-BG
 'Episodes,': KPA/EP/SOEDZ/KW-BG
 'antipodes,': APB/TEUP/TKE/-S/KW-BG
@@ -1350,7 +1350,7 @@ The Chaos
 'paling,': HRO*ER/PA/HREUPBG/KW-BG
 'stout': STOUT
 'and': SKP
-'spiky.': S*/*P/SKWREU/*BG/KWREU/TP-PL
+'spiky.': SPAOEUBG/KWEU/TP-PL
 'Won't': KPA/WOEPBT
 'it': T
 'make': PHAEUBG
