@@ -31,6 +31,6 @@ Two-word briefs Who *
 'who want': WHOPT
 'who wanted': WHOPTD
 'who wants': WHOPTS
-'who was': HOFS
+'who was': WHOFS
 'who were': HORP
 'who would': WHOLD
