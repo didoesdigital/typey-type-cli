@@ -58,7 +58,6 @@ Longest Words with Single-Stroke Briefs
 'satisfaction': SAEBGS
 'demonstrable': STRABL
 'partnerships': PARPS
-'disinfectant': TKEUS/EUPB/TPEBG/TAPBT
 'preponderate': P-PT
 'contributing': KR-BGT
 'neighborhood': TPHAOD
