@@ -161,6 +161,9 @@ tmp/make/lint-and-test.timestamp: build/index.js $(ALL_TS_FILES)
 	@mkdir -p tmp/make/
 	@touch tmp/make/lint-and-test.timestamp
 
+validate-lessons: lessons
+	@$(CLI) validate-lessons
+
 # build-everything
 build-everything: typey-type-dict intermediate-standard-dict copy-dictionaries lessons lesson-index build-recommendations-courses collect-misstrokes lint-and-test
 

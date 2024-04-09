@@ -204,6 +204,12 @@ yarn test
 yarn test:watch
 ```
 
+## Validate lessons
+
+```sh
+yarn dev validate-lessons
+```
+
 ## Build
 
 This cleans the `build` directory, compiles all the TypeScript to JavaScript and makes the `./build/index.js` executable:

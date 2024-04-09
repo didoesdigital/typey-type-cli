@@ -4,6 +4,7 @@
 import buildLesson from "./commands/buildLesson";
 import buildLessonIndex from "./commands/buildLessonIndex";
 import copyDictionaries from "./commands/copyDictionaries";
+import validateLessons from "./commands/validateLessons";
 import buildRecommendationsCourses from "./commands/buildRecommendationsCourses";
 import buildTypeyTypeDictionary from "./commands/buildTypeyTypeDictionary";
 import addNewRule from "./commands/addNewRule";
@@ -58,6 +59,13 @@ async function main() {
     .description("Scaffolds files for new rules for fundamental lessons")
     .requiredOption("--rule <ruleName>", "camelCase rule name")
     .action(addNewRule.run);
+
+  program
+    .command("validate-lessons")
+    .description(
+      "Runs basic checks on lesson files to make sure they are as expected"
+    )
+    .action(validateLessons.run);
 
   program
     .command("split-lesson-index", { hidden: true })
