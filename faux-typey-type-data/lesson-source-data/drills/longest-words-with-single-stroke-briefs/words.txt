@@ -96,3 +96,5 @@ suppressives
 suppressants
 prerequisite
 preferential
+practitioner
+photographic

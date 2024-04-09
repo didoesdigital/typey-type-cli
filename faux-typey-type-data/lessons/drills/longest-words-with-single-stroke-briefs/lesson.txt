@@ -98,3 +98,5 @@ Longest Words with Single-Stroke Briefs
 'suppressants': SPREFPBTS
 'prerequisite': PR-R
 'preferential': PREFRL
+'practitioner': PRER
+'photographic': TPOEFBG

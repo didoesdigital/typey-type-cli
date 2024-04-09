@@ -96,5 +96,7 @@
 "SPREFS": "suppressives",
 "SPREFPBTS": "suppressants",
 "PR-R": "prerequisite",
-"PREFRL": "preferential"
+"PREFRL": "preferential",
+"PRER": "practitioner",
+"TPOEFBG": "photographic"
 }
