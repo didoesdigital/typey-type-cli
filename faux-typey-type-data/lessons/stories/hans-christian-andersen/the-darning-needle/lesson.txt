@@ -651,7 +651,7 @@ The Darning-Needle
 'they': THE
 'were': WR
 'only': OEPBL
-'employed': PHOEUD
+'employed': PHROEUD
 'to': TO
 'take': TAEUBG
 'me': PHE

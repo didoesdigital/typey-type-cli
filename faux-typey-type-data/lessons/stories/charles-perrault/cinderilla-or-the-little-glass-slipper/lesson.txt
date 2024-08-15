@@ -118,7 +118,7 @@ Cinderilla or the Little Glass Slipper
 'more': PHOR
 'odious.': OED/KWROUS/TP-PL
 'She': KPA/SHE
-'employed': PHOEUD
+'employed': PHROEUD
 'her': HER
 'in': TPH
 'the': -T
@@ -2245,7 +2245,7 @@ Cinderilla or the Little Glass Slipper
 'They': KPA/THE
 'whom': WHOPL
 'he': HE
-'employed': PHOEUD
+'employed': PHROEUD
 'began': TKPWAPB
 'to': TO
 'try': TREU

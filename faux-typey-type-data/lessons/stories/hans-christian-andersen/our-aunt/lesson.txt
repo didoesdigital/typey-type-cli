@@ -2044,7 +2044,7 @@ Our Aunt
 'was': WAS
 'a': AEU
 'child': KHAOEULD
-'employed': PHOEUD
+'employed': PHROEUD
 'in': TPH
 'the': -T
 'ballet,': PWA/HRAEU/KW-BG

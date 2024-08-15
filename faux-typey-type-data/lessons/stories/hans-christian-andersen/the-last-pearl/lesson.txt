@@ -589,7 +589,7 @@ The Last Pearl
 'had': H
 'been': PW-PB
 'diligently': TKEUL/SKWREPBT/HREU
-'employed': PHOEUD
+'employed': PHROEUD
 'in': TPH
 'deeds': TKAOEDZ
 'of': -F

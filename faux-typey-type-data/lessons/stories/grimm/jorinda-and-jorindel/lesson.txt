@@ -684,7 +684,7 @@ Jorinda and Jorindel
 'strange': STRAEUPBG
 'village,': SREULG/KW-BG
 'and': SKP
-'employed': PHOEUD
+'employed': PHROEUD
 'himself': HEUPLS
 'in': TPH
 'keeping': KAOEPG
