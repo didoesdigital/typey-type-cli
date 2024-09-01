@@ -339,7 +339,7 @@ The source lesson metadata file is called `meta.json` and can include:
 
 ### Lesson overview file
 
-The source lesson overview file is called `lesson-overview.html`. If this exists, Typey Type will show an "Overview" link to describe the lesson's concepts.
+The source lesson overview file is called `lesson-overview.html`. If this exists, Typey Type will show an "Overview" link to describe the lesson's concepts. To add a new overview to an existing lesson, you may need to run `make --always-make lesson-index` to re-build the lesson index to link to the new overview and make it show up in Typey Type.
 
 ### Lesson index file
 
