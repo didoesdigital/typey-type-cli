@@ -18,8 +18,8 @@ Note: both the source and output lesson data is committed in git so that it's ea
 
 Requirements:
 
-- Node version 18 or later. Note: the project is currently built with Node version 18.
-- Install [yarn](https://yarnpkg.com/lang/en/docs/install/).
+- Node version 18 or later. Note: the project is currently built with Node version 20.
+- Install [yarn](https://yarnpkg.com/getting-started/install) v4.
 - The CLI uses built-in tools including:
     - [GNU Make](https://www.gnu.org/software/make/)
     - `find`, which is usually part of [findutils](https://www.gnu.org/software/findutils/)
