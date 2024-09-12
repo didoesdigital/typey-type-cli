@@ -5,8 +5,8 @@
   "main": "build/index.js",
   "scripts": {
     "build": "yarn clean && yarn compile && yarn chmod",
-    "clean": "if [ -e build ] ; then rm -r ./build; fi;",
-    "chmod": "chmod u+x ./build/index.js",
+    "clean": "sh -c 'if [ -e build ] ; then rm -r ./build; fi;'",
+    "chmod": "sh -c 'chmod u+x ./build/index.js'",
     "compile": "tsc --build",
     "dev": "ts-node src/index.ts",
     "lint:check": "eslint '**/meta.json' 'src/**/*.{js,ts}'",
@@ -53,5 +53,6 @@
     "steno",
     "stenography"
   ],
-  "types": "build/index.d.ts"
+  "types": "build/index.d.ts",
+  "packageManager": "yarn@4.4.1"
 }
