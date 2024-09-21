@@ -19,6 +19,7 @@ LESSON_INDEX_SRC := $(LESSON_SRC_DIR)/sourceLessonIndex.json
 DICTIONARIES_SRC_DIR := $(DATA_DIR)/dictionary-source-data
 DICTIONARIES_TARGET_DIR := $(DATA_DIR)/dictionaries
 TARGET_MISSTROKES_JSON := $(DICTIONARIES_TARGET_DIR)/didoesdigital/misstrokes.json
+TARGET_EMOJI_JSON := $(DICTIONARIES_TARGET_DIR)/didoesdigital/emoji.json
 DICTIONARY_INTERMEDIATE_DIR := $(DATA_DIR)/dictionary-intermediate-data
 DIDOESDIGITAL_DICTIONARIES_DIR := didoesdigital/steno-dictionaries/dictionaries
 LESSON_HINTS_DICTIONARIES_DIR := $(DICTIONARIES_SRC_DIR)/lesson-hints
@@ -110,6 +111,14 @@ $(DATA_DIR)/dictionaries/typey-type/typey-type.json: build/index.js $(TYPEY_TYPE
 	@mkdir -p "$(TYPEY_TARGET_DICT_DIR)" # make sure target typey-type subdirectory exists before adding files inside
 	@echo "Running build-typey-type-dictionary to build typey-type.json"
 	@$(CLI) build-typey-type-dictionary --target=$@
+
+# emoji-dict
+emoji-dict: $(TARGET_EMOJI_JSON)
+ $(TARGET_EMOJI_JSON): build/index.js $(TYPEY_TYPE_DICTIONARIES) $(ALL_TS_FILES)
+	@mkdir -p "$(DICTIONARY_INTERMEDIATE_DIR)" # make sure intermediate dictionary directory exists before adding subdirectories inside them
+	@mkdir -p "$$(dirname $@)" # make sure didoesdigital target subdirectory exists before writing emoji file inside
+	@echo "Running build-emoji-dict to build emoji.json"
+	@$(CLI) build-emoji-dictionary --target=$@
 
 # copy-dictionaries
 copy-dictionaries: build $(LESSON_HINTS_DICTIONARIES) $(INDIVIDUAL_DICTIONARIES) $(PLOVER_DICTIONARIES) $(TYPEY_TYPE_DICTIONARIES) $(TOP_10_DICTIONARY) $(DICTIONARY_INDEX)
