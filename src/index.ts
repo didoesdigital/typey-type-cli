@@ -7,6 +7,7 @@ import copyDictionaries from "./commands/copyDictionaries";
 import validateLessons from "./commands/validateLessons";
 import buildRecommendationsCourses from "./commands/buildRecommendationsCourses";
 import buildTypeyTypeDictionary from "./commands/buildTypeyTypeDictionary";
+import buildEmojiDictionary from "./commands/buildEmojiDictionary";
 import addNewRule from "./commands/addNewRule";
 import splitLessonIndex from "./commands/splitLessonIndex";
 
@@ -53,6 +54,15 @@ async function main() {
       "The target file path to build the lesson"
     )
     .action(buildTypeyTypeDictionary.run);
+
+  program
+    .command("build-emoji-dictionary")
+    .description("Builds an emoji dictionary")
+    .requiredOption(
+      "--target <filePath>",
+      "The target file path to build the dictionary"
+    )
+    .action(buildEmojiDictionary.run);
 
   program
     .command("add-new-rule")
