@@ -51,7 +51,7 @@ async function main() {
     .description("Builds Typey Type dictionaries")
     .requiredOption(
       "--target <filePath>",
-      "The target file path to build the lesson"
+      "The target file path to build the dictionary"
     )
     .action(buildTypeyTypeDictionary.run);
 
