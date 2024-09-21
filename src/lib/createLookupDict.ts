@@ -35,12 +35,7 @@ const createLookupDict = (
     }
   }
 
-  const result = new Map();
-  lookupDict.forEach((strokesAndNamespacedDicts, translation) => {
-    result.set(translation, strokesAndNamespacedDicts);
-  });
-
-  return result;
+  return lookupDict;
 };
 
 export default createLookupDict;
