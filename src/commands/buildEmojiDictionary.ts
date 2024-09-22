@@ -3,7 +3,6 @@
 import fs from "node:fs/promises";
 import { PerformanceObserver, performance } from "node:perf_hooks";
 
-import dictionaryIntermediateDir from "../consts/dictionaryIntermediateDir";
 import standardDictionariesDir from "../consts/standardDictionariesDir";
 import standardDictionarySet from "../consts/standardDictionarySet.json";
 import makeStenoEmoji from "../lib/stemoji";
@@ -48,20 +47,18 @@ const run = async (options: Options) => {
     });
   });
 
-  const contents = JSON.stringify(emojiVocabDict, null, 2);
+  const emojiDictionarySortedByKey = makeStenoEmoji(emojiVocabDict);
 
   await fs
-    .writeFile(`${dictionaryIntermediateDir}/emoji-vocab-dict.json`, contents)
+    .writeFile(
+      options.target,
+      JSON.stringify(emojiDictionarySortedByKey, null, 2) + "\n"
+    )
     .catch((err) => {
       if (err) {
         console.error(err);
       }
     });
-
-  makeStenoEmoji(emojiVocabDict, options.target);
-
-  // TODO: build options.target file, emoji.json:
-  console.log(options.target);
 
   performance.mark("build-emoji-dict-end");
   performance.measure(

@@ -9,16 +9,278 @@ if (process.argv.length < 3) {
 
 const strategy = `vendor/emoji_strategy.json`;
 
-const makeStenoEmoji = (dict, target) => {
+const makeStenoEmoji = (dictionary) => {
 console.log(`Reading strategy ${strategy}`);
 const emojis = JSON.parse(fs.readFileSync(strategy, "utf8"));
 
-const dictionary = dict;
+// When we convert the dictionary as a JavaScript object to a
+// dictionaryByWord, attempting to use "constructor" as a key explodes.
+// Assuming there are no emoji short names using the word "constructor",
+// let's just delete it. Otherwise, we could use a JavaScript Map instead
+// of an object.
+delete dictionary["KAUPB/STRURBGT"];
+delete dictionary["KRUBGT/O*R"];
+
+// Remove these entries added by the numbers.json dictionary. They are
+// effectively duplicate outlines because they use the same steno keys. For
+// example, #T is the same "key" as 2-:
+// "PHOEPBLG/O*/2-": "🅾",
+// "PHOEPBLG/O*/#T": "🅾",
+delete dictionary["#H"];
+delete dictionary["#T"];
+
+// These overrides make sure we can generate a suitable outline for an emoji shortname like `:mans_shoe:` where it does not make sense to add the modified version to a Typey Type dictionary.
+const overrides = {
+  "PHAPB/AES": "mans",
+  "PHAPBS": "mans",
+  "PHAPBZ": "mans",
+  // "T-PL": "TM",
+  "T*/PH*": "TM",
+  // "W-BG": "wc",
+  "W*/KR*": "wc",
+  "WEUPLS": "womens",
+  "WEUPL/AES": "womens",
+  "WOPLS": "womans",
+  "WOPLZ": "womans",
+};
+
+// Custom entries found in modified_main.json that make it easier to write
+// emoji with short (2–4 char) parts in their shortnames, such as:
+// :couple_ww:
+// :kiss_mm:
+// :family_mwgb:
+// :jack_o_lantern:
+// :o:
+// :m:
+// :flag_af:
+const shortEmojiShortnameOverrides = {
+  "A*RBGS": "a",
+  "ARBGS": "a",
+  "A*": "a",
+  "5*": "a",
+  "PW*": "b",
+  "PW*RBGS": "b",
+  "3W*": "b",
+  "KR*RBGS": "c",
+  "KR-RBGS": "c",
+  "KR*": "c",
+  "#KR*": "c",
+  "TK*RBGS": "d",
+  "TK*": "d",
+  "2K*": "d",
+  "#*E": "e",
+  "*E": "e",
+  "TP*": "f",
+  "TP*RBGS": "f",
+  "23*": "f",
+  "TKW*": "g",
+  "TKPW*RBGS": "g",
+  "TKPW*": "g",
+  "2K3W*": "g",
+  "TKPWHR*": "g{&l}",
+  "4*": "h",
+  "H*": "h",
+  "H-RBGS": "h",
+  "H*RBGS": "h",
+  "EURBGS": "i",
+  "*EU": "i",
+  "#*EU": "i",
+  "1KWR*": "j",
+  "SKWR*": "j",
+  "K*RBGS": "k",
+  "#K*": "k",
+  "K*": "k",
+  "HR*RBGS": "l",
+  "4R*": "l",
+  "HR*": "l",
+  "HR*RB": "l",
+  "34*": "m",
+  "PH*RB": "m",
+  "PH-RBGS": "m",
+  "PH*": "m",
+  "PH*RBGS": "m",
+  "234*": "n",
+  "TPH*RBGS": "n",
+  "TPH*": "n",
+  "0*": "o",
+  "O*RBGS": "o",
+  "O*": "o",
+  "P-RBGS": "p",
+  "P*": "p",
+  "3*": "p",
+  "P*RBGS": "p",
+  "KW*": "q",
+  "KW-RBGS": "q",
+  "KW*RBGS": "q",
+  "#KW*": "q",
+  "#R*": "r",
+  "R*RBGS": "r",
+  "R*": "r",
+  "1*": "s",
+  "S*": "s",
+  "S*RBGS": "s",
+  "SH*": "s{&h}",
+  "T*": "t",
+  "T*RBGS": "t",
+  "2*": "t",
+  "#*U": "u",
+  "*U": "u",
+  "*URBGS": "u",
+  "SR*RBGS": "v",
+  "SR*": "v",
+  "1R*": "v",
+  "W*": "w",
+  "#W*": "w",
+  "W*RBGS": "w",
+  "K3*": "x",
+  "KP*": "x",
+  "KP-RBGS": "x",
+  "KP*RBGS": "x",
+  "KWR*RBGS": "y",
+  "KWR*": "y",
+  "#KWR*": "y",
+  "KWR*EURBGS": "y",
+  "SAO*E": "z",
+  "STKPW*": "z",
+  "SAO*ERBGS": "z",
+  "12K3W*": "z",
+};
+
+// Custom briefs found in modified_main.json that may make it easier to write
+// some emoji
+const customBriefs = {
+  "1234-": "1234",
+  "AEUR/ROES": "arrows",
+  "AOEUZ/KAOEU/KWRA": "izakaya",
+  "APBG/WEURBD": "anguished",
+  "AR/OES": "arrows",
+  "EUD/KWROE/TKPWRAF": "ideograph",
+  "HREFT/WA*RD": "leftwards",
+  "HREFT/WA*RDZ": "leftwards",
+  "KA/PWA": "kaaba",
+  "KO/KO": "koko",
+  "OE/TKEPB": "oden",
+  "OE/TPEU/KUS": "Ophiuchus",
+  "OED/*EPB": "oden",
+  "ORBGS": "Okay",
+  "PHA/SKWROPBG": "mahjong",
+  "PHERBGS": "Americas",
+  "PHOEU/KWRAOEU": "moyai",
+  "POEFT/PWOBGS": "postbox",
+  "PWEPB/TO": "bento",
+  "PWEPB/TOE": "bento",
+  "PWHROE/TPEURB": "blowfish",
+  "RAOEUT/WA*RD": "rightwards",
+  "RAOEUT/WA*RDZ": "rightwards",
+  "S*Z": "zzz",
+  "SKOERP/KWRUS": "scorpius",
+  "SPOEBGD": "spoked",
+  "TAPB/PWA/TA": "tanabata",
+  "TKAPB/TKPWO": "dango",
+  "TKAPB/TKPWOE": "dango",
+  "TKAPBG/KWRO": "dango",
+  "TKAPBG/KWROE": "dango",
+  "TKPWA": "gua",
+  "TKPWARDZ/PHA*PB": "guardsman",
+  "TKPWREUPBG": "grinning",
+  "TPH*/TKPW*": "ng",
+  "TPROUPBG": "frowning",
+  "HAPBD/SHAEUBGS": "hand",
+};
+
+const numbers = {
+  "1-": "1",
+  "2-": "2",
+  "3-": "3",
+  "4-": "4",
+  "5": "5",
+  "-6": "6",
+  "-7": "7",
+  "-8": "8",
+  "-9": "9",
+};
+
+// TODO: These should be added to condensed-strokes.json instead of including
+// them here:
+const condensedStrokes = {
+  "EBGS/PREGS/-LS": "expressionless",
+  "HAFPG": "hatching",
+  "HED/TPOEPB/-S": "headphones",
+  "HED/TPOEPB/-Z": "headphones",
+  "HED/TPOEPBS": "headphones",
+  "HED/TPOEPBZ": "headphones",
+  "HREUFT/*ER": "lifter",
+  "KHEBG/ERD": "checkered",
+  "PHAUPB/POET/-BL": "non-potable",
+  "PHAUPB/POT/-BL": "non-potable",
+  "PHER/EUD/KWRAPB/S": "meridians",
+  "PHER/EUD/KWRAPB/Z": "meridians",
+  "PHER/EUD/KWRAPBS": "meridians",
+  "PHER/EUD/KWRAPBZ": "meridians",
+  "PWUFTS": "busts",
+  "RE/WAOEUPBD": "rewind",
+  "STPHOE/PWAORD/*ER": "snowboarder",
+  "STPHOE/PWAORD/ER": "snowboarder",
+  "TKPWREUPB/-G": "grinning",
+  "TPROUPB/-G": "frowning",
+  "UPB/A/PHAOUFD": "unamused",
+  "UPB/A/PHAOUS/-D": "unamused",
+};
+
+// TODO: These should be added to condensed-strokes-fingerspelled.json
+// instead of including them here:
+const condensedFingerspellingStrokes = {
+  "A*/PW*/KR*/TK*": "abcd",
+  "A*/T*/PH*": "ATM",
+  "A*P/T*P/PH*P": "ATM",
+  "KR*/HR*": "cl",
+  "SR*/H*/S*": "vhs",
+  "SR*P/H*P/S*P": "VHS",
+};
+
+const clocks = {
+  "KHROBG/10": "clock10",
+  "KHROBG/1-D": "clock11",
+  "KHROBG/12-": "clock12",
+  "KHROBG/1-/30BG": "clock130",
+  "KHROBG/2-/30BG": "clock230",
+  "KHROBG/3-/30BG": "clock330",
+  "KHROBG/4-/30BG": "clock430",
+  "KHROBG/5/30BG": "clock530",
+  "KHROBG/-6/30BG": "clock630",
+  "KHROBG/-7/30BG": "clock730",
+  "KHROBG/-8/30BG": "clock830",
+  "KHROBG/-9/30BG": "clock930",
+  "KHROBG/10/30BG": "clock1030",
+  "KHROBG/1-D/30BG": "clock1130",
+  "KHROBG/12-/30BG": "clock1230",
+};
+
+const toAddToDictJson = {
+  "A*EUT": "eight",
+};
+
+const additions = {
+  ...overrides,
+  ...shortEmojiShortnameOverrides,
+  ...customBriefs,
+  ...numbers,
+  ...clocks,
+  ...condensedStrokes,
+  ...condensedFingerspellingStrokes,
+  ...toAddToDictJson,
+};
+
+for (const [outline, translation] of Object.entries(additions)) {
+  dictionary[outline] = translation;
+}
 
 if (
   Object.keys(emojis).some((x) => x !== emojis[x].shortname.replace(/:/g, ""))
 ) {
-  console.error(`Error: strategy contains key that is not equal to shortname`);
+  console.error(
+    `Error: strategy contains key that is not equal to shortname`
+  );
   process.exit(1);
 }
 
@@ -432,7 +694,14 @@ const dictionaryByWord = Object.keys(dictionary).reduce((p, n) => {
   if (!p[word]) {
     p[word] = [n];
   } else {
-    p[word].push(n);
+    try {
+      p[word].push(n);
+    } catch (error) {
+      console.error(
+        "ERROR: could not add this outline to the dictionaryByWord using this translation as the key:"
+      );
+      console.log({ outline: n, translation: word });
+    }
   }
   return p;
 }, {});
@@ -485,6 +754,7 @@ let emojiDictionary = valid.reduce((p, n) => {
 }, {});
 emojiDictionary["PHOEPBLG"] = "{#}";
 emojiDictionary["AOE/PHOEPBLG"] = "emoji";
+emojiDictionary["SPHAO*EUL"] = "🙂";
 
 console.log(JSON.stringify(Object.keys(unknownWords), null, 2));
 
@@ -496,8 +766,11 @@ const uniqueEmoji = valid.reduce((p, n) => {
   lastUnicode = n.unicode;
   return p + 1;
 }, 0);
+
 console.log(`Successfully processed ${uniqueEmoji} unique emoji`);
-console.log(`${invalid.length} emoji contained unknown words (printed above)`);
+console.log(
+  `${invalid.length} emoji contained unknown words (printed above)`
+);
 console.log(`Total number of entries made:`);
 console.log(Object.keys(emojiDictionary).length);
 
@@ -514,8 +787,13 @@ const noDefinition = Object.keys(emojis).reduce((p, e) => {
 
 console.log(`These shortcodes had no definition: ${noDefinition}`);
 
-fs.writeFileSync(target, JSON.stringify(emojiDictionary, null, 2), `utf8`);
-console.log(`Done.`);
+const emojiDictionarySortedByKey = Object.fromEntries(
+  Object.entries(emojiDictionary).sort((a, b) =>
+    a[0] < b[0] ? -1 : a[0] > b[0] ? 1 : 0
+  )
+);
+
+return emojiDictionarySortedByKey;
 };
 
 export default makeStenoEmoji;
