@@ -174,7 +174,7 @@ validate-lessons: lessons
 	@$(CLI) validate-lessons
 
 # build-everything
-build-everything: typey-type-dict intermediate-standard-dict copy-dictionaries lessons lesson-index build-recommendations-courses collect-misstrokes lint-and-test validate-lessons
+build-everything: typey-type-dict intermediate-standard-dict copy-dictionaries lessons lesson-index build-recommendations-courses collect-misstrokes emoji-dict lint-and-test validate-lessons
 
 # sync-typey-type-data
 .PHONY: sync-typey-type-data
