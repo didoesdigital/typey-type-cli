@@ -385,12 +385,13 @@ This project and everyone participating in it is governed by the [Code of Conduc
 ## Licenses
 
 - The project code (e.g. `src/**`) is licensed under MIT License, as shown in [LICENSE.md](./LICENSE.md).
-- The data is licensed under GPL-2.0:
+- The main data is licensed under GPL-2.0:
     - The following files came from [Plover](https://github.com/openstenoproject/plover/) and are licensed under GPL-2.0 as shown in [the plover repo's LICENSE](https://github.com/openstenoproject/plover/blob/main/LICENSE.txt):
         - [Plover’s Main Dictionary Jun 3, 2018 (latest)](./faux-typey-type-data/dictionaries/plover/main-3-jun-2018.json) in `faux-typey-type-data/dictionaries/plover/` and `faux-typey-type-data/dictionary-source-data/plover`
         - [Plover’s Main Dictionary Oct 5, 2016](./faux-typey-type-data/dictionaries/plover/main-5-oct-2016.json) in `faux-typey-type-data/dictionaries/plover/` and `faux-typey-type-data/dictionary-source-data/plover`
         - [Plover’s Commands Dictionary Jun 3, 2018 (latest)](./faux-typey-type-data/dictionaries/plover/commands-3-jun-2018.json) in `faux-typey-type-data/dictionaries/plover/` and `faux-typey-type-data/dictionary-source-data/plover`
     - The dictionary and lessons data (e.g. `faux-typey-type-data/`) are licensed under GPL-2.0 as shown in [LICENSE_DATA](./LICENSE_DATA).
+- The vendor data, `vendor/emoji_strategy.json`, from [emojione](https://github.com/joypixels/emojione) is licensed under MIT License, as shown in [LICENSE_3RD_PARTY.md](./LICENSE_3RD_PARTY.md).
 
 ## Author
 
