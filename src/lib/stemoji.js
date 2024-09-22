@@ -223,7 +223,6 @@ const makeStenoEmoji = (dictionary) => {
     "RE/WAOEUPBD": "rewind",
     "STPHOE/PWAORD/*ER": "snowboarder",
     "STPHOE/PWAORD/ER": "snowboarder",
-    "TKPWREUPB/-G": "grinning",
     "TPROUPB/-G": "frowning",
     "UPB/A/PHAOUFD": "unamused",
     "UPB/A/PHAOUS/-D": "unamused",
