@@ -385,6 +385,7 @@ This project and everyone participating in it is governed by the [Code of Conduc
 ## Licenses
 
 - The project code (e.g. `src/**`) is licensed under MIT License, as shown in [LICENSE.md](./LICENSE.md).
+    - Note, [Ted Morin gave permission](https://github.com/didoesdigital/steno-dictionaries/issues/592#issuecomment-2365165919) to add the `stemoji.js` script from [stemoji](https://github.com/morinted/stemoji) to this Typey Type CLI repo under MIT License.
 - The main data is licensed under GPL-2.0:
     - The following files came from [Plover](https://github.com/openstenoproject/plover/) and are licensed under GPL-2.0 as shown in [the plover repo's LICENSE](https://github.com/openstenoproject/plover/blob/main/LICENSE.txt):
         - [Plover’s Main Dictionary Jun 3, 2018 (latest)](./faux-typey-type-data/dictionaries/plover/main-3-jun-2018.json) in `faux-typey-type-data/dictionaries/plover/` and `faux-typey-type-data/dictionary-source-data/plover`
