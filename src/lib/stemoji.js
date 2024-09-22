@@ -258,10 +258,6 @@ const makeStenoEmoji = (dictionary) => {
     "KHROBG/12-/30BG": "clock1230",
   };
 
-  const toAddToDictJson = {
-    "A*EUT": "eight",
-  };
-
   const additions = {
     ...overrides,
     ...shortEmojiShortnameOverrides,
@@ -270,7 +266,6 @@ const makeStenoEmoji = (dictionary) => {
     ...clocks,
     ...condensedStrokes,
     ...condensedFingerspellingStrokes,
-    ...toAddToDictJson,
   };
 
   for (const [outline, translation] of Object.entries(additions)) {
