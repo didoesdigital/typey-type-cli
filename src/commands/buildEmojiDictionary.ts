@@ -6,6 +6,7 @@ import { PerformanceObserver, performance } from "node:perf_hooks";
 import dictionaryIntermediateDir from "../consts/dictionaryIntermediateDir";
 import standardDictionariesDir from "../consts/standardDictionariesDir";
 import standardDictionarySet from "../consts/standardDictionarySet.json";
+import makeStenoEmoji from "../lib/stemoji";
 
 import type { StenoDictionary } from "../shared/types";
 
@@ -56,6 +57,8 @@ const run = async (options: Options) => {
         console.error(err);
       }
     });
+
+  makeStenoEmoji(emojiVocabDict, options.target);
 
   // TODO: build options.target file, emoji.json:
   console.log(options.target);

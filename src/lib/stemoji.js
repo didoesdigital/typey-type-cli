@@ -7,13 +7,13 @@ if (process.argv.length < 3) {
   process.exit(1);
 }
 
-const strategy = `emoji_strategy.json`;
-const dict = process.argv[2];
+const strategy = `vendor/emoji_strategy.json`;
 
+const makeStenoEmoji = (dict, target) => {
 console.log(`Reading strategy ${strategy}`);
 const emojis = JSON.parse(fs.readFileSync(strategy, "utf8"));
-console.log(`Reading dictionary ${dict}`);
-const dictionary = JSON.parse(fs.readFileSync(dict, "utf8"));
+
+const dictionary = dict;
 
 if (
   Object.keys(emojis).some((x) => x !== emojis[x].shortname.replace(/:/g, ""))
@@ -110,7 +110,7 @@ const doSubstitutes = (emojis) => {
     "ww": "w_w",
     "mm": "m_m",
     "vulcan": "spock",
-    "flag_gb": "flag_great britain",
+    // "flag_gb": "flag_great britain",
     "flag_ac": "flag_a_c",
     "flag_ad": "flag_a_d",
     "flag_ae": "flag_a_e",
@@ -192,7 +192,7 @@ const doSubstitutes = (emojis) => {
     "flag_fo": "flag_f_o",
     "flag_fr": "flag_f_r",
     "flag_ga": "flag_g_a",
-    // "flag_gb": "flag_g_b",
+    "flag_gb": "flag_g_b",
     "flag_gd": "flag_g_d",
     "flag_ge": "flag_g_e",
     "flag_gf": "flag_g_f",
@@ -501,18 +501,6 @@ console.log(`${invalid.length} emoji contained unknown words (printed above)`);
 console.log(`Total number of entries made:`);
 console.log(Object.keys(emojiDictionary).length);
 
-lastUnicode = null;
-const markdownList =
-  `"` +
-  valid.reduce((a, b) => {
-    if (b.unicode === lastUnicode) {
-      return a + `, ${b.words.join(" ")}`;
-    }
-    lastUnicode = b.unicode;
-    return a + `\\n- ${b.unicode}: ${b.words.join(" ")}`;
-  }, "") +
-  `"`;
-
 const byUnicode = valid.reduce((p, n) => {
   p[n.oldUnicode] = true;
   return p;
@@ -526,10 +514,8 @@ const noDefinition = Object.keys(emojis).reduce((p, e) => {
 
 console.log(`These shortcodes had no definition: ${noDefinition}`);
 
-fs.writeFileSync("emoji.md", markdownList, `utf8`);
-fs.writeFileSync(
-  "emoji.json",
-  JSON.stringify(emojiDictionary, null, 1),
-  `utf8`
-);
+fs.writeFileSync(target, JSON.stringify(emojiDictionary, null, 2), `utf8`);
 console.log(`Done.`);
+};
+
+export default makeStenoEmoji;
