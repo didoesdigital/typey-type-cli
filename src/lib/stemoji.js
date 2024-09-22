@@ -29,7 +29,9 @@ const makeStenoEmoji = (dictionary) => {
   delete dictionary["#H"];
   delete dictionary["#T"];
 
-  // These overrides make sure we can generate a suitable outline for an emoji shortname like `:mans_shoe:` where it does not make sense to add the modified version to a Typey Type dictionary.
+  // These overrides make sure we can generate a suitable outline for an emoji
+  // shortname like `:mans_shoe:` where it does not make sense to add the
+  // modified version to a Typey Type dictionary.
   const overrides = {
     "PHAPB/AES": "mans",
     "PHAPBS": "mans",
@@ -335,8 +337,8 @@ const makeStenoEmoji = (dictionary) => {
   };
 
   const doSubstitutes = (emojis) => {
-    // Recursively substitute these words in strings
-    // Doesn't delete original code.
+    // Recursively substitute these words in strings to create even more emoji outlines.
+    // Doesn't delete original short code e.g. both "gray" and "grey" will appear in emoji outlines.
     const substitutes = {
       "grey": "gray",
       "exclamation": "!",
