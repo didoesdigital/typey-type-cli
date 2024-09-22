@@ -1,4 +1,4 @@
-const fs = require(`fs`);
+import fs from "fs";
 
 if (process.argv.length < 3) {
   console.error(
@@ -192,7 +192,7 @@ const doSubstitutes = (emojis) => {
     "flag_fo": "flag_f_o",
     "flag_fr": "flag_f_r",
     "flag_ga": "flag_g_a",
-    "flag_gb": "flag_g_b",
+    // "flag_gb": "flag_g_b",
     "flag_gd": "flag_g_d",
     "flag_ge": "flag_g_e",
     "flag_gf": "flag_g_f",
