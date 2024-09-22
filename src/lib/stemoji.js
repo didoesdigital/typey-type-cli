@@ -10,7 +10,7 @@ if (process.argv.length < 3) {
 const strategy = `vendor/emoji_strategy.json`;
 
 const makeStenoEmoji = (dictionary) => {
-  console.log(`Reading strategy ${strategy}`);
+  // console.log(`Reading strategy ${strategy}`);
   const emojis = JSON.parse(fs.readFileSync(strategy, "utf8"));
 
   // When we convert the dictionary as a JavaScript object to a
@@ -706,8 +706,13 @@ const makeStenoEmoji = (dictionary) => {
     return p;
   }, {});
 
+  // NOTE: uncomment the lines containing `invalid` if you want to log the
+  // number of emoji contained unknown words:
   let unknownWords = {};
-  const { valid, invalid } = shortnames.reduce(
+  const {
+    valid,
+    // , invalid
+  } = shortnames.reduce(
     (p, n) => {
       if (n.words.every((x) => !!dictionaryByWord[x])) {
         p.valid.push(n);
@@ -717,12 +722,16 @@ const makeStenoEmoji = (dictionary) => {
             unknownWords[x] = x;
           }
         });
-        p.invalid.push(n);
+        // p.invalid.push(n);
       }
       return p;
     },
-    { valid: [], invalid: [] }
+    {
+      valid: [],
+      // , invalid: []
+    }
   );
+  // console.log(JSON.stringify(Object.keys(unknownWords), null, 2));
 
   let emojiDictionary = valid.reduce((p, n) => {
     // For a given emoji's list of words
@@ -756,36 +765,32 @@ const makeStenoEmoji = (dictionary) => {
   emojiDictionary["AOE/PHOEPBLG"] = "emoji";
   emojiDictionary["SPHAO*EUL"] = "🙂";
 
-  console.log(JSON.stringify(Object.keys(unknownWords), null, 2));
+  // let lastUnicode = null;
+  // const uniqueEmoji = valid.reduce((p, n) => {
+  //   if (lastUnicode === n.unicode) {
+  //     return p;
+  //   }
+  //   lastUnicode = n.unicode;
+  //   return p + 1;
+  // }, 0);
+  // console.log(`Successfully processed ${uniqueEmoji} unique emoji`);
+  // console.log(
+  //   `${invalid.length} emoji contained unknown words (printed above)`
+  // );
+  // console.log(`Total number of entries made:`);
+  // console.log(Object.keys(emojiDictionary).length);
 
-  let lastUnicode = null;
-  const uniqueEmoji = valid.reduce((p, n) => {
-    if (lastUnicode === n.unicode) {
-      return p;
-    }
-    lastUnicode = n.unicode;
-    return p + 1;
-  }, 0);
-
-  console.log(`Successfully processed ${uniqueEmoji} unique emoji`);
-  console.log(
-    `${invalid.length} emoji contained unknown words (printed above)`
-  );
-  console.log(`Total number of entries made:`);
-  console.log(Object.keys(emojiDictionary).length);
-
-  const byUnicode = valid.reduce((p, n) => {
-    p[n.oldUnicode] = true;
-    return p;
-  });
-  const noDefinition = Object.keys(emojis).reduce((p, e) => {
-    if (!byUnicode[emojis[e].unicode]) {
-      return p + "\n  " + emojis[e].shortname;
-    }
-    return p;
-  }, "");
-
-  console.log(`These shortcodes had no definition: ${noDefinition}`);
+  // const byUnicode = valid.reduce((p, n) => {
+  //   p[n.oldUnicode] = true;
+  //   return p;
+  // });
+  // const noDefinition = Object.keys(emojis).reduce((p, e) => {
+  //   if (!byUnicode[emojis[e].unicode]) {
+  //     return p + "\n  " + emojis[e].shortname;
+  //   }
+  //   return p;
+  // }, "");
+  // console.log(`These shortcodes had no definition: ${noDefinition}`);
 
   const emojiDictionarySortedByKey = Object.fromEntries(
     Object.entries(emojiDictionary).sort((a, b) =>
