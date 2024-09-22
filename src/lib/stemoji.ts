@@ -1,4 +1,5 @@
 import fs from "fs";
+import type { StenoDictionary } from "src/shared/types";
 
 if (process.argv.length < 3) {
   console.error(
@@ -7,11 +8,42 @@ if (process.argv.length < 3) {
   process.exit(1);
 }
 
+type EmojiStrategyEntry = {
+  /** e.g. "1f606" */
+  "unicode": string;
+  /** e.g. ":laughing:" */
+  "shortname": string;
+  /** e.g. ":satisfied:" */
+  "aliases": string;
+  /** e.g. "smiling face with open mouth and tightly-closed eyes happy joy lol laughing laugh person satisfied smile" */
+  "keywords": string;
+};
+
+type EmojiStrategyEntryWithDuplicates = EmojiStrategyEntry & {
+  duplicate?: boolean;
+  oldUnicode?: string;
+};
+
+type EmojiStrategySummaryEntry = Omit<
+  EmojiStrategyEntryWithDuplicates,
+  "aliases" | "keywords"
+> & {
+  words: string[];
+};
+
+type EmojiStrategy = Record<string, EmojiStrategyEntry>;
+type EmojiStrategyWithDuplicates = Record<
+  string,
+  EmojiStrategyEntryWithDuplicates
+>;
+
+type Exceptions = Record<string, string | string[]>;
+
 const strategy = `vendor/emoji_strategy.json`;
 
-const makeStenoEmoji = (dictionary) => {
+const makeStenoEmoji = (dictionary: StenoDictionary) => {
   // console.log(`Reading strategy ${strategy}`);
-  const emojis = JSON.parse(fs.readFileSync(strategy, "utf8"));
+  const emojis: EmojiStrategy = JSON.parse(fs.readFileSync(strategy, "utf8"));
 
   // When we convert the dictionary as a JavaScript object to a
   // dictionaryByWord, attempting to use "constructor" as a key explodes.
@@ -283,7 +315,7 @@ const makeStenoEmoji = (dictionary) => {
   // We replace these emoji.
   // For example, there'll be no "thumbsup" emoji,
   // Instead, there'll be a "thumbs_up" emoji.
-  const exceptions = {
+  const exceptions: Exceptions = {
     couplekiss: ["couple", "kiss"],
     thumbsup: ["thumbs", "up"],
     thumbsdown: ["thumbs", "down"],
@@ -330,7 +362,7 @@ const makeStenoEmoji = (dictionary) => {
     tone5: ["tone", "5"],
   };
 
-  const doSubstitutes = (emojis) => {
+  const doSubstitutes = (emojis: EmojiStrategy) => {
     // Recursively substitute these words in strings to create even more emoji outlines.
     // Doesn't delete original short code e.g. both "gray" and "grey" will appear in emoji outlines.
     const substitutes = {
@@ -628,9 +660,16 @@ const makeStenoEmoji = (dictionary) => {
       "flag_zw": "flag_z_w",
     };
 
-    return (a, shortname) => {
+    const fn = (
+      a: EmojiStrategyWithDuplicates,
+      shortname: EmojiStrategyEntry["shortname"]
+    ) => {
+      // eslint-disable-next-line @typescript-eslint/ban-ts-comment
+      // @ts-ignore
       let substitute = substitutes[shortname];
 
+      // eslint-disable-next-line @typescript-eslint/ban-ts-comment
+      // @ts-ignore
       const processSubstitutes = (newShort, newSubs) => {
         Object.keys(newSubs).forEach((key) => {
           if (newShort.includes(key)) {
@@ -641,7 +680,7 @@ const makeStenoEmoji = (dictionary) => {
                 shortname: substitute,
                 duplicate: true,
               };
-              var subs = newSubs;
+              let subs = newSubs;
               if (newSubs[key].includes(key)) {
                 subs = { ...newSubs };
                 delete subs[key];
@@ -655,13 +694,15 @@ const makeStenoEmoji = (dictionary) => {
       processSubstitutes(shortname, substitutes);
       return a;
     };
+    return fn;
   };
 
-  let extendedEmojis = Object.keys(emojis).reduce(doSubstitutes(emojis), {});
+  const extendedEmojis = Object.keys(emojis).reduce(doSubstitutes(emojis), {});
 
-  let wordNumber = /^[^\d_]+\d$/;
+  const wordNumber = /^[^\d_]+\d$/;
+  const initialWordsValue: string[] = [];
   const shortnames = Object.keys(extendedEmojis).map((x) => {
-    let words = (
+    const words: string[] = (
       x.match(wordNumber)
         ? x.substring(0, x.length - 1) + "_" + x.substring(x.length - 1)
         : x
@@ -672,9 +713,9 @@ const makeStenoEmoji = (dictionary) => {
           return p.concat(exceptions[n]);
         }
         return p.concat([n]);
-      }, []);
+      }, initialWordsValue);
 
-    return {
+    const result: EmojiStrategySummaryEntry = {
       shortname: x,
       words,
       duplicate: extendedEmojis[x].duplicate,
@@ -683,10 +724,12 @@ const makeStenoEmoji = (dictionary) => {
         return z + String.fromCodePoint(parseInt(y, 16));
       }, ""),
     };
+    return result;
   });
 
+  const initialWordValue: Record<string, string[]> = {};
   const dictionaryByWord = Object.keys(dictionary).reduce((p, n) => {
-    let word = dictionary[n].toLowerCase();
+    const word = dictionary[n].toLowerCase();
     if (!p[word]) {
       p[word] = [n];
     } else {
@@ -700,36 +743,38 @@ const makeStenoEmoji = (dictionary) => {
       }
     }
     return p;
-  }, {});
+  }, initialWordValue);
 
   // NOTE: uncomment the lines containing `invalid` if you want to log the
   // number of emoji contained unknown words:
-  let unknownWords = {};
+  const unknownWords: Record<string, string> = {};
+  const initialValidInvalidValue: {
+    valid: EmojiStrategySummaryEntry[];
+    // invalid: EmojiStrategySummaryEntry[];
+  } = {
+    valid: [],
+    // invalid: []
+  };
   const {
     valid,
     // , invalid
-  } = shortnames.reduce(
-    (p, n) => {
-      if (n.words.every((x) => !!dictionaryByWord[x])) {
-        p.valid.push(n);
-      } else {
-        n.words.forEach((x) => {
-          if (!dictionaryByWord[x]) {
-            unknownWords[x] = x;
-          }
-        });
-        // p.invalid.push(n);
-      }
-      return p;
-    },
-    {
-      valid: [],
-      // , invalid: []
+  } = shortnames.reduce((p, n) => {
+    if (n.words.every((x) => !!dictionaryByWord[x])) {
+      p.valid.push(n);
+    } else {
+      n.words.forEach((x) => {
+        if (!dictionaryByWord[x]) {
+          unknownWords[x] = x;
+        }
+      });
+      // p.invalid.push(n);
     }
-  );
+    return p;
+  }, initialValidInvalidValue);
   // console.log(JSON.stringify(Object.keys(unknownWords), null, 2));
 
-  let emojiDictionary = valid.reduce((p, n) => {
+  const initialEmojiDictionaryValue: Record<string, string> = {};
+  const emojiDictionary = valid.reduce((p, n) => {
     // For a given emoji's list of words
     n.words
       // Get all posible entries for each word
@@ -739,7 +784,7 @@ const makeStenoEmoji = (dictionary) => {
           // The build the dictionary for this emoji
 
           // An array of arrays.
-          let combo = [];
+          const combo: string[][] = [];
           // For each word
           list.forEach((word) => {
             // for each valid stroke
@@ -756,16 +801,21 @@ const makeStenoEmoji = (dictionary) => {
         p[solution.join("/")] = n.unicode;
       });
     return p;
-  }, {});
+  }, initialEmojiDictionaryValue);
+
   emojiDictionary["PHOEPBLG"] = "{#}";
   emojiDictionary["AOE/PHOEPBLG"] = "emoji";
   emojiDictionary["SPHAO*EUL"] = "🙂";
 
-  // let lastUnicode = null;
+  // let lastUnicode: null | Pick<EmojiStrategyEntry, "unicode"> = null;
   // const uniqueEmoji = valid.reduce((p, n) => {
+  //   // eslint-disable-next-line @typescript-eslint/ban-ts-comment
+  //   // @ts-ignore
   //   if (lastUnicode === n.unicode) {
   //     return p;
   //   }
+  //   // eslint-disable-next-line @typescript-eslint/ban-ts-comment
+  //   // @ts-ignore
   //   lastUnicode = n.unicode;
   //   return p + 1;
   // }, 0);
@@ -776,11 +826,15 @@ const makeStenoEmoji = (dictionary) => {
   // console.log(`Total number of entries made:`);
   // console.log(Object.keys(emojiDictionary).length);
 
+  // // eslint-disable-next-line @typescript-eslint/ban-ts-comment
+  // // @ts-ignore
   // const byUnicode = valid.reduce((p, n) => {
   //   p[n.oldUnicode] = true;
   //   return p;
   // });
   // const noDefinition = Object.keys(emojis).reduce((p, e) => {
+  //   // eslint-disable-next-line @typescript-eslint/ban-ts-comment
+  //   // @ts-ignore
   //   if (!byUnicode[emojis[e].unicode]) {
   //     return p + "\n  " + emojis[e].shortname;
   //   }
