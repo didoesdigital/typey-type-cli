@@ -237,7 +237,6 @@ const makeStenoEmoji = (dictionary: StenoDictionary) => {
   // TODO: These should be added to condensed-strokes.json instead of including
   // them here:
   const condensedStrokes = {
-    "EBGS/PREGS/-LS": "expressionless",
     "HAFPG": "hatching",
     "HED/TPOEPB/-S": "headphones",
     "HED/TPOEPB/-Z": "headphones",
