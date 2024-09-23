@@ -36,7 +36,7 @@ const dictionaryIndexSource = `${dictionariesSourceDir}/dictionaryIndex.json`;
 const dictionaryIndexTarget = `${dictionariesDir}/dictionaryIndex.json`;
 
 /**
- * This command copies source dictionaries (Plover, Jade's phrasing dictionary, Di's steno-dictionaries from the submodule, etc.) to the target dictionaries directory.
+ * This command copies source dictionaries (Plover, Jade's phrasing dictionary, Di's steno-dictionaries from the submodule, etc.) to the target dictionaries directory. It includes copying misstrokes.json and emoji.json from submodule to target dictionaries directory, which are then re-generated elsewhere.
  */
 const run = async () => {
   const measure = "copy-dictionaries";
