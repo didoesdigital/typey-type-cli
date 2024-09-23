@@ -114,7 +114,7 @@ $(DATA_DIR)/dictionaries/typey-type/typey-type.json: build/index.js $(TYPEY_TYPE
 
 # emoji-dict
 emoji-dict: $(TARGET_EMOJI_JSON)
- $(TARGET_EMOJI_JSON): build/index.js $(TYPEY_TYPE_DICTIONARIES) $(ALL_TS_FILES)
+ $(TARGET_EMOJI_JSON): build/index.js $(TYPEY_TYPE_DICTIONARIES) $(ALL_TS_FILES) copy-dictionaries
 	@mkdir -p "$(DICTIONARY_INTERMEDIATE_DIR)" # make sure intermediate dictionary directory exists before adding subdirectories inside them
 	@mkdir -p "$$(dirname $@)" # make sure didoesdigital target subdirectory exists before writing emoji file inside
 	@echo "Running build-emoji-dict to build emoji.json"
@@ -182,6 +182,8 @@ sync-typey-type-data: build-everything
 ifdef TYPEY_TYPE_DATA_REPO_PATH
 	@echo "Copying misstrokes.json to submodule"
 	@cp $(TARGET_MISSTROKES_JSON) $(DIDOESDIGITAL_DICTIONARIES_DIR)
+	@echo "Copying emoji.json to submodule"
+	@cp $(TARGET_EMOJI_JSON) $(DIDOESDIGITAL_DICTIONARIES_DIR)
 	@echo "Copying dictionaries to $(TYPEY_TYPE_DATA_REPO_PATH)dictionaries/"
 	@rsync -azh --exclude=".DS_Store" ./$(DATA_DIR_WITH_SLASH)dictionaries/ $(TYPEY_TYPE_DATA_REPO_PATH)dictionaries/
 	@echo "Copying lessons to $(TYPEY_TYPE_DATA_REPO_PATH)lessons/"

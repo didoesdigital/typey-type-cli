@@ -36,7 +36,7 @@ const dictionaryIndexSource = `${dictionariesSourceDir}/dictionaryIndex.json`;
 const dictionaryIndexTarget = `${dictionariesDir}/dictionaryIndex.json`;
 
 /**
- * This command copies source dictionaries (Plover, Jade's phrasing dictionary, Di's steno-dictionaries from the submodule, etc.) to the target dictionaries directory. It includes copying misstrokes.json and emoji.json from submodule to target dictionaries directory, which are then re-generated elsewhere.
+ * This command copies source dictionaries (Plover, Jade's phrasing dictionary, Di's steno-dictionaries from the submodule, etc.) to the target dictionaries directory. It excludes copying misstrokes.json and emoji.json from submodule to target dictionaries directory, which are generated elsewhere.
  */
 const run = async () => {
   const measure = "copy-dictionaries";
@@ -88,7 +88,11 @@ const run = async () => {
   let listOfDiDoesDigitalDictionaries: DiDoesDigitalDictionaryName[] | null =
     null;
   try {
-    listOfDiDoesDigitalDictionaries = await fs.readdir(didoesdigitalDir);
+    listOfDiDoesDigitalDictionaries = (
+      await fs.readdir(didoesdigitalDir)
+    ).filter(
+      (dictName) => !["emoji.json", "misstrokes.json"].includes(dictName)
+    );
   } catch (err) {
     console.error(err);
   }
