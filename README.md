@@ -104,7 +104,7 @@ time make -j 8 build-everything
 
 ### Publishing lessons
 
-When you're happy with the results of `build-everything`, sync the `misstrokes.json` file to the `steno-dictionaries` submodule and copy all the finalised lessons into the Typey Type data repo **at the path that you need to specify** ahead of publishing to production:
+When you're happy with the results of `build-everything`, sync the `misstrokes.json` and `emoji.json` files to the `steno-dictionaries` submodule and copy all the finalised lessons into the Typey Type data repo **at the path that you need to specify** ahead of publishing to production:
 
 ```sh
 make sync-typey-type-data TYPEY_TYPE_DATA_REPO_PATH="~/projects/typey-type/typey-type-data/"
@@ -160,6 +160,12 @@ To **build recommendations courses**:
 time make build-recommendations-courses
 ```
 
+To **generate emoji dictionary** as `emoji.json`:
+
+```sh
+time make emoji-dict
+```
+
 To **collect misstrokes** into `misstrokes.json`:
 
 ```sh
@@ -174,6 +180,8 @@ While you can run CLI commands individually, for lessons, just use `make`. If yo
 yarn dev <command>
 yarn dev help
 ```
+
+For example, `yarn dev build-emoji-dictionary --target didoesdigital/steno-dictionaries/dictionaries/emoji.json`.
 
 For interactive debugging, here are some options:
 
