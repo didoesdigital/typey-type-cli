@@ -148,7 +148,7 @@ To build the **Typey Type dictionary** with one preferred entry for every word:
 time make typey-type-dict
 ```
 
-To **copy source dictionaries** (Plover, Jade's phrasing dictionary, Di's steno-dictionaries from the submodule, etc.) to dictionaries target:
+To **copy source dictionaries** (Plover, Jade's phrasing dictionary, Di's steno-dictionaries from the submodule that aren't auto-generated, etc.) to dictionaries target:
 
 ```sh
 time make copy-dictionaries
