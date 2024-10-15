@@ -2505,7 +2505,7 @@ The Mark on the Wall
 'prompting': PROPLT/-G
 'to': TO
 'take': TAEUBG
-'action': *BGS
+'action': A*BGS
 'as': AS
 'a': AEU
 'way': WAEU
@@ -2530,7 +2530,7 @@ The Mark on the Wall
 'for': TPOR
 'men': PHEPB
 'of': -F
-'action—men,': *BGS/EPL/TKA*RB/PHEPB/KW-BG
+'action—men,': A*BGS/EPL/TKA*RB/PHEPB/KW-BG
 'we': WE
 'assume,': SAOUPL/KW-BG
 'who': WHO

@@ -1,6 +1,7 @@
 {
 "POGS": "position",
 "TAEPBGS": "attention",
+"A*BGS": "action",
 "KWAEUGS": "occasion",
 "S*EUPL": "simple",
 "TKREBGS": "direction",

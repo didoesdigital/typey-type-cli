@@ -179,7 +179,7 @@ Top nouns
 'drew': TKRAOU
 'minutes': PHEUPBS
 'chance': KHAPBS
-'action': *BGS
+'action': A*BGS
 'presence': PREPBS
 'donations': TKOEPBGS/-S
 'mouth': PHO*UT

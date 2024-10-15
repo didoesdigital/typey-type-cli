@@ -2,6 +2,7 @@ Multi-syllable words with compound clusters
 
 'position': POGS
 'attention': TAEPBGS
+'action': A*BGS
 'occasion': KWAEUGS
 'simple': S*EUPL
 'direction': TKREBGS

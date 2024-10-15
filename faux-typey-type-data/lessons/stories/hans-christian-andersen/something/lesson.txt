@@ -578,7 +578,7 @@ Something
 'do.': TKO/TP-PL
 'In': KPA/TPH
 'every': EF
-'action': *BGS
+'action': A*BGS
 'something': S-G
 'imperfect': EUPL/PER
 'may': PHAE

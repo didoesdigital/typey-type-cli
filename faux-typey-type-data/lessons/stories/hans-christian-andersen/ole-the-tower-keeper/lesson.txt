@@ -1626,7 +1626,7 @@ Ole the Tower-Keeper
 'good': TKPWAOD
 'and': SKP
 'noble': TPHOEBL
-'action!': *BGS/SKHRAPL
+'action!': A*BGS/SKHRAPL
 'The': KPA/-T
 'thanks': THAPBGS
 'are': R

@@ -651,7 +651,7 @@ Top 10000 Project Gutenberg words
 'chance': KHAPBS
 'according': KORG
 'beginning': TKPWEUPB/-G
-'action': *BGS
+'action': A*BGS
 'deal': TKAOEL
 'loved': HROFD
 'visit': SREUFT

@@ -894,7 +894,7 @@ Holger Danske
 'every': EF
 'word': WORD
 'and': SKP
-'action.': *BGS/TP-PL
+'action.': A*BGS/TP-PL
 'The': KPA/-T
 'flame': TPHRAEUPL
 'was': WAS
