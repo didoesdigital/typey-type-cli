@@ -77,7 +77,7 @@ The Ass in the Lion's Skin
 'fright': TPRAOEUT
 'he': HE
 'had': H
-'caused.': KAUFD/TP-PL
+'caused.': KAUDZ/TP-PL
 'And': AFPBD
 'shortly': SHORLT
 'afterwards': A*FRDZ

@@ -2221,7 +2221,7 @@ Cinderilla or the Little Glass Slipper
 'the': -T
 'King's': KO*EUPBG/AES
 'son': SOPB
-'caused': KAUFD
+'caused': KAUDZ
 'it': T
 'to': TO
 'be': -B

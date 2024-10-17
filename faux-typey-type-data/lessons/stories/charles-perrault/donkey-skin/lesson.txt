@@ -1935,7 +1935,7 @@ Donkey-Skin
 'of': -F
 'the': -T
 'Princess': KPA/PREUPB/SES
-'caused': KAUFD
+'caused': KAUDZ
 'a': AEU
 'great': TKPWRAET
 'commotion.': KPHOEGS/TP-PL
@@ -1943,7 +1943,7 @@ Donkey-Skin
 'King,': KO*EUPBG/KW-BG
 'who': WHO
 'had': H
-'caused': KAUFD
+'caused': KAUDZ
 'a': AEU
 'sumptuous': S*UPLT/WOUS
 'banquet': PWAPB/KWET
@@ -2762,7 +2762,7 @@ Donkey-Skin
 'of': -F
 'his': HEUS
 'love': HRUF
-'caused': KAUFD
+'caused': KAUDZ
 'him': HEUPL
 'such': SUFP
 'great': TKPWRAET
@@ -2828,7 +2828,7 @@ Donkey-Skin
 'great': TKPWRAET
 'sorrow': SROE
 'had': H
-'caused': KAUFD
+'caused': KAUDZ
 'this': TH
 'terrible': TERBL
 'fever.': TPAOEF/TP-PL
@@ -3307,7 +3307,7 @@ Donkey-Skin
 'cost': KOFT
 'her': HER
 'some': SOPL
-'sighs.': SAOEU/-S/TP-PL
+'sighs.': SAOEUS/TP-PL
 'Be': KPA/-B
 'that': THA
 'as': AS
@@ -4755,7 +4755,7 @@ Donkey-Skin
 'the': -T
 'Prince's': PR*EUPBS/AES
 'father': TPAER
-'caused': KAUFD
+'caused': KAUDZ
 'his': HEUS
 'son': SOPB
 'to': TO

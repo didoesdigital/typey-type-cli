@@ -437,7 +437,7 @@ The Goblin and the Huckster
 'once': WUPBS
 'would': WO
 'have': SR
-'caused': KAUFD
+'caused': KAUDZ
 'great': TKPWRAET
 'confusion.': KAUFGS/TP-PL
 'The': KPA/-T

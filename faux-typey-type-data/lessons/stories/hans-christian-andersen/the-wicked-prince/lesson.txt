@@ -25,7 +25,7 @@ The Wicked Prince
 'world,': WORLD/KW-BG
 'and': SKP
 'on': OPB
-'frightening': TPRAOEUT/EPBG
+'frightening': TPRAOEUFPBG
 'the': -T
 'people;': PAOEPL/STPH*FPLT
 'he': HE
@@ -229,7 +229,7 @@ The Wicked Prince
 'they': THE
 'hear': HAER
 'the': -T
-'sighs': SAOEU/-S
+'sighs': SAOEUS
 'and': SKP
 'lamentations': HRAPLT/TAEUGS/-S
 'which': WEU

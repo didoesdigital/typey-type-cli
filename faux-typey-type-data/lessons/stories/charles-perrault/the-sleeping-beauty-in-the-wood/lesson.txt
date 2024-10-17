@@ -564,7 +564,7 @@ The Sleeping Beauty in the Wood
 'the': -T
 'old': OLD
 'Fairy,': KPA/TPAEUR/REU/KW-BG
-'caused': KAUFD
+'caused': KAUDZ
 'immediately': PHAOELD
 'proclamations': PROBG/PHAEUGS/-S
 'to': TO
@@ -859,7 +859,7 @@ The Sleeping Beauty in the Wood
 'had': H
 'said': SED
 'it,': T/KW-BG
-'caused': KAUFD
+'caused': KAUDZ
 'the': -T
 'Princess': KPA/PREUPB/SES
 'to': TO
@@ -3537,7 +3537,7 @@ The Sleeping Beauty in the Wood
 'tub,': TUB/KW-BG
 'which': WEU
 'she': SHE
-'caused': KAUFD
+'caused': KAUDZ
 'to': TO
 'be': -B
 'filled': TPEULD

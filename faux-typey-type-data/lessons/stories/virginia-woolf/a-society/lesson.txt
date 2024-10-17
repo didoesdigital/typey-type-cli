@@ -410,7 +410,7 @@ A Society
 'a': AEU
 'man': PHAPB
 'called': KAULD
-'Benton': PWEPBT/O*PB
+'Benton': PWEPB/TO*PB
 'or': OR
 'Henson,': HEPB/SO*PB/KW-BG
 'or': OR

@@ -1432,7 +1432,7 @@ The Thorny Road of Honor
 'every': EF
 'wound—even': WOUPBD/EPL/TKA*RB/AOEPB
 'those': THOZ
-'caused': KAUFD
+'caused': KAUDZ
 'by': PWEU
 'one's': W*UPBS
 'own': OEPB

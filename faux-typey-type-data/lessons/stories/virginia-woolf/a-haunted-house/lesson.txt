@@ -622,7 +622,7 @@ A Haunted House
 '"Long': KW-GS/KPA*/HROPBG
 'years—"': KWRAOERS/EPL/TKA*RB/KR-GS
 'he': HE
-'sighs.': SAOEU/-S/TP-PL
+'sighs.': SAOEUS/TP-PL
 '"Again': KW-GS/KPA*/TKPWEPB
 'you': U
 'found': TPOUPBD

@@ -2366,7 +2366,7 @@ Riquet With the Tuft
 'that': THA
 'love': HRUF
 'alone': A/HROEPB
-'caused': KAUFD
+'caused': KAUDZ
 'the': -T
 'metamorphosis.': PHET/PHOFR/SEUS/TP-PL
 'They': KPA/THE

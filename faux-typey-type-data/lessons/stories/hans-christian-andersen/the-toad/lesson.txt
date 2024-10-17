@@ -1602,7 +1602,7 @@ The Toad
 'end': EPBD
 'of': -F
 'this': TH
-'writhing': WRAO*EUT/-G
+'writhing': WR*EUGT
 'would': WO
 'be.': -B/TP-PL
 '"It': KW-GS/KPA*/T

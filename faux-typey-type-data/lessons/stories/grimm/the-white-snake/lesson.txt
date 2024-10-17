@@ -1292,7 +1292,7 @@ The White Snake
 'all': AUL
 'the': -T
 'ten': TEPB
-'sacks': SABG/-S
+'sacks': SABGZ
 'standing': STAPBG
 'side': SAOEUD
 'by': PWEU
@@ -1337,7 +1337,7 @@ The White Snake
 'them': THEPL
 'into': TPHAO
 'the': -T
-'sacks.': SABG/-S/TP-PL
+'sacks.': SABGZ/TP-PL
 'Presently': KPA/PREPBLT
 'the': -T
 'king's': KEUPBG/AES

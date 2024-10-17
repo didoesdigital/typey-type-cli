@@ -50,7 +50,7 @@ The Man and the Serpent
 'Farmer's': KPA/TPAR/PHER/AES
 'cattle': KA*LT
 'and': SKP
-'caused': KAUFD
+'caused': KAUDZ
 'him': HEUPL
 'severe': SWAOER
 'loss.': HROS/TP-PL

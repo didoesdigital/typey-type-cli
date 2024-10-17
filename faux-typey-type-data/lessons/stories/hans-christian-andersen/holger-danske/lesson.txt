@@ -1267,7 +1267,7 @@ Holger Danske
 'was': WAS
 'no': TPHO
 'doubt': TKOUT
-'caused': KAUFD
+'caused': KAUDZ
 'by': PWEU
 'the': -T
 'flame': TPHRAEUPL

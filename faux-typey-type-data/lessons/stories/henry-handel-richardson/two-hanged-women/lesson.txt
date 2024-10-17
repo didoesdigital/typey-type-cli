@@ -792,7 +792,7 @@ Two Hanged Women
 'all': AUL
 'this?': TH/H-F
 'Who's': KPA/WHOES
-'hinted': HEUPBT/-D
+'hinted': HEUPBTD
 'it': T
 'and': SKP
 'suggested': SUGD

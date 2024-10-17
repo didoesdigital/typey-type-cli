@@ -261,7 +261,7 @@ The Man, the Boy, and the Donkey
 'kicked': KEUBGD
 'out': OUT
 'and': SKP
-'caused': KAUFD
+'caused': KAUDZ
 'the': -T
 'Boy': KPA/PWOEU
 'to': TO

@@ -1398,7 +1398,7 @@ The Child in the Grave
 'few': TPAOU
 'moments': PHOEPLTS
 'deep': TKAOEP
-'sighs': SAOEU/-S
+'sighs': SAOEUS
 'were': WR
 'heard,': HAERD/KW-BG
 'as': AS
@@ -1478,7 +1478,7 @@ The Child in the Grave
 'past?': PAFT/H-F
 'No;': KPA/TPHO/STPH*FPLT
 'their': THAEUR
-'sighs': SAOEU/-S
+'sighs': SAOEUS
 'and': SKP
 'lamentations': HRAPLT/TAEUGS/-S
 'still': STEUL

@@ -32,7 +32,7 @@ The Buckwheat
 'this': TH
 'appearance': PAOERPBS
 'is': S
-'caused': KAUFD
+'caused': KAUDZ
 'by': PWEU
 'lightning;': HRAOEUT/TPHEUPBG/STPH*FPLT
 'but': PWUT

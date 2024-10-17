@@ -1392,7 +1392,7 @@ The Golden Goose
 'from': TPR
 'it': T
 'he': HE
-'caused': KAUFD
+'caused': KAUDZ
 'a': AEU
 'huge': HAOUPBLG
 'mountain': PHOUPB/TAEUPB

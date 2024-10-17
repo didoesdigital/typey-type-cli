@@ -1842,7 +1842,7 @@ The Valiant Little Tailor
 'little': HREUL
 'tailor': TAEURL
 'and': SKP
-'caused': KAUFD
+'caused': KAUDZ
 'him': HEUPL
 'to': TO
 'be': -B
@@ -1872,7 +1872,7 @@ The Valiant Little Tailor
 'two': TWO
 'giants,': SKWRAOEUPBT/-S/KW-BG
 'who': WHO
-'caused': KAUFD
+'caused': KAUDZ
 'great': TKPWRAET
 'mischief': PHEUS/KHEF
 'with': W

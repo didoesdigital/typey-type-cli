@@ -195,7 +195,7 @@ The Twelve Huntsmen
 'his': HEUS
 'father,': TPAER/KW-BG
 'and': SKP
-'caused': KAUFD
+'caused': KAUDZ
 'the': -T
 'king's': KEUPBG/AES
 'daughter': TKAUR
@@ -282,7 +282,7 @@ The Twelve Huntsmen
 'fulfilled,'': TPUL/TPEULD/KW-BG/AE
 'and': SKP
 'he': HE
-'caused': KAUFD
+'caused': KAUDZ
 'a': AEU
 'search': SEFRPB
 'to': TO
@@ -551,7 +551,7 @@ The Twelve Huntsmen
 'the': -T
 'counsel,': KOUPB/KW-BG
 'and': SKP
-'caused': KAUFD
+'caused': KAUDZ
 'the': -T
 'peas': PAOEZ
 'to': TO
@@ -770,7 +770,7 @@ The Twelve Huntsmen
 'to': TO
 'them,': THEPL/KW-BG
 'and': SKP
-'disclosed': TKEUS/HROES/-D
+'disclosed': TKEUS/KHROEFD
 'the': -T
 'project.': PROPBLG/TP-PL
 'So': KPA/SO

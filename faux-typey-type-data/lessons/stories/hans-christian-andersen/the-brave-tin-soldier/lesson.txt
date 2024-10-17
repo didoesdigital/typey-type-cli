@@ -139,7 +139,7 @@ The Brave Tin Soldier
 'leg,': HREG/KW-BG
 'and': SKP
 'this': TH
-'caused': KAUFD
+'caused': KAUDZ
 'him': HEUPL
 'to': TO
 'be': -B

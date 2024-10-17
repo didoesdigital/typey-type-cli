@@ -3564,7 +3564,7 @@ Little Thumb
 'this': TH
 'first': TPEUFRT
 'expedition': EBGS/PED/EUGS
-'causing': KAUFG
+'causing': KAUGZ
 'him': HEUPL
 'to': TO
 'be': -B

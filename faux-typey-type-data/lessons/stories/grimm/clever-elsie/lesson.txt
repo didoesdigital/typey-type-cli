@@ -239,7 +239,7 @@ Clever Elsie
 'her,': HER/KW-BG
 'which': WEU
 'the': -T
-'masons': PHAEUS/OPBS
+'masons': PHA*EUFPBS
 'had': H
 'accidentally': STKEPBLT
 'left': HREFT

@@ -1005,7 +1005,7 @@ The Pink
 'his': HEUS
 'father,': TPAER/KW-BG
 'and': SKP
-'caused': KAUFD
+'caused': KAUDZ
 'himself': HEUPLS
 'to': TO
 'be': -B
@@ -1423,7 +1423,7 @@ The Pink
 'the': -T
 'wretch!'': WREFP/SKHRAPL/AE
 'and': SKP
-'caused': KAUFD
+'caused': KAUDZ
 'live': HREUF
 'coals': KOEL/-S
 'to': TO

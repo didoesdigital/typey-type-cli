@@ -1743,7 +1743,7 @@ Anne Lisbeth
 'will': HR
 'end': EPBD
 'by': PWEU
-'frightening': TPRAOEUT/EPBG
+'frightening': TPRAOEUFPBG
 'me': PHE
 'today."': TOED/TP-PL/KR-GS
 'She': KPA/SHE

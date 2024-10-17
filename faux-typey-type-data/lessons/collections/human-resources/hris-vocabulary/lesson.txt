@@ -98,7 +98,7 @@ Human Resources vocabulary
 'absentees': AB/SEPB/TAOE/-S
 'productivity': PROUBGT/*EUFT
 'productive': PROUBG/EUF
-'proactive': PRO/ABGT/EUF
+'proactive': PRO/TAEF
 'intrinsic motivation': SPWREUPBS/EUBG/PHOET/SRAEUGS
 'positive emotions': PEUF/AO*EGS/-S
 'pro-social behavior': PROE/H-PB/SOERBL/PWAEUFR

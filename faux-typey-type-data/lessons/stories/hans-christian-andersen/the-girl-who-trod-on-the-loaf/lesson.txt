@@ -153,7 +153,7 @@ The Girl Who Trod on the Loaf
 'was': WAS
 'pretty,': PREUT/KW-BG
 'which': WEU
-'caused': KAUFD
+'caused': KAUDZ
 'her': HER
 'to': TO
 'be': -B
@@ -1148,7 +1148,7 @@ The Girl Who Trod on the Loaf
 'grief': TKPWRAOEF
 'thou': THO*U
 'hast': H*/A*/S*/T*
-'caused': KAUFD
+'caused': KAUDZ
 'thy': THAO*EU
 'mother"': PHOER/KR-GS
 'she': SHE

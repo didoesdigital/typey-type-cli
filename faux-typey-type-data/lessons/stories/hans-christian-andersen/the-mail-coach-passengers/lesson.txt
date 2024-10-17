@@ -1239,7 +1239,7 @@ The Mail-Coach Passengers
 'a': AEU
 'cold,': KOELD/KW-BG
 'which': WEU
-'caused': KAUFD
+'caused': KAUDZ
 'him': HEUPL
 'to': TO
 'use': AOUS

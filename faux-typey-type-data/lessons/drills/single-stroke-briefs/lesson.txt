@@ -125,7 +125,7 @@ Single-Stroke Briefs
 'amount': APLT
 'amp': AFRP
 'ample': AFRPL
-'amps': A*EPLS
+'amps': AFRPS
 'anal': A*EUPBL
 'analogies': TPHALGS
 'analogize': TPHALGZ
@@ -882,7 +882,7 @@ Single-Stroke Briefs
 'caudal': KA*ULD
 'caulk': KAUBG
 'causal': KAUFL
-'caused': KAUFD
+'caused': KAUDZ
 'caution': KAUGS
 'cautious': KAURBS
 'cave': KAEUF

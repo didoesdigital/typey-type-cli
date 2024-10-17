@@ -82,7 +82,7 @@ Androcles
 'it,': T/KW-BG
 'and': SKP
 'was': WAS
-'causing': KAUFG
+'causing': KAUGZ
 'all': AUL
 'the': -T
 'pain.': PAEUPB/TP-PL

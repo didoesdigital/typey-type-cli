@@ -2538,7 +2538,7 @@ The Old Street Lamp
 'melted': PHELT/-D
 'down.': TKOUPB/TP-PL
 'It': KPA/T
-'caused': KAUFD
+'caused': KAUDZ
 'him': HEUPL
 'quite': KWAOEUT
 'as': AS

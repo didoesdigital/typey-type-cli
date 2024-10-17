@@ -203,7 +203,7 @@ The Jewish Maiden
 'it': T
 'might': PHAOEUT
 'have': SR
-'caused': KAUFD
+'caused': KAUDZ
 'confusion,': KAUFGS/KW-BG
 'or': OR
 'raised': RA*EUFD
@@ -748,7 +748,7 @@ The Jewish Maiden
 'by': PWEU
 'him.': HEUPL/TP-PL
 'He': KPA/HE
-'caused': KAUFD
+'caused': KAUDZ
 'him': HEUPL
 'to': TO
 'be': -B
@@ -867,7 +867,7 @@ The Jewish Maiden
 'nor': TPH-R
 'rest.': REFT/TP-PL
 'He': KPA/HE
-'caused': KAUFD
+'caused': KAUDZ
 'himself': HEUPLS
 'to': TO
 'be': -B

@@ -1404,7 +1404,7 @@ The Ugly Duckling
 'he': HE
 'ran': RAPB
 'away,': WA*EU/KW-BG
-'frightening': TPRAOEUT/EPBG
+'frightening': TPRAOEUFPBG
 'the': -T
 'little': HREUL
 'birds': PWEURDZ

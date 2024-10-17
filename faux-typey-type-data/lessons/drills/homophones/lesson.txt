@@ -676,7 +676,7 @@ Homophones
 'populous': POP/HRUS
 'praise': PRAEUS
 'prays': PRAEU/-S
-'preys': PRA*EUZ
+'preys': PRA*EUS
 'pray': PRAEU
 'prey': PRA*EU
 'precedence': PRES/TKEPBS
@@ -803,7 +803,7 @@ Homophones
 'six': SEUBGS
 'side': SAOEUD
 'sighed': SAOEU/-D
-'sighs': SAOEU/-S
+'sighs': SAOEUS
 'size': SAOEUZ
 'sign': SAOEUPB
 'sine': SAO*EUPB
@@ -973,7 +973,7 @@ Homophones
 'wild': WAOEULD
 'whine': WHAOEUPB
 'wine': WAOEUPB
-'whined': WHAOEUPB/-D
+'whined': WHAOEUPBD
 'wind': WEUPBD
 'wined': WEUPB/-D
 'whirled': WHEURL/-D
