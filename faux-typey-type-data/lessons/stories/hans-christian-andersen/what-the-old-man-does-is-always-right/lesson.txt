@@ -1885,7 +1885,7 @@ What the Old Man Does Is Always Right
 'over': OEFR
 'to': TO
 'the': -T
-'schoolmaster's:': S*/KR*/H*/O*/O*/HR*/PH*/A*/S*/T*/*ER/AES/STPH-FPLT
+'schoolmaster's:': SKAOL/TK-LS/PHAFRT/AES/STPH-FPLT
 'I': EU
 'knew': TPHAOU
 'they': THE

@@ -1400,7 +1400,7 @@ The Flax
 'spark': SPARBG
 'was': WAS
 'the': -T
-'schoolmaster.': S*/KR*/H*/O*/O*/HR*/PH*/A*/S*/T*/*ER/TP-PL
+'schoolmaster.': SKAOL/TK-LS/PHAFRT/TP-PL
 'They': KPA/THE
 'often': OFPB
 'thought': THAUT
@@ -1416,7 +1416,7 @@ The Flax
 '"There': KW-GS/KPA*/THR
 'goes': TKPW-S
 'the': -T
-'schoolmaster;"': S*/KR*/H*/O*/O*/HR*/PH*/A*/S*/T*/*ER/STPH*FPLT/KR-GS
+'schoolmaster;"': SKAOL/TK-LS/PHAFRT/STPH*FPLT/KR-GS
 'but': PWUT
 'the': -T
 'next': TPHEGT
@@ -1667,7 +1667,7 @@ The Flax
 'school,': SKAOL/KW-BG
 'and': SKP
 'the': -T
-'schoolmaster': S*/KR*/H*/O*/O*/HR*/PH*/A*/S*/T*/*ER
+'schoolmaster': SKAOL/TK-LS/PHAFRT
 'was': WAS
 'the': -T
 'last': HRAFT

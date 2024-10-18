@@ -1124,7 +1124,7 @@ The Bell-Deep
 'us.': US/TP-PL
 'But': KPA/PWUT
 'the': -T
-'schoolmaster': S*/KR*/H*/O*/O*/HR*/PH*/A*/S*/T*/*ER
+'schoolmaster': SKAOL/TK-LS/PHAFRT
 'says': SEZ
 'that': THA
 'there': THR

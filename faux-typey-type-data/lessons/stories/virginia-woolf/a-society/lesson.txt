@@ -4814,7 +4814,7 @@ A Society
 '"Ask': KW-GS/KPA*/SK
 'any': TPHEU
 'journalist,': SKWRURPBL/EUFT/KW-BG
-'schoolmaster,': S*/KR*/H*/O*/O*/HR*/PH*/A*/S*/T*/*ER/KW-BG
+'schoolmaster,': SKAOL/TK-LS/PHAFRT/KW-BG
 'politician': PHREUGS
 'or': OR
 'public': PHREUBG
