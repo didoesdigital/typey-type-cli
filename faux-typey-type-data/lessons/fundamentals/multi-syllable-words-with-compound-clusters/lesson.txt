@@ -232,3 +232,4 @@ Multi-syllable words with compound clusters
 'reserves': REFRBS
 'absorption': SPWORPGS
 'cooperation': KAOPGS
+warning_message=Hint: this is a difficult lesson. Read the Overview.

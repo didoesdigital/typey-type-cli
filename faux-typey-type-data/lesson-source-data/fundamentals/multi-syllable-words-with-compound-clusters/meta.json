@@ -4,6 +4,7 @@
   "category": "Fundamentals",
   "subcategory": "",
   "path": "/fundamentals/multi-syllable-words-with-compound-clusters/lesson.txt",
+  "customMessage": "Hint: this is a difficult lesson. Read the Overview.",
   "vocabulary": ["didoesdigital/top-10000-project-gutenberg-words.json"],
   "rules": {
     "hasCompoundClusters": true,
