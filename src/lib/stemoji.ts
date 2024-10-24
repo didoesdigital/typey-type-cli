@@ -60,10 +60,15 @@ type NewEmojiStrategyEntry = {
 export type NewEmojiStrategy = Record<UnicodeOutput, NewEmojiStrategyEntry>;
 
 const makeStenoEmoji = (dictionary: StenoDictionary, strategy: string) => {
-  // console.log(`Reading strategy ${strategy}`);
-  const emojisInNewStrategyFormat = JSON.parse(
-    fs.readFileSync(strategy, "utf8")
-  );
+  let emojisInNewStrategyFormat = null;
+  try {
+    emojisInNewStrategyFormat = JSON.parse(fs.readFileSync(strategy, "utf8"));
+  } catch (error) {
+    console.error(
+      `There was an error reading the emoji strategy file to build the emoji dict. ${error}`
+    );
+    process.exit(1);
+  }
 
   const emojis: PreviousEmojiStrategy = convertNewEmojiStrategyToPrevious(
     emojisInNewStrategyFormat

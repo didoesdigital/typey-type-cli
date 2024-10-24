@@ -69,6 +69,8 @@ NOT_MISSTROKE_DICTS := \
   $(DIDOESDIGITAL_DICTIONARIES_DIR)/top-1000-words.json \
   $(DIDOESDIGITAL_DICTIONARIES_DIR)/top-10000-project-gutenberg-words.json
 
+MODIFIED_EMOJI_STRATEGY := vendor/emoji_strategy_reduced_to_c8900a0_chars.json
+
 LESSONS_META_FILES := $(shell find $(LESSON_SRC_DIR) -name 'meta.json')
 # NOTE: We're doing an adventurous substitution of 'lesson-source-data' anywhere in the path:
 LESSONS_TARGETS := $(patsubst %meta.json,%lesson.txt,$(subst lesson-source-data,lessons,$(LESSONS_META_FILES)))
@@ -114,11 +116,17 @@ $(DATA_DIR)/dictionaries/typey-type/typey-type.json: build/index.js $(TYPEY_TYPE
 
 # emoji-dict
 emoji-dict: $(TARGET_EMOJI_JSON)
- $(TARGET_EMOJI_JSON): build/index.js $(TYPEY_TYPE_DICTIONARIES) $(ALL_TS_FILES) copy-dictionaries
+$(TARGET_EMOJI_JSON): build/index.js $(TYPEY_TYPE_DICTIONARIES) $(ALL_TS_FILES) emoji-modified-strategy copy-dictionaries
 	@mkdir -p "$(DICTIONARY_INTERMEDIATE_DIR)" # make sure intermediate dictionary directory exists before adding subdirectories inside them
 	@mkdir -p "$$(dirname $@)" # make sure didoesdigital target subdirectory exists before writing emoji file inside
 	@echo "Running build-emoji-dict to build emoji.json"
 	@$(CLI) build-emoji-dictionary --target=$@
+	
+# emoji-modified-strategy
+emoji-modified-strategy: $(MODIFIED_EMOJI_STRATEGY)
+$(MODIFIED_EMOJI_STRATEGY): build src/lib/stemoji.ts src/commands/buildEmojiStrategy.ts vendor/emoji_strategy.json vendor/emoji_strategy_c8900a0.json
+	@echo "Running build-emoji-strategy to build emoji strategy with reduced characters"
+	@$(CLI) build-emoji-strategy
 
 # copy-dictionaries
 copy-dictionaries: build $(LESSON_HINTS_DICTIONARIES) $(INDIVIDUAL_DICTIONARIES) $(PLOVER_DICTIONARIES) $(TYPEY_TYPE_DICTIONARIES) $(TOP_10_DICTIONARY) $(DICTIONARY_INDEX)

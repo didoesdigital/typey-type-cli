@@ -49,44 +49,6 @@ const run = async (options: Options) => {
     });
   });
 
-  const newEmojiStrategyRaw = await fs.readFile(
-    "vendor/emoji_strategy.json",
-    "utf8"
-  );
-  const newEmojiStrategy = JSON.parse(newEmojiStrategyRaw);
-
-  const oldEmojiStrategyRaw = await fs.readFile(
-    "vendor/emoji_strategy_c8900a0.json",
-    "utf8"
-  );
-  const oldEmojiStrategy = JSON.parse(oldEmojiStrategyRaw);
-  const oldEntries = Object.entries(oldEmojiStrategy);
-
-  const oldEmojiNewFormat = Object.fromEntries(
-    Object.entries(newEmojiStrategy).filter((entry) => {
-      const oldEntryUnicodeMatchesNewStrategyKey = oldEntries.find(
-        (oldEntry) => {
-          // eslint-disable-next-line @typescript-eslint/ban-ts-comment
-          // @ts-ignore
-          return oldEntry[1].unicode === entry[0];
-        }
-      );
-
-      return !!oldEntryUnicodeMatchesNewStrategyKey;
-    })
-  );
-
-  await fs
-    .writeFile(
-      "vendor/emoji_strategy_reduced_to_c8900a0_chars.json",
-      JSON.stringify(oldEmojiNewFormat, null, 2) + "\n"
-    )
-    .catch((err) => {
-      if (err) {
-        console.error(err);
-      }
-    });
-
   const emojiDictionarySortedByKey = makeStenoEmoji(emojiVocabDict, strategy);
 
   await fs
