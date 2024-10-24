@@ -403,6 +403,7 @@ This project and everyone participating in it is governed by the [Code of Conduc
 - The emoji vendor data is licensed under MIT License, as shown in [LICENSE_3RD_PARTY.md](./LICENSE_3RD_PARTY.md).
     - `vendor/emoji_strategy_c8900a0.json` renamed from `emoji_strategy.json` from the original [emojione](https://github.com/joypixels/emojione/blob/c8900a0f4824c84b994accbeb319945b9a171052/emoji_strategy.json) project.
     - `vendor/emoji_strategy.json` from the updated [emoji-toolkit](https://github.com/joypixels/emoji-toolkit) project.
+    - `vendor/emoji_strategy_reduced_to_c8900a0_chars.json` derived from `vendor/emoji_strategy.json` and `vendor/emoji_strategy_c8900a0.json`.
 
 ## Author
 

@@ -1,4 +1,5 @@
 import fs from "fs";
+import convertNewEmojiStrategyToPrevious from "../utils/convertNewEmojiStrategyToPrevious";
 import type { StenoDictionary } from "src/shared/types";
 
 if (process.argv.length < 3) {
@@ -31,7 +32,7 @@ type PreviousEmojiStrategySummaryEntry = Omit<
   words: string[];
 };
 
-type PreviousEmojiStrategy = Record<string, PreviousEmojiStrategyEntry>;
+export type PreviousEmojiStrategy = Record<string, PreviousEmojiStrategyEntry>;
 type PreviousEmojiStrategyWithDuplicates = Record<
   string,
   PreviousEmojiStrategyEntryWithDuplicates
@@ -39,12 +40,33 @@ type PreviousEmojiStrategyWithDuplicates = Record<
 
 type Exceptions = Record<string, string | string[]>;
 
-const strategy = `vendor/emoji_strategy.json`;
+/** e.g. ":flag_st:", ":st:" */
+type Shortname = string;
 
-const makeStenoEmoji = (dictionary: StenoDictionary) => {
+/** "1f1f8-1f1f9" */
+type UnicodeOutput = string;
+
+type NewEmojiStrategyEntry = {
+  /** e.g. "flag: S\u00e3o Tom\u00e9 &amp; Pr\u00edncipe" for "São Tomé & Príncipe" */
+  "name": string;
+  /** e.g. "flags", */
+  "category": string;
+  "shortname": Shortname;
+  "shortname_alternates": Shortname[];
+  /** e.g. [ "flag", "uc6" ], */
+  "keywords": string[];
+  "unicode_output": UnicodeOutput;
+};
+export type NewEmojiStrategy = Record<UnicodeOutput, NewEmojiStrategyEntry>;
+
+const makeStenoEmoji = (dictionary: StenoDictionary, strategy: string) => {
   // console.log(`Reading strategy ${strategy}`);
-  const emojis: PreviousEmojiStrategy = JSON.parse(
+  const emojisInNewStrategyFormat = JSON.parse(
     fs.readFileSync(strategy, "utf8")
+  );
+
+  const emojis: PreviousEmojiStrategy = convertNewEmojiStrategyToPrevious(
+    emojisInNewStrategyFormat
   );
 
   // When we convert the dictionary as a JavaScript object to a
