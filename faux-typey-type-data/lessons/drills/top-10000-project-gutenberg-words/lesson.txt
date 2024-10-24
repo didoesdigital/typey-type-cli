@@ -9878,7 +9878,7 @@ Top 10000 Project Gutenberg words
 'geological': SKWRAOE/HR-LG
 'passport': PAS/PORT
 'confines': KAUPB/TPAOEUPB/-S
-'dishonoured': TKEUS/HO*RPB/A*U
+'dishonour': TKEUS/HO*RPB/A*U
 'executioner': EBGS/KAOUGS/*ER
 'township': TOUPB/SH-P
 'vacancy': SRAEUBG/SEU
