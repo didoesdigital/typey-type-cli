@@ -92,6 +92,10 @@ async function main() {
   program
     .command("check-duplicate-outlines")
     .description("Checks for outlines duplicated across dictionaries")
+    .option(
+      "-u, --unique-translations",
+      "show only duplicate outlines with differing translations"
+    )
     .action(checkDuplicateOutlines.run);
 
   await program.parseAsync(process.argv);
