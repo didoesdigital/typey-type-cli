@@ -3,6 +3,7 @@
 
 import buildLesson from "./commands/buildLesson";
 import buildLessonIndex from "./commands/buildLessonIndex";
+import checkDuplicateOutlines from "./commands/checkDuplicateOutlines";
 import copyDictionaries from "./commands/copyDictionaries";
 import validateLessons from "./commands/validateLessons";
 import buildRecommendationsCourses from "./commands/buildRecommendationsCourses";
@@ -87,6 +88,11 @@ async function main() {
     .command("split-lesson-index", { hidden: true })
     .description("Splits meta files from lesson index")
     .action(splitLessonIndex.run);
+
+  program
+    .command("check-duplicate-outlines")
+    .description("Checks for outlines duplicated across dictionaries")
+    .action(checkDuplicateOutlines.run);
 
   await program.parseAsync(process.argv);
 }
