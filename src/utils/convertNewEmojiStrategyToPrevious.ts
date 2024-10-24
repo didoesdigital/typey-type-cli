@@ -5,7 +5,7 @@ const convertNewEmojiStrategyToPrevious = (
 ): PreviousEmojiStrategy => {
   const newEntries = Object.entries(emojisInNewStrategyFormat);
   const result: PreviousEmojiStrategy = {};
-  for (const [unicode_output, newEntry] of newEntries) {
+  for (const [, newEntry] of newEntries) {
     if (
       newEntry.shortname.match(/_tone[0-9]:/) !== null &&
       newEntry.shortname_alternates.length > 0
@@ -19,7 +19,7 @@ const convertNewEmojiStrategyToPrevious = (
 
       const newKey = shortname.replace(/:/g, "");
       result[newKey] = {
-        unicode: unicode_output,
+        unicode: newEntry.unicode_output,
         shortname: shortname,
         aliases: newEntry.shortname_alternates.slice(1).join(" "),
         keywords: newEntry.keywords.join(" "),
@@ -27,7 +27,7 @@ const convertNewEmojiStrategyToPrevious = (
     } else {
       const newKey = newEntry.shortname.replace(/:/g, "");
       result[newKey] = {
-        unicode: unicode_output,
+        unicode: newEntry.unicode_output,
         shortname: newEntry.shortname,
         aliases: newEntry.shortname_alternates.join(" "),
         keywords: newEntry.keywords.join(" "),
