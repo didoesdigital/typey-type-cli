@@ -4,7 +4,7 @@ This document includes a list of open source components used in this project, in
 
 ## emojione
 
-This project uses the `emoji_strategy.json` file from the emojione project to generate a steno emoji dict.
+This project uses the `emoji_strategy.json` file from the emojione project (renamed to `vendor/emoji_strategy_c8900a0.json`) to generate a steno emoji dict.
 
 * HOMEPAGE: [emojione](https://github.com/joypixels/emojione)
 
