@@ -166,6 +166,12 @@ To **generate emoji dictionary** as `emoji.json`:
 time make emoji-dict
 ```
 
+To **generate modified emoji strategy** in order to build emoji dictionary:
+
+```sh
+time make emoji-modified-strategy
+```
+
 To **collect misstrokes** into `misstrokes.json`:
 
 ```sh
