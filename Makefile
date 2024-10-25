@@ -129,7 +129,11 @@ $(MODIFIED_EMOJI_STRATEGY): build src/lib/stemoji.ts src/commands/buildEmojiStra
 	@$(CLI) build-emoji-strategy
 
 # copy-dictionaries
-copy-dictionaries: build $(LESSON_HINTS_DICTIONARIES) $(INDIVIDUAL_DICTIONARIES) $(PLOVER_DICTIONARIES) $(TYPEY_TYPE_DICTIONARIES) $(TOP_10_DICTIONARY) $(DICTIONARY_INDEX)
+copy-dictionaries: tmp/make/copy-dictionaries.timestamp
+tmp/make/copy-dictionaries.timestamp: build $(LESSON_HINTS_DICTIONARIES) $(INDIVIDUAL_DICTIONARIES) $(PLOVER_DICTIONARIES) $(TYPEY_TYPE_DICTIONARIES) $(TOP_10_DICTIONARY) $(DICTIONARY_INDEX)
+	@echo "Copying dictionaries…"
+	@mkdir -p tmp/make/
+	@touch tmp/make/copy-dictionaries.timestamp
 	@$(CLI) copy-dictionaries
 
 # build-recommendations-courses
