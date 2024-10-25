@@ -16,6 +16,10 @@ type Duplicates = Map<
   { dictName: DictName; translation: Translation }[]
 >;
 
+const ignoreExpectedDuplicateDictionaries = [
+  "top-10000-project-gutenberg-words.json",
+];
+
 /**
  * This command checks for duplicate outlines in the standard Typey Type dictionaries.
  *
@@ -28,7 +32,7 @@ type Duplicates = Map<
 const run = async (options: Options) => {
   const standardDicts: StenoDictionary[] = await Promise.all(
     standardDictionarySet
-      .filter((name) => name !== "top-10000-project-gutenberg-words.json")
+      .filter((name) => !ignoreExpectedDuplicateDictionaries.includes(name))
       .map(async (dictFile: string) => {
         const dict = await fs.readFile(
           `${standardDictionariesDir}/${dictFile}`,
@@ -43,7 +47,7 @@ const run = async (options: Options) => {
   });
   const zippedDictionariesNamesAndContents = zipDictNameAndContents(
     standardDictionarySet.filter(
-      (name) => name !== "top-10000-project-gutenberg-words.json"
+      (name) => !ignoreExpectedDuplicateDictionaries.includes(name)
     ),
     standardDicts
   );
