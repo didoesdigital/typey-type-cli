@@ -178,6 +178,16 @@ To **collect misstrokes** into `misstrokes.json`:
 time make collect-misstrokes
 ```
 
+## Other one-off commands
+
+To check for outlines that are duplicated across Typey Type dictionaries:
+
+```sh
+yarn dev help check-duplicate-outlines
+yarn dev check-duplicate-outlines
+yarn dev check-duplicate-outlines --unique-translations
+```
+
 ## Debugging
 
 While you can run CLI commands individually, for lessons, just use `make`. If you want to run a command though, do this:
