@@ -18,6 +18,7 @@ type Duplicates = Map<
 
 const ignoreExpectedDuplicateDictionaries = [
   "top-10000-project-gutenberg-words.json",
+  "punctuation-unspaced.json",
 ];
 
 /**
