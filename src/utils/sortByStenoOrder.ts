@@ -1,48 +1,20 @@
 import type { Outline, SingleStroke } from "../shared/types";
 import type { DictEntries } from "../cli-types";
-
-const stenoOrderAndEnglishKeys = [
-  ["#", "1"],
-  ["1", "2"],
-  ["S", "3"],
-  ["T", "4"],
-  ["2", "5"],
-  ["K", "6"],
-  ["3", "7"],
-  ["P", "8"],
-  ["W", "9"],
-  ["4", "0"],
-  ["H", "a"],
-  ["R", "b"],
-  ["5", "c"],
-  ["A", "d"],
-  ["0", "e"],
-  ["O", "f"],
-  ["*", "g"],
-  ["-", "h"],
-  ["E", "i"],
-  ["U", "j"],
-  ["6", "k"],
-  ["F", "l"],
-  ["R", "m"],
-  ["7", "n"],
-  ["P", "o"],
-  ["B", "p"],
-  ["8", "q"],
-  ["L", "r"],
-  ["G", "s"],
-  ["9", "t"],
-  ["T", "u"],
-  ["S", "v"],
-  ["D", "w"],
-  ["Z", "x"],
-];
+import stenoOrderAndEnglishKeys, {
+  rightHandIndex,
+} from "../consts/stenoKeys/stenoOrderAndEnglishKeys";
 
 const mapStrokeToEnglishCharacters = (stroke: SingleStroke): string => {
   const strokeKeys = [...stroke];
   const result = [];
 
-  for (let i = 0; i < stenoOrderAndEnglishKeys.length; i++) {
+  let i = 0;
+  if (stroke.startsWith("-")) {
+    i = rightHandIndex; // Skip to right-hand side
+    strokeKeys.shift();
+  }
+
+  for (i; i < stenoOrderAndEnglishKeys.length; i++) {
     if (strokeKeys.length > 0) {
       if (strokeKeys[0] === stenoOrderAndEnglishKeys[i][0]) {
         result.push(stenoOrderAndEnglishKeys[i][1]);

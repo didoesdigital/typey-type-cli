@@ -60,4 +60,54 @@ describe("sortByStenoOrder", () => {
       ["ATD", "atd"],
     ]);
   });
+
+  it("sorts second stroke starting with -P ahead of -L", async () => {
+    expect(
+      sortByStenoOrder([
+        ["STAOEP/-L", "steeple"],
+        ["STAOEP/-LS", "steeples"],
+        ["STAOEP/-PBS", "steepness"],
+      ])
+    ).toEqual([
+      ["STAOEP/-PBS", "steepness"],
+      ["STAOEP/-L", "steeple"],
+      ["STAOEP/-LS", "steeples"],
+    ]);
+  });
+
+  it("sorts second stroke starting with -S ahead of -D", async () => {
+    expect(
+      sortByStenoOrder([
+        ["STEULT/-D", "stilted"],
+        ["STEULT/-S", "stilts"],
+      ])
+    ).toEqual([
+      ["STEULT/-S", "stilts"],
+      ["STEULT/-D", "stilted"],
+    ]);
+  });
+
+  it("sorts stroke with SZ ahead of D", async () => {
+    expect(
+      sortByStenoOrder([
+        ["STPH-PBD", "sentenced"],
+        ["STPH-PBSZ", "sentences"],
+      ])
+    ).toEqual([
+      ["STPH-PBSZ", "sentences"],
+      ["STPH-PBD", "sentenced"],
+    ]);
+  });
+
+  it("sorts stroke with EU ahead of -", async () => {
+    expect(
+      sortByStenoOrder([
+        ["12-R", "XII"],
+        ["12EU", "21"],
+      ])
+    ).toEqual([
+      ["12EU", "21"],
+      ["12-R", "XII"],
+    ]);
+  });
 });
