@@ -43,7 +43,7 @@ const sortByStenoOrder = (entries: DictEntries): DictEntries => {
     const a = mapOutlineToEnglishCharacters(aOutline);
     const b = mapOutlineToEnglishCharacters(bOutline);
 
-    return a.localeCompare(b);
+    return a.localeCompare(b, "en");
   });
 
   return result;
