@@ -20,7 +20,7 @@ const normaliseImplicitHyphen = (stroke: SingleStroke): SingleStroke => {
     return stroke;
   }
 
-  let foundAVowel = false;
+  let foundVowelLikeKey = false;
   let strokeIndex = 0;
   let stenoOrderIndex = 0;
   for (
@@ -35,18 +35,18 @@ const normaliseImplicitHyphen = (stroke: SingleStroke): SingleStroke => {
     const strokeKey = strokeKeys[strokeIndex];
 
     if (strokeKey === stenoOrder[stenoOrderIndex]) {
-      if ("AOEU*".includes(strokeKey)) {
-        foundAVowel = true;
+      if ("50AOEU*".includes(strokeKey)) {
+        foundVowelLikeKey = true;
       }
 
       // Remove unnecessary hyphen when there's a vowel:
-      if (strokeKey === "-" && foundAVowel) {
+      if (strokeKey === "-" && foundVowelLikeKey) {
         return stroke.replace("-", "");
       }
 
       // Insert implicit hyphen when there's a right-hand key:
       if (
-        !foundAVowel &&
+        !foundVowelLikeKey &&
         stenoOrderIndex > rightHandIndex &&
         // !strokeKeys.slice(0, strokeIndex).includes("-")
         !strokeKeys.includes("-")
