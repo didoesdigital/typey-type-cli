@@ -25,6 +25,7 @@ describe("sortByStenoOrder", () => {
     ]);
   });
 
+  // Note: we expect to normalise number keys before sorting so this test should be irrelevant
   it("sorts number bar ahead of letter", async () => {
     expect(
       sortByStenoOrder([
@@ -34,6 +35,18 @@ describe("sortByStenoOrder", () => {
     ).toEqual([
       ["#", "1"],
       ["S", "s"],
+    ]);
+  });
+
+  it("sorts -D ahead of -Z", async () => {
+    expect(
+      sortByStenoOrder([
+        ["-Z", "{^s}"],
+        ["-D", "{^ed}"],
+      ])
+    ).toEqual([
+      ["-D", "{^ed}"],
+      ["-Z", "{^s}"],
     ]);
   });
 
