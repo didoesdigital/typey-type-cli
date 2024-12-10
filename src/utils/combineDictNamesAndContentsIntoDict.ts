@@ -9,6 +9,7 @@ import type {
 } from "../shared/types";
 import type { DictionaryNameAndContents } from "../cli-types";
 import affixesJSON from "../consts/affixes.json";
+import sortByStenoOrder from "./sortByStenoOrder";
 
 type WordFirstDict = Map<Translation, Outline>;
 type OutlineAndDictName = [Outline, DictName];
@@ -99,7 +100,8 @@ const combineDictNamesAndContentsIntoDict = (
     }
   });
 
-  return Object.fromEntries(result);
+  const sortedResult = sortByStenoOrder([...result]);
+  return Object.fromEntries(sortedResult);
 };
 
 export default combineDictNamesAndContentsIntoDict;

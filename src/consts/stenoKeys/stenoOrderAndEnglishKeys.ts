@@ -35,6 +35,11 @@ const stenoOrderAndEnglishKeys = [
   ["Z", "x"],
 ];
 
-export const rightHandIndex = 19;
+/** i.e. [..."#1S2TK3PW4HR5A0O*EU-6FR7PB8LG9TSDZ"] */
+export const stenoOrderWithNumbers = stenoOrderAndEnglishKeys.map(
+  (entry) => entry[0]
+);
+
+export const rightHandIndex = stenoOrderWithNumbers.indexOf("-");
 
 export default stenoOrderAndEnglishKeys;

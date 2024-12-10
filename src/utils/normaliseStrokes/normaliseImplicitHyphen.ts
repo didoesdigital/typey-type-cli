@@ -1,7 +1,9 @@
-import type { SingleStroke } from "../../shared/types";
+import {
+  rightHandIndex,
+  stenoOrderWithNumbers,
+} from "../../consts/stenoKeys/stenoOrderAndEnglishKeys";
 
-const stenoOrder = [..."1S2TK3PW4HR5A0O*EU-6FR7PB8LG9TSDZ"];
-const rightHandIndex = stenoOrder.indexOf("-");
+import type { SingleStroke } from "../../shared/types";
 
 /**
  * This command normalises hyphens in a single steno stroke.
@@ -25,7 +27,7 @@ const normaliseImplicitHyphen = (stroke: SingleStroke): SingleStroke => {
   let stenoOrderIndex = 0;
   for (
     stenoOrderIndex;
-    stenoOrderIndex < stenoOrder.length;
+    stenoOrderIndex < stenoOrderWithNumbers.length;
     stenoOrderIndex++
   ) {
     if (strokeIndex > strokeKeys.length) {
@@ -34,7 +36,7 @@ const normaliseImplicitHyphen = (stroke: SingleStroke): SingleStroke => {
 
     const strokeKey = strokeKeys[strokeIndex];
 
-    if (strokeKey === stenoOrder[stenoOrderIndex]) {
+    if (strokeKey === stenoOrderWithNumbers[stenoOrderIndex]) {
       if ("50AOEU*".includes(strokeKey)) {
         foundVowelLikeKey = true;
       }
@@ -48,7 +50,6 @@ const normaliseImplicitHyphen = (stroke: SingleStroke): SingleStroke => {
       if (
         !foundVowelLikeKey &&
         stenoOrderIndex > rightHandIndex &&
-        // !strokeKeys.slice(0, strokeIndex).includes("-")
         !strokeKeys.includes("-")
       ) {
         return `${stroke.slice(0, strokeIndex)}-${stroke.slice(strokeIndex)}`;

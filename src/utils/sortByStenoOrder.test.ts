@@ -25,16 +25,21 @@ describe("sortByStenoOrder", () => {
     ]);
   });
 
-  // Note: we expect to normalise number keys before sorting so this test should be irrelevant
   it("sorts number bar ahead of letter", async () => {
     expect(
       sortByStenoOrder([
-        ["S", "s"],
-        ["#", "1"],
+        ["S", "is"],
+        ["#S", "{&1}"],
+        ["1", "{&1}"],
+        ["#", "=repeat_last_translation"],
+        ["ST", "is it"],
       ])
     ).toEqual([
-      ["#", "1"],
-      ["S", "s"],
+      ["#", "=repeat_last_translation"],
+      ["#S", "{&1}"],
+      ["1", "{&1}"],
+      ["S", "is"],
+      ["ST", "is it"],
     ]);
   });
 

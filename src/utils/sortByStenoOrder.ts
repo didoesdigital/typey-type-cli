@@ -1,8 +1,10 @@
-import type { Outline, SingleStroke } from "../shared/types";
-import type { DictEntries } from "../cli-types";
 import stenoOrderAndEnglishKeys, {
   rightHandIndex,
 } from "../consts/stenoKeys/stenoOrderAndEnglishKeys";
+import { normaliseStroke } from "./normaliseStrokes/normaliseStrokes";
+
+import type { Outline, SingleStroke } from "../shared/types";
+import type { DictEntries } from "../cli-types";
 
 const mapStrokeToEnglishCharacters = (stroke: SingleStroke): string => {
   const strokeKeys = [...stroke];
@@ -11,7 +13,7 @@ const mapStrokeToEnglishCharacters = (stroke: SingleStroke): string => {
   let i = 0;
   if (stroke.startsWith("-")) {
     i = rightHandIndex; // Skip to right-hand side
-    strokeKeys.shift();
+    strokeKeys.shift(); // Disregard hyphen for sorting
   }
 
   for (i; i < stenoOrderAndEnglishKeys.length; i++) {
@@ -40,8 +42,10 @@ const sortByStenoOrder = (entries: DictEntries): DictEntries => {
   const result = entries.sort((aDictEntry, bDictEntry) => {
     const aOutline: Outline = aDictEntry[0];
     const bOutline: Outline = bDictEntry[0];
-    const a = mapOutlineToEnglishCharacters(aOutline);
-    const b = mapOutlineToEnglishCharacters(bOutline);
+    const aNormalised = aOutline.split("/").map(normaliseStroke).join("/");
+    const bNormalised = bOutline.split("/").map(normaliseStroke).join("/");
+    const a = mapOutlineToEnglishCharacters(aNormalised);
+    const b = mapOutlineToEnglishCharacters(bNormalised);
 
     return a.localeCompare(b, "en");
   });
