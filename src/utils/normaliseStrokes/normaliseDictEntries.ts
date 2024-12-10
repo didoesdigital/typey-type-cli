@@ -1,9 +1,9 @@
 import normaliseImplicitHyphen from "./normaliseImplicitHyphen";
 import normaliseNumbers from "./normaliseNumbers";
+import normaliseOutline from "./normaliseOutline";
 
 import type { Outline, SingleStroke } from "../../shared/types";
 import type { DictEntries, DictEntry } from "../../cli-types";
-import { normaliseOutline } from "./normaliseOutline";
 
 export const normaliseStroke = (stroke: SingleStroke): SingleStroke => {
   if (stroke.includes("#")) {
