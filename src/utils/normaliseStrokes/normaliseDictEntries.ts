@@ -3,6 +3,7 @@ import normaliseNumbers from "./normaliseNumbers";
 
 import type { Outline, SingleStroke } from "../../shared/types";
 import type { DictEntries, DictEntry } from "../../cli-types";
+import { normaliseOutline } from "./normaliseOutline";
 
 export const normaliseStroke = (stroke: SingleStroke): SingleStroke => {
   if (stroke.includes("#")) {
@@ -12,10 +13,6 @@ export const normaliseStroke = (stroke: SingleStroke): SingleStroke => {
   stroke = normaliseImplicitHyphen(stroke);
 
   return stroke;
-};
-
-export const normaliseOutline = (outline: Outline): Outline => {
-  return outline.split("/").map(normaliseStroke).join("/");
 };
 
 /**
