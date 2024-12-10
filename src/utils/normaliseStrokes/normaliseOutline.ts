@@ -1,4 +1,4 @@
-import { normaliseSingleStroke } from "./normaliseSingleStroke";
+import normaliseSingleStroke from "./normaliseSingleStroke";
 
 import type { Outline } from "src/shared/types";
 
