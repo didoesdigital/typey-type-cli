@@ -3,7 +3,7 @@ import normaliseNumbers from "./normaliseNumbers";
 
 import type { SingleStroke } from "../../shared/types";
 
-export const normaliseStroke = (stroke: SingleStroke): SingleStroke => {
+export const normaliseSingleStroke = (stroke: SingleStroke): SingleStroke => {
   if (stroke.includes("#")) {
     stroke = normaliseNumbers(stroke);
   }
