@@ -14,6 +14,10 @@ export const normaliseStroke = (stroke: SingleStroke): SingleStroke => {
   return stroke;
 };
 
+const normaliseOutline = (outline: Outline): Outline => {
+  return outline.split("/").map(normaliseStroke).join("/");
+};
+
 /**
  * Normalises steno strokes so they are always represented in a consistent way.
  *
@@ -34,13 +38,10 @@ export const normaliseStroke = (stroke: SingleStroke): SingleStroke => {
  */
 const normaliseStrokes = (entries: DictEntries): DictEntries => {
   const result = entries.map(([outline, translation]) => {
-    const strokes = outline.split("/");
-
-    const normalisedStrokes = strokes.map(normaliseStroke);
-
-    const normalisedOutline: Outline = normalisedStrokes.join("/");
+    const normalisedOutline: Outline = normaliseOutline(outline);
 
     const dictEntry: DictEntry = [normalisedOutline, translation];
+
     return dictEntry;
   });
 
