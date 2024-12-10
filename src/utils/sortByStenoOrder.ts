@@ -1,7 +1,7 @@
 import stenoOrderAndEnglishKeys, {
   rightHandIndex,
 } from "../consts/stenoKeys/stenoOrderAndEnglishKeys";
-import { normaliseStroke } from "./normaliseStrokes/normaliseStrokes";
+import { normaliseOutline } from "./normaliseStrokes/normaliseStrokes";
 
 import type { Outline, SingleStroke } from "../shared/types";
 import type { DictEntries } from "../cli-types";
@@ -46,14 +46,10 @@ const sortByStenoOrder = (entries: DictEntries): DictEntries => {
     const bOutline: Outline = bDictEntry[0];
     const a =
       cache.get(aOutline) ??
-      mapOutlineToEnglishCharacters(
-        aOutline.split("/").map(normaliseStroke).join("/")
-      );
+      mapOutlineToEnglishCharacters(normaliseOutline(aOutline));
     const b =
       cache.get(bOutline) ??
-      mapOutlineToEnglishCharacters(
-        bOutline.split("/").map(normaliseStroke).join("/")
-      );
+      mapOutlineToEnglishCharacters(normaliseOutline(bOutline));
 
     cache.set(aOutline, a);
     cache.set(bOutline, b);

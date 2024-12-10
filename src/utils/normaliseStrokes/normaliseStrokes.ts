@@ -14,7 +14,7 @@ export const normaliseStroke = (stroke: SingleStroke): SingleStroke => {
   return stroke;
 };
 
-const normaliseOutline = (outline: Outline): Outline => {
+export const normaliseOutline = (outline: Outline): Outline => {
   return outline.split("/").map(normaliseStroke).join("/");
 };
 
