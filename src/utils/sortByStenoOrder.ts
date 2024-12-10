@@ -38,14 +38,25 @@ const mapOutlineToEnglishCharacters = (outline: Outline): string => {
   return result;
 };
 
+const cache = new Map();
+
 const sortByStenoOrder = (entries: DictEntries): DictEntries => {
   const result = entries.sort((aDictEntry, bDictEntry) => {
     const aOutline: Outline = aDictEntry[0];
     const bOutline: Outline = bDictEntry[0];
-    const aNormalised = aOutline.split("/").map(normaliseStroke).join("/");
-    const bNormalised = bOutline.split("/").map(normaliseStroke).join("/");
-    const a = mapOutlineToEnglishCharacters(aNormalised);
-    const b = mapOutlineToEnglishCharacters(bNormalised);
+    const a =
+      cache.get(aOutline) ??
+      mapOutlineToEnglishCharacters(
+        aOutline.split("/").map(normaliseStroke).join("/")
+      );
+    const b =
+      cache.get(bOutline) ??
+      mapOutlineToEnglishCharacters(
+        bOutline.split("/").map(normaliseStroke).join("/")
+      );
+
+    cache.set(aOutline, a);
+    cache.set(bOutline, b);
 
     return a.localeCompare(b, "en");
   });
