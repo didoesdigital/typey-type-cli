@@ -1,7 +1,7 @@
 import stenoOrderAndEnglishKeys, {
   rightHandIndex,
 } from "../consts/stenoKeys/stenoOrderAndEnglishKeys";
-import { normaliseOutline } from "./normaliseStrokes/normaliseStrokes";
+import { normaliseOutline } from "./normaliseStrokes/normaliseDictEntries";
 
 import type { Outline, SingleStroke } from "../shared/types";
 import type { DictEntries } from "../cli-types";

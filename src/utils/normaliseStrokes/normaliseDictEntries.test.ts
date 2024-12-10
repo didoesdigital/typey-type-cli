@@ -1,4 +1,4 @@
-import normaliseDictEntries from "./normaliseStrokes";
+import normaliseDictEntries from "./normaliseDictEntries";
 
 // Unlike the tests for normaliseNumbers and normaliseImplicitHyphen,
 // normaliseDictEntries ensures *both* are handled correctly. This should make it
