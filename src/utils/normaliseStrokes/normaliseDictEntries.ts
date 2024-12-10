@@ -4,16 +4,11 @@ import type { Outline } from "../../shared/types";
 import type { DictEntries, DictEntry } from "../../cli-types";
 
 /**
- * Normalises steno strokes so they are always represented in a consistent way.
+ * Normalises outlines in dictionary entries so that the outline's strokes are
+ * always represented in a consistent way.
  *
- * This method normalises numbers and implicit hyphens in steno strokes, for example:
- *
- * - adds a hyphen to stroke with unambiguous right-hand key
- * - adds a hyphen to stroke starting with suffix key
- * - does not add a hyphen to ambiguous left-hand key
- * - removes hyphen from left-hand numbers with right-hand letters
- * - converts number bar and letters into numbers
- * - preserves number bar when adding a non-number key
+ * It uses the method to normalise numbers and implicit hyphens in outlines for
+ * every entry, for example:
  *
  * Example: `["#T/P-P", "test 2{^.^}"]` => `["2/P-P", "test 2{^.^}"]`
  * Example: `["#-T/P-P", "test 9{^.^}"]` => `["9/P-P", "test 9{^.^}"]`
