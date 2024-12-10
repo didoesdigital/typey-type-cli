@@ -1,19 +1,7 @@
-import normaliseImplicitHyphen from "./normaliseImplicitHyphen";
-import normaliseNumbers from "./normaliseNumbers";
 import normaliseOutline from "./normaliseOutline";
 
-import type { Outline, SingleStroke } from "../../shared/types";
+import type { Outline } from "../../shared/types";
 import type { DictEntries, DictEntry } from "../../cli-types";
-
-export const normaliseStroke = (stroke: SingleStroke): SingleStroke => {
-  if (stroke.includes("#")) {
-    stroke = normaliseNumbers(stroke);
-  }
-
-  stroke = normaliseImplicitHyphen(stroke);
-
-  return stroke;
-};
 
 /**
  * Normalises steno strokes so they are always represented in a consistent way.

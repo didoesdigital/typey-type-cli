@@ -1,4 +1,4 @@
-import { normaliseStroke } from "./normaliseDictEntries";
+import { normaliseStroke } from "./normaliseStroke";
 
 import type { Outline } from "src/shared/types";
 
