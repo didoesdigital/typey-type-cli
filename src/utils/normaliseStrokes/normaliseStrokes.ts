@@ -36,7 +36,7 @@ export const normaliseOutline = (outline: Outline): Outline => {
  * @param entries - potentially un-normalised dictionary entries
  * @returns - normalised dictionary entries
  */
-const normaliseStrokes = (entries: DictEntries): DictEntries => {
+const normaliseDictEntries = (entries: DictEntries): DictEntries => {
   const result = entries.map(([outline, translation]) => {
     const normalisedOutline: Outline = normaliseOutline(outline);
 
@@ -48,4 +48,4 @@ const normaliseStrokes = (entries: DictEntries): DictEntries => {
   return result;
 };
 
-export default normaliseStrokes;
+export default normaliseDictEntries;
