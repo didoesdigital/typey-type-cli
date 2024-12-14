@@ -11,7 +11,7 @@ import type { DictionaryNameAndContents } from "../cli-types";
 import affixesJSON from "../consts/affixes.json";
 import sortByStenoOrder from "./sortByStenoOrder";
 
-type WordFirstDict = Map<Translation, Outline>;
+type DictEntryMap = Map<Outline, Translation>;
 type OutlineAndDictName = [Outline, DictName];
 /**
  * Example:
@@ -51,7 +51,7 @@ const combineDictNamesAndContentsIntoDict = (
   // nextRound:
   // "test": [["TEFT", "dict1.json"], ["TEFTD": "dict2.json"]]
 
-  // Produce tempLookupDict: TempDict:
+  // Produce word-first tempLookupDict: TempDict:
   for (let dict = 0; dict < dictionariesNamesAndContents.length; dict++) {
     const [dictName, dictContents] = dictionariesNamesAndContents[dict];
     for (const [outline, translation] of Object.entries(dictContents)) {
@@ -69,8 +69,8 @@ const combineDictNamesAndContentsIntoDict = (
   // set:
   //
 
-  // Produce WordFirstDict with brief solitude:
-  const result: WordFirstDict = new Map();
+  // Produce steno dictionary with brief solitude as a Map:
+  const result: DictEntryMap = new Map();
   tempLookupDict.forEach((outlinesAndDictNames, translation) => {
     const foundTopGutenbergEntry = outlinesAndDictNames.find(
       (outlineAndDictName) =>
