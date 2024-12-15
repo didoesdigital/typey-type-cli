@@ -1,4 +1,7 @@
 import rankOutlines from "../shared/utils/transformingDictionaries/rankOutlines/rankOutlines";
+import affixesJSON from "../consts/affixes.json";
+import sortByStenoOrder from "./sortByStenoOrder";
+
 import type {
   AffixObject,
   DictName,
@@ -7,9 +10,8 @@ import type {
   StrokeAndDictionaryAndNamespace,
   Translation,
 } from "../shared/types";
+
 import type { DictionaryNameAndContents } from "../cli-types";
-import affixesJSON from "../consts/affixes.json";
-import sortByStenoOrder from "./sortByStenoOrder";
 
 type DictEntryMap = Map<Outline, Translation>;
 type OutlineAndDictName = [Outline, DictName];
@@ -34,8 +36,10 @@ const affixes = affixesJSON as AffixObject;
  * Combines dictionaries
  *
  * @remarks
- * This method combines raw dictionaries based on their order, ranking outlines before combining
- * except where two outlines are equal where it then relies on order.
+ * This method combines raw dictionaries based on their order, ranking outlines
+ * before combining except where two outlines are equal where it then relies on
+ * order. It produces a slim dictionary with brief solitude (one outline/entry
+ * per word/phrase/translation).
  *
  * @param dictionariesNamesAndContents - example: `[["test1.json", { "TEFT/-G": "test1" }], ["test2.json", { "TEFT/-G": "test2" }]];`
  * @returns A realistic steno dictionary
@@ -63,11 +67,6 @@ const combineDictNamesAndContentsIntoDict = (
       }
     }
   }
-
-  // firstItem:
-  // "test": [["TEFT", "dict1.json"], ["TEFTD": "dict2.json"]]
-  // set:
-  //
 
   // Produce steno dictionary with brief solitude as a Map:
   const result: DictEntryMap = new Map();

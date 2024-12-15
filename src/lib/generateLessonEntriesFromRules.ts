@@ -54,8 +54,17 @@ import hasStar from "./rules/hasStar";
 import matchesWordList from "./rules/matchesWordList";
 import isRomanNumeral from "./rules/isRomanNumeral";
 
+import affixesJSON from "../consts/affixes.json";
+import misstrokesJSON from "../shared/json/misstrokes.json";
+import rankOutlines from "../shared/utils/transformingDictionaries/rankOutlines/rankOutlines";
+import splitIntoStrokesDictsAndNamespaces from "../shared/utils/transformingDictionaries/splitIntoStrokesDictsAndNamespaces";
+
 import type { DictEntry, DictEntries, Rules } from "../cli-types";
-import type { LookupDictWithNamespacedDicts } from "../shared/types";
+import type {
+  AffixObject,
+  LookupDictWithNamespacedDicts,
+  StenoDictionary,
+} from "../shared/types";
 
 type Filter = (outline: string, translation: string) => boolean;
 type FilterAndExpectation = [Filter, boolean];
@@ -63,6 +72,9 @@ type FilterAndExpectation = [Filter, boolean];
 type RuleFunctionsTypes = {
   [Property in keyof Rules]: Filter;
 };
+
+const misstrokes = misstrokesJSON as StenoDictionary;
+const affixes = affixesJSON as AffixObject;
 
 const ruleFunctions: Required<RuleFunctionsTypes> = {
   isOneSyllable: isOneSyllable,
@@ -151,7 +163,19 @@ const generateLessonEntriesFromRules = (
 
   const entriesList = [];
   for (const [translation, strokesAndNamespacedDicts] of lookupDict) {
-    const bestOutline = strokesAndNamespacedDicts[0][0];
+    const listOfStrokeAndDictAndNamespace = splitIntoStrokesDictsAndNamespaces(
+      strokesAndNamespacedDicts
+    );
+
+    const allOutlines = rankOutlines(
+      listOfStrokeAndDictAndNamespace,
+      misstrokes,
+      translation,
+      affixes
+    );
+
+    const bestStrokeAndDictAndName = allOutlines[0];
+    const bestOutline = bestStrokeAndDictAndName[0];
     const entry: DictEntry = [bestOutline, translation];
 
     const isInWordList = words ? matchesWordList(entry, words, rules) : true;

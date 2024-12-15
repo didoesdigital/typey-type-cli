@@ -95,7 +95,7 @@ JavaScript DOM events
 'change': KHAEUPBG
 'storage': STORPBLG
 'checking': KHEG
-'downloading': TKOUPBLGD
+'downloading': TKOUPBLD/-G
 'error': ROEUR
 'noupdate': TPHO/A*UD
 'obsolete': OB/SHRAOET

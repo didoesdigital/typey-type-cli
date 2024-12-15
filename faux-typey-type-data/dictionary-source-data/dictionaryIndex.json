@@ -1,11 +1,21 @@
 [
   {
     "author": "Typey Type",
-    "title": "Dictionary",
+    "title": "Full Dictionary",
     "subtitle": "",
     "category": "Typey Type",
     "subcategory": "",
-    "tagline": "Typey Type’s slim dictionary follows the Plover dictionary with misstrokes removed from the top 10,000 words. It shows only 1 outline for each word.",
+    "tagline": "Typey Type’s full dictionary builds on the Plover dictionary with misstrokes removed from the top 10,000 words. Use this instead of Plover’s default main dictionary.",
+    "link": "/support#typey-type-dictionary",
+    "path": "/dictionaries/typey-type/typey-type-full.json"
+  },
+  {
+    "author": "Typey Type",
+    "title": "Slim Dictionary",
+    "subtitle": "",
+    "category": "Typey Type",
+    "subcategory": "",
+    "tagline": "Typey Type’s slim dictionary has only 1 outline for each word.",
     "link": "/support#typey-type-dictionary",
     "path": "/dictionaries/typey-type/typey-type.json"
   },

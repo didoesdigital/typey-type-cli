@@ -44,7 +44,7 @@ The Bald Man and the Fly
 'little': HREUL
 'enemy,': TPHAEPL/KW-BG
 'but': PWUT
-'—whack—': EPL/TKA*RB/WHABG/EPL/TKA*RB
+'—whack—': PH-RB/WHABG/EPL/TKA*RB
 'his': HEUS
 'palm': PAPL
 'came': KAEUPL

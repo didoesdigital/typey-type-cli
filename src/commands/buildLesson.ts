@@ -1,6 +1,7 @@
 "use strict";
 
 import fs from "node:fs/promises";
+import path from "node:path";
 import { PerformanceObserver, performance } from "node:perf_hooks";
 
 import buildLessonDict from "../lib/buildLessonDict";
@@ -15,6 +16,8 @@ import dictionariesDir from "../consts/dictionariesDir";
 import lessonSourceDataDir from "../consts/lessonSourceDataDir";
 import lessonTargetDataDir from "../consts/lessonTargetDataDir";
 import lessonIntermediateDir from "../consts/lessonIntermediateDir";
+import standardDictionarySet from "../consts/standardDictionarySet.json";
+import standardDictionariesDir from "../consts/standardDictionariesDir";
 
 import checkFileExists from "../utils/checkFileExists";
 import createLookupDict from "../lib/createLookupDict";
@@ -24,9 +27,17 @@ import getLessonType from "../utils/getLessonType";
 import type { DictEntries } from "../cli-types";
 import type {
   LookupDictWithNamespacedDicts,
+  ReadDictionariesData,
   StenoDictionary,
   Translation,
 } from "../shared/types";
+
+const intermediateCombinedDictPath =
+  "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json";
+
+const standardDictionarySetPaths = standardDictionarySet.map(
+  (standardDictName) => `${standardDictionariesDir}/${standardDictName}`
+);
 
 type Options = {
   /** e.g. typey-type-data/lessons/collections/user-experience/ux-vocabulary/lesson.txt */
@@ -95,13 +106,29 @@ const run = async (options: Options) => {
   let vocabLookupDict: LookupDictWithNamespacedDicts | undefined = undefined;
 
   if (vocabulary?.length > 0) {
-    const vocabDicts: StenoDictionary[] = await Promise.all(
-      vocabulary.map(async (dictFile: string) => {
-        const dict = await fs.readFile(
-          `${dictionariesDir}/${dictFile}`,
-          "utf8"
-        );
-        return JSON.parse(dict);
+    if (!Array.isArray(vocabulary)) {
+      // Note: this check is mostly to make types easier to work with below
+      throw new Error(
+        `The meta.json vocabulary field should be an array but the vocabulary found in ${slug} was not an array.`
+      );
+    }
+
+    const vocabularyPaths = vocabulary.flatMap((dictPath: string) => {
+      if (dictPath === intermediateCombinedDictPath) {
+        return standardDictionarySetPaths;
+      }
+
+      return `${dictionariesDir}/${dictPath}`;
+    });
+
+    const vocabDicts: ReadDictionariesData = await Promise.all(
+      vocabularyPaths.map(async (dictFile: string) => {
+        const dict = await fs.readFile(dictFile, "utf8");
+        const result: [StenoDictionary, string] = [
+          JSON.parse(dict),
+          path.basename(dictFile),
+        ];
+        return result;
       })
     ).catch((error) => {
       throw new Error(
@@ -115,13 +142,17 @@ const run = async (options: Options) => {
     undefined;
   let firstRecommendedDict: StenoDictionary | undefined = undefined;
   if (recommendedDictionarySet?.length > 0) {
-    const allRecommendedDicts = await Promise.all(
+    const allRecommendedDicts: ReadDictionariesData = await Promise.all(
       recommendedDictionarySet.map(async (dictFile: string) => {
         const dict = await fs.readFile(
           `${dictionariesDir}/${dictFile}`,
           "utf8"
         );
-        return JSON.parse(dict);
+        const allRecommendedDictsResult = [
+          JSON.parse(dict),
+          path.basename(dictFile),
+        ];
+        return allRecommendedDictsResult;
       })
     ).catch((error) => {
       throw new Error(
@@ -129,8 +160,7 @@ const run = async (options: Options) => {
       );
     });
 
-    // [{"A": "{&A}", "KR-S": "C"}, {"KR-S": "css", "KR*S": "CSS"}]
-    firstRecommendedDict = allRecommendedDicts[0];
+    firstRecommendedDict = allRecommendedDicts[0][0];
     recommendedLookupDict = createLookupDict(allRecommendedDicts);
   }
 
