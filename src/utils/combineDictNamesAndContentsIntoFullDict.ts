@@ -7,7 +7,7 @@ import type { DictionaryNameAndContents } from "../cli-types";
 type DictEntryMap = Map<Outline, Translation>;
 
 /**
- * Combines dictionaries
+ * Combines dictionaries into a full steno dictionary
  *
  * @remarks
  * This method combines raw dictionaries based on their order. It produces a

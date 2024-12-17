@@ -28,18 +28,17 @@ type TempDict = Map<Translation, OutlineAndDictName[]>;
 const misstrokes = {};
 const affixes = affixesJSON as AffixObject;
 
-// TODO: For building out the CLI, this should initially rank outlines before combining to match
-// existing dictionary behaviour but later we may wish to support dictionaries more accurately
-// reflecting steno engine behaviour of overriding entries in order, then ranking results.
-
 /**
- * Combines dictionaries
+ * Combines dictionaries into a slim dictionary with brief solitude
  *
  * @remarks
  * This method combines raw dictionaries based on their order, ranking outlines
  * before combining except where two outlines are equal where it then relies on
- * order. It produces a slim dictionary with brief solitude (one outline/entry
- * per word/phrase/translation).
+ * order. It produces a **slim** dictionary with brief solitude (one
+ * outline/entry per word/phrase/translation).
+ *
+ * NOTE: The slim `typey-type.json` dictionary is no longer used after Dec 2024
+ * but we continue to build it for anyone that may be relying on it.
  *
  * @param dictionariesNamesAndContents - example: `[["test1.json", { "TEFT/-G": "test1" }], ["test2.json", { "TEFT/-G": "test2" }]];`
  * @returns A realistic steno dictionary
