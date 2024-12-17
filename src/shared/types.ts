@@ -107,6 +107,20 @@ export type StenoDictionary = {
   [outline: Outline]: Translation;
 };
 
+/** e.g. [{"KR-S": "css", "KR*S": "CSS"}, "css.json"] */
+export type ReadDictionaryData = [StenoDictionary, DictName];
+
+/**
+ * The data read from files for multiple dictionaries including their
+ * StenoDictionary content and DictName:
+ *
+ * e.g. [
+ *   [{"A": "{&A}", "KR-S": "C"}, "letters.json"],
+ *   [{"KR-S": "css", "KR*S": "CSS"}, "css.json"]
+ * ]
+ **/
+export type ReadDictionariesData = ReadDictionaryData[];
+
 /**
  * Examples:
  * ["typey:typey-type.json", "user:nouns.json", "user:personal.json"]
@@ -143,6 +157,14 @@ export type LookupDictWithNamespacedDicts = Map<
 > &
   OptionalDictionaryConfig;
 
+/**
+ * A lookup dictionary and configuration list
+ *
+ * Example:
+ * Map (74602)
+ * configuration: ['typey:typey-type.json', 'user:personal.json', 'plover:plover-main-3-jun-2018.json']
+ *
+ */
 export type LookupDictWithNamespacedDictsAndConfig = Omit<
   LookupDictWithNamespacedDicts,
   "configuration"
