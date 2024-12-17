@@ -372,10 +372,14 @@ The source lesson index file contains an ordered list of the lesson paths.
 
 ### Dictionaries
 
+Dictionaries are added to `dictionary-source-data` in subdirectories:
+
 - `didoesdigital` — Typey Type's main dictionaries based on Plover plus Di's own dictionaries
 - `individual` — dictionaries made by individuals such as Jade's phrasing dictionary or Emily's symbols dictionary
 - `plover`
 - `lesson-hints` includes dictionaries that only exist to make lessons work better, such as `numbers-lesson.json`, that aren't intended for steno usage.
+
+Apart from `didoesdigital`'s dictionaries, the rest need to be mentioned in `sourceDictionariesIndex.json` to be included in the `copy-dictionaries` command.
 
 Dictionaries referenced by `recommendedDictionarySet` may be in any of those places.
 
