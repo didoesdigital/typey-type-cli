@@ -347,6 +347,7 @@ The source lesson metadata file is called `meta.json` and can include:
 - **subcategory:** Story or collection name (which may be the author) e.g. "Tech", "Medical", "Two-key briefs", "Two-word briefs, same beginnings", "Henry Handel Richardson", "Banjo Paterson", "Aesop’s Fables"
 - **path:** (Required) The slug including category, e.g. "/drills/emotions/lesson.txt"
 - **vocabulary:** The large collection of words used in Fundamentals (top 10000 words) and collection of entries used for lookup in Drills, Stories, and Collections (global lookup)
+    - *Note: Many drills/collections/stories use `../lesson-intermediate-data/typey-type-standard-dict-set-combined.json` for vocabulary. This is now a magic placeholder that is replaced by the Typey Type standard dictionary set.*
 - **recommendedDictionarySet:** A collection of dictionaries e.g. `["punctuation.json"]` to use for overriding vocabulary outlines (e.g. `1-R` for "I") and expanding vocabulary words e.g. "sankey" from `data-viz.json`
 - **wordList:** The list of words that defines the lesson, always called "words.txt"
 - **rules:** An object containing rule names set to true or false to filter entries from available vocabulary to build a Fundamental lesson
