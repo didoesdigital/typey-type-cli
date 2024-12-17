@@ -111,7 +111,7 @@ typey-type-dict: $(DATA_DIR)/dictionaries/typey-type/typey-type-full.json
 $(DATA_DIR)/dictionaries/typey-type/typey-type-full.json: build/index.js $(TYPEY_TYPE_DICTIONARIES) $(ALL_TS_FILES)
 	@mkdir -p "$(DICTIONARY_INTERMEDIATE_DIR)" # make sure intermediate dictionary directory exists before adding subdirectories inside them
 	@mkdir -p "$(TYPEY_TARGET_DICT_DIR)" # make sure target typey-type subdirectory exists before adding files inside
-	@echo "Running build-typey-type-dictionary to build typey-type-full.json"
+	@echo "Running build-typey-type-dictionary to build typey-type-full.json (and typey-type.json)"
 	@$(CLI) build-typey-type-dictionary --target=$@
 
 # emoji-dict
