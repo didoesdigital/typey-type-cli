@@ -738,7 +738,7 @@ Sweetheart Roland
 'musician:': PHAOUGS/STPH-FPLT
 ''Dear': A*E/KPA*/TKAER
 'musician,': PHAOUGS/KW-BG
-'may': PHAE
+'may': PHAEU
 'I': EU
 'pluck': PHRUBG
 'that': THA
@@ -890,7 +890,7 @@ Sweetheart Roland
 'that': THA
 'no': TPHO
 'one': WUPB
-'may': PHAE
+'may': PHAEU
 'recognize': REZ
 'me,': PHE/KW-BG
 'I': EU

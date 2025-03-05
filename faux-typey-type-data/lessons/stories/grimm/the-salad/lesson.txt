@@ -158,7 +158,7 @@ The Salad
 'place': PHRAEUS
 'where': W-R
 'you': U
-'may': PHAE
+'may': PHAEU
 'wish': WEURB
 'to': TO
 'be.': -B/TP-PL
@@ -1832,7 +1832,7 @@ The Salad
 'myself': PHAO*EUS
 'that': THA
 'you': U
-'may': PHAE
+'may': PHAEU
 'not': TPHOT
 'wait': WAEUT
 'any': TPHEU

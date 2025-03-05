@@ -44,7 +44,7 @@ The Blue Light
 'to': TO
 'him:': HEUPL/STPH-FPLT
 ''You': A*E/KPA*/U
-'may': PHAE
+'may': PHAEU
 'return': RURPB
 'to': TO
 'your': KWROUR
@@ -1063,7 +1063,7 @@ The Blue Light
 'everything.'': EFRG/TP-PL/AE
 ''The': A*E/KPA*/-T
 'dream': TKRAOEPL
-'may': PHAE
+'may': PHAEU
 'have': SR
 'been': PW-PB
 'true,'': TRAOU/KW-BG/AE
@@ -1583,7 +1583,7 @@ The Blue Light
 'king.': KEUPBG/TP-PL
 ''That': A*E/KPA*/THA
 'I': EU
-'may': PHAE
+'may': PHAEU
 'smoke': SPHOEBG
 'one': WUPB
 'more': PHOR
@@ -1592,7 +1592,7 @@ The Blue Light
 'my': PHEU
 'way.'': WAEU/TP-PL/AE
 ''You': A*E/KPA*/U
-'may': PHAE
+'may': PHAEU
 'smoke': SPHOEBG
 'three,'': THRAOE/KW-BG/AE
 'answered': AEPBS/-D

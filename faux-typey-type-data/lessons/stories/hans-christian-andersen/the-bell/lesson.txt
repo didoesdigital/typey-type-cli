@@ -1698,7 +1698,7 @@ The Bell
 'approaching.': A/PROEFPG/TP-PL
 'Yet': KPA/KWRET
 'I': EU
-'may': PHAE
+'may': PHAEU
 'perhaps': PRAPS
 'see': SAOE
 'the': -T

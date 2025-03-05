@@ -12,7 +12,7 @@ The Butterfly
 'bride,': PWRAOEUD/KW-BG
 'and,': SKP/KW-BG
 'as': AS
-'may': PHAE
+'may': PHAEU
 'be': -B
 'supposed,': SPOED/KW-BG
 'he': HE
@@ -696,7 +696,7 @@ The Butterfly
 'old,': OLD/KW-BG
 'but': PWUT
 'we': WE
-'may': PHAE
+'may': PHAEU
 'live': HREUF
 'for': TPOR
 'each': AOEFP

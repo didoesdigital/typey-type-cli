@@ -62,7 +62,7 @@ The Windmill
 'tallow': TAL/HROE
 'candles.': KAPBD/-LS/TP-PL
 'I': EU
-'may': PHAE
+'may': PHAEU
 'well': WEL
 'say': SAEU
 'that': THA
@@ -125,7 +125,7 @@ The Windmill
 'by': PWEU
 'birth,': PW*EURT/KW-BG
 'that': THA
-'may': PHAE
+'may': PHAEU
 'be': -B
 'seen': SAOEPB
 'by': PWEU
@@ -365,7 +365,7 @@ The Windmill
 'The': KPA/-T
 'little': HREUL
 'thoughts': THAUTS
-'may': PHAE
+'may': PHAEU
 'grow—I': TKPWROE/EPL/TKA*RB/EU
 'know': TPHOE
 'that': THA
@@ -538,7 +538,7 @@ The Windmill
 'down': TKOUPB
 'that': THA
 'I': EU
-'may': PHAE
+'may': PHAEU
 'be': -B
 'built': PWEULT
 'up': UP
@@ -571,7 +571,7 @@ The Windmill
 'however': HOUF
 'enlightened': EPB/HRAOEUT/-PBD
 'I': EU
-'may': PHAE
+'may': PHAEU
 'be': -B
 'with': W
 'sun,': SUPB/KW-BG
@@ -599,7 +599,7 @@ The Windmill
 'hope': HOEP
 'that': THA
 'I': EU
-'may': PHAE
+'may': PHAEU
 'keep': KAOEP
 'my': PHEU
 'old': OLD

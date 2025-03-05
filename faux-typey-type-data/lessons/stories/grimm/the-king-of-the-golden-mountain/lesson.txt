@@ -188,7 +188,7 @@ The King of the Golden Mountain
 'knows': TPHOEZ
 'but': PWUT
 'I': EU
-'may?'': PHAE/H-F/AE
+'may?'': PHAEU/H-F/AE
 'said': SED
 'the': -T
 'little': HREUL
@@ -204,7 +204,7 @@ The King of the Golden Mountain
 'will': HR
 'find': TPAOEUPBD
 'I': EU
-'may': PHAE
+'may': PHAEU
 'be': -B
 'of': -F
 'some': SOPL

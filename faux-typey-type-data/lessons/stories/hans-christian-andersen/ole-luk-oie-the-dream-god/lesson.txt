@@ -127,7 +127,7 @@ Ole-Luk-Oie, the Dream-God
 'quiet': KWAO*EUT
 'that': THA
 'he': HE
-'may': PHAE
+'may': PHAEU
 'relate': RELT
 'to': TO
 'them': THEPL
@@ -1661,7 +1661,7 @@ Ole-Luk-Oie, the Dream-God
 'to': TO
 'hear.': HAER/TP-PL
 '"You': KW-GS/KPA*/U
-'may': PHAE
+'may': PHAEU
 'as': AS
 'well': WEL
 'laugh,"': HRAF/KW-BG/KR-GS
@@ -2028,7 +2028,7 @@ Ole-Luk-Oie, the Dream-God
 'mouse,': PHOUS/KW-BG
 '"that': KW-GS/THA
 'I': EU
-'may': PHAE
+'may': PHAEU
 'have': SR
 'the': -T
 'pleasure': PHRERB
@@ -2419,7 +2419,7 @@ Ole-Luk-Oie, the Dream-God
 'away,': WA*EU/KW-BG
 'that': THA
 'we': WE
-'may': PHAE
+'may': PHAEU
 'have': SR
 'a': AEU
 'good': TKPWAOD
@@ -2564,7 +2564,7 @@ Ole-Luk-Oie, the Dream-God
 '"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'so': SO
 'it': T
-'may;': PHAE/STPH*FPLT
+'may;': PHAEU/STPH*FPLT
 'but': PWUT
 'to-night': TO/H-PB/TPHAOEUT
 'is': S
@@ -3199,7 +3199,7 @@ Ole-Luk-Oie, the Dream-God
 'so': SO
 'that': THA
 'they': THE
-'may': PHAE
+'may': PHAEU
 'sound': SOUPBD
 'sweetly.': SWAOET/HREU/TP-PL
 'Then': KPA/THEPB
@@ -3274,7 +3274,7 @@ Ole-Luk-Oie, the Dream-God
 'so': SO
 'that': THA
 'they': THE
-'may': PHAE
+'may': PHAEU
 'go': TKPW
 'back': PWABG
 'into': TPHAO
@@ -3379,7 +3379,7 @@ Ole-Luk-Oie, the Dream-God
 'thank': THAPBG
 'you;': U/STPH*FPLT
 'you': U
-'may': PHAE
+'may': PHAEU
 'be': -B
 'the': -T
 'head': HED
@@ -3437,7 +3437,7 @@ Ole-Luk-Oie, the Dream-God
 'and': SKP
 'now': TPHOU
 'you': U
-'may': PHAE
+'may': PHAEU
 'tell': TEL
 'the': -T
 'stories': STOERS
@@ -3546,7 +3546,7 @@ Ole-Luk-Oie, the Dream-God
 'embroidery': EPL/PWROEUD/REU
 'needle."': TPHAO*ELD/TP-PL/KR-GS
 '"You': KW-GS/KPA*/U
-'may': PHAE
+'may': PHAEU
 'have': SR
 'too': TAO
 'much': PHUFP
@@ -3927,7 +3927,7 @@ Ole-Luk-Oie, the Dream-God
 'I': EU
 'hope': HOEP
 'he': HE
-'may': PHAE
+'may': PHAEU
 'visit': SREUFT
 'you': U
 'himself': HEUPLS

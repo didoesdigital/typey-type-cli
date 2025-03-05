@@ -686,7 +686,7 @@ The Bird of Popular Song
 'which': WEU
 'his': HEUS
 'foot': TPAOT
-'may': PHAE
+'may': PHAEU
 'rest.': REFT/TP-PL
 'And': AFPBD
 'now': TPHOU
@@ -905,7 +905,7 @@ The Bird of Popular Song
 'as': AS
 'best': PWEFT
 'they': THE
-'may,': PHAE/KW-BG
+'may,': PHAEU/KW-BG
 'each': AOEFP
 'bird': PWEURD
 'with': W

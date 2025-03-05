@@ -71,7 +71,7 @@ Proverbial phrases starting with H
 'as': AS
 'his': HEUS
 'body': PWO*ED
-'may': PHAE
+'may': PHAEU
 'be': -B
 'entrusted': EPB/TRUFT/-D
 'with': W

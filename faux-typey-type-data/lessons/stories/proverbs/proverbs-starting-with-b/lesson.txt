@@ -49,7 +49,7 @@ Proverbs starting with B
 'together.': TOGT/TP-PL
 'Bitter': KPA/PWEURT
 'pills': PEULS
-'may': PHAE
+'may': PHAEU
 'have': SR
 'blessed': PWHR*EFD
 'effects.': TPEBGZ/TP-PL

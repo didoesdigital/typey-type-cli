@@ -26,7 +26,7 @@ Proverbs starting with A
 'fonder.': TPOPB/TKER/TP-PL
 'A': KPA/AEU
 'cat': KAT
-'may': PHAE
+'may': PHAEU
 'look': HRAOBG
 'at': AT
 'the': -T

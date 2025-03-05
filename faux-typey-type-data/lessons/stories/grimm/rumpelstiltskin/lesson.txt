@@ -533,14 +533,14 @@ Rumpelstiltskin
 'child': KHAOEULD
 'that': THA
 'you': U
-'may': PHAE
+'may': PHAEU
 'have': SR
 'when': WHEPB
 'you': U
 'are': R
 'queen.'': KWAOEPB/TP-PL/AE
 ''That': A*E/KPA*/THA
-'may': PHAE
+'may': PHAEU
 'never': TPHEFR
 'be,'': -B/KW-BG/AE
 'thought': THAUT

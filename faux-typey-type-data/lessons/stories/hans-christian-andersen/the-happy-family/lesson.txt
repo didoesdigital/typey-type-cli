@@ -680,7 +680,7 @@ The Happy Family
 'ancestors;': APB/SEFT/ORS/STPH*FPLT
 'and': SKP
 'you': U
-'may': PHAE
+'may': PHAEU
 'be': -B
 'sure': SHUR
 'it': T
@@ -704,7 +704,7 @@ The Happy Family
 'the': -T
 'burdock': PW*/*U/R*/TK-LS/TKOBG
 'wood': WAOD
-'may': PHAE
+'may': PHAEU
 'have': SR
 'grown': TKPWROEPB
 'out.': OUT/TP-PL
@@ -804,14 +804,14 @@ The Happy Family
 'the': -T
 'wood': WAOD
 'there': THR
-'may': PHAE
+'may': PHAEU
 'be': -B
 'others': OERS
 'of': -F
 'our': OUR
 'race?"': RAEUS/H-F/KR-GS
 '"There': KW-GS/KPA*/THR
-'may': PHAE
+'may': PHAEU
 'be': -B
 'black': PWHRABG
 'snails,': STPHAEUL/-S/KW-BG

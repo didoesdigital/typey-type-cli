@@ -138,7 +138,7 @@ Cat-Skin
 'again,': STKPWERPBGS
 'that': THA
 'we': WE
-'may': PHAE
+'may': PHAEU
 'have': SR
 'a': AEU
 'queen.'': KWAOEPB/TP-PL/AE
@@ -816,7 +816,7 @@ Cat-Skin
 'said,': SED/KW-BG
 ''Cat-skin,': A*E/KPA*/KAT/H-PB/SKEUPB/KW-BG
 'you': U
-'may': PHAE
+'may': PHAEU
 'lie': HRAOEU
 'and': SKP
 'sleep': SHRAOEP
@@ -924,7 +924,7 @@ Cat-Skin
 'said,': SED/KW-BG
 ''Yes,': A*E/KPA*/KWRE/KW-BG
 'you': U
-'may': PHAE
+'may': PHAEU
 'go,': TKPW-RBGS
 'but': PWUT
 'be': -B

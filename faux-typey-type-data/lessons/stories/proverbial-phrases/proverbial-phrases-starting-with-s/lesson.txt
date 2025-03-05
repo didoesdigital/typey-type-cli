@@ -114,7 +114,7 @@ Proverbial phrases starting with S
 'Sticks': KPA/STEUBGS
 'and': SKP
 'stones': STOEPBS
-'may': PHAE
+'may': PHAEU
 'break': PWRAEBG
 'my': PHEU
 'bones,': PWOEPBS/KW-BG

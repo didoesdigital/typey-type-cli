@@ -98,7 +98,7 @@ The Ass in the Lion's Skin
 'voice."': SROEUS/TP-PL/KR-GS
 'Fine': TPAO*EUPB
 'clothes': KHRO*ETS
-'may': PHAE
+'may': PHAEU
 'disguise,': STKPWAOEUS/KW-BG
 'but': PWUT
 'silly': SHREU

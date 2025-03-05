@@ -90,7 +90,7 @@ The Fox and the Crow
 'you': U
 'that': THA
 'I': EU
-'may': PHAE
+'may': PHAEU
 'greet': TKPWRAOET
 'you': U
 'as': AS

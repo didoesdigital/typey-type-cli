@@ -64,7 +64,7 @@ The Trumpeter Taken Prisoner
 'kill': KEUL
 'me?"': PHE/H-F/KR-GS
 '"You': KW-GS/KPA*/U
-'may': PHAE
+'may': PHAEU
 'not': TPHOT
 'fight': TPAOEUT
 'yourself,"': KWRO*URS/KW-BG/KR-GS
@@ -82,6 +82,6 @@ The Trumpeter Taken Prisoner
 'the': -T
 'fight."': TPAOEUT/TP-PL/KR-GS
 'Words': KPA/WORDZ
-'may': PHAE
+'may': PHAEU
 'be': -B
 'deeds.': TKAOEDZ/TP-PL

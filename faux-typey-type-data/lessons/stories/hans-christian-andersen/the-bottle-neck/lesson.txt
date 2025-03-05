@@ -189,7 +189,7 @@ The Bottle Neck
 'themselves.': TH*EPLS/TP-PL
 '"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'you': U
-'may': PHAE
+'may': PHAEU
 'sing': SEUPBG
 'very': SRE
 'well,': WEL/KW-BG
@@ -584,7 +584,7 @@ The Bottle Neck
 'a': AEU
 'beer': PWAOER
 'bottle': PWO*LT
-'may': PHAE
+'may': PHAEU
 'contain': TAEUPB
 'the': -T
 'most': PHOFT
@@ -603,7 +603,7 @@ The Bottle Neck
 'in': TPH
 'decay': TKE/KAEU
 'it': T
-'may': PHAE
+'may': PHAEU
 'always': AULS
 'be': -B
 'seen': SAOEPB
@@ -2140,7 +2140,7 @@ The Bottle Neck
 'of': -F
 'that': THA
 'one': WUPB
-'may': PHAE
+'may': PHAEU
 'get': TKPWET
 'tired.': TAOEURD/TP-PL
 'The': KPA/-T
@@ -2684,7 +2684,7 @@ The Bottle Neck
 'journey': SKWRURPB
 'that': THA
 'they': THE
-'may': PHAE
+'may': PHAEU
 'see': SAOE
 'as': AS
 'much': PHUFP
@@ -3284,7 +3284,7 @@ The Bottle Neck
 'old': OLD
 'as': AS
 'she': SHE
-'may.': PHAE/TP-PL
+'may.': PHAEU/TP-PL
 'But': KPA/PWUT
 'she': SHE
 'did': TK

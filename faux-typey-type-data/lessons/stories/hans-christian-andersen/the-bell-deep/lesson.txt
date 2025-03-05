@@ -703,7 +703,7 @@ The Bell-Deep
 'it.': T/TP-PL
 ''Now': A*E/KPA*/TPHOU
 'I': EU
-'may': PHAE
+'may': PHAEU
 'sing': SEUPBG
 'it': T
 'out': OUT
@@ -713,12 +713,12 @@ The Bell-Deep
 'other': OER
 'times': TAOEUPLS
 'I': EU
-'may': PHAE
+'may': PHAEU
 'not': TPHOT
 'whisper': WEUS/PER
 'it.': T/TP-PL
 'I': EU
-'may': PHAE
+'may': PHAEU
 'sing': SEUPBG
 'of': -F
 'everything': EFRG

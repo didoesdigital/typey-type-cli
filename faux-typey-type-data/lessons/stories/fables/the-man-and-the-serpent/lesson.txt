@@ -149,7 +149,7 @@ The Man and the Serpent
 'my': PHEU
 'tail."': TAEUL/TP-PL/KR-GS
 'Injuries': KPA/SKWR*RS
-'may': PHAE
+'may': PHAEU
 'be': -B
 'forgiven,': TPAURGD/KW-BG
 'but': PWUT

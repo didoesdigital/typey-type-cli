@@ -2208,7 +2208,7 @@ Little Tiny or Thumbelina
 'winter."': WEURPBT/TP-PL/KR-GS
 '"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'you': U
-'may': PHAE
+'may': PHAEU
 'well': WEL
 'say': SAEU
 'that,': THARBGS

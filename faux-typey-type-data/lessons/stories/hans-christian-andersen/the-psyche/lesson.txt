@@ -408,7 +408,7 @@ The Psyche
 'life,': HRAOEUF/KW-BG
 'that': THA
 'they': THE
-'may': PHAE
+'may': PHAEU
 'become': PW-BG
 'one.': WUPB/TP-PL
 'Look': KPA/HRAOBG
@@ -3448,7 +3448,7 @@ The Psyche
 'for': TPOR
 'hours,': HOURS/KW-BG
 'and': SKP
-'may': PHAE
+'may': PHAEU
 'return': RURPB
 'for': TPOR
 'hours;': HOURS/STPH*FPLT
@@ -3858,7 +3858,7 @@ The Psyche
 'to': TO
 'none.': TPHOPB/TP-PL
 'I': EU
-'may': PHAE
+'may': PHAEU
 'speak': SPAOEBG
 'to': TO
 'none': TPHOPB

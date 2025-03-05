@@ -286,7 +286,7 @@ The Last Pearl
 'crown,': KROUPB/KW-BG
 'when': WHEPB
 'worn,': WORPB/KW-BG
-'may': PHAE
+'may': PHAEU
 'be': -B
 'complete.': KPHRAOET/TP-PL
 'Where': KPA/W-R
@@ -332,7 +332,7 @@ The Last Pearl
 'directly,': TKREL/KW-BG
 'wherever': W-FR
 'she': SHE
-'may': PHAE
+'may': PHAEU
 'be.': -B/TP-PL
 'She': KPA/SHE
 'has': HAS

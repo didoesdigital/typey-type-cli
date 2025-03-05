@@ -718,7 +718,7 @@ The Sleeping Beauty in the Wood
 'me,': PHE/KW-BG
 'that': THA
 'I': EU
-'may': PHAE
+'may': PHAEU
 'see': SAOE
 'if': TP
 'I': EU

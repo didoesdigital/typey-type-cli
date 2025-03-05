@@ -943,7 +943,7 @@ Clever Elsie
 'corn': KORPB
 'that': THA
 'we': WE
-'may': PHAE
+'may': PHAEU
 'have': SR
 'some': SOPL
 'bread.'': PWRAED/TP-PL/AE

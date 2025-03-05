@@ -1054,7 +1054,7 @@ The Silver Shilling
 'thee,': THAOE/KW-BG
 'that': THA
 'everyone': EFRPB
-'may': PHAE
+'may': PHAEU
 'know': TPHOE
 'that': THA
 'thou': THO*U

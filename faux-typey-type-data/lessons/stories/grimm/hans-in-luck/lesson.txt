@@ -57,7 +57,7 @@ Hans in Luck
 'faster.': TPA*FRT/TP-PL
 'The': KPA/-T
 'world': WORLD
-'may': PHAE
+'may': PHAEU
 'very': SRE
 'likely': HRAOEULG
 'not': TPHOT
@@ -1474,7 +1474,7 @@ Hans in Luck
 'turn.': TURPB/TP-PL
 'Your': KPA/KWROUR
 'pig': PEUG
-'may': PHAE
+'may': PHAEU
 'get': TKPWET
 'you': U
 'into': TPHAO
@@ -1574,7 +1574,7 @@ Hans in Luck
 'born;': PWORPB/STPH*FPLT
 'but': PWUT
 'he': HE
-'may': PHAE
+'may': PHAEU
 'have': SR
 'been': PW-PB
 'the': -T

@@ -217,7 +217,7 @@ The Goose-Girl
 'a': AEU
 'charm': KHARPL
 'that': THA
-'may': PHAE
+'may': PHAEU
 'be': -B
 'of': -F
 'use': AOUS
@@ -637,7 +637,7 @@ The Goose-Girl
 'Falada,': TP*P/A*/HR*/A*/TK*/KWRA/KW-BG
 'and': SKP
 'you': U
-'may': PHAE
+'may': PHAEU
 'have': SR
 'my': PHEU
 'horse': HORS
@@ -888,7 +888,7 @@ The Goose-Girl
 'do,': TKORBGS
 'that': THA
 'she': SHE
-'may': PHAE
+'may': PHAEU
 'not': TPHOT
 'be': -B
 'idle.'': AOEUD/*L/TP-PL/AE
@@ -924,7 +924,7 @@ The Goose-Girl
 'my': PHEU
 'geese;': TKPWAOES/STPH*FPLT
 'she': SHE
-'may': PHAE
+'may': PHAEU
 'go': TKPW
 'and': SKP
 'help': HEP

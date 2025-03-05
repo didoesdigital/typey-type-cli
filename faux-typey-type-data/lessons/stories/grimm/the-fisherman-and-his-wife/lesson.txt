@@ -791,7 +791,7 @@ The Fisherman and His Wife
 'lives.'': HREUFS/TP-PL/AE
 ''Perhaps': A*E/KPA*/PRAPS
 'we': WE
-'may,'': PHAE/KW-BG/AE
+'may,'': PHAEU/KW-BG/AE
 'said': SED
 'the': -T
 'wife;': WAOEUF/STPH*FPLT
@@ -1127,7 +1127,7 @@ The Fisherman and His Wife
 'know': TPHOE
 'how': HOU
 'that': THA
-'may': PHAE
+'may': PHAEU
 'be,'': -B/KW-BG/AE
 'said': SED
 'she;': SHE/STPH*FPLT

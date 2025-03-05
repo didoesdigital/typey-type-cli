@@ -520,7 +520,7 @@ Common Words
 'marry': PHAER
 'match': PHAFP
 'matter': PHAERT
-'may': PHAE
+'may': PHAEU
 'maybe': PHAEB
 'me': PHE
 'mean': PHAOEPB

@@ -214,7 +214,7 @@ Hansel and Gretel
 'of': -F
 'hunger,': HURPBG/KW-BG
 'you': U
-'may': PHAE
+'may': PHAEU
 'as': AS
 'well': WEL
 'plane': PHRAEPB
@@ -628,7 +628,7 @@ Hansel and Gretel
 'fire': TPAOEUR
 'that': THA
 'you': U
-'may': PHAE
+'may': PHAEU
 'not': TPHOT
 'be': -B
 'cold.'': KOELD/TP-PL/AE
@@ -1293,7 +1293,7 @@ Hansel and Gretel
 'are': R
 'tired': TAOEURD
 'you': U
-'may': PHAE
+'may': PHAEU
 'sleep': SHRAOEP
 'a': AEU
 'little;': HREUL/STPH*FPLT
@@ -2174,7 +2174,7 @@ Hansel and Gretel
 'finger': TPEURPBG
 'that': THA
 'I': EU
-'may': PHAE
+'may': PHAEU
 'feel': TPAOEL
 'if': TP
 'you': U
@@ -2655,7 +2655,7 @@ Hansel and Gretel
 'Hansel,': HAPB/SEL/KW-BG
 ''that': A*E/THA
 'we': WE
-'may': PHAE
+'may': PHAEU
 'get': TKPWET
 'out': OUT
 'of': -F
@@ -2919,7 +2919,7 @@ Hansel and Gretel
 'whosoever': WHO/SOFR
 'catches': KAFPS
 'it,': T/KW-BG
-'may': PHAE
+'may': PHAEU
 'make': PHAEUBG
 'himself': HEUPLS
 'a': AEU

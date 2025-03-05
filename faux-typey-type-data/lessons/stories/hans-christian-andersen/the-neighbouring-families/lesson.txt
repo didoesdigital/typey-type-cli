@@ -1292,7 +1292,7 @@ The Neighbouring Families
 'flights,': TPHRAOEUTS/KW-BG
 'however': HOUF
 'it': T
-'may': PHAE
+'may': PHAEU
 'have': SR
 'happened,': HAPD/KW-BG
 'she': SHE
@@ -2670,7 +2670,7 @@ The Neighbouring Families
 'said': SED
 'he;': HE/STPH*FPLT
 '"I': KW-GS/EU
-'may': PHAE
+'may': PHAEU
 'venture': SREPBT/UR
 'that."': THA/TP-PL/KR-GS
 '"Peep!"': KW-GS/KPA*/PAOEP/SKHRAPL/KR-GS
@@ -2678,7 +2678,7 @@ The Neighbouring Families
 'the': -T
 'other;': OER/STPH*FPLT
 '"so': KW-GS/SO
-'may': PHAE
+'may': PHAEU
 'I,': EU/KW-BG
 'and': SKP
 'something': S-G

@@ -355,7 +355,7 @@ The Elves and the Shoemaker
 'tonight,': TOPBT/KW-BG
 'that': THA
 'we': WE
-'may': PHAE
+'may': PHAEU
 'see': SAOE
 'who': WHO
 'it': T

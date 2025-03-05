@@ -57,7 +57,7 @@ The Lion and the Mouse
 'but': PWUT
 'what': WHA
 'I': EU
-'may': PHAE
+'may': PHAEU
 'be': -B
 'able': ABL
 'to': TO
@@ -180,7 +180,7 @@ The Lion and the Mouse
 'Mouse.': KPA/PHOUS/TP-PL
 'Little': KPA/HREUL
 'friends': TPREPBDZ
-'may': PHAE
+'may': PHAEU
 'prove': PROF
 'great': TKPWRAET
 'friends.': TPREPBDZ/TP-PL

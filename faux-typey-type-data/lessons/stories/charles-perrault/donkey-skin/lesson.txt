@@ -434,7 +434,7 @@ Donkey-Skin
 'of': -F
 'how': HOU
 'I': EU
-'may': PHAE
+'may': PHAEU
 'follow': TPOL
 'you."': U/TP-PL/KR-GS
 '"The': KW-GS/KPA*/-T
@@ -556,7 +556,7 @@ Donkey-Skin
 'this': TH
 'as': AS
 'it': T
-'may,': PHAE/KW-BG
+'may,': PHAEU/KW-BG
 'at': AT
 'length': HREPBG
 'she': SHE
@@ -2963,7 +2963,7 @@ Donkey-Skin
 'my': PHEU
 'father,': TPAER/KW-BG
 'rather': RAER
-'may': PHAE
+'may': PHAEU
 'Heaven': KPA/HEFPB
 'grant': TKPWRAPBT
 'him': HEUPL
@@ -2974,7 +2974,7 @@ Donkey-Skin
 'and': SKP
 'that': THA
 'I': EU
-'may': PHAE
+'may': PHAEU
 'always': AULS
 'be': -B
 'the': -T
@@ -3312,7 +3312,7 @@ Donkey-Skin
 'that': THA
 'as': AS
 'it': T
-'may,': PHAE/KW-BG
+'may,': PHAEU/KW-BG
 'Donkey-skin,': KPA/TKOPB/KEU/H-PB/SKEUPB/KW-BG
 'either': AOERT
 'having': SR-G

@@ -279,7 +279,7 @@ The Thorny Road of Honor
 'the': -T
 'laughing': HRAFG
 'Athenians': A/THAOEPB/KWRAPB/-S
-'may': PHAE
+'may': PHAEU
 'well': WEL
 'appreciate': PRAOERB
 'the': -T
@@ -824,7 +824,7 @@ The Thorny Road of Honor
 'that': THA
 'these': THEZ
 'chains': KHAEUPBS
-'may': PHAE
+'may': PHAEU
 'be': -B
 'placed': PHRAEUFD
 'in': TPH

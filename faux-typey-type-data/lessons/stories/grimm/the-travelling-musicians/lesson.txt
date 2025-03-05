@@ -80,7 +80,7 @@ The Travelling Musicians
 'thought': THAUT
 'he,': HE/KW-BG
 ''I': A*E/EU
-'may': PHAE
+'may': PHAEU
 'turn': TURPB
 'musician.'': PHAOUGS/TP-PL/AE
 'After': KPA/AF
@@ -339,7 +339,7 @@ The Travelling Musicians
 'night': TPHAOEUT
 'singer,': SEURPBG/KW-BG
 'and': SKP
-'may': PHAE
+'may': PHAEU
 'make': PHAEUBG
 'your': KWROUR
 'fortune': TP-RPB
@@ -490,7 +490,7 @@ The Travelling Musicians
 'in': TPH
 'tune,': TAOUPB/KW-BG
 'we': WE
-'may': PHAE
+'may': PHAEU
 'get': TKPWET
 'up': UP
 'some': SOPL

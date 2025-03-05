@@ -151,7 +151,7 @@ Proverbial phrases starting with W
 'oak,': OEBG/KW-BG
 'then': THEPB
 'you': U
-'may': PHAE
+'may': PHAEU
 'expect': KP-PT
 'a': AEU
 'soak.': SOEBG/TP-PL

@@ -347,7 +347,7 @@ The String Quartet
 'she,': SHE/KW-BG
 'whoever': WHOFR
 'she': SHE
-'may': PHAE
+'may': PHAEU
 'be,': -B/KW-BG
 'is': S
 'damned,': TKA*PLD/KW-BG

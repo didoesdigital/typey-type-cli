@@ -300,7 +300,7 @@ The Toad
 'she': SHE
 'is."': S/TP-PL/KR-GS
 '"That': KW-GS/KPA*/THA
-'may': PHAE
+'may': PHAEU
 'be,"': -B/KW-BG/KR-GS
 'retorted': RE/TORT/-D
 'the': -T
@@ -550,7 +550,7 @@ The Toad
 'it': T
 'safely,': SAEUFL/KW-BG
 'you': U
-'may': PHAE
+'may': PHAEU
 'fall': TPAUL
 'out.': OUT/TP-PL
 'And': AFPBD
@@ -1085,7 +1085,7 @@ The Toad
 'onward!': AOPB/WA*RD/SKHRAPL
 'that': THA
 'we': WE
-'may': PHAE
+'may': PHAEU
 'find': TPAOEUPBD
 'frogs': TPROGS
 'or': OR
@@ -1336,7 +1336,7 @@ The Toad
 'out,': OUT/KW-BG
 'that': THA
 'I': EU
-'may': PHAE
+'may': PHAEU
 'not': TPHOT
 'miss': PHEUS
 'the': -T
@@ -1413,7 +1413,7 @@ The Toad
 'a': AEU
 'crawling': KRAULG
 'animal': PHAPBL
-'may': PHAE
+'may': PHAEU
 'take,': TAEUBG/KW-BG
 'and': SKP
 'soon': SAOPB
@@ -2742,7 +2742,7 @@ The Toad
 'is': S
 'true.': TRAOU/TP-PL
 'You': KPA/U
-'may': PHAE
+'may': PHAEU
 'ask': SK
 'the': -T
 'naturalist,': TPHARL/EUFT/KW-BG

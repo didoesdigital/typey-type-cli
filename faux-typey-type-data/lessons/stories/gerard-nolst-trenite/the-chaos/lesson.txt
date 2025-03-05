@@ -1240,7 +1240,7 @@ The Chaos
 'and': SKP
 'often': OFPB
 'Which': KPA/WEU
-'may': PHAE
+'may': PHAEU
 'be': -B
 'pronounced': PROUPBS/-D
 'as': AS

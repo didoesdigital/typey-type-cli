@@ -602,7 +602,7 @@ The Snail and the Rose-Tree
 'my': PHEU
 'part,': PART/KW-BG
 'you': U
-'may': PHAE
+'may': PHAEU
 'go': TKPW
 'on': OPB
 'bearing': PWAERG

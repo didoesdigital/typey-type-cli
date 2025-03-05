@@ -43,7 +43,7 @@ The Fox, the Cock, and the Dog
 'truce.': TRAOUS/TP-PL
 'No': KPA/TPHO
 'beast': PWAOEFT
-'may': PHAE
+'may': PHAEU
 'hurt': HURT
 'a': AEU
 'bird': PWEURD
@@ -157,7 +157,7 @@ The Fox, the Cock, and the Dog
 'I': EU
 'fear': TPAOER
 'he': HE
-'may': PHAE
+'may': PHAEU
 'not': TPHOT
 'have': SR
 'heard': HAERD

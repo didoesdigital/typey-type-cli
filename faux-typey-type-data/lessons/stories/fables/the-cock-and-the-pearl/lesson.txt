@@ -59,7 +59,7 @@ The Cock and the Pearl
 'the': -T
 'yard?': KWRARD/H-F
 '"You': KW-GS/KPA*/U
-'may': PHAE
+'may': PHAEU
 'be': -B
 'a': AEU
 'treasure,"': TRERB/KW-BG/KR-GS

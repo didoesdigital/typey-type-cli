@@ -266,7 +266,7 @@ The Last Dream of the Old Oak
 'understand': URPBD
 'you.': U/TP-PL
 'You': KPA/U
-'may': PHAE
+'may': PHAEU
 'have': SR
 'thousands': THOUDZ
 'of': -F
@@ -1752,7 +1752,7 @@ The Last Dream of the Old Oak
 'year?': KWRAOER/H-F
 'even': AOEPB
 'what': WHA
-'may': PHAE
+'may': PHAEU
 'have': SR
 'but': PWUT
 'now': TPHOU

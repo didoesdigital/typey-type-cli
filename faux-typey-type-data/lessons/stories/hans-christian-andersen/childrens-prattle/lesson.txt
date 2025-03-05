@@ -455,7 +455,7 @@ Children's Prattle
 'real': RAEL
 'princess,': PREUPB/SES/KW-BG
 'who': WHO
-'may': PHAE
+'may': PHAEU
 'be': -B
 'expected': KP-PTD
 'to': TO

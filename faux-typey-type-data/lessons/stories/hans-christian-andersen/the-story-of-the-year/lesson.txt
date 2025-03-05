@@ -493,7 +493,7 @@ The Story of the Year
 'then,': THEPB/KW-BG
 'certainly."': SERPBL/TP-PL/KR-GS
 '"That': KW-GS/KPA*/THA
-'may': PHAE
+'may': PHAEU
 'be': -B
 'all': AUL
 'very': SRE
@@ -666,7 +666,7 @@ The Story of the Year
 'have': SR
 'food,': TPAOD/KW-BG
 'and': SKP
-'may': PHAE
+'may': PHAEU
 'consider': KR
 'ourselves': O*URSZ
 'provided': PROE/SRAOEUD/-D

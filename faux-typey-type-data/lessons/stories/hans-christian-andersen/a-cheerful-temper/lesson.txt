@@ -355,7 +355,7 @@ A Cheerful Temper
 'clothes,': KHRO*ETS/KW-BG
 'and': SKP
 'provisions': PRO/SREUGS/-S
-'may': PHAE
+'may': PHAEU
 'be': -B
 'obtained.': OB/TAEUPBD/TP-PL
 'And': AFPBD
@@ -390,7 +390,7 @@ A Cheerful Temper
 'in': TPH
 'the': -T
 'Intelligencer': *EUP/TPH*/T*/*E/HR*/HR*/*EU/TKPW*/*E/TPH*/KR*/*ER
-'may': PHAE
+'may': PHAEU
 'live': HREUF
 'merrily': PHER/HREU
 'and': SKP
@@ -961,7 +961,7 @@ A Cheerful Temper
 'that': THA
 'a': AEU
 'man': PHAPB
-'may': PHAE
+'may': PHAEU
 'well': WEL
 'be': -B
 'in': TPH
@@ -1064,7 +1064,7 @@ A Cheerful Temper
 'this': TH
 'same': SAEUPL
 'idea': KWR-D
-'may': PHAE
+'may': PHAEU
 'prevent': PREFPBT
 'him': HEUPL
 'from': TPR
@@ -1404,7 +1404,7 @@ A Cheerful Temper
 'with': W
 'the': -T
 'words,': WORDZ/KW-BG
-'"may': KW-GS/PHAE
+'"may': KW-GS/PHAEU
 'be': -B
 'continued;"': T-PBD/STPH*FPLT/KR-GS
 'so': SO

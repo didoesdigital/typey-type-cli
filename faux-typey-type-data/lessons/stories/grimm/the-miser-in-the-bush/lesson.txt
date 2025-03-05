@@ -224,7 +224,7 @@ The Miser in the Bush
 'pocket.'': POBGT/TP-PL/AE
 ''How': A*E/KPA*/HOU
 'much': PHUFP
-'may': PHAE
+'may': PHAEU
 'it': T
 'come': KOPL
 'to?'': TO/H-F/AE

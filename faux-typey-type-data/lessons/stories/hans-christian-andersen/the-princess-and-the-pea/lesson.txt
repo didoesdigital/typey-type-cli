@@ -363,7 +363,7 @@ The Princess and the Pea
 'museum,': PHAOUPL/KW-BG
 'where': W-R
 'it': T
-'may': PHAE
+'may': PHAEU
 'still': STEUL
 'be': -B
 'seen,': SAOEPB/KW-BG

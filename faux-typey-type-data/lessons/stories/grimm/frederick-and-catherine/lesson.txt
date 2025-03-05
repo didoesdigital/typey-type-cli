@@ -123,7 +123,7 @@ Frederick and Catherine
 'almost': HR-PL
 'ready,': R-D/KW-BG
 'I': EU
-'may': PHAE
+'may': PHAEU
 'as': AS
 'well': WEL
 'go': TKPW
@@ -180,7 +180,7 @@ Frederick and Catherine
 'not': TPHOT
 'shut': SHUT
 'up--he': UP/H-PB/H-PB/HE
-'may': PHAE
+'may': PHAEU
 'be': -B
 'running': R*UPBG
 'away': WA*EU
@@ -442,7 +442,7 @@ Frederick and Catherine
 'one': WUPB
 'goes': TKPW-S
 'another': TPHOER
-'may': PHAE
+'may': PHAEU
 'as': AS
 'well': WEL
 'follow.'': TPOL/TP-PL/AE
@@ -927,7 +927,7 @@ Frederick and Catherine
 'you,': U/KW-BG
 'that': THA
 'we': WE
-'may': PHAE
+'may': PHAEU
 'have': SR
 'something': S-G
 'to': TO
@@ -1418,7 +1418,7 @@ Frederick and Catherine
 'door': TKAOR
 'itself,': T/SEFL/KW-BG
 'you': U
-'may': PHAE
+'may': PHAEU
 'watch': WAFP
 'it': T
 'as': AS
@@ -1453,7 +1453,7 @@ Frederick and Catherine
 'so': SO
 'that': THA
 'everybody': EFRB
-'may': PHAE
+'may': PHAEU
 'go': TKPW
 'in': TPH
 'and': SKP

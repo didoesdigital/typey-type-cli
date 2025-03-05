@@ -910,7 +910,7 @@ The Elf of the Rose
 'by.': PWEU/TP-PL
 '"That': KW-GS/KPA*/THA
 'you': U
-'may': PHAE
+'may': PHAEU
 'not': TPHOT
 'think': THEU
 'this': TH

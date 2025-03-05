@@ -189,7 +189,7 @@ Something
 'in': TPH
 'position.': POGS/TP-PL
 'You': KPA/U
-'may': PHAE
+'may': PHAEU
 'be': -B
 'an': APB
 'upright': AUP/RAOEUGT
@@ -359,7 +359,7 @@ Something
 'an': APB
 'architect.': TREBGT/TP-PL
 'I': EU
-'may': PHAE
+'may': PHAEU
 'even': AOEPB
 'attain': A/TAEUPB
 'to': TO
@@ -512,7 +512,7 @@ Something
 'your': KWROUR
 'experiments.': SPERPLTS/TP-PL
 'Nationality': KPA/TPHAT/ALT
-'may': PHAE
+'may': PHAEU
 'assert': A/SERT
 'itself': T/SEFL
 'until': TPH-L
@@ -525,7 +525,7 @@ Something
 'of': -F
 'a': AEU
 'century': KROEURPBT
-'may': PHAE
+'may': PHAEU
 'run': RUPB
 'wild,': WAOEULD/KW-BG
 'as': AS
@@ -548,7 +548,7 @@ Something
 'notice,': TPH-TS/KW-BG
 'however': HOUF
 'you': U
-'may': PHAE
+'may': PHAEU
 'now': TPHOU
 'fancy': TPAEPBS
 'it.': T/TP-PL
@@ -581,7 +581,7 @@ Something
 'action': A*BGS
 'something': S-G
 'imperfect': EUPL/PER
-'may': PHAE
+'may': PHAEU
 'be': -B
 'discovered,': SKOFD/KW-BG
 'something': S-G
@@ -1286,7 +1286,7 @@ Something
 'master': PHAFRT
 'builder': PWEURLD
 'erected,': AOE/REBGD/KW-BG
-'may': PHAE
+'may': PHAEU
 'have': SR
 'built': PWEULT
 'his': HEUS

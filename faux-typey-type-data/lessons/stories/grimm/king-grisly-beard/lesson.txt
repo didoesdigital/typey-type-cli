@@ -129,7 +129,7 @@ King Grisly-Beard
 'tall:': TAUL/STPH-FPLT
 ''What': A*E/KPA*/WHA
 'a': AEU
-'maypole!'': PHAE/*P/KWRO/*L/SKHRAPL/AE
+'maypole!'': PHAEU/*P/KWRO/*L/SKHRAPL/AE
 'said': SED
 'she.': SHE/TP-PL
 'The': KPA/-T

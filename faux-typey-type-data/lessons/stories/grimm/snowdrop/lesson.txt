@@ -82,7 +82,7 @@ Snowdrop
 'my': PHEU
 'little': HREUL
 'daughter': TKAUR
-'may': PHAE
+'may': PHAEU
 'be': -B
 'as': AS
 'white': WHAOEUT
@@ -316,7 +316,7 @@ Snowdrop
 'wood,': WAOD/KW-BG
 'that': THA
 'I': EU
-'may': PHAE
+'may': PHAEU
 'never': TPHEFR
 'see': SAOE
 'her': HER
@@ -1464,7 +1464,7 @@ Snowdrop
 'senseless.': SEPBS/-LS/TP-PL
 ''There': A*E/KPA*/THR
 'you': U
-'may': PHAE
+'may': PHAEU
 'lie,'': HRAOEU/KW-BG/AE
 'said': SED
 'the': -T

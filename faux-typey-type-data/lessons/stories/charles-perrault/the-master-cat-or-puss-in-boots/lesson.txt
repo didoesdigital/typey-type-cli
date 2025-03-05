@@ -79,7 +79,7 @@ The Master Cat or Puss in Boots
 'brothers,"': PWROERS/KW-BG/KR-GS
 'said': SED
 'he,': HE/KW-BG
-'"may': KW-GS/PHAE
+'"may': KW-GS/PHAEU
 'get': TKPWET
 'their': THAEUR
 'living': HREUFG
@@ -163,7 +163,7 @@ The Master Cat or Puss in Boots
 'me,': PHE/KW-BG
 'that': THA
 'I': EU
-'may': PHAE
+'may': PHAEU
 'scamper': SKAPL/PER
 'thro'': T*/H*/R*/O*/-PBT
 'the': -T

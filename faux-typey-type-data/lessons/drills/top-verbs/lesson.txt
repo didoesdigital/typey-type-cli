@@ -14,7 +14,7 @@ Top verbs
 'do': TKO
 'has': HAS
 'could': KO
-'may': PHAE
+'may': PHAEU
 'like': HRAOEUBG
 'can': K
 'should': SHO

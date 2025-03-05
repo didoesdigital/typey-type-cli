@@ -1255,7 +1255,7 @@ The Emperor's New Suit
 'swindlers,': SWEUPBD/HRERS/KW-BG
 '"that': KW-GS/THA
 'we': WE
-'may': PHAE
+'may': PHAEU
 'assist': S*EUFT
 'your': KWROUR
 'Majesty': KPA/PHAPBLG/STEU

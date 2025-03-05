@@ -449,7 +449,7 @@ The Nightingale
 'Something,': KPA/S-G/KW-BG
 'it': T
 'appears,': A/PAOERS/KW-BG
-'may': PHAE
+'may': PHAEU
 'be': -B
 'learnt': HRERPBT
 'from': TPR
@@ -2056,7 +2056,7 @@ The Nightingale
 'so': SO
 'that': THA
 'people': PAOEPL
-'may': PHAE
+'may': PHAEU
 'understand': URPBD
 'how': HOU
 'the': -T
@@ -2865,7 +2865,7 @@ The Nightingale
 'drum!': TKRUPL/SKHRAPL
 'that': THA
 'I': EU
-'may': PHAE
+'may': PHAEU
 'not': TPHOT
 'hear': HAER
 'what': WHA
@@ -3368,7 +3368,7 @@ The Nightingale
 'so': SO
 'that': THA
 'you': U
-'may': PHAE
+'may': PHAEU
 'be': -B
 'happy,': HAEP/KW-BG
 'and': SKP

@@ -1355,7 +1355,7 @@ The Puppet-Show Man
 'Polytechnic': KPA/PO*L/TEBG/TPHEUBG
 'professor,': PROEFR/KW-BG
 'he': HE
-'may': PHAE
+'may': PHAEU
 'perhaps': PRAPS
 'know,': TPHOE/KW-BG
 'I': EU

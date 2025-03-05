@@ -435,7 +435,7 @@ The Tinder-Box
 'you,': U/KW-BG
 'and': SKP
 'you': U
-'may': PHAE
+'may': PHAEU
 'take': TAEUBG
 'from': TPR
 'the': -T
@@ -2715,7 +2715,7 @@ The Tinder-Box
 'now,': TPHOURBGS
 'that': THA
 'I': EU
-'may': PHAE
+'may': PHAEU
 'not': TPHOT
 'be': -B
 'hanged,"': HAPBG/-D/KW-BG/KR-GS

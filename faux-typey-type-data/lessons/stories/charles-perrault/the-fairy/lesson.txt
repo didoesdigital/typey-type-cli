@@ -613,7 +613,7 @@ The Fairy
 'it?': T/H-F
 'However,': KPA/HOUF/KW-BG
 'you': U
-'may': PHAE
+'may': PHAEU
 'drink': TKREU
 'out': OUT
 'of': -F

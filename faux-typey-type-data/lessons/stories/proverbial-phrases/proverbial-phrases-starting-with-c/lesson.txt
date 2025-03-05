@@ -74,7 +74,7 @@ Proverbial phrases starting with C
 'a': AEU
 'Woman.': KPA/WOPL/TP-PL
 'Cowards': KPA/KOURDZ
-'may': PHAE
+'may': PHAEU
 'die': TKAOEU
 'many': PHAEPB
 'times': TAOEUPLS

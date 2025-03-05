@@ -23,7 +23,7 @@ The Old Street Lamp
 'a': AEU
 'way': WAEU
 'you': U
-'may': PHAE
+'may': PHAEU
 'as': AS
 'well': WEL
 'listen': HREUFPB
@@ -724,7 +724,7 @@ The Old Street Lamp
 'succeed': SKAOED
 'him,': HEUPL/KW-BG
 'and': SKP
-'may': PHAE
+'may': PHAEU
 'whisper': WEUS/PER
 'a': AEU
 'few': TPAOU
@@ -1404,7 +1404,7 @@ The Old Street Lamp
 'the': -T
 'office,': OFS/KW-BG
 'we': WE
-'may': PHAE
+'may': PHAEU
 'as': AS
 'well': WEL
 'say': SAEU

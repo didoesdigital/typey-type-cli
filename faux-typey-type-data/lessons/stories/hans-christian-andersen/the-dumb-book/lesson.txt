@@ -606,7 +606,7 @@ The Dumb Book
 'a': AEU
 'nettle:': TPHET/*L/STPH-FPLT
 'what': WHA
-'may': PHAE
+'may': PHAEU
 'its': EUTS
 'leaves': HREFS
 'tell': TEL

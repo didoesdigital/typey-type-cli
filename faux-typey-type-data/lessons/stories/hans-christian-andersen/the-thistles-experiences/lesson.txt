@@ -929,7 +929,7 @@ The Thistle's Experiences
 'family,': TPAEPL/KW-BG
 'that': THA
 'one': WUPB
-'may': PHAE
+'may': PHAEU
 'not': TPHOT
 'know': TPHOE
 'it,"': T/KW-BG/KR-GS

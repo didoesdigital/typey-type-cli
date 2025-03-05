@@ -1744,7 +1744,7 @@ Ib and Little Christina
 'black': PWHRABG
 'thing.': THEUPBG/TP-PL
 '"You': KW-GS/KPA*/U
-'may': PHAE
+'may': PHAEU
 'keep': KAOEP
 'that': THA
 'one,"': WUPB/KW-BG/KR-GS

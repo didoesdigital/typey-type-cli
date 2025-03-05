@@ -110,7 +110,7 @@ The Wolf and the Seven Little Kids
 'of': -F
 'ourselves;': O*URSZ/STPH*FPLT
 'you': U
-'may': PHAE
+'may': PHAEU
 'go': TKPW
 'away': WA*EU
 'without': WOUT
@@ -445,7 +445,7 @@ The Wolf and the Seven Little Kids
 'paws': PAU/-S
 'that': THA
 'we': WE
-'may': PHAE
+'may': PHAEU
 'know': TPHOE
 'if': TP
 'you': U
@@ -709,7 +709,7 @@ The Wolf and the Seven Little Kids
 'others.': OERS/TP-PL
 'Then': KPA/THEPB
 'you': U
-'may': PHAE
+'may': PHAEU
 'imagine': PHAPBLG
 'how': HOU
 'she': SHE

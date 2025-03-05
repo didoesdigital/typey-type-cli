@@ -302,7 +302,7 @@ Old Sultan
 'drop;': TKROP/STPH*FPLT
 'then': THEPB
 'you': U
-'may': PHAE
+'may': PHAEU
 'carry': KAER
 'it': T
 'back,': PWABG/KW-BG

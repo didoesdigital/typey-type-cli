@@ -140,7 +140,7 @@ Proverbial phrases starting with Y
 'the': -T
 'young.': KWRUPBG/TP-PL
 'You': KPA/U
-'may': PHAE
+'may': PHAEU
 'as': AS
 'well': WEL
 'be': -B

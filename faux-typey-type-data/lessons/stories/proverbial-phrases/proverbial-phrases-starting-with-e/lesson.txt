@@ -91,7 +91,7 @@ Proverbial phrases starting with E
 'foe': TPOE
 'a': AEU
 'man': PHAPB
-'may': PHAE
+'may': PHAEU
 'learn': HRERPB
 'wisdom.': WEUZ/TKOPL/TP-PL
 'Every': KPA/EF

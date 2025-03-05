@@ -66,7 +66,7 @@ The Frog and the Ox
 'big': PWEUG
 'either;': AOERT/STPH*FPLT
 'he': HE
-'may': PHAE
+'may': PHAEU
 'be': -B
 'a': AEU
 'little': HREUL
@@ -182,7 +182,7 @@ The Frog and the Ox
 'he': HE
 'burst.': PWUFRT/TP-PL
 'Self-conceit': KPA/S*EF/H-PB/KAUPB/SAOET
-'may': PHAE
+'may': PHAEU
 'lead': HRAED
 'to': TO
 'self-destruction.': SEF/STKRUBGS/TP-PL

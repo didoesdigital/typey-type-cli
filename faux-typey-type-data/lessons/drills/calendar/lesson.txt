@@ -16,7 +16,7 @@ Calendar
 'feb': TP*/*E/PW*
 'mar': PHAR
 'apr': A*/P*/R*
-'may': PHAE
+'may': PHAEU
 'jun': SKWR*/*U/TPH*
 'jul': SKWR*/*U/HR*
 'aug': A*/*U/TKPW*

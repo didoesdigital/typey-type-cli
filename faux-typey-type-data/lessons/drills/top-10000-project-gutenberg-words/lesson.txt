@@ -71,7 +71,7 @@ Top 10000 Project Gutenberg words
 'time': TAOEUPL
 'upon': POPB
 'about': PW
-'may': PHAE
+'may': PHAEU
 'its': EUTS
 'only': OEPBL
 'now': TPHOU

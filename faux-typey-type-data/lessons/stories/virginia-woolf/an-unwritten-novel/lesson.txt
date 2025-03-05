@@ -1350,7 +1350,7 @@ An Unwritten Novel
 'well;': WEL/STPH*FPLT
 'and': SKP
 'she': SHE
-'may': PHAE
+'may': PHAEU
 'rub': RUB
 'the': -T
 'pane': PAEPB
@@ -2854,7 +2854,7 @@ An Unwritten Novel
 'and,': SKP/KW-BG
 'whatever': WHAF
 'it': T
-'may': PHAE
+'may': PHAEU
 'do': TKO
 'the': -T
 'reader,': RAERD/KW-BG

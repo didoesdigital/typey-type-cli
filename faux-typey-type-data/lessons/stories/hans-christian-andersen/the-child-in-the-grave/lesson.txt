@@ -1298,7 +1298,7 @@ The Child in the Grave
 'weeping': WAOEP/-G
 'now,': TPHOURBGS
 'you': U
-'may': PHAE
+'may': PHAEU
 'never': TPHEFR
 'see': SAOE
 'me': PHE
@@ -1342,7 +1342,7 @@ The Child in the Grave
 'more,': PHOR/KW-BG
 'that': THA
 'I': EU
-'may': PHAE
+'may': PHAEU
 'look': HRAOBG
 'upon': POPB
 'thee,': THAOE/KW-BG

@@ -3979,7 +3979,7 @@ A Society
 'and': SKP
 'Mr.': PHR-FPLT
 'Walpole': W*P/A*L/*P/KWRO/*L
-'may': PHAE
+'may': PHAEU
 'be': -B
 'bracketed': PWRABGT/-D
 'together."': TOGT/TP-PL/KR-GS
@@ -4868,7 +4868,7 @@ A Society
 'so': SO
 'that': THA
 'they': THE
-'may': PHAE
+'may': PHAEU
 'be': -B
 'clever': KHREFR
 'even': AOEPB
@@ -5114,7 +5114,7 @@ A Society
 'by': PWEU
 'which': WEU
 'men': PHEPB
-'may': PHAE
+'may': PHAEU
 'bear': PWAER
 'children!': KHEURPB/SKHRAPL
 'It': KPA/T

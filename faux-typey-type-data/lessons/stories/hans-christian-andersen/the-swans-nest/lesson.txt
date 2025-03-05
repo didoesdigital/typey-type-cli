@@ -414,7 +414,7 @@ The Swan's Nest
 'that': THA
 'the': -T
 'word': WORD
-'may': PHAE
+'may': PHAEU
 'fly': TPHRAOEU
 'with': W
 'lightning': HRAOEUT/TPHEUPBG
@@ -470,7 +470,7 @@ The Swan's Nest
 'though': THOE
 'their': THAEUR
 'breasts': PWREFTS
-'may': PHAE
+'may': PHAEU
 'be': -B
 'struck': STRUBG
 'so': SO

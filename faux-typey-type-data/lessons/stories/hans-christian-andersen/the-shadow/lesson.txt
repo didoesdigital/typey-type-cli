@@ -634,7 +634,7 @@ The Shadow
 'however': HOUF
 'long': HROPBG
 'he': HE
-'may': PHAE
+'may': PHAEU
 'play': PHRAEU
 'it."': T/TP-PL/KR-GS
 'Once': KPA/WUPBS
@@ -1817,7 +1817,7 @@ The Shadow
 'city,': STEU/KW-BG
 'wherever': W-FR
 'you': U
-'may': PHAE
+'may': PHAEU
 'meet': PHAOET
 'me,': PHE/KW-BG
 'that': THA
@@ -2119,7 +2119,7 @@ The Shadow
 'prose;': PROES/STPH*FPLT
 'and': SKP
 'I': EU
-'may': PHAE
+'may': PHAEU
 'say,': SAEU/KW-BG
 'in': TPH
 'truth,': TRAO*UT/KW-BG
@@ -2503,7 +2503,7 @@ The Shadow
 'and': SKP
 'therefore': TH-FR
 'you': U
-'may': PHAE
+'may': PHAEU
 'be': -B
 'sure': SHUR
 'that': THA
@@ -3832,7 +3832,7 @@ The Shadow
 'man;': PHAPB/STPH*FPLT
 'nay,': TPHAEU/KW-BG
 'you': U
-'may': PHAE
+'may': PHAEU
 'observe': OEB
 'that': THA
 'I': EU
@@ -4277,7 +4277,7 @@ The Shadow
 'so': SO
 'that': THA
 'he': HE
-'may': PHAE
+'may': PHAEU
 'answer': AEPBS
 'correctly,': KRELG/KW-BG
 'he': HE

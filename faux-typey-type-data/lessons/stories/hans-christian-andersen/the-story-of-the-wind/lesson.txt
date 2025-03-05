@@ -752,7 +752,7 @@ The Story of the Wind
 ''The': A*E/KPA*/-T
 'loftiest': HRO*FT/KWREFT
 'tree': TRAOE
-'may': PHAE
+'may': PHAEU
 'be': -B
 'bowed': PWOE/-D
 'without': WOUT
@@ -3996,7 +3996,7 @@ The Story of the Wind
 'me': PHE
 'that': THA
 'I': EU
-'may': PHAE
+'may': PHAEU
 'die.'': TKAOEU/TP-PL/AE
 '"That': KW-GS/KPA*/THA
 'was': WAS

@@ -2972,5 +2972,5 @@ The Little Elder-Tree Mother
 '"and': KW-GS/SKP
 'there': THR
 'she': SHE
-'may': PHAE
+'may': PHAEU
 'remain."': RAEUPL/TP-PL/KR-GS

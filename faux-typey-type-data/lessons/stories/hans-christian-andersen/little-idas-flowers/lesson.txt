@@ -405,7 +405,7 @@ Little Ida's Flowers
 'so': SO
 'that': THA
 'everything': EFRG
-'may': PHAE
+'may': PHAEU
 'be': -B
 'conducted': KUBGTD
 'with': W
@@ -680,7 +680,7 @@ Little Ida's Flowers
 'real': RAEL
 'wings.': WEUPBGS/TP-PL
 'It': KPA/T
-'may': PHAE
+'may': PHAEU
 'be,': -B/KW-BG
 'however,': HOUF/KW-BG
 'that': THA
@@ -2821,7 +2821,7 @@ Little Ida's Flowers
 'next': TPHEGT
 'summer': SAOURPL
 'you': U
-'may': PHAE
+'may': PHAEU
 'grow': TKPWROE
 'up': UP
 'again': TKPWEPB

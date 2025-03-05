@@ -1422,7 +1422,7 @@ The Bishop of Borglum and His Warriors
 'fast': TPAFT
 'as': AS
 'they': THE
-'may': PHAE
+'may': PHAEU
 'through': THRU
 'the': -T
 'storm.': STORPL/TP-PL
@@ -1458,7 +1458,7 @@ The Bishop of Borglum and His Warriors
 'however': HOUF
 'hard': HARD
 'he': HE
-'may': PHAE
+'may': PHAEU
 'ride.': RAOEUD/TP-PL
 'He': KPA/HE
 'journeys': SKWRURPB/EUS
@@ -1476,7 +1476,7 @@ The Bishop of Borglum and His Warriors
 'order': ORD
 'that': THA
 'he': HE
-'may': PHAE
+'may': PHAEU
 'help': HEP
 'Jens': SKWREPB/-S
 'Glob,': KPA/TKPWHROB/KW-BG
@@ -2207,7 +2207,7 @@ The Bishop of Borglum and His Warriors
 'to-morrow,': TO/H-PB/HRO*ER/PHOR/ROE/KW-BG
 'perhaps,': PRAPS/KW-BG
 'it': T
-'may': PHAE
+'may': PHAEU
 'be': -B
 'a': AEU
 'glassy': TKPWHRAS/KWREU

@@ -649,7 +649,7 @@ The Man from Snowy River
 'muttered': PHUT/*ER/-D
 'fiercely,': TPAOERS/HREU/KW-BG
 ''We': A*E/KPA*/WE
-'may': PHAE
+'may': PHAEU
 'bid': PWEUD
 'the': -T
 'mob': PHOB

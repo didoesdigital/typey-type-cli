@@ -1062,7 +1062,7 @@ The Story of a Mother
 'life-flower,': HRAOEUF/H-PB/TPHRO*UR/KW-BG
 'just': SKWRUFT
 'as': AS
-'may': PHAE
+'may': PHAEU
 'be': -B
 'ordained': OR/TKAEUPBD
 'for': TPOR
@@ -1085,7 +1085,7 @@ The Story of a Mother
 'from': TPR
 'that': THA
 'you': U
-'may': PHAE
+'may': PHAEU
 'perhaps': PRAPS
 'be': -B
 'able': ABL
@@ -1630,7 +1630,7 @@ The Story of a Mother
 'garden': TKPWA*RPB
 'resembles,': RE/SEPL/-BLS/KW-BG
 'I': EU
-'may': PHAE
+'may': PHAEU
 'not': TPHOT
 'tell': TEL
 'you."': U/TP-PL/KR-GS
@@ -1862,7 +1862,7 @@ The Story of a Mother
 'said.': SED/TP-PL
 '"That': KW-GS/KPA*/THA
 'I': EU
-'may': PHAE
+'may': PHAEU
 'not': TPHOT
 'tell': TEL
 'you,"': U/KW-BG/KR-GS
@@ -1872,7 +1872,7 @@ The Story of a Mother
 'thus': THUS
 'far': TPAR
 'you': U
-'may': PHAE
+'may': PHAEU
 'learn,': HRERPB/KW-BG
 'that': THA
 'one': WUPB

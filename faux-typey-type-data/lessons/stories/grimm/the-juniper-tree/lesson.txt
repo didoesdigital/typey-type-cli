@@ -570,7 +570,7 @@ The Juniper-Tree
 'little': HREUL
 'daughter': TKAUR
 'again,': STKPWERPBGS
-''may': A*E/PHAE
+''may': A*E/PHAEU
 'not': TPHOT
 'brother': PWROER
 'have': SR

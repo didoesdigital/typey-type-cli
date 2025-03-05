@@ -496,7 +496,7 @@ The Goblin and the Huckster
 'out;': OUT/STPH*FPLT
 'and': SKP
 'I': EU
-'may': PHAE
+'may': PHAEU
 'venture': SREPBT/UR
 'to': TO
 'affirm': A/TPEURPL

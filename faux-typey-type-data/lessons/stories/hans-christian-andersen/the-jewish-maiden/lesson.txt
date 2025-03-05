@@ -1084,7 +1084,7 @@ The Jewish Maiden
 'Oh,': KPA/O*ERBGS/KW-BG
 'that': THA
 'I': EU
-'may': PHAE
+'may': PHAEU
 'hear': HAER
 'his': HEUS
 'teaching,': TAOEFPG/KW-BG
@@ -1290,7 +1290,7 @@ The Jewish Maiden
 'however': HOUF
 'closely': KHROELS
 'I': EU
-'may': PHAE
+'may': PHAEU
 'close': KHROES
 'my': PHEU
 'eyes': AO*EUS
@@ -1547,7 +1547,7 @@ The Jewish Maiden
 'murmured,': PHUR/PHUR/-D/KW-BG
 '"thy': KW-GS/THAO*EU
 'child': KHAOEULD
-'may': PHAE
+'may': PHAEU
 'not': TPHOT
 'receive': SAOEF
 'Christian': KREUGS

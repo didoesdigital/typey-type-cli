@@ -31,7 +31,7 @@ In the Nursery
 'said,': SED/KW-BG
 '"and': KW-GS/SKP
 'it': T
-'may': PHAE
+'may': PHAEU
 'begin': TKPWEUPB
 'immediately."': PHAOELD/TP-PL/KR-GS
 '"But': KW-GS/KPA*/PWUT
@@ -130,7 +130,7 @@ In the Nursery
 'that': THA
 'lies': HRAO*EUS
 'yonder': KWROPBD/ER
-'may': PHAE
+'may': PHAEU
 'be': -B
 'the': -T
 'back': PWABG
@@ -152,7 +152,7 @@ In the Nursery
 'as': AS
 'every': EF
 'one': WUPB
-'may': PHAE
+'may': PHAEU
 'see.': SAOE/TP-PL
 'Now': KPA/TPHOU
 'we': WE
@@ -350,7 +350,7 @@ In the Nursery
 'the': -T
 'meantime,': PHAOEPB/TAO*EUPL/KW-BG
 'we': WE
-'may': PHAE
+'may': PHAEU
 'take': TAEUBG
 'one': WUPB
 'of': -F
@@ -504,7 +504,7 @@ In the Nursery
 'in': TPH
 'whom': WHOPL
 'one': WUPB
-'may': PHAE
+'may': PHAEU
 'see': SAOE
 'one's': W*UPBS
 'face;': TPAEUS/STPH*FPLT
@@ -841,7 +841,7 @@ In the Nursery
 'you,': U/KW-BG
 'that': THA
 'you': U
-'may': PHAE
+'may': PHAEU
 'applaud;': A/PHRAUD/STPH*FPLT
 'but': PWUT
 'leave': HREF

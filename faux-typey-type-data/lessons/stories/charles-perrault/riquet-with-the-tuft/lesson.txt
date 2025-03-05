@@ -2221,7 +2221,7 @@ Riquet With the Tuft
 'and': SKP
 'that': THA
 'you': U
-'may': PHAE
+'may': PHAEU
 'no': TPHO
 'ways': WAEUS
 'doubt,': TKOUT/KW-BG
@@ -2296,7 +2296,7 @@ Riquet With the Tuft
 'heart,': HART/KW-BG
 'that': THA
 'you': U
-'may': PHAE
+'may': PHAEU
 'be': -B
 'the': -T
 'most': PHOFT

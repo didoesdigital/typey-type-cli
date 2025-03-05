@@ -1216,7 +1216,7 @@ The Shepherdess and the Sheep
 'very': SRE
 'tired,': TAOEURD/KW-BG
 'as': AS
-'may': PHAE
+'may': PHAEU
 'be': -B
 'supposed.': SPOED/TP-PL
 'The': KPA/-T

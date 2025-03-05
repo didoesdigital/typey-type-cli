@@ -872,7 +872,7 @@ The Shirt-Collar
 'act,': ABGT/KW-BG
 'for': TPOR
 'we': WE
-'may': PHAE
+'may': PHAEU
 'some': SOPL
 'day': TKAEU
 'find': TPAOEUPBD
@@ -891,7 +891,7 @@ The Shirt-Collar
 'our': OUR
 'whole': WHOEL
 'history': HEUFRT
-'may': PHAE
+'may': PHAEU
 'be': -B
 'written,': WREUPB/KW-BG
 'even': AOEPB

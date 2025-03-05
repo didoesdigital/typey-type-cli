@@ -1049,7 +1049,7 @@ The Beetle Who Went on His Travels
 'is': S
 'that': THA
 'he': HE
-'may': PHAE
+'may': PHAEU
 'one': WUPB
 'day': TKAEU
 'creep': KRAOEP

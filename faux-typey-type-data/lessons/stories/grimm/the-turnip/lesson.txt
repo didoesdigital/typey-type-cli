@@ -936,7 +936,7 @@ The Turnip
 'little': HREUL
 'space': SPAEUS
 'I': EU
-'may': PHAE
+'may': PHAEU
 'allow': HROU
 'thee': THAOE
 'to': TO

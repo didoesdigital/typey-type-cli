@@ -2176,7 +2176,7 @@ The Golden Treasure
 'said;': SED/STPH*FPLT
 'but': PWUT
 'we': WE
-'may': PHAE
+'may': PHAEU
 'be': -B
 'allowed': HRO*UD
 'to': TO

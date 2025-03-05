@@ -62,7 +62,7 @@ The Portuguese Duck
 'about': PW
 'that': THA
 'there': THR
-'may': PHAE
+'may': PHAEU
 'be': -B
 'some': SOPL
 'question.': KWE/TP-PL
@@ -78,7 +78,7 @@ The Portuguese Duck
 'the': -T
 'duckyard,': TKUBG/KWREU/KWRA/R*D/KW-BG
 'which': WEU
-'may': PHAE
+'may': PHAEU
 'be': -B
 'called': KAULD
 'a': AEU
@@ -519,7 +519,7 @@ The Portuguese Duck
 'country,': KREU/KW-BG
 'as': AS
 'you': U
-'may': PHAE
+'may': PHAEU
 'see': SAOE
 'by': PWEU
 'my': PHEU
@@ -554,7 +554,7 @@ The Portuguese Duck
 'understand': URPBD
 'you,': U/KW-BG
 'I': EU
-'may': PHAE
+'may': PHAEU
 'say': SAEU
 'positively': P*EUFL
 'I': EU
@@ -1305,7 +1305,7 @@ The Portuguese Duck
 'ourselves': O*URSZ
 'that': THA
 'we': WE
-'may': PHAE
+'may': PHAEU
 'be': -B
 'nice': TPHAOEUS
 'and': SKP

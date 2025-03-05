@@ -47,7 +47,7 @@ The Tree and the Reed
 'the': -T
 'Reed.': RAO*ED/TP-PL
 '"I': KW-GS/EU
-'may': PHAE
+'may': PHAEU
 'not': TPHOT
 'be': -B
 'so': SO

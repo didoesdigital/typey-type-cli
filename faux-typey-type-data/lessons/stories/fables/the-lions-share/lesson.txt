@@ -152,7 +152,7 @@ The Lion's Share
 'low': HROE
 'growl."': TKPWROUL/TP-PL/KR-GS
 'You': KPA/U
-'may': PHAE
+'may': PHAEU
 'share': SHAEUR
 'the': -T
 'labours': HRAEUBS/A*U

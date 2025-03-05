@@ -1102,7 +1102,7 @@ The Metal Pig
 'Madonna,': PHA/TKOPB/TPHA/KW-BG
 'but': PWUT
 'I': EU
-'may': PHAE
+'may': PHAEU
 'not': TPHOT
 'enter': SPWER
 'the': -T
@@ -1118,7 +1118,7 @@ The Metal Pig
 'my': PHEU
 'back,': PWABG/KW-BG
 'I': EU
-'may': PHAE
+'may': PHAEU
 'look': HRAOBG
 'in': TPH
 'through': THRU
@@ -2381,7 +2381,7 @@ The Metal Pig
 'with': W
 'us,': US/KW-BG
 'he': HE
-'may': PHAE
+'may': PHAEU
 'become': PW-BG
 'a': AEU
 'clever': KHREFR
@@ -2682,7 +2682,7 @@ The Metal Pig
 'his': HEUS
 'heaven.': HEFPB/TP-PL
 '"You': KW-GS/KPA*/U
-'may': PHAE
+'may': PHAEU
 'go': TKPW
 'home': HOEPL
 'now,"': TPHOURBGS/KR-GS
@@ -2710,7 +2710,7 @@ The Metal Pig
 'asked': SK-D
 'the': -T
 'boy;': PWOEU/STPH*FPLT
-'"may': KW-GS/PHAE
+'"may': KW-GS/PHAEU
 'I': EU
 'see': SAOE
 'you': U
@@ -3171,7 +3171,7 @@ The Metal Pig
 'stolen': STOEL/EPB
 'it,': T/KW-BG
 'you': U
-'may': PHAE
+'may': PHAEU
 'say': SAEU
 'at': AT
 'home': HOEPL
@@ -3706,7 +3706,7 @@ The Metal Pig
 'that': THA
 'all': AUL
 'objects': OBS
-'may': PHAE
+'may': PHAEU
 'be': -B
 'drawn': TKRAUPB
 'upon': POPB

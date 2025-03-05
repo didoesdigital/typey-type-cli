@@ -1841,7 +1841,7 @@ The Fir Tree
 'knows?': TPHOEZ/H-F
 'perhaps': PRAPS
 'I': EU
-'may': PHAE
+'may': PHAEU
 'fall': TPAUL
 'down': TKOUPB
 'too,': TAO/KW-BG
@@ -2469,7 +2469,7 @@ The Fir Tree
 'days,': TKAEUS/KW-BG
 'but': PWUT
 'they': THE
-'may': PHAE
+'may': PHAEU
 'come': KOPL
 'again.': TKPWEPB/TP-PL
 'Humpty': KPA/H*UPLT/KWREU
@@ -2485,7 +2485,7 @@ The Fir Tree
 'princess;': PREUPB/SES/STPH*FPLT
 'perhaps': PRAPS
 'I': EU
-'may': PHAE
+'may': PHAEU
 'marry': PHAER
 'a': AEU
 'princess': PREUPB/SES

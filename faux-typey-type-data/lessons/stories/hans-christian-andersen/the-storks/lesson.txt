@@ -536,7 +536,7 @@ The Storks
 'begins."': TKPWEUPBS/TP-PL/KR-GS
 '"Then': KW-GS/KPA*/THEPB
 'we': WE
-'may': PHAE
+'may': PHAEU
 'be': -B
 'killed': KEULD
 'after': AF
@@ -1237,7 +1237,7 @@ The Storks
 'of': -F
 'any': TPHEU
 'who': WHO
-'may': PHAE
+'may': PHAEU
 'be': -B
 'present.': PREPBT/TP-PL
 'You': KPA/U
@@ -1253,7 +1253,7 @@ The Storks
 'you': U
 'respected."': R-PTD/TP-PL/KR-GS
 '"But': KW-GS/KPA*/PWUT
-'may': PHAE
+'may': PHAEU
 'we': WE
 'not': TPHOT
 'punish': P-RB

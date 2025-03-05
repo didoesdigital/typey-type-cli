@@ -693,7 +693,7 @@ The Golden Goose
 'she': SHE
 'thought,': THAUT/KW-BG
 ''I': A*E/EU
-'may': PHAE
+'may': PHAEU
 'as': AS
 'well': WEL
 'be': -B

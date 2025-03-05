@@ -359,7 +359,7 @@ Lily and the Lion
 'and': SKP
 'said,': SED/KW-BG
 ''It': A*E/KPA*/T
-'may': PHAE
+'may': PHAEU
 'be': -B
 'my': PHEU
 'youngest': KWRUPBG/EFT
@@ -387,7 +387,7 @@ Lily and the Lion
 'and': SKP
 'said,': SED/KW-BG
 ''It': A*E/KPA*/T
-'may': PHAE
+'may': PHAEU
 'perhaps': PRAPS
 'be': -B
 'only': OEPBL
@@ -1040,7 +1040,7 @@ Lily and the Lion
 'at': AT
 'last': HRAFT
 'you': U
-'may': PHAE
+'may': PHAEU
 'overtake': AUFR/TAEUBG
 'and': SKP
 'set': SET

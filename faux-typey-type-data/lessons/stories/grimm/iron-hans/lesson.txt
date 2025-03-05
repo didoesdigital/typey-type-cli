@@ -992,7 +992,7 @@ Iron Hans
 'this': TH
 'time': TAOEUPL
 'it': T
-'may': PHAE
+'may': PHAEU
 'pass,': PAS/KW-BG
 'but': PWUT
 'take': TAEUBG
@@ -1786,7 +1786,7 @@ Iron Hans
 'again': TKPWEPB
 'said:': SED/STPH-FPLT
 ''I': A*E/EU
-'may': PHAE
+'may': PHAEU
 'not,': TPHOT/KW-BG
 'I': EU
 'have': SR
@@ -2555,7 +2555,7 @@ Iron Hans
 'he.': HE/TP-PL
 ''That': A*E/KPA*/THA
 'I': EU
-'may': PHAE
+'may': PHAEU
 'catch': KAFP
 'the': -T
 'king's': KEUPBG/AES
@@ -2988,7 +2988,7 @@ Iron Hans
 'further': TPURT
 'proof,': PRAOF/KW-BG
 'you': U
-'may': PHAE
+'may': PHAEU
 'see': SAOE
 'the': -T
 'wound': WOUPBD

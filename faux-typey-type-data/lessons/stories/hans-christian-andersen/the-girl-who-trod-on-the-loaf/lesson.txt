@@ -1572,13 +1572,13 @@ The Girl Who Trod on the Loaf
 'again?': TKPWEPB/H-F
 'Perhaps': KPA/PRAPS
 'I': EU
-'may,': PHAE/KW-BG
+'may,': PHAEU/KW-BG
 'for': TPOR
 'we': WE
 'know': TPHOE
 'not': TPHOT
 'what': WHA
-'may': PHAE
+'may': PHAEU
 'happen': HAP
 'in': TPH
 'the': -T

@@ -767,7 +767,7 @@ The Raven
 'He': KPA/HE
 'answered,': AEPBS/-D/KW-BG
 ''I': A*E/EU
-'may': PHAE
+'may': PHAEU
 'not': TPHOT
 'and': SKP
 'will': HR

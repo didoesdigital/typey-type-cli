@@ -837,7 +837,7 @@ There Is No Doubt About It
 'one': WUPB
 'little': HREUL
 'feather': TP*ERT
-'may': PHAE
+'may': PHAEU
 'easily': AOELS
 'grow': TKPWROE
 'into': TPHAO

@@ -166,7 +166,7 @@ Mother Holle
 'the': -T
 'well': WEL
 'you': U
-'may': PHAE
+'may': PHAEU
 'go': TKPW
 'yourself': KWRO*URS
 'and': SKP
@@ -1402,7 +1402,7 @@ Mother Holle
 'path,': PA*T/KW-BG
 'or': OR
 'you': U
-'may': PHAE
+'may': PHAEU
 'fall': TPAUL
 'and': SKP
 'break': PWRAEBG
@@ -2458,7 +2458,7 @@ Mother Holle
 'door,': TKAORBGS
 'that': THA
 'he': HE
-'may': PHAE
+'may': PHAEU
 'not': TPHOT
 'come': KOPL
 'in.'': TPH/TP-PL/AE

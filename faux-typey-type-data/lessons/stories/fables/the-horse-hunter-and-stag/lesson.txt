@@ -55,7 +55,7 @@ The Horse, Hunter, and Stag
 'so': SO
 'that': THA
 'I': EU
-'may': PHAE
+'may': PHAEU
 'guide': TKPWAOEUD
 'you': U
 'with': W
@@ -74,7 +74,7 @@ The Horse, Hunter, and Stag
 'so': SO
 'that': THA
 'I': EU
-'may': PHAE
+'may': PHAEU
 'keep': KAOEP
 'steady': STAED
 'upon': POPB

@@ -816,7 +816,7 @@ The Flax
 'fine': TPAOEUPB
 'things': THEUPBGS
 'I': EU
-'may': PHAE
+'may': PHAEU
 'have': SR
 'written': WREUPB
 'upon': POPB
@@ -1007,7 +1007,7 @@ The Flax
 'so': SO
 'that': THA
 'people': PAOEPL
-'may': PHAE
+'may': PHAEU
 'read': RAED
 'me.': PHE/TP-PL
 'It': KPA/T

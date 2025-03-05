@@ -456,7 +456,7 @@ The Mail-Coach Passengers
 'sentry.': SEPBT/REU/TP-PL
 '"Certainly': KW-GS/KPA*/SERPBL
 'I': EU
-'may': PHAE
+'may': PHAEU
 'shout,"': SHOUT/KW-BG/KR-GS
 'retorted': RE/TORT/-D
 'the': -T
@@ -717,7 +717,7 @@ The Mail-Coach Passengers
 'called': KAULD
 'herself': H*ERS
 'Miss': PH*EUS/S-P
-'MAY.': *URP/PHAE/TP-PL
+'MAY.': *URP/PHAEU/TP-PL
 'She': KPA/SHE
 'wore': WOR
 'a': AEU
@@ -850,7 +850,7 @@ The Mail-Coach Passengers
 'year,': KWRAOERBGS
 'that': THA
 'there': THR
-'may': PHAE
+'may': PHAEU
 'be': -B
 'time': TAOEUPL
 'for': TPOR
@@ -1377,7 +1377,7 @@ The Mail-Coach Passengers
 'said,': SED/KW-BG
 '"that': KW-GS/THA
 'it': T
-'may': PHAE
+'may': PHAEU
 'grow': TKPWROE
 'large': HRARPBLG
 'by': PWEU
@@ -1507,7 +1507,7 @@ The Mail-Coach Passengers
 'now': TPHOU
 'the': -T
 'coach': KOEFP
-'may': PHAE
+'may': PHAEU
 'drive': TKRAOEUF
 'away,"': WA*EU/KW-BG/KR-GS
 'said': SED

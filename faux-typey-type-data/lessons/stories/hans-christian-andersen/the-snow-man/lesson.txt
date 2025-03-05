@@ -159,7 +159,7 @@ The Snow Man
 'though;': THOE/STPH*FPLT
 'now': TPHOU
 'he': HE
-'may': PHAE
+'may': PHAEU
 'hang': HAPBG
 'up': UP
 'there,': THR-RBGS
@@ -167,7 +167,7 @@ The Snow Man
 'shine,': SHAOEUPB/KW-BG
 'that': THA
 'I': EU
-'may': PHAE
+'may': PHAEU
 'see': SAOE
 'myself.': PHAO*EUS/TP-PL
 'If': KPA/TP

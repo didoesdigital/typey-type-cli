@@ -633,7 +633,7 @@ The Valiant Little Tailor
 'the': -T
 'girdle,': TKPWEURD/*L/KW-BG
 ''there': A*E/THR
-'may': PHAE
+'may': PHAEU
 'you': U
 'read': RAED
 'what': WHA

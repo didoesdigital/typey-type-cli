@@ -226,7 +226,7 @@ Holger Danske
 'and': SKP
 'that': THA
 'he': HE
-'may': PHAE
+'may': PHAEU
 'go': TKPW
 'to': TO
 'sleep': SHRAOEP
@@ -566,7 +566,7 @@ Holger Danske
 'in': TPH
 'bed': PWED
 'there': THR
-'may': PHAE
+'may': PHAEU
 'very': SRE
 'likely': HRAOEULG
 'live': HREUF
@@ -1554,7 +1554,7 @@ Holger Danske
 'of': -F
 'the': -T
 'world': WORLD
-'may': PHAE
+'may': PHAEU
 'hear': HAER
 'of': -F
 'the': -T

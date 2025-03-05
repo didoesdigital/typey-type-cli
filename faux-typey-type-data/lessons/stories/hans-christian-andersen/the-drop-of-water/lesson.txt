@@ -232,7 +232,7 @@ The Drop of Water
 'that': THA
 'each': AOEFP
 'one': WUPB
-'may': PHAE
+'may': PHAEU
 'mind': PHAOEUPBD
 'his': HEUS
 'own': OEPB
@@ -263,7 +263,7 @@ The Drop of Water
 'color,': KROR/KW-BG
 'that': THA
 'they': THE
-'may': PHAE
+'may': PHAEU
 'be': -B
 'seen': SAOEPB
 'more': PHOR

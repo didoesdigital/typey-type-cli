@@ -59,7 +59,7 @@ The Angel
 'Almighty,': KPA/AL/PHAOEUT/KWREU/KW-BG
 'that': THA
 'they': THE
-'may': PHAE
+'may': PHAEU
 'bloom': PWHRAOPL
 'more': PHOR
 'brightly': PWRAOEULT
@@ -212,7 +212,7 @@ The Angel
 'heaven,': HEFPB/KW-BG
 'that': THA
 'it': T
-'may': PHAE
+'may': PHAEU
 'bloom': PWHRAOPL
 'above': PWOF
 'in': TPH

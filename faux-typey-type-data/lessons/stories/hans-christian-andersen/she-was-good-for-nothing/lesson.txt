@@ -511,7 +511,7 @@ She Was Good for Nothing
 'more,': PHOR/KW-BG
 'and': SKP
 'you': U
-'may': PHAE
+'may': PHAEU
 'have': SR
 'a': AEU
 'sip': SEUP
@@ -586,7 +586,7 @@ She Was Good for Nothing
 'willingly,': HR-G/HREU/KW-BG
 'that': THA
 'I': EU
-'may': PHAE
+'may': PHAEU
 'be': -B
 'able': ABL
 'to': TO
@@ -916,7 +916,7 @@ She Was Good for Nothing
 'then,': THEPB/KW-BG
 'and': SKP
 'people': PAOEPL
-'may': PHAE
+'may': PHAEU
 'well': WEL
 'be': -B
 'thirsty,"': THEURS/TEU/KW-BG/KR-GS
@@ -1560,7 +1560,7 @@ She Was Good for Nothing
 'grant': TKPWRAPBT
 'he': HE
 'never': TPHEFR
-'may': PHAE
+'may': PHAEU
 'know': TPHOE
 'it.': T/TP-PL
 'I': EU
@@ -1788,7 +1788,7 @@ She Was Good for Nothing
 'of': -F
 'God,': TKPWO*D/KW-BG
 'they': THE
-'may': PHAE
+'may': PHAEU
 'occupy': OBG/PAOEU
 'a': AEU
 'higher': HAOEUR
@@ -2031,7 +2031,7 @@ She Was Good for Nothing
 'love?': HRUF/H-F
 'but': PWUT
 'that': THA
-'may': PHAE
+'may': PHAEU
 'come.'': KOPL/TP-PL/AE
 ''Yes,': A*E/KPA*/KWRE/KW-BG
 'it': T
@@ -2827,7 +2827,7 @@ She Was Good for Nothing
 'up,': UP/KW-BG
 'that': THA
 'he': HE
-'may': PHAE
+'may': PHAEU
 'become': PW-BG
 'a': AEU
 'respectable': R-PT/-BL
@@ -3004,7 +3004,7 @@ She Was Good for Nothing
 'though': THOE
 'the': -T
 'world': WORLD
-'may': PHAE
+'may': PHAEU
 'say,': SAEU/KW-BG
 'even': AOEPB
 'now': TPHOU

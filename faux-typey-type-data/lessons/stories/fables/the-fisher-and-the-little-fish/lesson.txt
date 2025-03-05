@@ -66,7 +66,7 @@ The Fisher and the Little Fish
 'you': U
 'now.': TPHOU/TP-PL
 'I': EU
-'may': PHAE
+'may': PHAEU
 'not': TPHOT
 'catch': KAFP
 'you': U

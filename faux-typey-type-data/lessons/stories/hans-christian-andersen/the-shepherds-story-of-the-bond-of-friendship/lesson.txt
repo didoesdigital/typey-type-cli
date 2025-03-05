@@ -2691,7 +2691,7 @@ The Shepherd's Story of the Bond of Friendship
 'to': TO
 'say,': SAEU/KW-BG
 'whatever': WHAF
-'may': PHAE
+'may': PHAEU
 'happen,': HAP/KW-BG
 ''My': A*E/KPA*/PHEU
 'brother': PWROER
@@ -3014,7 +3014,7 @@ The Shepherd's Story of the Bond of Friendship
 'exclaimed;': SKHRAEUPLD/STPH*FPLT
 '"thine!': KW-GS/THAOEUPB/SKHRAPL
 'I': EU
-'may': PHAE
+'may': PHAEU
 'not': TPHOT
 'wrong': WROPBG
 'thee,': THAOE/KW-BG

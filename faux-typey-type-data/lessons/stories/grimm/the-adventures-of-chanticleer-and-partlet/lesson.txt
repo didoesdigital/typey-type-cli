@@ -1660,7 +1660,7 @@ The Adventures of Chanticleer and Partlet
 'across,': KRAOS/KW-BG
 'and': SKP
 'you': U
-'may': PHAE
+'may': PHAEU
 'pass': PAS
 'over': OEFR
 'upon': POPB

@@ -119,7 +119,7 @@ Tom Thumb
 'Now--odd': KPA/TPHOU/H-PB/O*D
 'as': AS
 'you': U
-'may': PHAE
+'may': PHAEU
 'think': THEU
 'it--it': T/H-PB/H-PB/T
 'came': KAEUPL
@@ -1207,7 +1207,7 @@ Tom Thumb
 'low,': HROE/KW-BG
 'that': THA
 'you': U
-'may': PHAE
+'may': PHAEU
 'not': TPHOT
 'awaken': A/WA*EUPB
 'anybody.'': TPHEUB/TP-PL/AE
@@ -2183,7 +2183,7 @@ Tom Thumb
 'was': WAS
 'there,': THR-RBGS
 'you': U
-'may': PHAE
+'may': PHAEU
 'well': WEL
 'suppose': SPOS
 'that': THA

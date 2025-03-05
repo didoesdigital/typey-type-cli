@@ -1028,7 +1028,7 @@ The Races
 'rose,': ROEZ/KW-BG
 '"that': KW-GS/THA
 'peace': PAES
-'may': PHAE
+'may': PHAEU
 'reign': RAEPB
 'in': TPH
 'the': -T

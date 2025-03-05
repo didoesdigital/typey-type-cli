@@ -407,7 +407,7 @@ The Elfin Hill
 '"All': KW-GS/KPA*/AUL
 'the': -T
 'world': WORLD
-'may': PHAE
+'may': PHAEU
 'come': KOPL
 'to': TO
 'the': -T
@@ -477,7 +477,7 @@ The Elfin Hill
 'first,': TPEUFRT/KW-BG
 'although': HR*T
 'it': T
-'may': PHAE
+'may': PHAEU
 'not': TPHOT
 'be': -B
 'agreeable': TKPWRAOEBL
@@ -800,7 +800,7 @@ The Elfin Hill
 'the': -T
 'youngest': KWRUPBG/EFT
 'daughter,': TKAUR/KW-BG
-'"may': KW-GS/PHAE
+'"may': KW-GS/PHAEU
 'I': EU
 'now': TPHOU
 'hear': HAER
@@ -1943,7 +1943,7 @@ The Elfin Hill
 'there,': THR-RBGS
 'that': THA
 'she': SHE
-'may': PHAE
+'may': PHAEU
 'be': -B
 'safe;': SAEUF/STPH*FPLT
 'for': TPOR
@@ -2331,7 +2331,7 @@ The Elfin Hill
 'and': SKP
 'now': TPHOU
 'you': U
-'may': PHAE
+'may': PHAEU
 'take': TAEUBG
 'one': WUPB
 'of': -F
@@ -2443,7 +2443,7 @@ The Elfin Hill
 'that': THA
 'the': -T
 'sun': SUPB
-'may': PHAE
+'may': PHAEU
 'not': TPHOT
 'scorch': SKOFRPB
 'us."': US/TP-PL/KR-GS

@@ -853,7 +853,7 @@ The Mark on the Wall
 'at': AT
 'all.': AUL/TP-PL
 'It': KPA/T
-'may': PHAE
+'may': PHAEU
 'even': AOEPB
 'be': -B
 'caused': KAUDZ
@@ -1566,7 +1566,7 @@ The Mark on the Wall
 'such': SUFP
 'as': AS
 'you': U
-'may': PHAE
+'may': PHAEU
 'see': SAOE
 'in': TPH
 'photographs': TPOEFS
@@ -1694,7 +1694,7 @@ The Mark on the Wall
 'which': WEU
 'soon,': SAOPB/KW-BG
 'one': WUPB
-'may': PHAE
+'may': PHAEU
 'hope,': HOEP/KW-BG
 'will': HR
 'be': -B

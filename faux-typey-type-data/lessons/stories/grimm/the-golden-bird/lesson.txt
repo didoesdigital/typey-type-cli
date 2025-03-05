@@ -401,7 +401,7 @@ The Golden Bird
 'other,': OER/KW-BG
 'though': THOE
 'it': T
-'may': PHAE
+'may': PHAEU
 'appear': A/PAOER
 'to': TO
 'you': U

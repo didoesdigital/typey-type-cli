@@ -587,7 +587,7 @@ The Storm Shakes the Shield
 'however': HOUF
 'old': OLD
 'one': WUPB
-'may': PHAE
+'may': PHAEU
 'grow,"': TKPWROE/KW-BG/KR-GS
 'said': SED
 'grandfather.': TKPWR-F/TP-PL
@@ -1462,7 +1462,7 @@ The Storm Shakes the Shield
 'secretly,': SKRELT/KW-BG
 'and': SKP
 'there': THR
-'may': PHAE
+'may': PHAEU
 'have': SR
 'been': PW-PB
 'some': SOPL
@@ -1608,7 +1608,7 @@ The Storm Shakes the Shield
 'but': PWUT
 'our': OUR
 'grandchildren': TKPWR-PB
-'may;': PHAE/STPH*FPLT
+'may;': PHAEU/STPH*FPLT
 'and': SKP
 'we': WE
 'can': K
@@ -1618,7 +1618,7 @@ The Storm Shakes the Shield
 'pray': PRAEU
 'that': THA
 'all': AUL
-'may': PHAE
+'may': PHAEU
 'stay': STAEU
 'at': AT
 'home': HOEPL

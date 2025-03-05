@@ -1708,7 +1708,7 @@ The Old Church Bell
 'many': PHAEPB
 'Huns'': H*P/SKWRU/*PB/-S/AE
 'graves': TKPWRAEUFS
-'may': PHAE
+'may': PHAEU
 'be': -B
 'seen,': SAOEPB/KW-BG
 'was': WAS

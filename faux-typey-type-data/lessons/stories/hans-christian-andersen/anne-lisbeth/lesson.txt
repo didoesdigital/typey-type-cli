@@ -2596,7 +2596,7 @@ Anne Lisbeth
 'to': TO
 'another,': TPHOER/KW-BG
 'much': PHUFP
-'may': PHAE
+'may': PHAEU
 'occur': KROEUR
 'to': TO
 'weigh': WAE
@@ -2612,7 +2612,7 @@ Anne Lisbeth
 'whole': WHOEL
 'year;': KWRAOER/STPH*FPLT
 'much': PHUFP
-'may': PHAE
+'may': PHAEU
 'be': -B
 'forgotten,': TPAURGTD/KW-BG
 'sins': SEUPBZ
@@ -3628,7 +3628,7 @@ Anne Lisbeth
 'and': SKP
 'then': THEPB
 'you': U
-'may': PHAE
+'may': PHAEU
 'ride': RAOEUD
 'again': TKPWEPB
 'in': TPH

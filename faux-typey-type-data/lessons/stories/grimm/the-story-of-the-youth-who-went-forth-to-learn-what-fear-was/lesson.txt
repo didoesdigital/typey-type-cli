@@ -1576,7 +1576,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'father?'': TPAER/H-F/AE
 ''That': A*E/KPA*/THA
 'I': EU
-'may': PHAE
+'may': PHAEU
 'not': TPHOT
 'tell': TEL
 'you.'': U/TP-PL/AE
@@ -1739,7 +1739,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 ''However': A*E/KPA*/HOUF
 'difficult': TKEUFL
 'it': T
-'may': PHAE
+'may': PHAEU
 'be,': -B/KW-BG
 'I': EU
 'will': HR
@@ -1902,7 +1902,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'he': HE
 'said:': SED/STPH-FPLT
 ''You': A*E/KPA*/U
-'may': PHAE
+'may': PHAEU
 'ask': SK
 'for': TPOR
 'three': THRAOE
@@ -2440,7 +2440,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'anyone': TPHEUPB
 'who': WHO
 'likes,': HRAOEUBGS/KW-BG
-'may': PHAE
+'may': PHAEU
 'drive,'': TKRAOEUF/KW-BG/AE
 'and': SKP
 'lay': HRAEU

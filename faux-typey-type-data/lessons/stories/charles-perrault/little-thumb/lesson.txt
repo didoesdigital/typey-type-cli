@@ -291,7 +291,7 @@ Little Thumb
 'wood': WAOD
 'to-morrow,': TO/H-PB/HRO*ER/PHOR/ROE/KW-BG
 'which': WEU
-'may': PHAE
+'may': PHAEU
 'very': SRE
 'easily': AOELS
 'be': -B
@@ -307,7 +307,7 @@ Little Thumb
 'the': -T
 'faggots,': TPAGT/-S/KW-BG
 'we': WE
-'may': PHAE
+'may': PHAEU
 'run': RUPB
 'away,': WA*EU/KW-BG
 'and': SKP
@@ -2158,7 +2158,7 @@ Little Thumb
 'belly-full,': PWEL/HREU/H-PB/TPUL/KW-BG
 'that': THA
 'they': THE
-'may': PHAE
+'may': PHAEU
 'not': TPHOT
 'fall': TPAUL
 'away,': WA*EU/KW-BG
@@ -2884,7 +2884,7 @@ Little Thumb
 'leagues,': HRAOEG/-S/KW-BG
 'that': THA
 'I': EU
-'may': PHAE
+'may': PHAEU
 'go': TKPW
 'and': SKP
 'catch': KAFP

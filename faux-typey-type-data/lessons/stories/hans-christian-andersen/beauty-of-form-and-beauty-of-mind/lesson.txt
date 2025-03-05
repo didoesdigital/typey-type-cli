@@ -673,7 +673,7 @@ Beauty of Form and Beauty of Mind
 'every': EF
 'voice.': SROEUS/TP-PL
 '"I': KW-GS/EU
-'may': PHAE
+'may': PHAEU
 'perhaps': PRAPS
 'win': WEUPB
 'a': AEU
@@ -785,7 +785,7 @@ Beauty of Form and Beauty of Mind
 'how': HOU
 'much': PHUFP
 'there': THR
-'may': PHAE
+'may': PHAEU
 'be': -B
 'in': TPH
 'a': AEU
@@ -1668,7 +1668,7 @@ Beauty of Form and Beauty of Mind
 'and': SKP
 'so': SO
 'it': T
-'may': PHAE
+'may': PHAEU
 'be': -B
 'said': SED
 'she': SHE
@@ -1828,7 +1828,7 @@ Beauty of Form and Beauty of Mind
 'Alfred,': AL/TPRED/KW-BG
 'a': AEU
 'proverb': PROFRB
-'may': PHAE
+'may': PHAEU
 'describe': SKREU
 'his': HEUS
 'position—he': POGS/EPL/TKA*RB/HE
@@ -1872,12 +1872,12 @@ Beauty of Form and Beauty of Mind
 'life.': HRAOEUF/TP-PL
 'The': KPA/-T
 'casket': KAFBGT
-'may': PHAE
+'may': PHAEU
 'be': -B
 'injured,': SKWR-RD/KW-BG
 'the': -T
 'gilding': TKPW*EULD/-G
-'may': PHAE
+'may': PHAEU
 'fall': TPAUL
 'off,': OF/KW-BG
 'and': SKP
@@ -2717,7 +2717,7 @@ Beauty of Form and Beauty of Mind
 'completeness': KPHRAOET/-PBS
 'that': THA
 'it': T
-'may': PHAE
+'may': PHAEU
 'harmonize': HARPL/TPHAOEUZ
 'with': W
 'yours,': KWROURS/KW-BG

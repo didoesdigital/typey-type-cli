@@ -330,7 +330,7 @@ Ole the Tower-Keeper
 'books;': PWAOBGS/STPH*FPLT
 'and': SKP
 'you': U
-'may': PHAE
+'may': PHAEU
 'know': TPHOE
 'by': PWEU
 'the': -T
@@ -734,7 +734,7 @@ Ole the Tower-Keeper
 'earth,': *ERT/KW-BG
 'though': THOE
 'we': WE
-'may': PHAE
+'may': PHAEU
 'be': -B
 'insects': EUPB/SEBGTS
 'with': W
@@ -2109,7 +2109,7 @@ Ole the Tower-Keeper
 'the': -T
 'year': KWRAOER
 'you': U
-'may': PHAE
+'may': PHAEU
 'be': -B
 'sitting': SEUGT
 'in': TPH
@@ -2137,7 +2137,7 @@ Ole the Tower-Keeper
 'that': THA
 'a': AEU
 'man': PHAPB
-'may': PHAE
+'may': PHAEU
 'listen': HREUFPB
 'to': TO
 'his': HEUS
@@ -2267,7 +2267,7 @@ Ole the Tower-Keeper
 'reason,': R-FPBLTS
 'and': SKP
 'one': WUPB
-'may': PHAE
+'may': PHAEU
 'never': TPHEFR
 'go': TKPW
 'beyond': KWROPBD
@@ -2732,7 +2732,7 @@ Ole the Tower-Keeper
 'a': AEU
 'cartload.': KR*/A*/R*/T*/HR*/O*/A*/TK*/TP-PL
 'I': EU
-'may': PHAE
+'may': PHAEU
 'get': TKPWET
 'something': S-G
 'good': TKPWAOD
@@ -2849,7 +2849,7 @@ Ole the Tower-Keeper
 'at,': AT/KW-BG
 'or': OR
 'you': U
-'may': PHAE
+'may': PHAEU
 'say': SAEU
 'it': T
 'was': WAS
@@ -3355,7 +3355,7 @@ Ole the Tower-Keeper
 'us;': US/STPH*FPLT
 'and': SKP
 'this': TH
-'may': PHAE
+'may': PHAEU
 'be': -B
 'very': SRE
 'pleasant': PHREFPBT
@@ -3528,7 +3528,7 @@ Ole the Tower-Keeper
 'and': SKP
 'the': -T
 'stool': STOL
-'may': PHAE
+'may': PHAEU
 'become': PW-BG
 'a': AEU
 'litter': HREUT/ER
@@ -4123,7 +4123,7 @@ Ole the Tower-Keeper
 'minute,': PHEURPBGS
 'the': -T
 'omnibus': OPL/TPHEU/PWUS
-'may': PHAE
+'may': PHAEU
 'draw': TKRAU
 'up.': UP/TP-PL
 'Which': KPA/WEU

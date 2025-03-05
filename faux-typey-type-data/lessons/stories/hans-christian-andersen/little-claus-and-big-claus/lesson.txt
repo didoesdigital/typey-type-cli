@@ -1514,7 +1514,7 @@ Little Claus and Big Claus
 'firmly,': TPEURPL/HREU/KW-BG
 'that': THA
 'he': HE
-'may': PHAE
+'may': PHAEU
 'not': TPHOT
 'slip': SHREUP
 'out."': OUT/TP-PL/KR-GS
@@ -1733,7 +1733,7 @@ Little Claus and Big Claus
 'knowing': TPHOEG
 'if': TP
 'he': HE
-'may': PHAE
+'may': PHAEU
 'not': TPHOT
 'be': -B
 'still': STEUL
@@ -1886,7 +1886,7 @@ Little Claus and Big Claus
 'farther,': TPA*RT/KW-BG
 'so': SO
 'I': EU
-'may': PHAE
+'may': PHAEU
 'as': AS
 'well': WEL
 'throw': THROE
@@ -1977,7 +1977,7 @@ Little Claus and Big Claus
 'river,': REUFR/KW-BG
 'that': THA
 'he': HE
-'may': PHAE
+'may': PHAEU
 'be': -B
 'drowned."': TKROUPBD/TP-PL/KR-GS
 '"Oh,': KW-GS/KPA*/O*ERBGS/KW-BG
@@ -3719,7 +3719,7 @@ Little Claus and Big Claus
 'Claus.': KR*P/HR*/KWRA/SKWRU/-S/TP-PL
 '"There': KW-GS/KPA*/THR
 'you': U
-'may': PHAE
+'may': PHAEU
 'lie!"': HRAOEU/SKHRAPL/KR-GS
 'he': HE
 'exclaimed;': SKHRAEUPLD/STPH*FPLT
@@ -4366,7 +4366,7 @@ Little Claus and Big Claus
 'Claus,': KR*P/HR*/KWRA/SKWRU/-S/KW-BG
 '"or': KW-GS/OR
 'I': EU
-'may': PHAE
+'may': PHAEU
 'not': TPHOT
 'sink."': S*EUPBG/TP-PL/KR-GS
 '"Oh,': KW-GS/KPA*/O*ERBGS/KW-BG

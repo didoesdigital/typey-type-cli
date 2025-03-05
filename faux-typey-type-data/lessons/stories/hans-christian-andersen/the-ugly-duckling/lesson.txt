@@ -787,7 +787,7 @@ The Ugly Duckling
 'me': PHE
 'or': OR
 'you': U
-'may': PHAE
+'may': PHAEU
 'be': -B
 'trodden': TROD/*EPB
 'upon;': POPB/STPH*FPLT
@@ -1650,7 +1650,7 @@ The Ugly Duckling
 'a': AEU
 'wife;': WAOEUF/STPH*FPLT
 'you': U
-'may': PHAE
+'may': PHAEU
 'be': -B
 'lucky,': HRUBG/KWREURBGS
 'ugly': ULG
@@ -2568,7 +2568,7 @@ The Ugly Duckling
 'from': TPR
 'which': WEU
 'you': U
-'may': PHAE
+'may': PHAEU
 'learn': HRERPB
 'something.': S-G/TP-PL
 'But': KPA/PWUT
@@ -2593,7 +2593,7 @@ The Ugly Duckling
 'own': OEPB
 'good.': TKPWAOD/TP-PL
 'I': EU
-'may': PHAE
+'may': PHAEU
 'tell': TEL
 'you': U
 'unpleasant': UPB/PHR*EPBT

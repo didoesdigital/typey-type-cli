@@ -56,7 +56,7 @@ The Two Pots
 'you."': U/TP-PL/KR-GS
 '"But': KW-GS/KPA*/PWUT
 'I': EU
-'may': PHAE
+'may': PHAEU
 'come': KOPL
 'in': TPH
 'contact': KABGT

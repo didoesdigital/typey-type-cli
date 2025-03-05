@@ -921,7 +921,7 @@ Cinderilla or the Little Glass Slipper
 'rat-trap,': RAT/H-PB/TRAP/KW-BG
 'that': THA
 'we': WE
-'may': PHAE
+'may': PHAEU
 'make': PHAEUBG
 'a': AEU
 'coachman': KOEFP/PHAPB
