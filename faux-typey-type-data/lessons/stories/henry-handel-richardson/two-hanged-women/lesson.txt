@@ -1478,7 +1478,7 @@ Two Hanged Women
 'I': EU
 'mean': PHAOEPB
 'I'd': AOEUD
-'----': H*B/H-PB/H-PB/H-PB
+'----': PH*PBS/H-PB/H-PB/H-PB
 '"': KR-GS
 'But': KPA/PWUT
 'here': HAOER
