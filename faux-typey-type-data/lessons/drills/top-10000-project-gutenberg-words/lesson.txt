@@ -5266,7 +5266,7 @@ Top 10000 Project Gutenberg words
 'quitted': KW*/*U/*EU/T*/T*/*E/TK*
 'keys': KAOES
 'develop': SREL
-'function': TPUBGS
+'function': TPUPBGS
 'morals': PHORLS
 'damned': TKA*PLD
 'vexed': SREBGS/-D

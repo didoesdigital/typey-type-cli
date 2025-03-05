@@ -17,7 +17,7 @@ JavaScript keywords
 'extends': EBGS/TEPBDZ
 'finally': TPHRAOEUPBL
 'for': TPOR
-'function': TPUBGS
+'function': TPUPBGS
 'if': TP
 'implements': EUPL/PHREPLTS
 'import': EUPL/PORT

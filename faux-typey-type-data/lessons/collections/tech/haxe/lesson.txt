@@ -11,7 +11,7 @@ Haxe
 'Sprite': KPA/SPRAOEUT
 '{': TPR-BGT
 'public': PHREUBG
-'function': TPUBGS
+'function': TPUPBGS
 'new': TPHU
 '()': PREPB/PR*EPB
 '{': TPR-BGT

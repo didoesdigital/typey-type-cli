@@ -35,7 +35,7 @@ Irreversible binomials with alliteration
 'flora and fauna': TPHROER/SKP/TPAU/TPHA
 'footloose and fancy-free': TPAOT/TK-LS/HRAOS/SKP/TPAEPBS/TPRAO*E
 'forgive and forget': TPAURG/SKP/TPORGT
-'form and function': TPORPL/SKP/TPUBGS
+'form and function': TPORPL/SKP/TPUPBGS
 'footloose and fancy free': TPAOT/TK-LS/HRAOS/SKP/TPAEPBS/TPRAOE
 'friend or foe': TPREPBD/OR/TPOE
 'fun and frolics': TPUPB/SKP/TPROL/EUBGS

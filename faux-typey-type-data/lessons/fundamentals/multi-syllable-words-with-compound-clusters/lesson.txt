@@ -139,7 +139,7 @@ Multi-syllable words with compound clusters
 'appreciation': PRAOEGS
 'reverend': REFRPBD
 'perception': PERPGS
-'function': TPUBGS
+'function': TPUPBGS
 'corruption': KRUPGS
 'evolution': EFGS
 'corporation': KORPGS

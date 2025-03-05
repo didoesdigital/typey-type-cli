@@ -99,7 +99,7 @@ UX design vocabulary
 'identity': AOEUTD
 'form': TPORPL
 'frame': TPRAEUPL
-'function': TPUBGS
+'function': TPUPBGS
 'Gestalt': KPA/TKPWE/STALT
 'global': TKPWHROEBL
 'navigation': TPHAF/TKPWAEUGS

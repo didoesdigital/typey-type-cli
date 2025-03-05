@@ -3,7 +3,7 @@ JavaScript objects, properties, and methods
 'Array': A/RA*EU
 'Date': KPA/TKAEUT
 'eval': SRA*EL
-'function': TPUBGS
+'function': TPUPBGS
 'hasOwnProperty': HAS/OEPB/PROT
 'Infinity': KPA/TPEUPBT
 'isFinite': S/KPA*/TPAOEUPBT
