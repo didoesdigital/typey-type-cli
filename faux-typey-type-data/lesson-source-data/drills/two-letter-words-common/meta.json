@@ -4,8 +4,8 @@
   "category": "Drills",
   "subcategory": "",
   "path": "/drills/two-letter-words-common/lesson.txt",
-  "wordList": "words.txt",
-  "vocabulary": [
-    "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
-  ]
+  "recommendedDictionarySet": [
+    "lesson-hints/two-letter-words-common-lesson.json"
+  ],
+  "wordList": "words.txt"
 }
