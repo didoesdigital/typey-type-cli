@@ -335,7 +335,7 @@ A lesson may optionally have:
 - `lesson-overview.html` (more details below)
 - `words.txt` (more details below)
 
-In rare cases, you may also create a lesson-hints dictionary, but that's usually not necessary. For examples of that, see the meta files for one of these lessons: numbers, steno party tricks, markdown, or medical-prefixes. It's a last resort, try to avoid it.
+In rare cases, you may also create a lesson-hints dictionary, but that's usually not necessary. For examples of that, see `sourceDictionariesIndex.json` and the meta files for one of these lessons: numbers, steno party tricks, markdown, or medical-prefixes. It's a last resort, try to avoid it.
 
 ### Lesson meta files
 
