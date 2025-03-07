@@ -258,7 +258,7 @@ Little Thumb
 'with': W
 'grief:': TKPWRAOEF/STPH-FPLT
 '"Thou': KW-GS/KPA*/THO*U
-'see'st': SAOE/AE/S*/T*
+'see'st': SAOE/AE/*FT
 'plainly': PHRAEUPBL
 'that': THA
 'we': WE
@@ -324,7 +324,7 @@ Little Thumb
 'his': HEUS
 'wife,': WAOEUF/KW-BG
 '"and': KW-GS/SKP
-'can'st': K/AE/S*/T*
+'can'st': K/AE/*FT
 'thou': THO*U
 'thyself': THAOEU/SEFL
 'have': SR
@@ -1932,7 +1932,7 @@ Little Thumb
 'see': SAOE
 'how': HOU
 'thou': THO*U
-'would'st': WO/AE/S*/T*
+'would'st': WO/AE/*FT
 'cheat': KHAOET
 'me,': PHE/KW-BG
 'thou': THO*U

@@ -426,7 +426,7 @@ The Fairy
 'when': WHEPB
 'she': SHE
 'speaks!': SPAOEBGS/SKHRAPL
-'Would'st': KPA/WO/AE/S*/T*
+'Would'st': KPA/WO/AE/*FT
 'not': TPHOT
 'thou': THO*U
 'be': -B

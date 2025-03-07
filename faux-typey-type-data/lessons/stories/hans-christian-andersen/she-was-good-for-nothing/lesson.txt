@@ -50,7 +50,7 @@ She Was Good for Nothing
 'the': -T
 'place.': PHRAEUS/TP-PL
 '"Hark': KW-GS/KPA*/HARBG
-''ee,': A*E/*E/*E/KW-BG
+''ee,': A*E/KWRAE/KW-BG
 'youngster!"': KWRUPBG/STER/SKHRAPL/KR-GS
 'cried': KRAOEUD
 'he.': HE/TP-PL

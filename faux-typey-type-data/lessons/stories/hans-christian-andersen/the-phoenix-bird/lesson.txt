@@ -362,7 +362,7 @@ The Phoenix Bird
 'the': -T
 'guise': TKPWAOEUZ
 'of': -F
-'Odin's': KPA/O*/TK*/*EUPB/AES
+'Odin's': O*P/TK*/*EUPB/AES
 'raven,': RAFPB/KW-BG
 'and': SKP
 'whispered': WHEUS/PERD

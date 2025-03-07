@@ -720,7 +720,7 @@ The Nightingale
 'supper': SAOURP
 'is': S
 'ended."': EPBD/-D/TP-PL/KR-GS
-'"Tsing-pe!"': KW-GS/T*P/-S/-G/H-PB/P*/*E/SKHRAPL/KR-GS
+'"Tsing-pe!"': KW-GS/T*P/-S/-G/H-PB/P*/SKWR*E/SKHRAPL/KR-GS
 'cried': KRAOEUD
 'the': -T
 'lord-in-waiting,': HRORD/H-PB/TPH/H-PB/WAEUGT/KW-BG

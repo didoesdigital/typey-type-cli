@@ -1135,7 +1135,7 @@ Holger Danske
 'the': -T
 'Denmark,': TKEPB/PHARBG/KW-BG
 'in': TPH
-'Steene': KPA/S*/T*/SKWR*E/*EPB/SKWR*E
+'Steene': S*P/T*/SKWR*E/*EPB/SKWR*E
 'Bille's': PW*EUL/SKWR*E/AES
 'squadron;': SKWAD/ROPB/STPH*FPLT
 'I': EU

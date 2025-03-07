@@ -10,7 +10,7 @@ The Bell-Deep
 '"bell-deep"': KW-GS/PWEL/H-PB/TKAOEP/KR-GS
 'in': TPH
 'the': -T
-'Odense-Au.': KPA/O*/TK*/*EPB/-S/SKWR*E/H-PB/KPA/AEU/SKWRU/TP-PL
+'Odense-Au.': O*P/TK*/*EPB/-S/SKWR*E/H-PB/KPA/AEU/SKWRU/TP-PL
 'Every': KPA/EF
 'child': KHAOEULD
 'in': TPH
@@ -18,7 +18,7 @@ The Bell-Deep
 'old': OLD
 'town': TOUPB
 'of': -F
-'Odense,': KPA/O*/TK*/*EPB/-S/SKWR*E/KW-BG
+'Odense,': O*P/TK*/*EPB/-S/SKWR*E/KW-BG
 'on': OPB
 'the': -T
 'island': AOEULD
@@ -332,7 +332,7 @@ The Bell-Deep
 'down': TKOUPB
 'into': TPHAO
 'the': -T
-'Odense-Au,': KPA/O*/TK*/*EPB/-S/SKWR*E/H-PB/KPA/AEU/SKWRU/KW-BG
+'Odense-Au,': O*P/TK*/*EPB/-S/SKWR*E/H-PB/KPA/AEU/SKWRU/KW-BG
 'where': W-R
 'it': T
 'is': S
@@ -563,7 +563,7 @@ The Bell-Deep
 'out': OUT
 'upon': POPB
 'the': -T
-'Odense-Au,': KPA/O*/TK*/*EPB/-S/SKWR*E/H-PB/KPA/AEU/SKWRU/KW-BG
+'Odense-Au,': O*P/TK*/*EPB/-S/SKWR*E/H-PB/KPA/AEU/SKWRU/KW-BG
 'when': WHEPB
 'the': -T
 'bed': PWED
@@ -1115,7 +1115,7 @@ The Bell-Deep
 'bell-deep': PWEL/H-PB/TKAOEP
 'in': TPH
 'the': -T
-'Odense-Au.': KPA/O*/TK*/*EPB/-S/SKWR*E/H-PB/KPA/AEU/SKWRU/TP-PL
+'Odense-Au.': O*P/TK*/*EPB/-S/SKWR*E/H-PB/KPA/AEU/SKWRU/TP-PL
 'That': KPA/THA
 'is': S
 'what': WHA
@@ -1270,7 +1270,7 @@ The Bell-Deep
 'depths': TK*EPTS
 'of': -F
 'the': -T
-'Odense-Au': KPA/O*/TK*/*EPB/-S/SKWR*E/H-PB/KPA/AEU/SKWRU
+'Odense-Au': O*P/TK*/*EPB/-S/SKWR*E/H-PB/KPA/AEU/SKWRU
 'where': W-R
 'the': -T
 'Au-mann': KPA/AEU/SKWRU/H-PB/HRO*ER/PHAPB/PHAPB
