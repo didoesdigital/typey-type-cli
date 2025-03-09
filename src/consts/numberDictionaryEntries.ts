@@ -1,7 +1,7 @@
 // const numberDictionaryEntries: { [translation: string]: string } = {
 //   "1,000": "#S/W-B/THUZ",
-//   "2,000": "#T-/W-B/THUZ",
 //   "3,000": "#P-/W-B/THUZ",
+//   "2,000": "#T/W-B/THUZ",
 //   "4,000": "#H/W-B/THUZ",
 //   "5,000": "#A/W-B/THUZ",
 //   "6,000": "#F/W-B/THUZ",
@@ -58,8 +58,8 @@
 //   "9000": "90Z",
 //   "10000": "10/THUZ",
 //   "1": "#S",
-//   "2": "#T-",
 //   "3": "#P-",
+//   "2": "#T",
 //   "4": "#H",
 //   "5": "#A",
 //   "0": "#O",
@@ -113,8 +113,8 @@
 
 const numberDictionaryEntries: ReadonlyArray<[string, [string, string][]]> = [
   ["1", [["#S", "plover:built-in-numbers.json"]]],
-  ["2", [["#T-", "plover:built-in-numbers.json"]]],
   ["3", [["#P-", "plover:built-in-numbers.json"]]],
+  ["2", [["#T", "plover:built-in-numbers.json"]]],
   ["4", [["#H", "plover:built-in-numbers.json"]]],
   ["5", [["#A", "plover:built-in-numbers.json"]]],
   ["6", [["#F", "plover:built-in-numbers.json"]]],
@@ -126,8 +126,8 @@ const numberDictionaryEntries: ReadonlyArray<[string, [string, string][]]> = [
 
 // const numberDictionaryEntries: ReadonlyArray<[string, [string, string][]]> = [
 //   ["1,000", [["#S/W-B/THUZ", "typey:numbers-lesson.json"]]],
-//   ["2,000", [["#T-/W-B/THUZ", "typey:numbers-lesson.json"]]],
 //   ["3,000", [["#P-/W-B/THUZ", "typey:numbers-lesson.json"]]],
+//   ["2,000", [["#T/W-B/THUZ", "typey:numbers-lesson.json"]]],
 //   ["4,000", [["#H/W-B/THUZ", "typey:numbers-lesson.json"]]],
 //   ["5,000", [["#A/W-B/THUZ", "typey:numbers-lesson.json"]]],
 //   ["6,000", [["#F/W-B/THUZ", "typey:numbers-lesson.json"]]],
@@ -184,8 +184,8 @@ const numberDictionaryEntries: ReadonlyArray<[string, [string, string][]]> = [
 //   ["9000", [["90Z", "typey:numbers-lesson.json"]]],
 //   ["10000", [["10/THUZ", "typey:numbers-lesson.json"]]],
 //   ["1", [["#S", "typey:numbers-lesson.json"]]],
-//   ["2", [["#T-", "typey:numbers-lesson.json"]]],
 //   ["3", [["#P-", "typey:numbers-lesson.json"]]],
+//   ["2", [["#T", "typey:numbers-lesson.json"]]],
 //   ["4", [["#H", "typey:numbers-lesson.json"]]],
 //   ["5", [["#A", "typey:numbers-lesson.json"]]],
 //   ["0", [["#O", "typey:numbers-lesson.json"]]],

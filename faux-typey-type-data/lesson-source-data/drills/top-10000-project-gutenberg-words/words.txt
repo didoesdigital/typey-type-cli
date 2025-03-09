@@ -350,7 +350,7 @@ four
 wish
 fire
 cried
-2
+{&2}
 women
 speak
 number
