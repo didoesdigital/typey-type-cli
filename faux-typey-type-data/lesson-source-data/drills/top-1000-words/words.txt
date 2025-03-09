@@ -570,7 +570,7 @@ west
 pay
 red
 an'
-4
+{&4}
 hath
 note
 although
