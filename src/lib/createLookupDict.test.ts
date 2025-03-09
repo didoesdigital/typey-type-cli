@@ -16,8 +16,8 @@ describe("createLookupDict", () => {
       new Map([
         ["0", [["#O", "plover:built-in-numbers.json"]]],
         ["1", [["#S", "plover:built-in-numbers.json"]]],
-        ["3", [["#P-", "plover:built-in-numbers.json"]]],
         ["2", [["#T", "plover:built-in-numbers.json"]]],
+        ["3", [["#P", "plover:built-in-numbers.json"]]],
         ["4", [["#H", "plover:built-in-numbers.json"]]],
         ["5", [["#A", "plover:built-in-numbers.json"]]],
         ["6", [["#F", "plover:built-in-numbers.json"]]],
@@ -44,8 +44,8 @@ describe("createLookupDict", () => {
     const testOutput = new Map([
       ["0", [["#O", "plover:built-in-numbers.json"]]],
       ["1", [["#S", "plover:built-in-numbers.json"]]],
-      ["3", [["#P-", "plover:built-in-numbers.json"]]],
       ["2", [["#T", "plover:built-in-numbers.json"]]],
+      ["3", [["#P", "plover:built-in-numbers.json"]]],
       ["4", [["#H", "plover:built-in-numbers.json"]]],
       ["5", [["#A", "plover:built-in-numbers.json"]]],
       ["6", [["#F", "plover:built-in-numbers.json"]]],

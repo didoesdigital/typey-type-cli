@@ -117,13 +117,13 @@ describe("create stroke hint for phrase", () => {
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("WUPB/EPL/TKA*RB/TWO/KW-BG/#P/#H/H-PB/#A/KR-GS/#F/AE/#-P/ xxx");
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("WUPB/EPL/TKA*RB/TWO/KW-BG/#P/#H/H-PB/R5/KR-GS/#F/AE/#-P/ xxx");
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("WUPB/EPL/TKA*RB/TWO/KW-BG/#P/#H/H-PB/R5/KR-GS/#F/AE/#-P");
-      // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("WUPB/EPL/TKA*RB/TWO/KW-BG/#P-/#H/H-PB/R5/KR-GS/#F/AE/#-P/KHR-PB/*E");
+      // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("WUPB/EPL/TKA*RB/TWO/KW-BG/#P/#H/H-PB/R5/KR-GS/#F/AE/#-P/KHR-PB/*E");
       expect(
         createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
       ).toEqual(
-        "WUPB/EPL/TKA*RB/TWO/KW-BG/#P-/#H/H-PB/#A/KR-GS/#F/AE/#-P/KHR-PB/*E/*EU/TKPW*/H*/T*/STPH*FPLT/TPH*"
+        "WUPB/EPL/TKA*RB/TWO/KW-BG/#P/#H/H-PB/#A/KR-GS/#F/AE/#-P/KHR-PB/*E/*EU/TKPW*/H*/T*/STPH*FPLT/TPH*"
       );
-      // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("WUPB/EPL/TKA*RB/TWO/KW-BG/#P-/#H/H-PB/#A/KR-GS/#F/AE/#-P/KHR-PB/AOE/KWR*EU/TKPW*/H*/T*/STPH*FPLT/TPH*");
+      // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("WUPB/EPL/TKA*RB/TWO/KW-BG/#P/#H/H-PB/#A/KR-GS/#F/AE/#-P/KHR-PB/AOE/KWR*EU/TKPW*/H*/T*/STPH*FPLT/TPH*");
     });
 
     it("with only punctuation dash", () => {
@@ -713,17 +713,17 @@ describe("create stroke hint for phrase", () => {
   describe("returns string showing text with numbers", () => {
     it("zero to five with dashes", () => {
       // let wordOrPhraseMaterial = "0.1.2.3.4.5.6.7.8.9.10";
-      // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("#O P-P #S P-P #T- P-P #P- P-P #H P-P #A P-P #F P-P #-P P-P #L P-P #-T 1/0");
+      // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("#O P-P #S P-P #T P-P #P P-P #H P-P #A P-P #F P-P #-P P-P #L P-P #-T 1/0");
       let wordOrPhraseMaterial = "-0-1-2-3-4-5";
-      // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("H*B #O H-PB #S H-PB #T- H-PB #P- H-PB #H H-PB #A");
+      // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("H*B #O H-PB #S H-PB #T H-PB #P H-PB #H H-PB #A");
       expect(
         createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
-      ).toEqual("H*B/#O/H-PB/#S/H-PB/#T-/H-PB/#P-/H-PB/#H/H-PB/#A");
+      ).toEqual("H*B/#O/H-PB/#S/H-PB/#T/H-PB/#P/H-PB/#H/H-PB/#A");
     });
 
     it("five to ten with dashes", () => {
       // let wordOrPhraseMaterial = "0.1.2.3.4.5.6.7.8.9.10";
-      // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("#O P-P #S P-P #T- P-P #P- P-P #H P-P #A P-P #F P-P #-P P-P #L P-P #-T 1/0");
+      // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("#O P-P #S P-P #T P-P #P P-P #H P-P #A P-P #F P-P #-P P-P #L P-P #-T 1/0");
       let wordOrPhraseMaterial = "-5-6-7-8-9-10";
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("H*B #A H-PB #F H-PB #-P H-PB #L H-PB #-T H-PB 1/0");
       expect(
@@ -733,7 +733,7 @@ describe("create stroke hint for phrase", () => {
 
     it("zero to ten with spaces", () => {
       // let wordOrPhraseMaterial = "0 1 2 3 4 5 6 7 8 9 10";
-      // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("#O #S #T- #P- #H #A #F #-P #L #-T 1/0");
+      // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("#O #S #T #P #H #A #F #-P #L #-T 1/0");
       let wordOrPhraseMaterial = "0 0 1 2 3 4 5 6 7 8 9 10";
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("#O 0EU #S #T #P #H R5 #F #-P #L #-T 1/0");
       expect(

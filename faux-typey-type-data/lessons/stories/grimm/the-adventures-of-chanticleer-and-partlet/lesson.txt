@@ -1211,7 +1211,7 @@ The Adventures of Chanticleer and Partlet
 'on': OPB
 'the': -T
 'spot.': SPOT/TP-PL
-'3.': #P-/P-P
+'3.': #P/P-P
 'HOW': *URP/HOU
 'PARTLET': P*P/A*P/R*P/T*P/HR*P/*EP/T*P
 'DIED': *URP/TKAOEUD
