@@ -1789,7 +1789,7 @@ Hans in Luck
 'working': WOG
 'and': SKP
 'singing,': SEUPBG/-G/KW-BG
-''O'er': A*E/O*P/AE/*E/R*
+''O'er': A*E/O*E/*ER
 'hill': HEUL
 'and': SKP
 'o'er': OE/*ER
