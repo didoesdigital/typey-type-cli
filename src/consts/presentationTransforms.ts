@@ -11,8 +11,8 @@ const presentationTransforms: PresentationTransforms = {
       .replace(/{(\^[^^]+)}/, "$1"), // {^left}
   replaceGlueCurlies: (translation: string) =>
     translation
-      .replace(/{>}{&([A-Za-z])}/, "$1") // {>}{&l}
-      .replace(/{&([A-Za-z])}/, "$1"), // {&l}
+      .replace(/{>}{&([A-Za-z0-9])}/, "$1") // {>}{&l}
+      .replace(/{&([A-Za-z0-9]+)}/, "$1"), // {&l} or {&2} or {&na}
   replaceArrowNavigation: (translation: string) =>
     translation.replace(/{#(Left[ ]?|Right[ ]?|Up[ ]?|Down[ ]?)+}/, ""), // {#Left Left Left} or {#Left}
   replaceCapitalisationFormatting: (translation: string) =>
