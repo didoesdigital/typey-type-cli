@@ -20798,7 +20798,7 @@
   "TPH*": "{>}{&n}",
   "TPH*/KWR*/*U": "NYU",
   "TPH*/KWRET": "nyet",
-  "TPH*/A*": "na",
+  "TPH*/A*": "{&na}",
   "TPH*/A*/SR*": "nav",
   "TPH*/A*/PH*/PW*/KWR*/H-PB/P*/A*/PH*/PW*/KWR*": "namby-pamby",
   "TPH*/O*/SR*": "nov",

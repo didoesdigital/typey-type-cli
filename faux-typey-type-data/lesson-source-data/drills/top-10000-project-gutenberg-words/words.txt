@@ -4074,7 +4074,7 @@ retire
 economy
 sufferings
 secrets
-na
+{&na}
 halted
 govern
 favourable
