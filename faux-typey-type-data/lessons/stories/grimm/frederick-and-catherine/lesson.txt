@@ -896,7 +896,7 @@ Frederick and Catherine
 'her': HER
 'husband,': HUS/KW-BG
 ''Hark': A*E/KPA*/HARBG
-'ye,': KWR*/*E/KW-BG
+'ye,': KWR*/SKWRE/KW-BG
 'Frederick,': TPRED/REUBG/KW-BG
 'we': WE
 'will': HR

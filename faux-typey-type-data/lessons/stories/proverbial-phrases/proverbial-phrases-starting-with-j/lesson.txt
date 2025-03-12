@@ -10,7 +10,7 @@ Proverbial phrases starting with J
 'Judge': SKWR*UPBLG
 'not,': TPHOT/KW-BG
 'that': THA
-'ye': KWR*/*E
+'ye': KWR*/SKWRE
 'be': -B
 'not': TPHOT
 'judged.': SKWRUGD/TP-PL

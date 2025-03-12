@@ -450,7 +450,7 @@ Top 10000 Project Gutenberg words
 'show': SHOE
 'party': PAERT
 'fine': TPAOEUPB
-'ye': KWR*/*E
+'ye': KWR*/SKWRE
 'ready': R-D
 'story': STOER
 'common': KPHOPB

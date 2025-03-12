@@ -1156,7 +1156,7 @@ The Chaos
 'with': W
 'ally;': AL/HREU/STPH*FPLT
 'yea,': KWRA*EU/KW-BG
-'ye,': KWR*/*E/KW-BG
+'ye,': KWR*/SKWRE/KW-BG
 'Eye,': KPA/AOEU/KW-BG
 'I,': EU/KW-BG
 'ay,': A/KWR*/KW-BG

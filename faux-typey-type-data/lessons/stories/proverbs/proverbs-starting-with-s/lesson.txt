@@ -2,7 +2,7 @@ Proverbs starting with S
 
 'Seek': KPA/SAOEBG
 'and': SKP
-'ye': KWR*/*E
+'ye': KWR*/SKWRE
 'shall': SHAL
 'find.': TPAOEUPBD/TP-PL
 'Six': KPA/SEUBGS

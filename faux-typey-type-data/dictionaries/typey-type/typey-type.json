@@ -29768,7 +29768,7 @@
   "KWR*/SP-S/*ER": "yer",
   "KWR*/TKPWHROB/HREUPB": "y-globulin",
   "KWR*/O*/TPH*": "yon",
-  "KWR*/*E": "ye",
+  "KWR*/*E": "{&ye}",
   "KWR*E": "yeah",
   "KWR*E/TP-RBGS": "yeah{,} if",
   "KWR*E/T-RBGS": "yeah{,}it",

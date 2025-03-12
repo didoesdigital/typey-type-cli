@@ -333,7 +333,7 @@ The Sunbeam and the Captive
 'it.': T/TP-PL
 'Sound': KPA/SOUPBD
 'on,': OPB/KW-BG
-'ye': KWR*/*E
+'ye': KWR*/SKWRE
 'glorious': TKPWHRORS
 'strains': STRAEUPBS
 'of': -F

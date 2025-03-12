@@ -1450,7 +1450,7 @@ Hans in Luck
 'his': HEUS
 'head.': HED/TP-PL
 ''Hark': A*E/KPA*/HARBG
-'ye!'': KWR*/*E/SKHRAPL/AE
+'ye!'': KWR*/SKWRE/SKHRAPL/AE
 'said': SED
 'he,': HE/KW-BG
 ''my': A*E/PHEU

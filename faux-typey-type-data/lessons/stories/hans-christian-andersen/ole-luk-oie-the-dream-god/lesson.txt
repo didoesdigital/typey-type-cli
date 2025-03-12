@@ -3307,7 +3307,7 @@ Ole-Luk-Oie, the Dream-God
 'the': -T
 'other."': OER/TP-PL/KR-GS
 '"Hark': KW-GS/KPA*/HARBG
-'ye!': KWR*/*E/SKHRAPL
+'ye!': KWR*/SKWRE/SKHRAPL
 'Mr.': PHR-FPLT
 'Luk-Oie,"': HR*P/SKWRU/*BG/H-PB/O*P/AO*E/KW-BG/KR-GS
 'said': SED

@@ -160,7 +160,7 @@ The Travelling Musicians
 'my': PHEU
 'livelihood?'': HRAOFD/H-F/AE
 ''Hark': A*E/KPA*/HARBG
-'ye!'': KWR*/*E/SKHRAPL/AE
+'ye!'': KWR*/SKWRE/SKHRAPL/AE
 'said': SED
 'the': -T
 'ass,': A*S/KW-BG

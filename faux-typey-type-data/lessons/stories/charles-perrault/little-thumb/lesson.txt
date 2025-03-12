@@ -1645,10 +1645,10 @@ Little Thumb
 'babies,': PWAEBS/KW-BG
 'whither': WHEU/THER
 'are': R
-'ye': KWR*/*E
+'ye': KWR*/SKWRE
 'come?': KOPL/H-F
 'Do': KPA/TKO
-'ye': KWR*/*E
+'ye': KWR*/SKWRE
 'know': TPHOE
 'that': THA
 'this': TH

@@ -2149,7 +2149,7 @@ The Bishop of Borglum and His Warriors
 'into': TPHAO
 'his': HEUS
 'grave—into': TKPWRAEUF/EPL/TKA*RB/TPHAO
-'oblivion—ye': OE/PWHREUF/KWROPB/EPL/TKA*RB/KWR*/*E
+'oblivion—ye': OE/PWHREUF/KWROPB/EPL/TKA*RB/KWR*/SKWRE
 'terrible': TERBL
 'shapes': SHAEUPS
 'of': -F

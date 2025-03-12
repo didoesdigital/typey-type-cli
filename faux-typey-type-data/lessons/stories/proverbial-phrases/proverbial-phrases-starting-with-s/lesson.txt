@@ -43,7 +43,7 @@ Proverbial phrases starting with S
 'believing.': PWHREFG/TP-PL
 'Seek': KPA/SAOEBG
 'and': SKP
-'ye': KWR*/*E
+'ye': KWR*/SKWRE
 'shall': SHAL
 'find.': TPAOEUPBD/TP-PL
 'Set': KPA/SET

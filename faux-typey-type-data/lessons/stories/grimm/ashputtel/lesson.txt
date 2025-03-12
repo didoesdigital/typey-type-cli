@@ -719,9 +719,9 @@ Ashputtel
 'me,': PHE/KW-BG
 'quick!': KWEUBG/SKHRAPL
 'Haste': KPA/HAEUFT
-'ye,': KWR*/*E/KW-BG
+'ye,': KWR*/SKWRE/KW-BG
 'haste': HAEUFT
-'ye!--pick,': KWR*/*E/SKHRAPL/H-PB/H-PB/PEUBG/KW-BG
+'ye!--pick,': KWR*/SKWRE/SKHRAPL/H-PB/H-PB/PEUBG/KW-BG
 'pick,': PEUBG/KW-BG
 'pick!'': PEUBG/SKHRAPL/AE
 'Then': KPA/THEPB
@@ -966,9 +966,9 @@ Ashputtel
 'me,': PHE/KW-BG
 'quick!': KWEUBG/SKHRAPL
 'Haste': KPA/HAEUFT
-'ye,': KWR*/*E/KW-BG
+'ye,': KWR*/SKWRE/KW-BG
 'haste': HAEUFT
-'ye!--pick,': KWR*/*E/SKHRAPL/H-PB/H-PB/PEUBG/KW-BG
+'ye!--pick,': KWR*/SKWRE/SKHRAPL/H-PB/H-PB/PEUBG/KW-BG
 'pick,': PEUBG/KW-BG
 'pick!'': PEUBG/SKHRAPL/AE
 'Then': KPA/THEPB
