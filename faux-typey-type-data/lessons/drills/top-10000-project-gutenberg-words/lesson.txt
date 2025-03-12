@@ -1917,7 +1917,7 @@ Top 10000 Project Gutenberg words
 'paying': PAEUG
 'literary': HREUT/REU
 'writer': WRAOEUR
-'fn': TP*/TPH*
+'fn': TP*PB
 'Israel': EUZ/RAEL
 'disappeared': TKEUS/PAOERD
 'interrupted': EUPBT/RUPTD
