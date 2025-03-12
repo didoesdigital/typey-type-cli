@@ -2141,7 +2141,7 @@ The Elfin Hill
 'and': SKP
 'little': HREUL
 'Peter': PAOERT
-'Playman': P*P/HR*/A*/KWR*/PH*/A*PB
+'Playman': KPA/PHRAEU/PHA*PB
 'had': H
 'not': TPHOT
 'yet': KWRET

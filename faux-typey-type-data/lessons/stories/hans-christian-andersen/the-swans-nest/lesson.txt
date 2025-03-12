@@ -94,7 +94,7 @@ The Swan's Nest
 'the': -T
 'name': TPHAEUPL
 'of': -F
-'Varangians.': SR*P/A*/R*/A*/TPH*/TKPW*/SKWREU/A*PB/-S/TP-PL
+'Varangians.': SR*P/A*/R*/A*/TPH*/TKPW*/KWRAPB/-S/TP-PL
 'On': KPA/OPB
 'the': -T
 'coast': KOEFT
@@ -168,7 +168,7 @@ The Swan's Nest
 'heathens': HAO*ET/-PBS
 'on': OPB
 'the': -T
-'Pomerian': KPA/POPL/*ER/SKWREU/A*PB
+'Pomerian': KPA/POPL/*ER/KWRAPB
 'coast': KOEFT
 'bent': PWEPBT
 'the': -T

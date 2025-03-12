@@ -1036,7 +1036,7 @@ A Society
 'herself': H*ERS
 'as': AS
 'an': APB
-'Æthiopian': *URP/A*RB/*T/KWRO*E/*P/SKWREU/A*PB
+'Æthiopian': *URP/A*RB/*T/KWRO*E/*P/KWRAPB
 'Prince': PR*EUPBS
 'and': SKP
 'gone': TKPWOPB

@@ -1115,7 +1115,7 @@ The Last Dream of the Old Oak
 'then,': THEPB/KW-BG
 'guitars': TKPWEU/TAR/-S
 'and': SKP
-'Eolian': *EP/HRO*/SKWREU/A*PB
+'Eolian': *EP/HRO*/KWRAPB
 'harps': HARP/-S
 'had': H
 'been': PW-PB

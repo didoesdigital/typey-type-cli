@@ -2422,7 +2422,7 @@ The Bishop of Borglum and His Warriors
 'Borglum.': PW*P/O*/R*/TKPW*/HR*/*UPL/TP-PL
 'Waltzes': KPA/WAULGT/-S
 'and': SKP
-'Styrian': S*P/T*/KWR*/R*/SKWREU/A*PB
+'Styrian': S*P/T*/KWR*/R*/KWRAPB
 'dances': TKAPBS/-S
 'are': R
 'given,': TKPWEUFPB/KW-BG
