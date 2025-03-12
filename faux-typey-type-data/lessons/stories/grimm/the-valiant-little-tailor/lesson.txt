@@ -3047,7 +3047,7 @@ The Valiant Little Tailor
 'and': SKP
 'patch': PAFP
 'the': -T
-'pantaloons,': PAPBT/A*L/SKWRAO/*PB/-S/KW-BG
+'pantaloons,': PAPBT/A*L/SKWRO/O*PB/-S/KW-BG
 'or': OR
 'else': ELS
 'I': EU
@@ -3244,7 +3244,7 @@ The Valiant Little Tailor
 'patch': PAFP
 'me': PHE
 'the': -T
-'pantaloons,': PAPBT/A*L/SKWRAO/*PB/-S/KW-BG
+'pantaloons,': PAPBT/A*L/SKWRO/O*PB/-S/KW-BG
 'or': OR
 'I': EU
 'will': HR

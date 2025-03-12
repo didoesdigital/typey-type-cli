@@ -2313,7 +2313,7 @@ Ib and Little Christina
 'Christina,': KREUS/TEU/TPHA/KW-BG
 'through': THRU
 'a': AEU
-'postillion': P*/O*/S*/T*/*EU/HR*/HR*/KWRO*E/*PB
+'postillion': P*/O*/S*/T*/*EU/HR*/HR*/KWROPB
 'or': OR
 'eel-seller': AOEL/H-PB/SERL
 'who': WHO

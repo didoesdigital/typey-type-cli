@@ -1128,7 +1128,7 @@ The Sleeping Beauty in the Wood
 'stewards,': STAOURDZ/KW-BG
 'cooks,': KAOBGS/KW-BG
 'under-cooks,': TPH-PB/H-PB/KAOBGS/KW-BG
-'scullions,': S*/KR*/*U/HR*/HR*/KWRO*E/*PB/-S/KW-BG
+'scullions,': S*/KR*/*U/HR*/HR*/KWROPB/-S/KW-BG
 'guards,': TKPWARDZ/KW-BG
 'with': W
 'their': THAEUR
@@ -2293,7 +2293,7 @@ The Sleeping Beauty in the Wood
 'time,': TAOEUPL/KW-BG
 'the': -T
 'lord': HRORD
-'almoner': A*/HR*/PH*/SKWRO/*PB/*ER
+'almoner': A*/HR*/PH*/O*PB/*ER
 'married': PHAERD
 'them': THEPL
 'in': TPH

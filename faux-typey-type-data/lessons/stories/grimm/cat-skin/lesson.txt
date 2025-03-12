@@ -1434,7 +1434,7 @@ Cat-Skin
 ''but': A*E/PWUT
 'to': TO
 'be': -B
-'scullion-girl,': S*/KR*/*U/HR*/HR*/KWRO*E/*PB/H-PB/TKPWEURL/KW-BG
+'scullion-girl,': S*/KR*/*U/HR*/HR*/KWROPB/H-PB/TKPWEURL/KW-BG
 'and': SKP
 'to': TO
 'have': SR

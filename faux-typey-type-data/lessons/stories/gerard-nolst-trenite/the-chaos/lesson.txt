@@ -342,7 +342,7 @@ The Chaos
 'but': PWUT
 'minute.': PHEUPB/TP-PL
 'Say': KPA/SAEU
-'abscission': A*/PW*/S*/KR*/SKWREU/-S/-S/KWRO*E/*PB
+'abscission': A*/PW*/S*/KR*/SKWREU/-S/-S/KWROPB
 'with': W
 'precision,': PRE/SEUGS/KW-BG
 'Now:': KPA/TPHOU/STPH-FPLT
@@ -785,9 +785,9 @@ The Chaos
 'you': U
 'know': TPHOE
 'them,': THEPL/KW-BG
-'Vaughan': SR*P/A*/*U/TKPW*/H*/SKWRA/*PB
+'Vaughan': SR*P/A*/*U/TKPW*/H*/A*PB
 'and': SKP
-'Strachan.': S*P/T*/R*/SKWRA/*FP/SKWRA/*PB/TP-PL
+'Strachan.': S*P/T*/R*/SKWRA/*FP/A*PB/TP-PL
 'No,': KPA/TPHO/KW-BG
 'my': PHEU
 'maiden,': PHAEUD/*EPB/KW-BG
@@ -1375,7 +1375,7 @@ The Chaos
 'like': HRAOEUBG
 'rowlock,': R*/O*/W*/HR*/O*/KR*/*BG/KW-BG
 'gunwale,': TKPWUPB/TPHEL/KW-BG
-'Islington,': *EUP/S*/HR*/*EU/TPH*/TKPW*/T*/SKWRO/*PB/KW-BG
+'Islington,': *EUP/S*/HR*/*EU/TPH*/TKPW*/T*/O*PB/KW-BG
 'and': SKP
 'Isle': KPA/AO*EULS
 'of': -F

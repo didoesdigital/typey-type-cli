@@ -1560,7 +1560,7 @@ Riquet With the Tuft
 'full': TPUL
 'of': -F
 'cooks,': KAOBGS/KW-BG
-'scullions,': S*/KR*/*U/HR*/HR*/KWRO*E/*PB/-S/KW-BG
+'scullions,': S*/KR*/*U/HR*/HR*/KWROPB/-S/KW-BG
 'and': SKP
 'all': AUL
 'sorts': SORTS

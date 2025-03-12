@@ -1713,7 +1713,7 @@ Blue Beard
 'brothers,': PWROERS/KW-BG
 'one': WUPB
 'a': AEU
-'dragoon,': TKRAG/SKWRAO/*PB/KW-BG
+'dragoon,': TKRAG/SKWRO/O*PB/KW-BG
 'the': -T
 'other': OER
 'a': AEU

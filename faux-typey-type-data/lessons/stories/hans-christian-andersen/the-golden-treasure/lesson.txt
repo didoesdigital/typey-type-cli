@@ -409,7 +409,7 @@ The Golden Treasure
 'the': -T
 'temples': TA*EPLS
 'in': TPH
-'Hindostan,': H*P/*EU/TPH*/TK*/O*/S*/T*/SKWRA/*PB/KW-BG
+'Hindostan,': H*P/*EU/TPH*/TK*/O*/S*/T*/A*PB/KW-BG
 'mighty': PHAOEUT/KWREU
 'deeds': TKAOEDZ
 'of': -F

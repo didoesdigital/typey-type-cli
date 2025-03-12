@@ -1036,7 +1036,7 @@ A Society
 'herself': H*ERS
 'as': AS
 'an': APB
-'Æthiopian': *URP/A*RB/*T/KWRO*E/*P/KWRA*/*PB
+'Æthiopian': *URP/A*RB/*T/KWRO*E/*P/SKWREU/A*PB
 'Prince': PR*EUPBS
 'and': SKP
 'gone': TKPWOPB
@@ -3489,7 +3489,7 @@ A Society
 'the': -T
 'centre.': STR/A*U/TP-PL
 'Is': KPA/S
-'Kensington': K*P/*E/TPH*/S*/*EU/TPH*/TKPW*/T*/SKWRO/*PB
+'Kensington': K*P/*E/TPH*/S*/*EU/TPH*/TKPW*/T*/O*PB
 'a': AEU
 'nice': TPHAOEUS
 'place': PHRAEUS

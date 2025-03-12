@@ -133,7 +133,7 @@ Donkey-Skin
 'coverts': KOEFRT/-S
 'of': -F
 'rich': REUFP
-'caparison;': KAP/A*R/SKWREU/-S/SKWRO/*PB/STPH*FPLT
+'caparison;': KAP/A*R/SKWREU/-S/O*PB/STPH*FPLT
 'but': PWUT
 'what': WHA
 'most': PHOFT
@@ -2628,7 +2628,7 @@ Donkey-Skin
 'it': T
 'was': WAS
 'a': AEU
-'scullion': S*/KR*/*U/HR*/HR*/KWRO*E/*PB
+'scullion': S*/KR*/*U/HR*/HR*/KWROPB
 'called': KAULD
 'Donkey-skin': KPA/TKOPB/KEU/H-PB/SKEUPB
 'because': PWAU
@@ -3975,7 +3975,7 @@ Donkey-Skin
 'the': -T
 'kitchen-maids,': K-FP/H-PB/PHAEUDZ/KW-BG
 'the': -T
-'scullions,': S*/KR*/*U/HR*/HR*/KWRO*E/*PB/-S/KW-BG
+'scullions,': S*/KR*/*U/HR*/HR*/KWROPB/-S/KW-BG
 'and': SKP
 'the': -T
 'sheep-girls.': SHAOEP/H-PB/TKPWEURLS/TP-PL

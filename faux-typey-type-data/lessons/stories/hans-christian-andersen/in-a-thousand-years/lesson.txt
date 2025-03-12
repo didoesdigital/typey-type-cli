@@ -381,7 +381,7 @@ In a Thousand Years
 'born,': PWORPB/KW-BG
 'and': SKP
 'where': W-R
-'Calderon': KR*P/A*/HR*/TK*/*ER/SKWRO/*PB
+'Calderon': KR*P/A*/HR*/TK*/*ER/O*PB
 'sang': SAPBG
 'dramas': TKRA/PHAS
 'in': TPH

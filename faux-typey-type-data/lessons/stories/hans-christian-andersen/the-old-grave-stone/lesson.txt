@@ -293,7 +293,7 @@ The Old Grave-Stone
 'grave-stone': TKPWRAEUF/H-PB/STOEPB
 'of': -F
 'Preben': P*P/R*/*E/PW*/*EPB
-'Schwane': S*P/KR*/H*/W*/SKWRA/*PB/SKWRE
+'Schwane': S*P/KR*/H*/W*/A*PB/SKWRE
 'and': SKP
 'his': HEUS
 'wife."': WAOEUF/TP-PL/KR-GS
@@ -750,7 +750,7 @@ The Old Grave-Stone
 'old': OLD
 'as': AS
 'Preben': P*P/R*/*E/PW*/*EPB
-'Schwane': S*P/KR*/H*/W*/SKWRA/*PB/SKWRE
+'Schwane': S*P/KR*/H*/W*/A*PB/SKWRE
 'then': THEPB
 'was.': WAS/TP-PL
 'Time': KPA/TAOEUPL

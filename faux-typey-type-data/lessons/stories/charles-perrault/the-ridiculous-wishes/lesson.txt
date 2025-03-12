@@ -23,7 +23,7 @@ The Ridiculous Wishes
 'toil': TOEUL
 'for': TPOR
 'little': HREUL
-'guerdon,': HRO*ER/TKPWU/SKWRE/R*D/SKWRO/*PB/KW-BG
+'guerdon,': HRO*ER/TKPWU/SKWRE/R*D/O*PB/KW-BG
 'and': SKP
 'although': HR*T
 'he': HE

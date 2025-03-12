@@ -374,7 +374,7 @@ Two Brothers
 'the': -T
 'story': STOER
 'of': -F
-'Solon.': KPA/SO/HRO/*PB/TP-PL
+'Solon.': KPA/SOL/O*PB/TP-PL
 'His': KPA/HEUS
 'thoughts': THAUTS
 'lifted': HREUFTD
@@ -428,7 +428,7 @@ Two Brothers
 'the': -T
 'voice': SROEUS
 'of': -F
-'Solon;': KPA/SO/HRO/*PB/STPH*FPLT
+'Solon;': KPA/SOL/O*PB/STPH*FPLT
 'spoken': SPOEPB
 'in': TPH
 'a': AEU

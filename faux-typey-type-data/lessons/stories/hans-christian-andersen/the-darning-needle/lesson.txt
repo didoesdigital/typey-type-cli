@@ -772,7 +772,7 @@ The Darning-Needle
 'the': -T
 'fingers': TPEURPBGS
 'wrote.': WRO/TP-PL
-'Longman,': HR*P/O*/TPH*/TKPW*/PH*/SKWRA/*PB/KW-BG
+'Longman,': HR*P/O*/TPH*/TKPW*/PH*/A*PB/KW-BG
 'the': -T
 'middle': PH*EULD
 'finger,': TPEURPBG/KW-BG
@@ -797,7 +797,7 @@ The Darning-Needle
 'waist.': WAEUFT/TP-PL
 'And': AFPBD
 'little': HREUL
-'Playman': P*P/HR*/A*/KWR*/PH*/SKWRA/*PB
+'Playman': P*P/HR*/A*/KWR*/PH*/A*PB
 'did': TK
 'nothing': TPHOG
 'at': AT

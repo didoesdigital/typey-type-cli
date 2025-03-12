@@ -957,7 +957,7 @@ Ole the Tower-Keeper
 'of': -F
 'abuse': PWAOUS
 'and': SKP
-'vituperation': SR*/*EU/T*/*U/P*/*E/R*/A*/T*/KWRO*E/*PB
+'vituperation': SR*EUT/SKWRUP/*ER/AEUGS
 'they': THE
 'use,': AOUS/KW-BG
 'and': SKP

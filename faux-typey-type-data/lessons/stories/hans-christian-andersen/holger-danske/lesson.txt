@@ -8,7 +8,7 @@ Holger Danske
 'old': OLD
 'castle': KAFL
 'named': TPHAEUPLD
-'Kronenburg,': K*P/R*/SKWRO/*PB/*EPB/PW*URG/KW-BG
+'Kronenburg,': K*P/R*/O*PB/*EPB/PW*URG/KW-BG
 'close': KHROES
 'by': PWEU
 'the': -T
@@ -144,7 +144,7 @@ Holger Danske
 'old': OLD
 'castle': KAFL
 'of': -F
-'Kronenburg,': K*P/R*/SKWRO/*PB/*EPB/PW*URG/KW-BG
+'Kronenburg,': K*P/R*/O*PB/*EPB/PW*URG/KW-BG
 'where': W-R
 'Holger': H*P/O*/HR*/TKPW*/*ER
 'Danske': TKAPB/-S/*BG/SKWRE
@@ -1212,7 +1212,7 @@ Holger Danske
 'to': TO
 'us': US
 'from': TPR
-'Kronenburg': K*P/R*/SKWRO/*PB/*EPB/PW*URG
+'Kronenburg': K*P/R*/O*PB/*EPB/PW*URG
 'to': TO
 'help': HEP
 'us': US
@@ -1581,7 +1581,7 @@ Holger Danske
 'old': OLD
 'castle': KAFL
 'of': -F
-'Kronenburg,': K*P/R*/SKWRO/*PB/*EPB/PW*URG/KW-BG
+'Kronenburg,': K*P/R*/O*PB/*EPB/PW*URG/KW-BG
 'and': SKP
 'the': -T
 'Sound': KPA/SOUPBD
@@ -1668,7 +1668,7 @@ Holger Danske
 'light': HRAOEUT
 'shone': SHO*EPB
 'over': OEFR
-'Kronenburg,': K*P/R*/SKWRO/*PB/*EPB/PW*URG/KW-BG
+'Kronenburg,': K*P/R*/O*PB/*EPB/PW*URG/KW-BG
 'and': SKP
 'the': -T
 'wind': WEUPBD
@@ -1698,7 +1698,7 @@ Holger Danske
 'the': -T
 'cannon,': KAPB/TPHOPB/KW-BG
 'and': SKP
-'Kronenburg': K*P/R*/SKWRO/*PB/*EPB/PW*URG
+'Kronenburg': K*P/R*/O*PB/*EPB/PW*URG
 'returned': RURPBD
 'the': -T
 'salute,': SA/HRAOUT/KW-BG
