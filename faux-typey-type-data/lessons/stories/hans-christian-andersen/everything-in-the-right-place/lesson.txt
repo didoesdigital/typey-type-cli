@@ -33,7 +33,7 @@ Everything in the Right Place
 'which': WEU
 'reeds': RAOED/-S
 'and': SKP
-'bulrushes': PW*/*U/HR*/R*/SKWRU/*RB/SKWR*E/-S
+'bulrushes': PW*/*U/HR*/R*/SKWRU/*RB/SKWRE/-S
 'grew.': TKPWRAOU/TP-PL
 'Close': KPA/KHROES
 'by': PWEU
@@ -797,7 +797,7 @@ Everything in the Right Place
 '"That's': KW-GS/KPA*/THATS
 'a': AEU
 'bad': PWAD
-'pastime,"': P*/A*/S*/T*/*EU/PH*/SKWR*E/KW-BG/KR-GS
+'pastime,"': HRO*ER/PA/-S/TAO*EUPL/KW-BG/KR-GS
 'he': HE
 'said;': SED/STPH*FPLT
 '"when': KW-GS/WHEPB
@@ -1221,7 +1221,7 @@ Everything in the Right Place
 'and': SKP
 'hart's-tongue': HRO*ER/HA*RT/AES/H-PB/TUPBG
 'ferns': TPERPB/-S
-'throve,': T*/H*/R*/O*/SR*/SKWR*E/KW-BG
+'throve,': T*/H*/R*/O*/SR*/SKWRE/KW-BG
 'and': SKP
 'even': AOEPB
 'a': AEU
@@ -1251,7 +1251,7 @@ Everything in the Right Place
 'wind': WEUPBD
 'blew': PWHRAOU
 'the': -T
-'chickweed': KR*/H*/*EU/KR*/K*/W*/SKWR*E/-D
+'chickweed': KR*/H*/*EU/KR*/K*/W*/SKWRE/-D
 'into': TPHAO
 'the': -T
 'corner': KRORPB

@@ -1128,7 +1128,7 @@ The Sleeping Beauty in the Wood
 'stewards,': STAOURDZ/KW-BG
 'cooks,': KAOBGS/KW-BG
 'under-cooks,': TPH-PB/H-PB/KAOBGS/KW-BG
-'scullions,': S*/KR*/*U/HR*/HR*/SKWREU/KWRO/*PB/-S/KW-BG
+'scullions,': S*/KR*/*U/HR*/HR*/KWRO*E/*PB/-S/KW-BG
 'guards,': TKPWARDZ/KW-BG
 'with': W
 'their': THAEUR
@@ -1320,7 +1320,7 @@ The Sleeping Beauty in the Wood
 'beast': PWAOEFT
 'could': KO
 'pass': PAS
-'thro';': T*/H*/R*/KWRO/AE/STPH*FPLT
+'thro';': T*/H*/R*/SKWRO/AE/STPH*FPLT
 'so': SO
 'that': THA
 'nothing': TPHOG
@@ -1674,7 +1674,7 @@ The Sleeping Beauty in the Wood
 'let': HRET
 'him': HEUPL
 'pass': PAS
-'thro';': T*/H*/R*/KWRO/AE/STPH*FPLT
+'thro';': T*/H*/R*/SKWRO/AE/STPH*FPLT
 'he': HE
 'walked': WAUBGD
 'up': UP
@@ -2264,7 +2264,7 @@ The Sleeping Beauty in the Wood
 'the': -T
 'violins': SRO*EUPBL/-S
 'and': SKP
-'hautboys': H*/A*/*U/T*/PW*/KWRO/KWREU/-S
+'hautboys': H*/A*/*U/T*/PW*/SKWRO/KWREU/-S
 'played': PHRAEUD
 'old': OLD
 'tunes,': TAOUPBS/KW-BG
@@ -2293,7 +2293,7 @@ The Sleeping Beauty in the Wood
 'time,': TAOEUPL/KW-BG
 'the': -T
 'lord': HRORD
-'almoner': A*/HR*/PH*/KWRO/*PB/*ER
+'almoner': A*/HR*/PH*/SKWRO/*PB/*ER
 'married': PHAERD
 'them': THEPL
 'in': TPH
@@ -2664,7 +2664,7 @@ The Sleeping Beauty in the Wood
 'with': W
 'the': -T
 'Emperor': KPA/EPL/ROR
-'Cantalabutte,': KR*P/A*/TPH*/T*/A*/HR*/A*/PW*/*U/T*/T*/SKWR*E/KW-BG
+'Cantalabutte,': KR*P/A*/TPH*/T*/A*/HR*/A*/PW*/*U/T*/T*/SKWRE/KW-BG
 'his': HEUS
 'neighbour.': TPHAEUB/A*U/TP-PL
 'He': KPA/HE

@@ -1189,7 +1189,7 @@ Rapunzel
 'and': SKP
 'venomous': SREPB/PHOUS
 'looks.': HRAOBGS/TP-PL
-''Aha!'': A*E/KPA/HA*E/KWRA/SKHRAPL/AE
+''Aha!'': A*E/KPA/HA*E/SKWRA/SKHRAPL/AE
 'she': SHE
 'cried': KRAOEUD
 'mockingly,': PHOBG/-G/HREU/KW-BG

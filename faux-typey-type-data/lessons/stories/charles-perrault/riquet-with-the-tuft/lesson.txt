@@ -494,7 +494,7 @@ Riquet With the Tuft
 'china': KHAOEUPB/A
 'upon': POPB
 'the': -T
-'mantlepiece,': PH*/A*/TPH*/T*/HR*/*E/P*/*EU/*E/KR*/SKWR*E/KW-BG
+'mantlepiece,': PH*/A*/TPH*/T*/HR*/*E/P*/*EU/*E/KR*/SKWRE/KW-BG
 'without': WOUT
 'breaking': PWRAEG
 'one': WUPB
@@ -513,7 +513,7 @@ Riquet With the Tuft
 'it': T
 'upon': POPB
 'her': HER
-'cloaths.': KR*/HR*/KWRO/KWRA/*T/-S/TP-PL
+'cloaths.': KR*/HR*/SKWRO/SKWRA/*T/-S/TP-PL
 'Tho'': KPA/THO*/AE
 'beauty': PWAOUT
 'is': S
@@ -1560,7 +1560,7 @@ Riquet With the Tuft
 'full': TPUL
 'of': -F
 'cooks,': KAOBGS/KW-BG
-'scullions,': S*/KR*/*U/HR*/HR*/SKWREU/KWRO/*PB/-S/KW-BG
+'scullions,': S*/KR*/*U/HR*/HR*/KWRO*E/*PB/-S/KW-BG
 'and': SKP
 'all': AUL
 'sorts': SORTS

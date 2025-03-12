@@ -414,7 +414,7 @@ Hansel and Gretel
 ''Get': A*E/KPA*/TKPWET
 'up,': UP/KW-BG
 'you': U
-'sluggards!': S*/HR*/*U/TKPW*/TKPW*/KWRA/*RDZ/SKHRAPL
+'sluggards!': S*/HR*/*U/TKPW*/TKPW*/SKWRA/*RDZ/SKHRAPL
 'we': WE
 'are': R
 'going': TKPW-G
@@ -2643,7 +2643,7 @@ Hansel and Gretel
 'and': SKP
 'filled': TPEULD
 'her': HER
-'pinafore': P*/*EU/TPH*/A*/TP*/O*R/SKWR*E
+'pinafore': P*/*EU/TPH*/A*/TP*/O*R/SKWRE
 'full.': TPUL/TP-PL
 ''But': A*E/KPA*/PWUT
 'now': TPHOU
@@ -2869,7 +2869,7 @@ Hansel and Gretel
 'Gretel': TKPWRET/EL
 'emptied': EPL/TEUD
 'her': HER
-'pinafore': P*/*EU/TPH*/A*/TP*/O*R/SKWR*E
+'pinafore': P*/*EU/TPH*/A*/TP*/O*R/SKWRE
 'until': TPH-L
 'pearls': PERLS
 'and': SKP

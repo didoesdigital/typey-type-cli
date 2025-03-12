@@ -441,7 +441,7 @@ The Psyche
 'daughter,': TKAUR/KW-BG
 'the': -T
 'pretty': PREUT
-'Fornarina,'': KPA/TPOR/*PB/A*R/*EUPB/KWRA/KW-BG/AE
+'Fornarina,'': KPA/TPOR/*PB/A*R/*EUPB/SKWRA/KW-BG/AE
 'added': AD/-D
 'Angelo,': APB/SKWRE/HROE/KW-BG
 'one': WUPB
@@ -1710,7 +1710,7 @@ The Psyche
 'step': STEP
 'into': TPHAO
 'the': -T
-'Signora's': KPA/SAOEUPB/O*R/KWRA/AES
+'Signora's': KPA/SAOEUPB/O*R/SKWRA/AES
 'apartment,': ARPLT/KW-BG
 'for': TPOR
 'she,': SHE/KW-BG
@@ -1896,7 +1896,7 @@ The Psyche
 'countenance': KOUPBT/TPHAPBS
 'with': W
 'the': -T
-'snaky': HRO*ER/S*P/TPH*/KWRA/*BG/KWREU
+'snaky': HRO*ER/S*P/TPH*/SKWRA/*BG/KWREU
 'locks.': HROBGZ/TP-PL
 'Like': KPA/HRAOEUBG
 'a': AEU
@@ -2336,7 +2336,7 @@ The Psyche
 'guitar;': TKPWEU/TAR/STPH*FPLT
 'presently': PREPBLT
 'the': -T
-'Salterello': S*P/A*/HR*/T*/*E/R*/*E/HR*/HR*/KWRO
+'Salterello': S*P/A*/HR*/T*/*E/R*/*E/HR*/HR*/SKWRO
 'sounded,': SOUPBD/-D/KW-BG
 'and': SKP
 'the': -T
@@ -2365,7 +2365,7 @@ The Psyche
 'festivity.': TPEFT/EUFT/TP-PL
 'Two': KPA/TWO
 'charming': KHARPL/-G
-'Bacchantes': PW*P/A*/KR*/*FP/APBT/SKWR*E/-S
+'Bacchantes': PW*P/A*/KR*/*FP/APBT/SKWRE/-S
 'were': WR
 'they;': THE/STPH*FPLT
 'certainly': SERPBL
@@ -4379,7 +4379,7 @@ The Psyche
 'the': -T
 'temple,': TEFRPL/KW-BG
 'a': AEU
-'nunnery': TPHUPB/*PB/*ER/KWREU
+'nunnery': TPHUPB/*PB/SKWRE/REU
 'was': WAS
 'now': TPHOU
 'built.': PWEULT/TP-PL

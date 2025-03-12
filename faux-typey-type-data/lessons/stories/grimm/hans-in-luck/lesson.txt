@@ -484,7 +484,7 @@ Hans in Luck
 'Sing': KPA/SEUPBG
 'neigh': TPHAEUG
 'down': TKOUPB
-'derry!'': TKE/R*/R*/KWREU/SKHRAPL/AE
+'derry!'': TKE/R*/REU/SKHRAPL/AE
 'After': KPA/AF
 'a': AEU
 'time': TAOEUPL
@@ -1812,7 +1812,7 @@ Hans in Luck
 'Then': KPA/THEPB
 'who': WHO
 'so': SO
-'blythe,': PW*/HREU/*T/SKWR*E/KW-BG
+'blythe,': PW*/HREU/*T/SKWRE/KW-BG
 'so': SO
 'merry': PHER/REU
 'as': AS

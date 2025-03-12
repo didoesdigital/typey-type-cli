@@ -133,7 +133,7 @@ Donkey-Skin
 'coverts': KOEFRT/-S
 'of': -F
 'rich': REUFP
-'caparison;': KAP/A*R/SKWREU/-S/KWRO/*PB/STPH*FPLT
+'caparison;': KAP/A*R/SKWREU/-S/SKWRO/*PB/STPH*FPLT
 'but': PWUT
 'what': WHA
 'most': PHOFT
@@ -2628,7 +2628,7 @@ Donkey-Skin
 'it': T
 'was': WAS
 'a': AEU
-'scullion': S*/KR*/*U/HR*/HR*/SKWREU/KWRO/*PB
+'scullion': S*/KR*/*U/HR*/HR*/KWRO*E/*PB
 'called': KAULD
 'Donkey-skin': KPA/TKOPB/KEU/H-PB/SKEUPB
 'because': PWAU
@@ -2758,7 +2758,7 @@ Donkey-Skin
 'time.': TAOEUPL/TP-PL
 'But': KPA/PWUT
 'the': -T
-'fervency': TP*/*E/R*/SR*/*E/TPH*/KR*/KWREU
+'fervency': TP*/*E/R*/SR*/*EPB/SEU
 'of': -F
 'his': HEUS
 'love': HRUF
@@ -3855,7 +3855,7 @@ Donkey-Skin
 'the': -T
 'drums': TKRUPLS
 'and': SKP
-'fifes': TP*/*EU/TP*/SKWR*E/-S
+'fifes': TP*/*EU/TP*/SKWRE/-S
 'and': SKP
 'trumpets': TRUPLTS
 'to': TO
@@ -3975,7 +3975,7 @@ Donkey-Skin
 'the': -T
 'kitchen-maids,': K-FP/H-PB/PHAEUDZ/KW-BG
 'the': -T
-'scullions,': S*/KR*/*U/HR*/HR*/SKWREU/KWRO/*PB/-S/KW-BG
+'scullions,': S*/KR*/*U/HR*/HR*/KWRO*E/*PB/-S/KW-BG
 'and': SKP
 'the': -T
 'sheep-girls.': SHAOEP/H-PB/TKPWEURLS/TP-PL
@@ -4095,7 +4095,7 @@ Donkey-Skin
 'true': TRAOU
 'love': HRUF
 'is': S
-'timorous': HRO*ER/TEUPL/O*R/KWRO/SKWRU/-S
+'timorous': HRO*ER/TEUPL/O*R/SKWRO/SKWRU/-S
 'and': SKP
 'has': HAS
 'no': TPHO

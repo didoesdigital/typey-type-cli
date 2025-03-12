@@ -100,7 +100,7 @@ Snowdrop
 'as': AS
 'this': TH
 'ebony': EB/TPHEU
-'windowframe!'': W*/*EU/TPH*/TK*/O*/W*/TP*/R*/A*/PH*/SKWR*E/SKHRAPL/AE
+'windowframe!'': W*/*EU/TPH*/TK*/O*/W*/TP*/R*/A*/PH*/SKWRE/SKHRAPL/AE
 'And': AFPBD
 'so': SO
 'the': -T

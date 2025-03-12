@@ -553,7 +553,7 @@ The Elf of the Rose
 'heat': HAOET
 'of': -F
 'the': -T
-'noonday': TPHO/KWRO/*PBD/KWRA*E
+'noonday': TPHO/SKWRO/*PBD/KWRA*E
 'sun.': SUPB/TP-PL
 'There': KPA/THR
 'came': KAEUPL

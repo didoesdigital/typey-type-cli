@@ -277,7 +277,7 @@ Two Brothers
 'sheep-skins': SHAOEP/H-PB/SKEUPBS
 'to': TO
 'personify': PERPB/TPAOEU
-'Esau,': *EP/-S/KWRA/SKWRU/KW-BG
+'Esau,': *EP/-S/SKWRA/SKWRU/KW-BG
 'and': SKP
 'so': SO
 'to': TO
@@ -716,7 +716,7 @@ Two Brothers
 'their': THAEUR
 'names:': TPHAEUPLS/STPH-FPLT
 '"Anders': KW-GS/APBD/*ER/-S
-'Sandoe"': KPA/SAPBD/KWRO/SKWR*E/KR-GS
+'Sandoe"': KPA/SAPBD/SKWRO/SKWRE/KR-GS
 'and': SKP
 '"Hans': KW-GS/HAPBS
 'Christian."': KREUGS/TP-PL/KR-GS

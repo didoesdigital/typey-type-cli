@@ -129,7 +129,7 @@ King Grisly-Beard
 'tall:': TAUL/STPH-FPLT
 ''What': A*E/KPA*/WHA
 'a': AEU
-'maypole!'': PHAEU/*P/KWRO/*L/SKHRAPL/AE
+'maypole!'': PHAEU/*P/SKWRO/*L/SKHRAPL/AE
 'said': SED
 'she.': SHE/TP-PL
 'The': KPA/-T
@@ -151,7 +151,7 @@ King Grisly-Beard
 'she': SHE
 'called': KAULD
 'him': HEUPL
-''Wallface.'': A*E/W*P/A*/HR*/HR*/TP*/A*/KR*/SKWR*E/TP-PL/AE
+''Wallface.'': A*E/W*P/A*/HR*/HR*/TP*/A*/KR*/SKWRE/TP-PL/AE
 'The': KPA/-T
 'fifth': TP*EUT
 'was': WAS

@@ -32,7 +32,7 @@ The String Quartet
 'venture': SREPBT/UR
 'to': TO
 'believe,': PWHREF/KW-BG
-'landaus': HRAPBD/KWRA/SKWRU/-S
+'landaus': HRAPBD/SKWRA/SKWRU/-S
 'with': W
 'bays': PWAEU/-S
 'in': TPH
@@ -328,7 +328,7 @@ The String Quartet
 'a': AEU
 'house': HOUS
 'at': AT
-'Malmesbury."': PH*P/A*/HR*/PH*/*E/S*/PW*/*U/R*/KWREU/TP-PL/KR-GS
+'Malmesbury."': PH*P/A*/HR*/PH*/SKWRE/-S/PW*UR/KWREU/TP-PL/KR-GS
 '"How': KW-GS/KPA*/HOU
 'lucky': HROEUBG
 'to': TO
@@ -540,7 +540,7 @@ The String Quartet
 'of': -F
 'the': -T
 'mountain.': PHOUPB/TAEUPB/TP-PL
-'Fountains': KPA/TPOUPBT/KWRA/*EUPBZ
+'Fountains': KPA/TPOUPBT/SKWRA/*EUPBZ
 'jet;': SKWRET/STPH*FPLT
 'drops': TKROPS
 'descend.': TKE/SEPBD/TP-PL
@@ -960,7 +960,7 @@ The String Quartet
 '"There's': KW-GS/KPA*/THR-S
 'old': OLD
 'Mrs.': PHR-S
-'Munro,': PH*P/*U/TPH*/R*/KWRO/KW-BG
+'Munro,': PH*P/*U/TPH*/R*/SKWRO/KW-BG
 'feeling': TPAOELG
 'her': HER
 'way': WAEU

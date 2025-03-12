@@ -323,7 +323,7 @@ The Swineherd
 'unkind': UPB/KAOEUPBD
 'about': PW
 'it.': T/TP-PL
-'"Superbe,': KW-GS/KPA/SPERB/SKWR*E/KW-BG
+'"Superbe,': KW-GS/KPA/SPERB/SKWRE/KW-BG
 'charmant,"': KHARPL/APBT/KW-BG/KR-GS
 'said': SED
 'the': -T

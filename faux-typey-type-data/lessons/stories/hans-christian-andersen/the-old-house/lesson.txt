@@ -356,7 +356,7 @@ The Old House
 'walking': WAUG
 'about': PW
 'with': W
-'halberds.': H*/A*/HR*/PW*/SKWR*E/*RDZ/TP-PL
+'halberds.': H*/A*/HR*/PW*/SKWRE/*RDZ/TP-PL
 'Certainly': KPA/SERPBL
 'it': T
 'was': WAS

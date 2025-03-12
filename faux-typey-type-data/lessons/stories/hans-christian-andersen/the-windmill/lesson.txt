@@ -52,7 +52,7 @@ The Windmill
 'bargain': PWAR/TKPWAEUPB
 'I': EU
 'have': SR
-'stearine': S*/T*/SKWR*E/A*R/AOEUPB
+'stearine': S*/T*/SKWRE/A*R/AOEUPB
 'candles,': KAPBD/-LS/KW-BG
 'train': TRAEUPB
 'oil': OEUL
@@ -576,7 +576,7 @@ The Windmill
 'with': W
 'sun,': SUPB/KW-BG
 'moon,': PHAOPB/KW-BG
-'stearine,': S*/T*/SKWR*E/A*R/AOEUPB/KW-BG
+'stearine,': S*/T*/SKWRE/A*R/AOEUPB/KW-BG
 'train': TRAEUPB
 'oil,': OEUL/KW-BG
 'and': SKP

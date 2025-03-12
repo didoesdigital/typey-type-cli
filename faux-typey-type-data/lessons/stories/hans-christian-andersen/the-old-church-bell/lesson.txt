@@ -39,7 +39,7 @@ The Old Church Bell
 'little': HREUL
 'town': TOUPB
 'of': -F
-'Marbach.': PH*P/A*/R*/PW*/KWRA/*FP/TP-PL
+'Marbach.': PH*P/A*/R*/PW*/SKWRA/*FP/TP-PL
 'As': KPA/AS
 'is': S
 'often': OFPB
@@ -386,7 +386,7 @@ The Old Church Bell
 'humble': HUPL/-BL
 'town': TOUPB
 'of': -F
-'Marbach?': PH*P/A*/R*/PW*/KWRA/*FP/H-F
+'Marbach?': PH*P/A*/R*/PW*/SKWRA/*FP/H-F
 'Ah,': KPA/AERBGS
 'indeed,': TPHAOEPBD/KW-BG
 'there': THR
@@ -448,7 +448,7 @@ The Old Church Bell
 'parents': PARPBTS
 'removed': RE/PHOFD
 'from': TPR
-'Marbach,': PH*P/A*/R*/PW*/KWRA/*FP/KW-BG
+'Marbach,': PH*P/A*/R*/PW*/SKWRA/*FP/KW-BG
 'and': SKP
 'went': WEPBT
 'to': TO
@@ -463,7 +463,7 @@ The Old Church Bell
 'remained': RE/PHAEUPBD
 'behind': HEUPBD
 'at': AT
-'Marbach,': PH*P/A*/R*/PW*/KWRA/*FP/KW-BG
+'Marbach,': PH*P/A*/R*/PW*/SKWRA/*FP/KW-BG
 'and': SKP
 'therefore': TH-FR
 'sometimes': STAOEUPLS
@@ -571,7 +571,7 @@ The Old Church Bell
 'first': TPEUFRT
 'visit': SREUFT
 'to': TO
-'Marbach,': PH*P/A*/R*/PW*/KWRA/*FP/KW-BG
+'Marbach,': PH*P/A*/R*/PW*/SKWRA/*FP/KW-BG
 'the': -T
 'town': TOUPB
 'appeared': A/PAOERD
@@ -1030,7 +1030,7 @@ The Old Church Bell
 'the': -T
 'boy': PWOEU
 'from': TPR
-'Marbach;': PH*P/A*/R*/PW*/KWRA/*FP/STPH*FPLT
+'Marbach;': PH*P/A*/R*/PW*/SKWRA/*FP/STPH*FPLT
 'or': OR
 'that': THA
 'one': WUPB
@@ -1299,7 +1299,7 @@ The Old Church Bell
 'church': KHUFRPB
 'wall': WAUL
 'in': TPH
-'Marbach,': PH*P/A*/R*/PW*/KWRA/*FP/KW-BG
+'Marbach,': PH*P/A*/R*/PW*/SKWRA/*FP/KW-BG
 'once': WUPBS
 'so': SO
 'elevated,': EL/SRAEUTD/KW-BG
@@ -1371,7 +1371,7 @@ The Old Church Bell
 'written': WREUPB
 'leaf': HRAOEF
 'from': TPR
-'"Fiesco."': KW-GS/TP*P/*EU/*E/S*/KR*/KWRO/TP-PL/KR-GS
+'"Fiesco."': KW-GS/TP*P/*EU/*E/S*/KR*/SKWRO/TP-PL/KR-GS
 'The': KPA/-T
 'wind': WEUPBD
 'could': KO
@@ -1602,7 +1602,7 @@ The Old Church Bell
 'far': TPAR
 'away': WA*EU
 'from': TPR
-'Marbach': PH*P/A*/R*/PW*/KWRA/*FP
+'Marbach': PH*P/A*/R*/PW*/SKWRA/*FP
 'and': SKP
 'sold': SOELD
 'as': AS
@@ -1882,7 +1882,7 @@ The Old Church Bell
 'the': -T
 'boy': PWOEU
 'from': TPR
-'Marbach,': PH*P/A*/R*/PW*/KWRA/*FP/KW-BG
+'Marbach,': PH*P/A*/R*/PW*/SKWRA/*FP/KW-BG
 'the': -T
 'pupil': PAOUPL
 'of': -F
@@ -1996,7 +1996,7 @@ The Old Church Bell
 'church': KHUFRPB
 'bell': PWEL
 'at': AT
-'Marbach': PH*P/A*/R*/PW*/KWRA/*FP
+'Marbach': PH*P/A*/R*/PW*/SKWRA/*FP
 'had': H
 'filled': TPEULD
 'the': -T

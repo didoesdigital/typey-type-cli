@@ -308,7 +308,7 @@ Something
 'a': AEU
 'masquerade,': PHAS/KRAEUD/KW-BG
 'a': AEU
-'mummery,': PH*/*U/PH*/PH*/*ER/KWREU/KW-BG
+'mummery,': PH*/*U/PH*/PH*/SKWRE/REU/KW-BG
 'which': WEU
 'to-morrow,': TO/H-PB/HRO*ER/PHOR/ROE/KW-BG
 'that': THA

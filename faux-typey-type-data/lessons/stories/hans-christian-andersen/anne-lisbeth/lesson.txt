@@ -2591,7 +2591,7 @@ Anne Lisbeth
 'her.': HER/TP-PL
 'From': KPA/TPR
 'one': WUPB
-'Shrove': S*P/H*/R*/O*/SR*/SKWR*E
+'Shrove': S*P/H*/R*/O*/SR*/SKWRE
 'Tuesday': TAOUZ
 'to': TO
 'another,': TPHOER/KW-BG
@@ -3594,7 +3594,7 @@ Anne Lisbeth
 'drove': TKROEF
 'into': TPHAO
 'his': HEUS
-'castleyard': KAFL/KWREU/KWRA/R*D
+'castleyard': KAFL/KWREU/SKWRA/R*D
 'and': SKP
 'out': OUT
 'again.': TKPWEPB/TP-PL

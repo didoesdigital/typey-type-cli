@@ -165,7 +165,7 @@ The Goose-Girl
 'it': T
 'was': WAS
 'called': KAULD
-'Falada,': TP*P/A*/HR*/A*/TK*/KWRA/KW-BG
+'Falada,': TP*P/A*/HR*/A*/TK*/SKWRA/KW-BG
 'and': SKP
 'could': KO
 'speak.': SPAOEBG/TP-PL
@@ -625,7 +625,7 @@ The Goose-Girl
 'have': SR
 'got': TKPWOT
 'upon': POPB
-'Falada': TP*P/A*/HR*/A*/TK*/KWRA
+'Falada': TP*P/A*/HR*/A*/TK*/SKWRA
 'again,': STKPWERPBGS
 'the': -T
 'maid': PHAEUD
@@ -634,7 +634,7 @@ The Goose-Girl
 'shall': SHAL
 'ride': RAOEUD
 'upon': POPB
-'Falada,': TP*P/A*/HR*/A*/TK*/KWRA/KW-BG
+'Falada,': TP*P/A*/HR*/A*/TK*/SKWRA/KW-BG
 'and': SKP
 'you': U
 'may': PHAEU
@@ -695,7 +695,7 @@ The Goose-Girl
 'had': H
 'happened.': HAPD/TP-PL
 'But': KPA/PWUT
-'Falada': TP*P/A*/HR*/A*/TK*/KWRA
+'Falada': TP*P/A*/HR*/A*/TK*/SKWRA
 'saw': SAU
 'it': T
 'all,': AUL/KW-BG
@@ -708,7 +708,7 @@ The Goose-Girl
 'waiting-maid': WAEUGT/H-PB/PHAEUD
 'got': TKPWOT
 'upon': POPB
-'Falada,': TP*P/A*/HR*/A*/TK*/KWRA/KW-BG
+'Falada,': TP*P/A*/HR*/A*/TK*/SKWRA/KW-BG
 'and': SKP
 'the': -T
 'real': RAEL
@@ -1011,7 +1011,7 @@ The Goose-Girl
 'much': PHUFP
 'afraid': A/TPRAEUD
 'lest': HR*ES
-'Falada': TP*P/A*/HR*/A*/TK*/KWRA
+'Falada': TP*P/A*/HR*/A*/TK*/SKWRA
 'should': SHO
 'some': SOPL
 'day': TKAEU
@@ -1034,7 +1034,7 @@ The Goose-Girl
 'and': SKP
 'the': -T
 'faithful': TPA*EUT/-FL
-'Falada': TP*P/A*/HR*/A*/TK*/KWRA
+'Falada': TP*P/A*/HR*/A*/TK*/SKWRA
 'was': WAS
 'killed;': KEULD/STPH*FPLT
 'but': PWUT
@@ -1054,7 +1054,7 @@ The Goose-Girl
 'to': TO
 'nail': TPHAEUL
 'up': UP
-'Falada's': TP*P/A*/HR*/A*/TK*/KWRA/AES
+'Falada's': TP*P/A*/HR*/A*/TK*/SKWRA/AES
 'head': HED
 'against': TKPWEPBS
 'a': AEU
@@ -1121,8 +1121,8 @@ The Goose-Girl
 'she': SHE
 'said': SED
 'sorrowfully:': SOR/ROEFL/HREU/STPH-FPLT
-''Falada,': A*E/TP*P/A*/HR*/A*/TK*/KWRA/KW-BG
-'Falada,': TP*P/A*/HR*/A*/TK*/KWRA/KW-BG
+''Falada,': A*E/TP*P/A*/HR*/A*/TK*/SKWRA/KW-BG
+'Falada,': TP*P/A*/HR*/A*/TK*/SKWRA/KW-BG
 'there': THR
 'thou': THO*U
 'hangest!'': HAPBG/EFT/SKHRAPL/AE
@@ -1346,12 +1346,12 @@ The Goose-Girl
 'looked': HRAOBGD
 'up': UP
 'at': AT
-'Falada's': TP*P/A*/HR*/A*/TK*/KWRA/AES
+'Falada's': TP*P/A*/HR*/A*/TK*/SKWRA/AES
 'head,': HED/KW-BG
 'and': SKP
 'cried:': KRAOEUD/STPH-FPLT
-''Falada,': A*E/TP*P/A*/HR*/A*/TK*/KWRA/KW-BG
-'Falada,': TP*P/A*/HR*/A*/TK*/KWRA/KW-BG
+''Falada,': A*E/TP*P/A*/HR*/A*/TK*/SKWRA/KW-BG
+'Falada,': TP*P/A*/HR*/A*/TK*/SKWRA/KW-BG
 'there': THR
 'thou': THO*U
 'hangest!'': HAPBG/EFT/SKHRAPL/AE
@@ -1599,8 +1599,8 @@ The Goose-Girl
 'wall,': WAUL/KW-BG
 'and': SKP
 'says:': SEZ/STPH-FPLT
-''Falada,': A*E/TP*P/A*/HR*/A*/TK*/KWRA/KW-BG
-'Falada,': TP*P/A*/HR*/A*/TK*/KWRA/KW-BG
+''Falada,': A*E/TP*P/A*/HR*/A*/TK*/SKWRA/KW-BG
+'Falada,': TP*P/A*/HR*/A*/TK*/SKWRA/KW-BG
 'there': THR
 'thou': THO*U
 'hangest!'': HAPBG/EFT/SKHRAPL/AE
@@ -1698,10 +1698,10 @@ The Goose-Girl
 'she': SHE
 'spoke': SPOEBG
 'to': TO
-'Falada,': TP*P/A*/HR*/A*/TK*/KWRA/KW-BG
+'Falada,': TP*P/A*/HR*/A*/TK*/SKWRA/KW-BG
 'and': SKP
 'how': HOU
-'Falada': TP*P/A*/HR*/A*/TK*/KWRA
+'Falada': TP*P/A*/HR*/A*/TK*/SKWRA
 'answered.': AEPBS/-D/TP-PL
 'Then': KPA/THEPB
 'he': HE
@@ -2216,7 +2216,7 @@ The Goose-Girl
 'restored': RAOE/STORD
 'the': -T
 'faithful': TPA*EUT/-FL
-'Falada': TP*P/A*/HR*/A*/TK*/KWRA
+'Falada': TP*P/A*/HR*/A*/TK*/SKWRA
 'to': TO
 'life': HRAOEUF
 'again.': TKPWEPB/TP-PL

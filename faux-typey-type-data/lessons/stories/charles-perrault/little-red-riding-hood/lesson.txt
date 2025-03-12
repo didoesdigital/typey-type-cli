@@ -570,7 +570,7 @@ Little Red Riding-Hood
 'looked': HRAOBGD
 'in': TPH
 'her': HER
-'night-cloaths,': TPHAOEUT/H-PB/KR*/HR*/KWRO/KWRA/*T/-S/KW-BG
+'night-cloaths,': TPHAOEUT/H-PB/KR*/HR*/SKWRO/SKWRA/*T/-S/KW-BG
 'she': SHE
 'said': SED
 'to': TO

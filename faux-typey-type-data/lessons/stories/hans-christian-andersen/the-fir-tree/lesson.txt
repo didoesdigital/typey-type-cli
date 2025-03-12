@@ -1661,7 +1661,7 @@ The Fir Tree
 'shall': SHAL
 'it': T
 'be?': -B/H-F
-'Ivede-Avede,': *EUP/SR*/-D/SKWR*E/H-PB/A*P/SR*/-D/SKWR*E/KW-BG
+'Ivede-Avede,': *EUP/SR*/-D/SKWRE/H-PB/A*P/SR*/-D/SKWRE/KW-BG
 'or': OR
 'Humpty': KPA/H*UPLT/KWREU
 'Dumpty,': KPA/TK*UPLT/KWREU/KW-BG
@@ -1680,7 +1680,7 @@ The Fir Tree
 'married': PHAERD
 'a': AEU
 'princess."': PREUPB/SES/TP-PL/KR-GS
-'"Ivede-Avede,"': KW-GS/*EUP/SR*/-D/SKWR*E/H-PB/A*P/SR*/-D/SKWR*E/KW-BG/KR-GS
+'"Ivede-Avede,"': KW-GS/*EUP/SR*/-D/SKWRE/H-PB/A*P/SR*/-D/SKWRE/KW-BG/KR-GS
 'cried': KRAOEUD
 'some.': SOPL/TP-PL
 '"Humpty': KW-GS/KPA*/H*UPLT/KWREU
@@ -1771,7 +1771,7 @@ The Fir Tree
 'the': -T
 'story': STOER
 'of': -F
-'"Ivede-Avede;"': KW-GS/*EUP/SR*/-D/SKWR*E/H-PB/A*P/SR*/-D/SKWR*E/STPH*FPLT/KR-GS
+'"Ivede-Avede;"': KW-GS/*EUP/SR*/-D/SKWRE/H-PB/A*P/SR*/-D/SKWRE/STPH*FPLT/KR-GS
 'but': PWUT
 'they': THE
 'only': OEPBL
@@ -1896,7 +1896,7 @@ The Fir Tree
 'again,': STKPWERPBGS
 'and': SKP
 'perhaps': PRAPS
-'Ivede-Avede."': *EUP/SR*/-D/SKWR*E/H-PB/A*P/SR*/-D/SKWR*E/TP-PL/KR-GS
+'Ivede-Avede."': *EUP/SR*/-D/SKWRE/H-PB/A*P/SR*/-D/SKWRE/TP-PL/KR-GS
 'And': AFPBD
 'the': -T
 'tree': TRAOE

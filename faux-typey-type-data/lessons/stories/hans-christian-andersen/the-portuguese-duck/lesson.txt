@@ -76,7 +76,7 @@ The Portuguese Duck
 'remained': RE/PHAEUPBD
 'in': TPH
 'the': -T
-'duckyard,': TKUBG/KWREU/KWRA/R*D/KW-BG
+'duckyard,': TKUBG/KWREU/SKWRA/R*D/KW-BG
 'which': WEU
 'may': PHAEU
 'be': -B
@@ -565,7 +565,7 @@ The Portuguese Duck
 'quite': KWAOEUT
 'full': TPUL
 'of': -F
-''Portulak,'"': A*E/P*P/O*/R*/T*/*U/HR*/KWRA/*BG/KW-BG/AE/KR-GS
+''Portulak,'"': A*E/P*P/O*/R*/T*/*U/HR*/SKWRA/*BG/KW-BG/AE/KR-GS
 'said': SED
 'a': AEU
 'little': HREUL
@@ -581,7 +581,7 @@ The Portuguese Duck
 'considered': KR-D
 'the': -T
 'word': WORD
-'"Portulak"': KW-GS/P*P/O*/R*/T*/*U/HR*/KWRA/*BG/KR-GS
+'"Portulak"': KW-GS/P*P/O*/R*/T*/*U/HR*/SKWRA/*BG/KR-GS
 'a': AEU
 'good': TKPWAOD
 'joke,': SKWROEBG/KW-BG
@@ -1411,7 +1411,7 @@ The Portuguese Duck
 'visit': SREUFT
 'to': TO
 'the': -T
-'duckyard,': TKUBG/KWREU/KWRA/R*D/KW-BG
+'duckyard,': TKUBG/KWREU/SKWRA/R*D/KW-BG
 'simply': SAO*EPL
 'and': SKP
 'solely': SOEL/HREU
@@ -1475,7 +1475,7 @@ The Portuguese Duck
 'former': TPRORPL
 'joke': SKWROEBG
 'about': PW
-'"Portulak,"': KW-GS/P*P/O*/R*/T*/*U/HR*/KWRA/*BG/KW-BG/KR-GS
+'"Portulak,"': KW-GS/P*P/O*/R*/T*/*U/HR*/SKWRA/*BG/KW-BG/KR-GS
 'and': SKP
 'declared': TKE/KHRAEURD
 'it': T

@@ -411,7 +411,7 @@ The Snowdrop
 'will': HR
 'have': SR
 'companions,': KPAPB/KWROPBS/KW-BG
-'syringas,': S*/KWR*/R*/-G/KWRA/-S/KW-BG
+'syringas,': S*/KWR*/R*/-G/SKWRA/-S/KW-BG
 'laburnums,': HR*/A*/PW*/*U/R*/*PB/*UPL/-S/KW-BG
 'and': SKP
 'roses;': ROES/-S/STPH*FPLT
@@ -1276,7 +1276,7 @@ The Snowdrop
 'old': OLD
 'Danish': TKAEUPB/EURB
 'poet,': POET/KW-BG
-'Ambrosius': A*P/PH*/PW*/R*/KWRO/-S/SKWREU/SKWRU/-S
+'Ambrosius': A*P/PH*/PW*/R*/SKWRO/-S/SKWREU/SKWRU/-S
 'Stub,': KPA/STUB/KW-BG
 'which': WEU
 'are': R
@@ -1321,7 +1321,7 @@ The Snowdrop
 'a': AEU
 'meaning!': PHAOEPBG/SKHRAPL
 'Poor': KPA/PAOR
-'Ambrosius': A*P/PH*/PW*/R*/KWRO/-S/SKWREU/SKWRU/-S
+'Ambrosius': A*P/PH*/PW*/R*/SKWRO/-S/SKWREU/SKWRU/-S
 'Stub!': KPA/STUB/SKHRAPL
 'he': HE
 'was': WAS

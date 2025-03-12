@@ -940,7 +940,7 @@ Ole the Tower-Keeper
 'who': WHO
 'is': S
 'a': AEU
-'fishwife,': TP*/*EU/S*/H*/W*/*EU/TP*/SKWR*E/KW-BG
+'fishwife,': TP*/*EU/S*/H*/W*/*EU/TP*/SKWRE/KW-BG
 'and': SKP
 'who,': WHO/KW-BG
 'as': AS
@@ -957,7 +957,7 @@ Ole the Tower-Keeper
 'of': -F
 'abuse': PWAOUS
 'and': SKP
-'vituperation': SR*/*EU/T*/*U/P*/*E/R*/A*/T*/SKWREU/KWRO/*PB
+'vituperation': SR*/*EU/T*/*U/P*/*E/R*/A*/T*/KWRO*E/*PB
 'they': THE
 'use,': AOUS/KW-BG
 'and': SKP
@@ -1778,7 +1778,7 @@ Ole the Tower-Keeper
 'graves': TKPWRAEUFS
 'of': -F
 'Schleppegrell,': S*P/KR*/H*/HR*/*E/P*/P*/*E/TKPW*/R*/*E/HR*/HR*/KW-BG
-'Lasloes,': HR*P/A*/S*/HR*/KWRO/SKWR*E/-S/KW-BG
+'Lasloes,': HR*P/A*/S*/HR*/SKWRO/SKWRE/-S/KW-BG
 'and': SKP
 'their': THAEUR
 'comrades.': KOPL/RADZ/TP-PL
@@ -1794,7 +1794,7 @@ Ole the Tower-Keeper
 'land,': HRAPBD/KW-BG
 'fell': TPEL
 'upon': POPB
-'Soro,': S*P/O*R/KWRO/KW-BG
+'Soro,': S*P/O*R/SKWRO/KW-BG
 'a': AEU
 'flower': TPHRO*UR
 'on': OPB

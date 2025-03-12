@@ -273,7 +273,7 @@ Doctor Knowall
 ''Oh,': A*E/KPA*/O*ERBGS/KW-BG
 'yes,': KWRERBGS
 'but': PWUT
-'Grete,': TKPW*P/R*/ET/SKWR*E/KW-BG
+'Grete,': TKPW*P/R*/ET/SKWRE/KW-BG
 'my': PHEU
 'wife,': WAOEUF/KW-BG
 'must': PHUFT
@@ -324,7 +324,7 @@ Doctor Knowall
 'but': PWUT
 'my': PHEU
 'wife,': WAOEUF/KW-BG
-'Grete,': TKPW*P/R*/ET/SKWR*E/KW-BG
+'Grete,': TKPW*P/R*/ET/SKWRE/KW-BG
 'too,'': TAO/KW-BG/AE
 'said': SED
 'he,': HE/KW-BG
@@ -356,7 +356,7 @@ Doctor Knowall
 'wife,': WAOEUF/KW-BG
 'and': SKP
 'said:': SED/STPH-FPLT
-''Grete,': A*E/TKPW*P/R*/ET/SKWR*E/KW-BG
+''Grete,': A*E/TKPW*P/R*/ET/SKWRE/KW-BG
 'that': THA
 'was': WAS
 'the': -T
@@ -443,7 +443,7 @@ Doctor Knowall
 'wife,': WAOEUF/KW-BG
 'and': SKP
 'said:': SED/STPH-FPLT
-''Grete,': A*E/TKPW*P/R*/ET/SKWR*E/KW-BG
+''Grete,': A*E/TKPW*P/R*/ET/SKWRE/KW-BG
 'that': THA
 'is': S
 'the': -T
@@ -472,7 +472,7 @@ Doctor Knowall
 'peasant': PEFPBT
 'again': TKPWEPB
 'said:': SED/STPH-FPLT
-''Grete,': A*E/TKPW*P/R*/ET/SKWR*E/KW-BG
+''Grete,': A*E/TKPW*P/R*/ET/SKWRE/KW-BG
 'that': THA
 'is': S
 'the': -T

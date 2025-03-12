@@ -3524,11 +3524,11 @@ Ole-Luk-Oie, the Dream-God
 'or': OR
 'of': -F
 'the': -T
-'chickseed': KHEUBGS/SKWR*E/-D
+'chickseed': KHEUBGS/SKWRE/-D
 'that': THA
 'courted': KORT/-D
 'the': -T
-'chickweed;': KR*/H*/*EU/KR*/K*/W*/SKWR*E/-D/STPH*FPLT
+'chickweed;': KR*/H*/*EU/KR*/K*/W*/SKWRE/-D/STPH*FPLT
 'or': OR
 'of': -F
 'the': -T

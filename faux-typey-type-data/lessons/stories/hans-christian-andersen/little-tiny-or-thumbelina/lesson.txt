@@ -210,7 +210,7 @@ Little Tiny or Thumbelina
 'the': -T
 'name': TPHAEUPL
 'of': -F
-'"Thumbelina,"': KW-GS/T*P/H*/*U/PH*/PW*/*E/HR*/*EUPB/KWRA/KW-BG/KR-GS
+'"Thumbelina,"': KW-GS/T*P/H*/*U/PH*/PW*/*E/HR*/*EUPB/SKWRA/KW-BG/KR-GS
 'or': OR
 'Tiny,': KPA/TOEUPB/KW-BG
 'because': PWAU

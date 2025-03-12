@@ -590,7 +590,7 @@ The Toad
 'were': WR
 'to': TO
 'say,': SAEU/KW-BG
-'"Aha!"': KW-GS/KPA/HA*E/KWRA/SKHRAPL/KR-GS
+'"Aha!"': KW-GS/KPA/HA*E/SKWRA/SKHRAPL/KR-GS
 'She': KPA/SHE
 'had': H
 'an': APB
@@ -926,7 +926,7 @@ The Toad
 'there,': THR-RBGS
 'too,': TAO/KW-BG
 'and': SKP
-'bindweed': PW*EU/TPH*/TK*/W*/SKWR*E/-D
+'bindweed': PW*EU/TPH*/TK*/W*/SKWRE/-D
 'with': W
 'white': WHAOEUT
 'flowers.': TPHRO*URS/TP-PL
@@ -1642,7 +1642,7 @@ The Toad
 'towards': TORDZ
 'the': -T
 'Fowl.': KPA/TPO*UL/TP-PL
-'"Aha,': KW-GS/KPA/HA*E/KWRA/KW-BG
+'"Aha,': KW-GS/KPA/HA*E/SKWRA/KW-BG
 'it': T
 'has': HAS
 'allies,"': AL/HRAOEUS/KW-BG/KR-GS

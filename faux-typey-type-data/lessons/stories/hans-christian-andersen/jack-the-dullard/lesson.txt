@@ -1148,13 +1148,13 @@ Jack the Dullard
 'young': KWRUPBG
 'pullets': PUL/ET/-S
 'today."': TOED/TP-PL/KR-GS
-'"Baa!"': KW-GS/KPA/PWA/KWRA/SKHRAPL/KR-GS
+'"Baa!"': KW-GS/KPA/PWA/SKWRA/SKHRAPL/KR-GS
 'there': THR
 'he': HE
 'stood': STAOD
 'like': HRAOEUBG
 'a': AEU
-'baa-lamb.': PWA/KWRA/H-PB/HRAPL/TP-PL
+'baa-lamb.': PWA/SKWRA/H-PB/HRAPL/TP-PL
 'He': KPA/HE
 'had': H
 'not': TPHOT
@@ -1180,7 +1180,7 @@ Jack the Dullard
 'say': SAEU
 'something': S-G
 'witty.': WEUT/TEU/TP-PL
-'"Baa!"': KW-GS/KPA/PWA/KWRA/SKHRAPL/KR-GS
+'"Baa!"': KW-GS/KPA/PWA/SKWRA/SKHRAPL/KR-GS
 '"He': KW-GS/KPA*/HE
 'is': S
 'of': -F

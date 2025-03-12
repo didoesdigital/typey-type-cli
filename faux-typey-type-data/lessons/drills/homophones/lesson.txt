@@ -9,7 +9,7 @@ Homophones
 'axe': ABGS
 'adds': ADZ
 'adz': A*/TK*/STKPW*
-'adze': A*/TK*/STKPW*/SKWR*E
+'adze': A*/TK*/STKPW*/SKWRE
 'adherence': AD/HERPBS
 'adherents': AD/HAOER/EPBTS
 'adolescence': AD/HRES/EPBS
@@ -365,7 +365,7 @@ Homophones
 'jean': SKWRAEPB
 'gild': TKPW*EULD
 'guild': TKPWEULD
-'gneiss': TKPW*/*PB/SKWR*E/SKWREU/-S/-S
+'gneiss': TKPW*/*PB/SKWRE/SKWREU/-S/-S
 'nice': TPHAOEUS
 'gored': TKPWOR/-D
 'gourd': TKPWORD
@@ -496,7 +496,7 @@ Homophones
 'lay': HRAEU
 'lei': HRA*EU
 'lays': HRAEUZ
-'laze': HR*/A*/STKPW*/SKWR*E
+'laze': HR*/A*/STKPW*/SKWRE
 'leach': HRAEFP
 'leech': HRAOEFP
 'lead': HRAED
@@ -582,7 +582,7 @@ Homophones
 'missed': PHEUFD
 'mist': PHEUFT
 'moat': PHOET
-'mote': PH*/O*/T*/SKWR*E
+'mote': PH*/O*/T*/SKWRE
 'mood': PHAOD
 'mooed': PHAO/-D
 'moor': PHO*R
@@ -834,7 +834,7 @@ Homophones
 'steal': STAEL
 'steel': STAOEL
 'step': STEP
-'steppe': STEP/*P/SKWR*E
+'steppe': STEP/*P/SKWRE
 'storey': STOER/A*U
 'story': STOER
 'straight': STRAEUT
@@ -920,7 +920,7 @@ Homophones
 'wave': WAF
 'waiver': WAEUFR
 'waver': WAFR
-'wale': W*/KWRA/*L
+'wale': W*/SKWRA/*L
 'whale': WHAEUL
 'war': WAR
 'wore': WOR

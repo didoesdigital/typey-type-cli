@@ -313,7 +313,7 @@ In a Thousand Years
 'Charlemagne': KHARL/PHAEUPB
 'and': SKP
 'Napoleon.': TPHA/POL/KWROPB/TP-PL
-'Moliere': PH*P/HRO*/SKWREU/*ER/SKWR*E
+'Moliere': PH*P/HRO*/SKWREU/*ER/SKWRE
 'is': S
 'named,': TPHAEUPLD/KW-BG
 'the': -T
@@ -381,7 +381,7 @@ In a Thousand Years
 'born,': PWORPB/KW-BG
 'and': SKP
 'where': W-R
-'Calderon': KR*P/A*/HR*/TK*/*ER/KWRO/*PB
+'Calderon': KR*P/A*/HR*/TK*/*ER/SKWRO/*PB
 'sang': SAPBG
 'dramas': TKRA/PHAS
 'in': TPH
@@ -625,7 +625,7 @@ In a Thousand Years
 'of': -F
 'Oersted': KPA/*ERS/-D
 'and': SKP
-'Linnaeus,': HR*P/*EUPB/*PB/KWRA/SKWR*E/SKWRU/-S/KW-BG
+'Linnaeus,': HR*P/*EUPB/*PB/SKWRAOEU/SKWRU/-S/KW-BG
 'and': SKP
 'for': TPOR
 'Norway,': TPHOR/WAEU/KW-BG
@@ -651,7 +651,7 @@ In a Thousand Years
 'burn': PWURPB
 'no': TPHO
 'more,': PHOR/KW-BG
-'Hecla': H*P/*E/KR*/HR*/KWRA
+'Hecla': H*P/*E/KR*/HR*/SKWRA
 'is': S
 'an': APB
 'extinct': EBGS/TEUPBG

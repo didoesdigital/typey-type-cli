@@ -23,7 +23,7 @@ The Ridiculous Wishes
 'toil': TOEUL
 'for': TPOR
 'little': HREUL
-'guerdon,': HRO*ER/TKPWU/SKWR*E/R*D/KWRO/*PB/KW-BG
+'guerdon,': HRO*ER/TKPWU/SKWRE/R*D/SKWRO/*PB/KW-BG
 'and': SKP
 'although': HR*T
 'he': HE
@@ -392,7 +392,7 @@ The Ridiculous Wishes
 'prudence': PRAOUPBS
 'and': SKP
 'circumspection.': SEURBG/SPEBGS/TP-PL
-'"'Twere': KW-GS/AE/T*P/W*/*ER/SKWR*E
+'"'Twere': KW-GS/AE/T*P/W*/*ER/SKWRE
 'a': AEU
 'pity,"': PEUT/TEU/KW-BG/KR-GS
 'she': SHE

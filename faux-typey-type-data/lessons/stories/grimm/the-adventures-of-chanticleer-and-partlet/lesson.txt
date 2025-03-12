@@ -921,7 +921,7 @@ The Adventures of Chanticleer and Partlet
 'pay': PAEU
 'To': KPA/TO
 'Mr': PH*P/R*
-'Korbes,': K*P/O*/R*/PW*/SKWR*E/-S/KW-BG
+'Korbes,': K*P/O*/R*/PW*/SKWRE/-S/KW-BG
 'the': -T
 'fox,': TPOBGS/KW-BG
 'today.'': TOED/TP-PL/AE
@@ -984,7 +984,7 @@ The Adventures of Chanticleer and Partlet
 'pay': PAEU
 'To': KPA/TO
 'Mr': PH*P/R*
-'Korbes,': K*P/O*/R*/PW*/SKWR*E/-S/KW-BG
+'Korbes,': K*P/O*/R*/PW*/SKWRE/-S/KW-BG
 'the': -T
 'fox,': TPOBGS/KW-BG
 'today.'': TOED/TP-PL/AE
@@ -1021,7 +1021,7 @@ The Adventures of Chanticleer and Partlet
 'arrived': A/RAOEUFD
 'at': AT
 'Mr': PH*P/R*
-'Korbes's': K*P/O*/R*/PW*/SKWR*E/-S/AES
+'Korbes's': K*P/O*/R*/PW*/SKWRE/-S/AES
 'house,': HOUS/KW-BG
 'he': HE
 'was': WAS
@@ -1085,7 +1085,7 @@ The Adventures of Chanticleer and Partlet
 'towel.': TOUL/TP-PL
 'When': KPA/WHEPB
 'Mr': PH*P/R*
-'Korbes': K*P/O*/R*/PW*/SKWR*E/-S
+'Korbes': K*P/O*/R*/PW*/SKWRE/-S
 'came': KAEUPL
 'home,': HOEPL/KW-BG
 'he': HE

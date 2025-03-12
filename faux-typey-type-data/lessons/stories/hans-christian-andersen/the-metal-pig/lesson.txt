@@ -11,7 +11,7 @@ The Metal Pig
 'the': -T
 'Piazza': PAOE/AZ/SA
 'del': TK*/*E/HR*
-'Granduca,': TKPW*P/R*/A*/TPH*/TK*/*U/KR*/KWRA/KW-BG
+'Granduca,': TKPW*P/R*/A*/TPH*/TK*/*U/KR*/SKWRA/KW-BG
 'runs': RUPBS
 'a': AEU
 'little': HREUL
@@ -485,7 +485,7 @@ The Metal Pig
 'the': -T
 'Piazza': PAOE/AZ/SA
 'del': TK*/*E/HR*
-'Granduca,': TKPW*P/R*/A*/TPH*/TK*/*U/KR*/KWRA/KW-BG
+'Granduca,': TKPW*P/R*/A*/TPH*/TK*/*U/KR*/SKWRA/KW-BG
 'and': SKP
 'the': -T
 'metal': PH*ELT
@@ -883,8 +883,8 @@ The Metal Pig
 'times.': TAOEUPLS/TP-PL
 'The': KPA/-T
 'Florentine,': TPHROR/EPB/TAOEPB/KW-BG
-'Angiolo': KPA/APBG/SKWREU/HRO*/KWRO
-'Bronzino,': PW*P/R*/O*/TPH*/STKPW*/*EUPB/KWRO/KW-BG
+'Angiolo': KPA/APBG/SKWREU/HRO*/SKWRO
+'Bronzino,': PW*P/R*/O*/TPH*/STKPW*/*EUPB/SKWRO/KW-BG
 'painted': PAEUPBTD
 'this': TH
 'picture;': P*EUFP/STPH*FPLT
@@ -1185,7 +1185,7 @@ The Metal Pig
 'church': KHUFRPB
 'of': -F
 'Santa': SAPB/TA
-'Croce.': KPA/KRO*BG/A*U/SKWR*E/TP-PL
+'Croce.': KPA/KRO*BG/A*U/SKWRE/TP-PL
 'The': KPA/-T
 'folding-doors': TPOELGD/H-PB/TKAORS
 'flew': TPHRAOU
@@ -1898,7 +1898,7 @@ The Metal Pig
 'and': SKP
 'you': U
 'too,': TAO/KW-BG
-'Giannina."': SKWRAOE/KWRA/*PB/*PB/*EUPB/KWRA/TP-PL/KR-GS
+'Giannina."': SKWRAOE/KWRA/*PB/*PB/*EUPB/SKWRA/TP-PL/KR-GS
 'And': AFPBD
 'then': THEPB
 'she': SHE
@@ -2645,7 +2645,7 @@ The Metal Pig
 'the': -T
 'picture': P*EUFP
 'by': PWEU
-'Bronzino,': PW*P/R*/O*/TPH*/STKPW*/*EUPB/KWRO/KW-BG
+'Bronzino,': PW*P/R*/O*/TPH*/STKPW*/*EUPB/SKWRO/KW-BG
 'in': TPH
 'which': WEU
 'Christ': KRAOEUFT

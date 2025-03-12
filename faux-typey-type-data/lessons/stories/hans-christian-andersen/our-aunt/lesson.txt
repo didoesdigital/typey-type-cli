@@ -353,7 +353,7 @@ Our Aunt
 'lane': HRAEPB
 'behind': HEUPBD
 'the': -T
-'playhouse,': P*/HR*/A*/KWR*/H*/KWRO/SKWRU/-S/SKWR*E/KW-BG
+'playhouse,': P*/HR*/A*/KWR*/H*/SKWRO/SKWRU/-S/SKWRE/KW-BG
 'and': SKP
 'move': PHOF
 'into': TPHAO
@@ -673,7 +673,7 @@ Our Aunt
 'His': KPA/HEUS
 'opinion': P-PB
 'of': -F
-'Shakspeare's': S*P/H*/A*/K*/-S/*P/SKWR*E/A*R/SKWR*E/AES
+'Shakspeare's': S*P/H*/A*/K*/-S/*P/SKWRE/A*R/SKWRE/AES
 '"Tempest,"': KW-GS/KPA*/TEPL/PEFT/KW-BG/KR-GS
 'was,': WAS/KW-BG
 '"Mad': KW-GS/KPA*/PHAD
@@ -960,7 +960,7 @@ Our Aunt
 'the': -T
 'dungeon': TKUPBGS
 'of': -F
-'Ugolino,': *UP/TKPW*/HRO*/*EUPB/KWRO/KW-BG
+'Ugolino,': *UP/TKPW*/HRO*/*EUPB/SKWRO/KW-BG
 'where': W-R
 'that': THA
 'unhappy': UPB/HAEP

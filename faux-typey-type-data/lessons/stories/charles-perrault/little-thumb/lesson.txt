@@ -2770,7 +2770,7 @@ Little Thumb
 'put': PUT
 'on': OPB
 'their': THAEUR
-'cloaths,': KR*/HR*/KWRO/KWRA/*T/-S/KW-BG
+'cloaths,': KR*/HR*/SKWRO/SKWRA/*T/-S/KW-BG
 'went': WEPBT
 'up,': UP/KW-BG
 'and': SKP

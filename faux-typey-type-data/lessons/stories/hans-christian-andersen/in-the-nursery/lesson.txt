@@ -473,9 +473,9 @@ In the Nursery
 'colored': KHRORD
 'meerschaum.': PHAOER/SHAUPL/TP-PL
 '"'Snik,': KW-GS/AE/S*P/TPH*/SKWREU/*BG/KW-BG
-'snak,': HRO*ER/S*P/TPH*/KWRA/*BG/KW-BG
-'snurre,': S*/TPH*/*U/R*/R*/SKWR*E/KW-BG
-'bassellurre!': PW*/A*/S*/S*/*E/HR*/HR*/*U/R*/R*/SKWR*E/SKHRAPL
+'snak,': HRO*ER/S*P/TPH*/SKWRA/*BG/KW-BG
+'snurre,': S*/TPH*/*U/R*/R*/SKWRE/KW-BG
+'bassellurre!': PW*/A*/S*/S*/*E/HR*/HR*/*U/R*/R*/SKWRE/SKHRAPL
 'I'm': AOEUPL
 'master': PHAFRT
 'of': -F
@@ -521,9 +521,9 @@ In the Nursery
 'into': TPHAO
 'the': -T
 'bargain.': PWAR/TKPWAEUPB/TP-PL
-'Snikke,': S*P/TPH*/SKWREU/*BG/*BG/SKWR*E/KW-BG
-'snakke,': HRO*ER/S*P/TPH*/KWRA/*BG/*BG/SKWR*E/KW-BG
-'snak!': HRO*ER/S*P/TPH*/KWRA/*BG/SKHRAPL
+'Snikke,': S*P/TPH*/SKWREU/*BG/*BG/SKWRE/KW-BG
+'snakke,': HRO*ER/S*P/TPH*/SKWRA/*BG/*BG/SKWRE/KW-BG
+'snak!': HRO*ER/S*P/TPH*/SKWRA/*BG/SKHRAPL
 'He': KPA/HE
 'shall': SHAL
 'have': SR
@@ -746,7 +746,7 @@ In the Nursery
 'mine,': PHAOEUPB/KW-BG
 'For': KPA/TPOR
 'Holger': H*P/O*/HR*/TKPW*/*ER
-'Danske': TKAPB/-S/*BG/SKWR*E
+'Danske': TKAPB/-S/*BG/SKWRE
 'has': HAS
 'sworn': SWORPB
 'it!'': T/SKHRAPL/AE
@@ -803,7 +803,7 @@ In the Nursery
 '"'I': KW-GS/AE/EU
 'can't': K-PBT
 'see,': SAOERBGS
-'heigho!': H*/*E/*EU/TKPW*/H*/KWRO/SKHRAPL
+'heigho!': H*/*E/*EU/TKPW*/H*/SKWRO/SKHRAPL
 'And': AFPBD
 'therefore': TH-FR
 'I'll': AOEUL

@@ -1074,7 +1074,7 @@ The Bird of Popular Song
 'the': -T
 'songs': SOPBGS
 'of': -F
-'Ossian,': O*P/-S/-S/SKWREU/KWRA/*PB/KW-BG
+'Ossian,': O*P/-S/-S/KWRA*/*PB/KW-BG
 'like': HRAOEUBG
 'the': -T
 'rushing': RURBG

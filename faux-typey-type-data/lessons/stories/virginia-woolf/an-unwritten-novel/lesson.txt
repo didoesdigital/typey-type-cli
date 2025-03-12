@@ -1574,7 +1574,7 @@ An Unwritten Novel
 'people.': PAOEPL/TP-PL
 'But': KPA/PWUT
 'what': WHA
-'flummery': TP*/HR*/*U/PH*/PH*/*ER/KWREU
+'flummery': TP*/HR*/*U/PH*/PH*/SKWRE/REU
 'to': TO
 'saddle': SA*LD
 'her': HER
@@ -1599,7 +1599,7 @@ An Unwritten Novel
 'ribbon': REUB/O*PB
 'in': TPH
 'the': -T
-'draper's': HRO*ER/TK*P/R*/KWRA/*P/*ER/AES
+'draper's': HRO*ER/TK*P/R*/SKWRA/*P/*ER/AES
 'window': WOEUPBD
 'spangled': SPAPBG/*LD
 'in': TPH
@@ -1743,7 +1743,7 @@ An Unwritten Novel
 'I': EU
 'want.': WAPBT/TP-PL
 'The': KPA/-T
-'draper's': HRO*ER/TK*P/R*/KWRA/*P/*ER/AES
+'draper's': HRO*ER/TK*P/R*/SKWRA/*P/*ER/AES
 'window': WOEUPBD
 'looped': HRAOPD
 'with': W
@@ -2513,7 +2513,7 @@ An Unwritten Novel
 'troop': TRAOP
 'of': -F
 'Spanish': SPAPB/EURB
-'muleteers,': PHU/HR*ET/SKWR*E/*ERS/KW-BG
+'muleteers,': PHU/HR*ET/SKWRE/*ERS/KW-BG
 'with': W
 'their': THAEUR
 'convoy—Drake's': KAUPB/SROEU/EPL/TKA*RB/TKRA*EUBG/AES
@@ -2644,12 +2644,12 @@ An Unwritten Novel
 'whole': WHOEL
 'grove': TKPWROEF
 'of': -F
-'aspidistra.': A*/S*/P*/*EU/TK*/*EU/S*/T*/R*/KWRA/TP-PL
+'aspidistra.': A*/S*/P*/*EU/TK*/*EU/S*/T*/R*/SKWRA/TP-PL
 '"The': KW-GS/KPA*/-T
 'fronds': TPROPBD/-S
 'of': -F
 'the': -T
-'aspidistra': A*/S*/P*/*EU/TK*/*EU/S*/T*/R*/KWRA
+'aspidistra': A*/S*/P*/*EU/TK*/*EU/S*/T*/R*/SKWRA
 'only': OEPBL
 'partly': PARLT
 'concealed': KAUPB/SAOELD
@@ -2961,7 +2961,7 @@ An Unwritten Novel
 'line—are': HRAOEUPB/EPL/TKA*RB/R
 'we': WE
 'past': PAFT
-'Lewes?—there': HR*P/*E/W*/SKWR*E/-S/H-F/EPL/TKA*RB/THR
+'Lewes?—there': HR*P/*E/W*/SKWRE/-S/H-F/EPL/TKA*RB/THR
 'must': PHUFT
 'be': -B
 'Jimmy—or': SKWREUPL/KWREU/EPL/TKA*RB/OR
@@ -3107,7 +3107,7 @@ An Unwritten Novel
 'eyes.': AO*EUS/TP-PL
 'Behind': KPA/HEUPBD
 'the': -T
-'aspidistra': A*/S*/P*/*EU/TK*/*EU/S*/T*/R*/KWRA
+'aspidistra': A*/S*/P*/*EU/TK*/*EU/S*/T*/R*/SKWRA
 'they': THE
 'see': SAOE
 'something:': S-G/STPH-FPLT
@@ -3120,7 +3120,7 @@ An Unwritten Novel
 'again;': TKPWEPB/STPH*FPLT
 'behind': HEUPBD
 'the': -T
-'aspidistra': A*/S*/P*/*EU/TK*/*EU/S*/T*/R*/KWRA
+'aspidistra': A*/S*/P*/*EU/TK*/*EU/S*/T*/R*/SKWRA
 'they': THE
 'see': SAOE
 'elderly': ERLD

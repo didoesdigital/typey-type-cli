@@ -1674,7 +1674,7 @@ The Mark on the Wall
 'Whitaker's': W*P/H*/EUT/KWRA/*BG/*ER/AES
 'Table': TA*EUBL
 'of': -F
-'Precedency,': P*P/R*/*E/KR*/*E/TK*/*E/TPH*/KR*/KWREU/KW-BG
+'Precedency,': P*P/R*/*E/KR*/-D/*EPB/SEU/KW-BG
 'which': WEU
 'has': HAS
 'become,': PW-BG/KW-BG
@@ -1711,7 +1711,7 @@ The Mark on the Wall
 'sideboards': SAOEUD/PWAO*RD/-S
 'and': SKP
 'the': -T
-'Landseer': KPA/HRAPBDZ/SKWR*E/*ER
+'Landseer': KPA/HRAPBDZ/SKWRE/*ER
 'prints,': PREUPBTS/KW-BG
 'Gods': KPA/TKPWODZ
 'and': SKP
@@ -2354,7 +2354,7 @@ The Mark on the Wall
 'the': -T
 'Table': TA*EUBL
 'of': -F
-'Precedency!': P*P/R*/*E/KR*/*E/TK*/*E/TPH*/KR*/KWREU/SKHRAPL
+'Precedency!': P*P/R*/*E/KR*/-D/*EPB/SEU/SKHRAPL
 'I': EU
 'must': PHUFT
 'jump': SKWRUFRP
@@ -2421,7 +2421,7 @@ The Mark on the Wall
 'Whitaker's': W*P/H*/EUT/KWRA/*BG/*ER/AES
 'Table': TA*EUBL
 'of': -F
-'Precedency?': P*P/R*/*E/KR*/*E/TK*/*E/TPH*/KR*/KWREU/H-F
+'Precedency?': P*P/R*/*E/KR*/-D/*EPB/SEU/H-F
 'The': KPA/-T
 'Archbishop': KPA/AFRPB/PWEURB/OP
 'of': -F

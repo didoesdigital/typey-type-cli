@@ -578,7 +578,7 @@ Rumpelstiltskin
 'song,': SOPBG/KW-BG
 'and': SKP
 'the': -T
-'manikin': PHAPB/SKWREU/*BG/*EUPB
+'manikin': PHA/TPHAO*E/*BG/*EUPB
 'once': WUPBS
 'more': PHOR
 'spun': SPUPB

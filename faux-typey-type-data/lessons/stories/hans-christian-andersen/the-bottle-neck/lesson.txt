@@ -115,7 +115,7 @@ The Bottle Neck
 'she': SHE
 'had': H
 'hung': HUPBG
-'chickweed': KR*/H*/*EU/KR*/K*/W*/SKWR*E/-D
+'chickweed': KR*/H*/*EU/KR*/K*/W*/SKWRE/-D
 'over': OEFR
 'the': -T
 'cage,': KAEUPBLG/KW-BG

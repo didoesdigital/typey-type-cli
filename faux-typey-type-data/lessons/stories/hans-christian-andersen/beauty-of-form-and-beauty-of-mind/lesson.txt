@@ -905,13 +905,13 @@ Beauty of Form and Beauty of Mind
 'They': KPA/THE
 'called': KAULD
 'her': HER
-'Kaela.': K*P/A*/*E/HR*/KWRA/TP-PL
+'Kaela.': K*P/A*/*E/HR*/SKWRA/TP-PL
 'Her': KPA/HER
 'name': TPHAEUPL
 'was': WAS
 'really': R-L
 'Karen': KAEURPB
-'Malena,': PHAU/HRAEU/*PB/KWRA/KW-BG
+'Malena,': PHAU/HRAEU/*PB/SKWRA/KW-BG
 'and': SKP
 'these': THEZ
 'two': TWO
@@ -923,7 +923,7 @@ Beauty of Form and Beauty of Mind
 'the': -T
 'one': WUPB
 'name': TPHAEUPL
-'Kaela.': K*P/A*/*E/HR*/KWRA/TP-PL
+'Kaela.': K*P/A*/*E/HR*/SKWRA/TP-PL
 'She': KPA/SHE
 'was': WAS
 'really': R-L
@@ -1196,7 +1196,7 @@ Beauty of Form and Beauty of Mind
 'Alfred's': AL/TPRED/AES
 'respect': R-PT
 'for': TPOR
-'Kaela's': K*P/A*/*E/HR*/KWRA/AES
+'Kaela's': K*P/A*/*E/HR*/SKWRA/AES
 'mamma': PHAPL/PHA
 'underwent': UPBD/WEPBT
 'a': AEU
@@ -1212,7 +1212,7 @@ Beauty of Form and Beauty of Mind
 'light': HRAOEUT
 'which': WEU
 'surrounded': SROUPBD/-D
-'Kaela,': K*P/A*/*E/HR*/KWRA/KW-BG
+'Kaela,': K*P/A*/*E/HR*/SKWRA/KW-BG
 'he': HE
 'soon': SAOPB
 'found': TPOUPBD
@@ -1238,7 +1238,7 @@ Beauty of Form and Beauty of Mind
 'little': HREUL
 'consequence;': KWEPBS/STPH*FPLT
 'for': TPOR
-'Kaela's': K*P/A*/*E/HR*/KWRA/AES
+'Kaela's': K*P/A*/*E/HR*/SKWRA/AES
 'mamma': PHAPL/PHA
 'had': H
 'the': -T
@@ -1247,11 +1247,11 @@ Beauty of Form and Beauty of Mind
 'all': AUL
 'possessions;': POE/SEGS/-S/STPH*FPLT
 'namely,': TPHAEUPL/HREU/KW-BG
-'Kaela': K*P/A*/*E/HR*/KWRA
+'Kaela': K*P/A*/*E/HR*/SKWRA
 'herself.': H*ERS/TP-PL
 'Alfred': AL/TPRED
 'and': SKP
-'Kaela': K*P/A*/*E/HR*/KWRA
+'Kaela': K*P/A*/*E/HR*/SKWRA
 'were': WR
 'betrothed,': PWE/TRO*T/-D/KW-BG
 'which': WEU
@@ -1341,7 +1341,7 @@ Beauty of Form and Beauty of Mind
 'a': AEU
 'clever': KHREFR
 'thing.': THEUPBG/TP-PL
-'Kaela': K*P/A*/*E/HR*/KWRA
+'Kaela': K*P/A*/*E/HR*/SKWRA
 'was': WAS
 'silent;': SHREPBT/STPH*FPLT
 'but': PWUT
@@ -1372,7 +1372,7 @@ Beauty of Form and Beauty of Mind
 'a': AEU
 'bust': PWUFT
 'of': -F
-'Kaela': K*P/A*/*E/HR*/KWRA
+'Kaela': K*P/A*/*E/HR*/SKWRA
 'as': AS
 'well': WEL
 'as': AS
@@ -1451,7 +1451,7 @@ Beauty of Form and Beauty of Mind
 'a': AEU
 'smile;': SPHAOEUL/STPH*FPLT
 'and': SKP
-'Kaela': K*P/A*/*E/HR*/KWRA
+'Kaela': K*P/A*/*E/HR*/SKWRA
 'silently': SHREPBLT
 'pressed': PREFD
 'his': HEUS
@@ -1549,7 +1549,7 @@ Beauty of Form and Beauty of Mind
 'in': TPH
 'his': HEUS
 'works.': WORBGS/TP-PL
-'Kaela': K*P/A*/*E/HR*/KWRA
+'Kaela': K*P/A*/*E/HR*/SKWRA
 'stood': STAOD
 'silent,': SHREPBT/KW-BG
 'but': PWUT
@@ -1603,7 +1603,7 @@ Beauty of Form and Beauty of Mind
 'some': SOPL
 'of': -F
 'it."': T/TP-PL/KR-GS
-'Kaela's': K*P/A*/*E/HR*/KWRA/AES
+'Kaela's': K*P/A*/*E/HR*/SKWRA/AES
 'beauty': PWAOUT
 'had': H
 'a': AEU
@@ -1624,7 +1624,7 @@ Beauty of Form and Beauty of Mind
 'Beauty': KPA/PWAOUT
 'beamed': PWAEPL/-D
 'from': TPR
-'Kaela's': K*P/A*/*E/HR*/KWRA/AES
+'Kaela's': K*P/A*/*E/HR*/SKWRA/AES
 'every': EF
 'feature,': TPAOEFP/KW-BG
 'glittered': TKPWHREUT/ERD
@@ -1755,7 +1755,7 @@ Beauty of Form and Beauty of Mind
 '"Pygmalion': KW-GS/PEUG/PHAEUL/KWROPB
 'loved': HROFD
 'his': HEUS
-'Galatea,"': KPA/TKPWA*L/A*T/KWRA/KW-BG/KR-GS
+'Galatea,"': KPA/TKPWA*L/A*T/SKWRA/KW-BG/KR-GS
 'said': SED
 'one': WUPB
 'of': -F
@@ -1799,7 +1799,7 @@ Beauty of Form and Beauty of Mind
 'the': -T
 'domestic': PHEFBG
 'arrangements.': ARPBG/*PLT/-S/TP-PL
-'Kaela': K*P/A*/*E/HR*/KWRA
+'Kaela': K*P/A*/*E/HR*/SKWRA
 'looked': HRAOBGD
 'like': HRAOEUBG
 'a': AEU
@@ -2016,7 +2016,7 @@ Beauty of Form and Beauty of Mind
 'physical': TPEUS
 'deformity,': TK-FRPL/TEU/KW-BG
 'although': HR*T
-'Kaela': K*P/A*/*E/HR*/KWRA
+'Kaela': K*P/A*/*E/HR*/SKWRA
 'used': AOUFD
 'to': TO
 'say': SAEU
@@ -2253,7 +2253,7 @@ Beauty of Form and Beauty of Mind
 'living,': HREUFG/KW-BG
 'mamma,"': PHAPL/PHA/KW-BG/KR-GS
 'said': SED
-'Kaela.': K*P/A*/*E/HR*/KWRA/TP-PL
+'Kaela.': K*P/A*/*E/HR*/SKWRA/TP-PL
 '"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'indeed,"': TPHAOEPBD/KW-BG/KR-GS
 'she': SHE
@@ -2276,7 +2276,7 @@ Beauty of Form and Beauty of Mind
 'had': H
 'also': HR-S
 'tired': TAOEURD
-'Kaela;': K*P/A*/*E/HR*/KWRA/STPH*FPLT
+'Kaela;': K*P/A*/*E/HR*/SKWRA/STPH*FPLT
 'but': PWUT
 'she': SHE
 'was': WAS
@@ -2351,7 +2351,7 @@ Beauty of Form and Beauty of Mind
 'that': THA
 'thoroughly': THORL
 'while': WHAOEUL
-'Kaela': K*P/A*/*E/HR*/KWRA
+'Kaela': K*P/A*/*E/HR*/SKWRA
 'lay': HRAEU
 'sick,': SEUBG/KW-BG
 'fading': TPAEUD/-G
@@ -2379,7 +2379,7 @@ Beauty of Form and Beauty of Mind
 'the': -T
 'casket,': KAFBGT/KW-BG
 'for': TPOR
-'Kaela': K*P/A*/*E/HR*/KWRA
+'Kaela': K*P/A*/*E/HR*/SKWRA
 'died.': TKAOEUD/TP-PL
 '"She': KW-GS/KPA*/SHE
 'was': WAS
@@ -2409,7 +2409,7 @@ Beauty of Form and Beauty of Mind
 'be': -B
 'perfect,': P-F/KW-BG
 'and': SKP
-'Kaela': K*P/A*/*E/HR*/KWRA
+'Kaela': K*P/A*/*E/HR*/SKWRA
 'was': WAS
 'a': AEU
 'perfect': P-F
@@ -2503,7 +2503,7 @@ Beauty of Form and Beauty of Mind
 '"'Pygmalion': KW-GS/AE/PEUG/PHAEUL/KWROPB
 'loved': HROFD
 'his': HEUS
-'Galatea,'': KPA/TKPWA*L/A*T/KWRA/KW-BG/AE
+'Galatea,'': KPA/TKPWA*L/A*T/SKWRA/KW-BG/AE
 'was': WAS
 'in': TPH
 'the': -T
@@ -2625,7 +2625,7 @@ Beauty of Form and Beauty of Mind
 'and': SKP
 'spirit.': SPEURT/TP-PL
 'Poor': KPA/PAOR
-'Kaela!': K*P/A*/*E/HR*/KWRA/SKHRAPL
+'Kaela!': K*P/A*/*E/HR*/SKWRA/SKHRAPL
 'our': OUR
 'life': HRAOEUF
 'was': WAS

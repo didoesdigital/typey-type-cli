@@ -8,7 +8,7 @@ Little Ida's Flowers
 'dead,"': TKED/KW-BG/KR-GS
 'said': SED
 'little': HREUL
-'Ida,': KPA/EUD/KWRA/KW-BG
+'Ida,': KPA/EUD/SKWRA/KW-BG
 '"they': KW-GS/THE
 'were': WR
 'so': SO
@@ -133,7 +133,7 @@ Little Ida's Flowers
 'dance?"': TKAPBS/H-F/KR-GS
 'cried': KRAOEUD
 'little': HREUL
-'Ida.': KPA/EUD/KWRA/TP-PL
+'Ida.': KPA/EUD/SKWRA/TP-PL
 '"Yes': KW-GS/KPA*/KWRE
 'indeed,': TPHAOEPBD/KW-BG
 'they': THE
@@ -186,7 +186,7 @@ Little Ida's Flowers
 'dance?"': TKAPBS/H-F/KR-GS
 'asked': SK-D
 'little': HREUL
-'Ida.': KPA/EUD/KWRA/TP-PL
+'Ida.': KPA/EUD/SKWRA/TP-PL
 '"Have': KW-GS/KPA*/SR
 'you': U
 'not': TPHOT
@@ -251,7 +251,7 @@ Little Ida's Flowers
 'my': PHEU
 'mother,"': PHOER/KW-BG/KR-GS
 'said': SED
-'Ida,': KPA/EUD/KWRA/KW-BG
+'Ida,': KPA/EUD/SKWRA/KW-BG
 '"but': KW-GS/PWUT
 'all': AUL
 'the': -T
@@ -415,7 +415,7 @@ Little Ida's Flowers
 '"But,"': KW-GS/KPA*/PWUT/KW-BG/KR-GS
 'said': SED
 'little': HREUL
-'Ida,': KPA/EUD/KWRA/KW-BG
+'Ida,': KPA/EUD/SKWRA/KW-BG
 '"is': KW-GS/S
 'there': THR
 'no': TPHO
@@ -511,7 +511,7 @@ Little Ida's Flowers
 'capital,"': KPAL/KW-BG/KR-GS
 'said': SED
 'little': HREUL
-'Ida,': KPA/EUD/KWRA/KW-BG
+'Ida,': KPA/EUD/SKWRA/KW-BG
 'clapping': KHRAP/*P/-G
 'her': HER
 'hands.': HAPBDZ/TP-PL
@@ -584,7 +584,7 @@ Little Ida's Flowers
 'these': THEZ
 'balls?"': PWAULS/H-F/KR-GS
 'asked': SK-D
-'Ida.': KPA/EUD/KWRA/TP-PL
+'Ida.': KPA/EUD/SKWRA/TP-PL
 '"It': KW-GS/KPA*/T
 'is': S
 'such': SUFP
@@ -861,7 +861,7 @@ Little Ida's Flowers
 'the': -T
 'signs?"': SAOEUPBS/H-F/KR-GS
 'asked': SK-D
-'Ida.': KPA/EUD/KWRA/TP-PL
+'Ida.': KPA/EUD/SKWRA/TP-PL
 '"Yes,': KW-GS/KPA*/KWRE/KW-BG
 'to': TO
 'be': -B
@@ -947,7 +947,7 @@ Little Ida's Flowers
 'how': HOU
 'funny!"': TPAOUPB/SKHRAPL/KR-GS
 'said': SED
-'Ida,': KPA/EUD/KWRA/KW-BG
+'Ida,': KPA/EUD/SKWRA/KW-BG
 'and': SKP
 'she': SHE
 'laughed.': HRAFD/TP-PL
@@ -1075,7 +1075,7 @@ Little Ida's Flowers
 'But': KPA/PWUT
 'to': TO
 'little': HREUL
-'Ida,': KPA/EUD/KWRA/KW-BG
+'Ida,': KPA/EUD/SKWRA/KW-BG
 'all': AUL
 'these': THEZ
 'stories': STOERS
@@ -1163,7 +1163,7 @@ Little Ida's Flowers
 'asleep,': A/SHRAOEP/KW-BG
 'and': SKP
 'little': HREUL
-'Ida': KPA/EUD/KWRA
+'Ida': KPA/EUD/SKWRA
 'said': SED
 'to': TO
 'her,': HER/KW-BG
@@ -1228,7 +1228,7 @@ Little Ida's Flowers
 'of': -F
 'her': HER
 'bed.': PWED/TP-PL
-'Ida': KPA/EUD/KWRA
+'Ida': KPA/EUD/SKWRA
 'placed': PHRAEUFD
 'the': -T
 'flowers': TPHRO*URS
@@ -1374,7 +1374,7 @@ Little Ida's Flowers
 'leaf': HRAOEF
 'moved;': PHOFD/STPH*FPLT
 'still': STEUL
-'Ida': KPA/EUD/KWRA
+'Ida': KPA/EUD/SKWRA
 'felt': TPELT
 'quite': KWAOEUT
 'sure': SHUR
@@ -1462,7 +1462,7 @@ Little Ida's Flowers
 'quite': KWAOEUT
 'still': STEUL
 'in': TPH
-'Ida's': KPA/EUD/KWRA/AES
+'Ida's': KPA/EUD/SKWRA/AES
 'bedroom;': PW-PL/STPH*FPLT
 'the': -T
 'night-lamp': TPHAOEUT/H-PB/HRAFRP
@@ -1732,7 +1732,7 @@ Little Ida's Flowers
 'lily': HREUL/KWREU
 'which': WEU
 'little': HREUL
-'Ida': KPA/EUD/KWRA
+'Ida': KPA/EUD/SKWRA
 'was': WAS
 'sure': SHUR
 'she': SHE
@@ -1756,7 +1756,7 @@ Little Ida's Flowers
 'Lina,': HRAOEPB/TPHA/KW-BG
 'one': WUPB
 'of': -F
-'Ida's': KPA/EUD/KWRA/AES
+'Ida's': KPA/EUD/SKWRA/AES
 'friends.': TPREPBDZ/TP-PL
 'They': KPA/THE
 'all': AUL
@@ -1770,7 +1770,7 @@ Little Ida's Flowers
 'seemed': SAOEPLD
 'to': TO
 'little': HREUL
-'Ida': KPA/EUD/KWRA
+'Ida': KPA/EUD/SKWRA
 'as': AS
 'if': TP
 'the': -T
@@ -1899,7 +1899,7 @@ Little Ida's Flowers
 'them': THEPL
 'noticed': TPH-TS/-D
 'little': HREUL
-'Ida.': KPA/EUD/KWRA/TP-PL
+'Ida.': KPA/EUD/SKWRA/TP-PL
 'Presently': KPA/PREPBLT
 'it': T
 'seemed': SAOEPLD
@@ -1910,7 +1910,7 @@ Little Ida's Flowers
 'from': TPR
 'the': -T
 'table.': TAEUBL/TP-PL
-'Ida': KPA/EUD/KWRA
+'Ida': KPA/EUD/SKWRA
 'looked': HRAOBGD
 'that': THA
 'way,': WAEU/KW-BG
@@ -1983,7 +1983,7 @@ Little Ida's Flowers
 'it': T
 'danced': TKAPBS/-D
 'the': -T
-'Mazurka;': PH*P/A*/STKPW*/*U/R*/*BG/KWRA/STPH*FPLT
+'Mazurka;': PH*P/A*/STKPW*/*U/R*/*BG/SKWRA/STPH*FPLT
 'the': -T
 'flowers': TPHRO*URS
 'could': KO
@@ -2094,7 +2094,7 @@ Little Ida's Flowers
 'very': SRE
 'amusing,': A/PHAOUFG/KW-BG
 'and': SKP
-'Ida': KPA/EUD/KWRA
+'Ida': KPA/EUD/SKWRA
 'could': KO
 'not': TPHOT
 'help': HEP
@@ -2178,7 +2178,7 @@ Little Ida's Flowers
 'the': -T
 'drawer,': TKRAUR/KW-BG
 'where': W-R
-'Ida's': KPA/EUD/KWRA/AES
+'Ida's': KPA/EUD/SKWRA/AES
 'doll': TKOL
 'Sophy': S*P/O*/P*/H*/KWREU
 'lay': HRAEU
@@ -2373,7 +2373,7 @@ Little Ida's Flowers
 'at': AT
 'all,': AUL/KW-BG
 'and': SKP
-'Ida's': KPA/EUD/KWRA/AES
+'Ida's': KPA/EUD/SKWRA/AES
 'flowers': TPHRO*URS
 'thanked': THAPBGD
 'her': HER
@@ -2464,7 +2464,7 @@ Little Ida's Flowers
 'must': PHUFT
 'tell': TEL
 'little': HREUL
-'Ida': KPA/EUD/KWRA
+'Ida': KPA/EUD/SKWRA
 'to': TO
 'bury': PWUR/REU
 'us': US
@@ -2519,7 +2519,7 @@ Little Ida's Flowers
 'flowers': TPHRO*URS
 'danced': TKAPBS/-D
 'in.': TPH/TP-PL
-'Ida': KPA/EUD/KWRA
+'Ida': KPA/EUD/SKWRA
 'could': KO
 'not': TPHOT
 'imagine': PHAPBLG
@@ -2651,7 +2651,7 @@ Little Ida's Flowers
 'good-night.': TKPWAOD/H-PB/TPHAOEUT/TP-PL
 'Then': KPA/THEPB
 'little': HREUL
-'Ida': KPA/EUD/KWRA
+'Ida': KPA/EUD/SKWRA
 'crept': KREPT
 'back': PWABG
 'into': TPHAO
@@ -2716,7 +2716,7 @@ Little Ida's Flowers
 'the': -T
 'drawer': TKRAUR
 'where': W-R
-'Ida': KPA/EUD/KWRA
+'Ida': KPA/EUD/SKWRA
 'had': H
 'placed': PHRAEUFD
 'her;': HER/STPH*FPLT
@@ -2739,7 +2739,7 @@ Little Ida's Flowers
 'me?"': PHE/H-F/KR-GS
 'said': SED
 'little': HREUL
-'Ida.': KPA/EUD/KWRA/TP-PL
+'Ida.': KPA/EUD/SKWRA/TP-PL
 'But': KPA/PWUT
 'Sophy': S*P/O*/P*/H*/KWREU
 'looked': HRAOBGD
@@ -2758,7 +2758,7 @@ Little Ida's Flowers
 'at': AT
 'all,"': AUL/KW-BG/KR-GS
 'said': SED
-'Ida;': KPA/EUD/KWRA/STPH*FPLT
+'Ida;': KPA/EUD/SKWRA/STPH*FPLT
 '"and': KW-GS/SKP
 'yet': KWRET
 'they': THE
@@ -2858,7 +2858,7 @@ Little Ida's Flowers
 'them': THEPL
 'to': TO
 'show': SHOE
-'Ida.': KPA/EUD/KWRA/TP-PL
+'Ida.': KPA/EUD/SKWRA/TP-PL
 'She': KPA/SHE
 'told': TOLD
 'them': THEPL
@@ -2896,7 +2896,7 @@ Little Ida's Flowers
 'shoulders,': SHOURLDZ/KW-BG
 'and': SKP
 'little': HREUL
-'Ida': KPA/EUD/KWRA
+'Ida': KPA/EUD/SKWRA
 'followed,': TPOLD/KW-BG
 'carrying': KAERG
 'the': -T
@@ -2914,7 +2914,7 @@ Little Ida's Flowers
 'in': TPH
 'the': -T
 'garden.': TKPWA*RPB/TP-PL
-'Ida': KPA/EUD/KWRA
+'Ida': KPA/EUD/SKWRA
 'kissed': K*EUFD
 'her': HER
 'flowers': TPHRO*URS

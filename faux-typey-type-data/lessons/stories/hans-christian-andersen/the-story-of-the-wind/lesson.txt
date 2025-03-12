@@ -112,7 +112,7 @@ The Story of the Wind
 'you': U
 'of': -F
 'Waldemar': W*P/A*/HR*/TK*/*E/PH*/A*R
-'Daa': KPA/TKA/KWRA
+'Daa': KPA/TKA/SKWRA
 'and': SKP
 'his': HEUS
 'daughters.': TKAURS/TP-PL
@@ -227,11 +227,11 @@ The Story of the Wind
 'fair': TPAEUR
 'and': SKP
 'delicate': TKEL/KAT
-'maidens—Ida,': PHAEUD/*EPB/-S/EPL/TKA*RB/KPA/EUD/KWRA/KW-BG
+'maidens—Ida,': PHAEUD/*EPB/-S/EPL/TKA*RB/KPA/EUD/SKWRA/KW-BG
 'Joanna,': SKWROE/APB/KWRA/KW-BG
 'and': SKP
 'Anna': APB/TPHA
-'Dorothea;': KPA/TKOR/KWRO/*T/SKWR*E/KWRA/STPH*FPLT
+'Dorothea;': KPA/TKOR/SKWRO/*T/SKWRE/SKWRA/STPH*FPLT
 'I': EU
 'have': SR
 'never': TPHEFR
@@ -390,7 +390,7 @@ The Story of the Wind
 'the': -T
 'coast': KOEFT
 'of': -F
-'Jutland.': SKWR*P/*U/T*/HR*/KWRA/*PBD/TP-PL
+'Jutland.': SKWR*P/*U/T*/HR*/SKWRA/*PBD/TP-PL
 'I': EU
 'had': H
 'hurried': HUR/EUD
@@ -399,7 +399,7 @@ The Story of the Wind
 'heath': HAO*ET
 'and': SKP
 'over': OEFR
-'Jutland's': SKWR*P/*U/T*/HR*/KWRA/*PBD/AES
+'Jutland's': SKWR*P/*U/T*/HR*/SKWRA/*PBD/AES
 'wood-girt': WAOD/H-PB/TKPWEURT
 'eastern': AOEFT/ERPB
 'coast,': KOEFT/KW-BG
@@ -431,7 +431,7 @@ The Story of the Wind
 'the': -T
 'shores': SHORS
 'of': -F
-'Zeeland,': STKPW*P/*E/*E/HR*/KWRA/*PBD/KW-BG
+'Zeeland,': STKPW*P/*E/*E/HR*/SKWRA/*PBD/KW-BG
 'near': TPHAOER
 'to': TO
 'the': -T
@@ -741,7 +741,7 @@ The Story of the Wind
 'nothing': TPHOG
 'new.': TPHU/TP-PL
 'Waldemar': W*P/A*/HR*/TK*/*E/PH*/A*R
-'Daa': KPA/TKA/KWRA
+'Daa': KPA/TKA/SKWRA
 'remained': RE/PHAEUPBD
 'for': TPOR
 'a': AEU
@@ -777,7 +777,7 @@ The Story of the Wind
 'eyes,': AO*EUS/KW-BG
 'but': PWUT
 'Lady': KPA/HRA*ED
-'Daa': KPA/TKA/KWRA
+'Daa': KPA/TKA/SKWRA
 'had': H
 'driven': TKREUFPB
 'away,': WA*EU/KW-BG
@@ -879,7 +879,7 @@ The Story of the Wind
 'were': WR
 'doomed.': TKAOPLD/TP-PL
 'Waldemar': W*P/A*/HR*/TK*/*E/PH*/A*R
-'Daa': KPA/TKA/KWRA
+'Daa': KPA/TKA/SKWRA
 'wanted': WAPBTD
 'to': TO
 'build': PWEULD
@@ -989,7 +989,7 @@ The Story of the Wind
 'working,': WOG/KW-BG
 'stood': STAOD
 'Waldemar': W*P/A*/HR*/TK*/*E/PH*/A*R
-'Daa': KPA/TKA/KWRA
+'Daa': KPA/TKA/SKWRA
 'and': SKP
 'his': HEUS
 'three': THRAOE
@@ -1010,7 +1010,7 @@ The Story of the Wind
 'the': -T
 'youngest,': KWRUPBG/EFT/KW-BG
 'Anna': APB/TPHA
-'Dorothea,': KPA/TKOR/KWRO/*T/SKWR*E/KWRA/KW-BG
+'Dorothea,': KPA/TKOR/SKWRO/*T/SKWRE/SKWRA/KW-BG
 'who': WHO
 'felt': TPELT
 'grieved': TKPWRAOEF/-D
@@ -1126,7 +1126,7 @@ The Story of the Wind
 'intellect,': SPWHREBGT/KW-BG
 'and': SKP
 'Waldemar': W*P/A*/HR*/TK*/*E/PH*/A*R
-'Daa': KPA/TKA/KWRA
+'Daa': KPA/TKA/SKWRA
 'was': WAS
 'fond': TPOPBD
 'of': -F
@@ -1138,7 +1138,7 @@ The Story of the Wind
 'was': WAS
 'Waldemar's': W*P/A*/HR*/TK*/*E/PH*/A*R/AES
 'daughter': TKAUR
-'Ida,': KPA/EUD/KWRA/KW-BG
+'Ida,': KPA/EUD/SKWRA/KW-BG
 'the': -T
 'eldest,': ELD/EFT/KW-BG
 'now': TPHOU
@@ -1170,7 +1170,7 @@ The Story of the Wind
 'which': WEU
 'he': HE
 'and': SKP
-'Ida': KPA/EUD/KWRA
+'Ida': KPA/EUD/SKWRA
 'were': WR
 'to': TO
 'live': HREUF
@@ -1249,7 +1249,7 @@ The Story of the Wind
 'remain,': RAEUPL/KW-BG
 'and': SKP
 'little': HREUL
-'Ida': KPA/EUD/KWRA
+'Ida': KPA/EUD/SKWRA
 'got': TKPWOT
 'over': OEFR
 'it,': T/KW-BG
@@ -1337,7 +1337,7 @@ The Story of the Wind
 'their': THAEUR
 'feet.': TPAOET/TP-PL
 'Waldemar': W*P/A*/HR*/TK*/*E/PH*/A*R
-'Daa': KPA/TKA/KWRA
+'Daa': KPA/TKA/SKWRA
 'wanted': WAPBTD
 'gold,': TKPWOELD/KW-BG
 'and': SKP
@@ -1582,7 +1582,7 @@ The Story of the Wind
 'young,': KWRUPBG/KW-BG
 'and': SKP
 'little': HREUL
-'Ida': KPA/EUD/KWRA
+'Ida': KPA/EUD/SKWRA
 'is': S
 'a': AEU
 'rose': ROEZ
@@ -1805,7 +1805,7 @@ The Story of the Wind
 'out': OUT
 'again.': TKPWEPB/TP-PL
 'Anna': APB/TPHA
-'Dorothea,': KPA/TKOR/KWRO/*T/SKWR*E/KWRA/KW-BG
+'Dorothea,': KPA/TKOR/SKWRO/*T/SKWRE/SKWRA/KW-BG
 'the': -T
 'pale': PAEL
 'hyacinth,': HAOEU/S*EUPBT/KW-BG
@@ -1891,7 +1891,7 @@ The Story of the Wind
 'always': AULS
 'concocting.': KAUPB/KOBGT/-G/TP-PL
 'Waldemar': W*P/A*/HR*/TK*/*E/PH*/A*R
-'Daa': KPA/TKA/KWRA
+'Daa': KPA/TKA/SKWRA
 'was': WAS
 'arrogant': AR/TKPWAPBT
 'and': SKP
@@ -2043,7 +2043,7 @@ The Story of the Wind
 'fingers.'': TPEURPBGS/TP-PL/AE
 'But': KPA/PWUT
 'Waldemar': W*P/A*/HR*/TK*/*E/PH*/A*R
-'Daa': KPA/TKA/KWRA
+'Daa': KPA/TKA/SKWRA
 'did': TK
 'not': TPHOT
 'leave': HREF
@@ -2524,7 +2524,7 @@ The Story of the Wind
 'But': KPA/PWUT
 'my': PHEU
 'Lord': HRO*RD
-'Daa': KPA/TKA/KWRA
+'Daa': KPA/TKA/SKWRA
 'would': WO
 'not': TPHOT
 'do': TKO
@@ -2994,7 +2994,7 @@ The Story of the Wind
 'place': PHRAEUS
 'at': AT
 'Waldemar': W*P/A*/HR*/TK*/*E/PH*/A*R
-'Daa's,': KPA/TKA/KWRA/AES/KW-BG
+'Daa's,': KPA/TKA/SKWRA/AES/KW-BG
 'in': TPH
 'the': -T
 'castle': KAFL
@@ -3005,7 +3005,7 @@ The Story of the Wind
 'Owe': KPA/OE
 'Ramel,': R*P/A*/PH*/*E/HR*/KW-BG
 'of': -F
-'Basnas,': KPA/PWA/-S/*PB/KWRA/-S/KW-BG
+'Basnas,': KPA/PWA/-S/*PB/SKWRA/-S/KW-BG
 'was': WAS
 'there,': THR-RBGS
 'with': W
@@ -3050,10 +3050,10 @@ The Story of the Wind
 'to': TO
 'remain': RAEUPL
 'there.': THR/TP-PL
-'Ida': KPA/EUD/KWRA
+'Ida': KPA/EUD/SKWRA
 'and': SKP
 'Anna': APB/TPHA
-'Dorothea': KPA/TKOR/KWRO/*T/SKWR*E/KWRA
+'Dorothea': KPA/TKOR/SKWRO/*T/SKWRE/SKWRA
 'wept': WEPT
 'bitterly,': PWEURLT/KW-BG
 'Joanna': SKWROE/APB/KWRA
@@ -3077,7 +3077,7 @@ The Story of the Wind
 'Ramel': R*P/A*/PH*/*E/HR*
 'offered': OFRD
 'Waldemar': W*P/A*/HR*/TK*/*E/PH*/A*R
-'Daa': KPA/TKA/KWRA
+'Daa': KPA/TKA/SKWRA
 'permission': PERPLGS
 'to': TO
 'remain': RAEUPL
@@ -3261,7 +3261,7 @@ The Story of the Wind
 'its': EUTS
 'promise.': PROPLS/TP-PL
 'Waldemar': W*P/A*/HR*/TK*/*E/PH*/A*R
-'Daa': KPA/TKA/KWRA
+'Daa': KPA/TKA/SKWRA
 'hid': HEUD
 'the': -T
 'glass': TKPWHRAS
@@ -3321,7 +3321,7 @@ The Story of the Wind
 'away!': WA*EU/SKHRAPL
 'Gone': KPA/TKPWOPB
 'away!'': WA*EU/SKHRAPL/AE
-'Ida': KPA/EUD/KWRA
+'Ida': KPA/EUD/SKWRA
 'walked': WAUBGD
 'on': OPB
 'one': WUPB
@@ -3332,7 +3332,7 @@ The Story of the Wind
 'man,': PHAPB/KW-BG
 'and': SKP
 'Anna': APB/TPHA
-'Dorothea': KPA/TKOR/KWRO/*T/SKWR*E/KWRA
+'Dorothea': KPA/TKOR/SKWRO/*T/SKWRE/SKWRA
 'on': OPB
 'the': -T
 'other;': OER/STPH*FPLT
@@ -3495,7 +3495,7 @@ The Story of the Wind
 'trees': TRAOES
 'were': WR
 'felled.': TPEL/-D/TP-PL
-'Daa': KPA/TKA/KWRA
+'Daa': KPA/TKA/SKWRA
 'and': SKP
 'his': HEUS
 'daughters': TKAURS
@@ -3572,7 +3572,7 @@ The Story of the Wind
 'became': PWAEUPL
 'of': -F
 'Waldemar': W*P/A*/HR*/TK*/*E/PH*/A*R
-'Daa': KPA/TKA/KWRA
+'Daa': KPA/TKA/SKWRA
 'and': SKP
 'his': HEUS
 'daughters?': TKAURS/H-F
@@ -3593,7 +3593,7 @@ The Story of the Wind
 'pale': PAEL
 'hyacinth,': HAOEU/S*EUPBT/KW-BG
 'Anna': APB/TPHA
-'Dorothea.': KPA/TKOR/KWRO/*T/SKWR*E/KWRA/TP-PL
+'Dorothea.': KPA/TKOR/SKWRO/*T/SKWRE/SKWRA/TP-PL
 'She': KPA/SHE
 'was': WAS
 'old': OLD
@@ -3626,7 +3626,7 @@ The Story of the Wind
 'of': -F
 'Wiborg,': W*P/*EU/PW*/O*/R*/TKPW*/KW-BG
 'in': TPH
-'Jutland,': SKWR*P/*U/T*/HR*/KWRA/*PBD/KW-BG
+'Jutland,': SKWR*P/*U/T*/HR*/SKWRA/*PBD/KW-BG
 'stood': STAOD
 'the': -T
 'fine': TPAOEUPB
@@ -3868,7 +3868,7 @@ The Story of the Wind
 'it': T
 'was': WAS
 'Anna': APB/TPHA
-'Dorothea.': KPA/TKOR/KWRO/*T/SKWR*E/KWRA/TP-PL
+'Dorothea.': KPA/TKOR/SKWRO/*T/SKWRE/SKWRA/TP-PL
 '"'O-h,': KW-GS/AE/O*P/H-PB/H*/KW-BG
 'o-h,'': O*/H-PB/H*/KW-BG/AE
 'she': SHE
@@ -3900,7 +3900,7 @@ The Story of the Wind
 'thy': THAO*EU
 'burial,': PWUR/KWRAL/KW-BG
 'Waldemar': W*P/A*/HR*/TK*/*E/PH*/A*R
-'Daa.': KPA/TKA/KWRA/TP-PL
+'Daa.': KPA/TKA/SKWRA/TP-PL
 'The': KPA/-T
 'poor': PAOR
 'school-boys': SKAOL/H-PB/PWOEUS
@@ -3931,7 +3931,7 @@ The Story of the Wind
 'even': AOEPB
 'misery.': PHEUS/REU/TP-PL
 'Sister': KPA/ST-R
-'Ida': KPA/EUD/KWRA
+'Ida': KPA/EUD/SKWRA
 'became': PWAEUPL
 'the': -T
 'wife': WAOEUF
@@ -3979,7 +3979,7 @@ The Story of the Wind
 'ground': TKPWROUPBD
 'now;': TPHOU/STPH*FPLT
 'and': SKP
-'Ida—alas!': KPA/EUD/KWRA/EPL/TKA*RB/A/HRAS/SKHRAPL
+'Ida—alas!': KPA/EUD/SKWRA/EPL/TKA*RB/A/HRAS/SKHRAPL
 'alas!': A/HRAS/SKHRAPL
 'it': T
 'is': S
@@ -4001,7 +4001,7 @@ The Story of the Wind
 '"That': KW-GS/KPA*/THA
 'was': WAS
 'Anna': APB/TPHA
-'Dorothea's': KPA/TKOR/KWRO/*T/SKWR*E/KWRA/AES
+'Dorothea's': KPA/TKOR/SKWRO/*T/SKWRE/SKWRA/AES
 'prayer': PRAEUR
 'in': TPH
 'the': -T
@@ -4103,7 +4103,7 @@ The Story of the Wind
 'on': OPB
 'which': WEU
 'Waldemar': W*P/A*/HR*/TK*/*E/PH*/A*R
-'Daa': KPA/TKA/KWRA
+'Daa': KPA/TKA/SKWRA
 'imagined': PHAPBLGD
 'he': HE
 'had': H
@@ -4132,7 +4132,7 @@ The Story of the Wind
 'It': KPA/T
 'was': WAS
 'Anna': APB/TPHA
-'Dorothea's': KPA/TKOR/KWRO/*T/SKWR*E/KWRA/AES
+'Dorothea's': KPA/TKOR/SKWRO/*T/SKWRE/SKWRA/AES
 'last': HRAFT
 'song.': SOPBG/TP-PL
 'There': KPA/THR
@@ -4193,7 +4193,7 @@ The Story of the Wind
 'morning': PHORPBG
 'on': OPB
 'Anna': APB/TPHA
-'Dorothea.': KPA/TKOR/KWRO/*T/SKWR*E/KWRA/TP-PL
+'Dorothea.': KPA/TKOR/SKWRO/*T/SKWRE/SKWRA/TP-PL
 'The': KPA/-T
 'stork's': STORBG/AES
 'nest': TPHEFT
@@ -4289,7 +4289,7 @@ The Story of the Wind
 'story': STOER
 'of': -F
 'Waldemar': W*P/A*/HR*/TK*/*E/PH*/A*R
-'Daa': KPA/TKA/KWRA
+'Daa': KPA/TKA/SKWRA
 'and': SKP
 'his': HEUS
 'daughters.': TKAURS/TP-PL

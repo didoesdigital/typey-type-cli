@@ -609,7 +609,7 @@ The Butterfly
 'found': TPOUPBD
 'in': TPH
 'the': -T
-'dahlias': HRO*ER/TKAL/SKWREU/KWRA/-S
+'dahlias': HRO*ER/TKAL/KWRA*/-S
 'or': OR
 'the': -T
 'dry': TKRAOEU

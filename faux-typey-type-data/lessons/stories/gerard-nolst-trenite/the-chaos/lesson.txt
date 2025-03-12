@@ -113,7 +113,7 @@ The Chaos
 'as': AS
 'vague': SRAEUG
 'and': SKP
-'ague,': A*/HRO*ER/TKPWU/SKWR*E/KW-BG
+'ague,': A*/HRO*ER/TKPWU/SKWRE/KW-BG
 'But': KPA/PWUT
 'be': -B
 'careful': KAEUFL
@@ -153,7 +153,7 @@ The Chaos
 'Daughter,': KPA/TKAUR/KW-BG
 'laughter': HRAFR
 'and': SKP
-'Terpsichore,': KPA/TER/*P/-S/SKWREU/*FP/O*R/SKWR*E/KW-BG
+'Terpsichore,': KPA/TER/*P/-S/SKWREU/*FP/O*R/SKWRE/KW-BG
 'Branch,': KPA/PWRAFRPB/KW-BG
 'ranch,': RAFRPB/KW-BG
 'measles,': PHAOEFLS/KW-BG
@@ -329,7 +329,7 @@ The Chaos
 'it': T
 'rhymes': RAOEUPLS
 'with': W
-'Thalia.': T*P/H*/A*L/SKWREU/KWRA/TP-PL
+'Thalia.': T*P/H*/A*L/KWRA*/TP-PL
 'Hugh,': HAOUG/KW-BG
 'but': PWUT
 'hug,': HUG/KW-BG
@@ -342,7 +342,7 @@ The Chaos
 'but': PWUT
 'minute.': PHEUPB/TP-PL
 'Say': KPA/SAEU
-'abscission': A*/PW*/S*/KR*/SKWREU/-S/-S/SKWREU/KWRO/*PB
+'abscission': A*/PW*/S*/KR*/SKWREU/-S/-S/KWRO*E/*PB
 'with': W
 'precision,': PRE/SEUGS/KW-BG
 'Now:': KPA/TPHOU/STPH-FPLT
@@ -447,7 +447,7 @@ The Chaos
 'mover,': PHOFR/KW-BG
 'plover,': PHRO*FR/KW-BG
 'Dover.': TKOEFR/TP-PL
-'Leeches,': KPA/HRAOEFP/SKWR*E/-S/KW-BG
+'Leeches,': KPA/HRAOEFP/SKWRE/-S/KW-BG
 'breeches,': PWRAOEFP/-S/KW-BG
 'wise,': WAOEUS/KW-BG
 'precise,': PRE/SAOEUS/KW-BG
@@ -643,7 +643,7 @@ The Chaos
 'penny,': PEPB/TPHEU/KW-BG
 'You': KPA/U
 'say': SAEU
-'mani-(fold)': PHAPB/SKWREU/H-PB/PREPB/TPOELD/PR*EPB
+'mani-(fold)': PHA/TPHAO*E/H-PB/PREPB/TPOELD/PR*EPB
 'like': HRAOEUBG
 'many,': PHAEPB/KW-BG
 'Which': KPA/WEU
@@ -785,9 +785,9 @@ The Chaos
 'you': U
 'know': TPHOE
 'them,': THEPL/KW-BG
-'Vaughan': SR*P/A*/*U/TKPW*/H*/KWRA/*PB
+'Vaughan': SR*P/A*/*U/TKPW*/H*/SKWRA/*PB
 'and': SKP
-'Strachan.': S*P/T*/R*/KWRA/*FP/KWRA/*PB/TP-PL
+'Strachan.': S*P/T*/R*/SKWRA/*FP/SKWRA/*PB/TP-PL
 'No,': KPA/TPHO/KW-BG
 'my': PHEU
 'maiden,': PHAEUD/*EPB/KW-BG
@@ -803,7 +803,7 @@ The Chaos
 'Cholmondeley.': KR*P/H*/O*/HR*/PH*/O*/TPH*/TK*/*E/HR*/KWRAOE/TP-PL
 'No.': KPA/TPHO/TP-PL
 'Yet': KPA/KWRET
-'Froude': TP*P/R*/O*/*U/TK*/SKWR*E
+'Froude': TP*P/R*/O*/*U/TK*/SKWRE
 'compared': KPARD
 'with': W
 'proud': PROUD
@@ -874,7 +874,7 @@ The Chaos
 'booked!': PWAOBGD/SKHRAPL
 'Zeus,': SAO*US/KW-BG
 'Thebes,': THAOEBS/KW-BG
-'Thales,': T*P/H*/KWRA/*L/-S/KW-BG
+'Thales,': T*P/H*/SKWRA/*L/-S/KW-BG
 'Aphrodite,': AFR/TKAOEUT/KW-BG
 'Paramour,': KPA/PAR/PHOUR/KW-BG
 'enamoured,': EPB/APL/O*R/A*U/-D/KW-BG
@@ -1045,7 +1045,7 @@ The Chaos
 'but': PWUT
 'noes,': TPHO/ES/KW-BG
 'canoes,': KA/TPHAO/-S/KW-BG
-'Puisne,': P*P/SKWRU/SKWREU/-S/*PB/SKWR*E/KW-BG
+'Puisne,': P*P/SKWRU/SKWREU/-S/*PB/SKWRE/KW-BG
 'truism,': TRAOU/EUFPL/KW-BG
 'use,': AOUS/KW-BG
 'to': TO
@@ -1295,7 +1295,7 @@ The Chaos
 'Asp,': KPA/AS/-P/KW-BG
 'grasp,': TKPWRAFP/KW-BG
 'wasp,': WA*FP/KW-BG
-'demesne,': TKE/PHE/-S/*PB/SKWR*E/KW-BG
+'demesne,': TKE/PHE/-S/*PB/SKWRE/KW-BG
 'cork,': KORBG/KW-BG
 'work.': WORBG/TP-PL
 'A': KPA/AEU
@@ -1375,7 +1375,7 @@ The Chaos
 'like': HRAOEUBG
 'rowlock,': R*/O*/W*/HR*/O*/KR*/*BG/KW-BG
 'gunwale,': TKPWUPB/TPHEL/KW-BG
-'Islington,': *EUP/S*/HR*/*EU/TPH*/TKPW*/T*/KWRO/*PB/KW-BG
+'Islington,': *EUP/S*/HR*/*EU/TPH*/TKPW*/T*/SKWRO/*PB/KW-BG
 'and': SKP
 'Isle': KPA/AO*EULS
 'of': -F

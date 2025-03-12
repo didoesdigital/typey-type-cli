@@ -409,7 +409,7 @@ The Golden Treasure
 'the': -T
 'temples': TA*EPLS
 'in': TPH
-'Hindostan,': H*P/*EU/TPH*/TK*/O*/S*/T*/KWRA/*PB/KW-BG
+'Hindostan,': H*P/*EU/TPH*/TK*/O*/S*/T*/SKWRA/*PB/KW-BG
 'mighty': PHAOEUT/KWREU
 'deeds': TKAOEDZ
 'of': -F
@@ -1284,7 +1284,7 @@ The Golden Treasure
 'terrible': TERBL
 'glow': TKPWHROE
 'the': -T
-'strawheaps': S*/T*/R*/A*/W*/H*/SKWR*E/KWRA/*P/-S
+'strawheaps': S*/T*/R*/A*/W*/H*/SKWRE/SKWRA/*P/-S
 'to': TO
 'which': WEU
 'the': -T
@@ -2000,7 +2000,7 @@ The Golden Treasure
 'as': AS
 'green': TKPWRAOEPB
 'as': AS
-'duckweed,': TK*/*U/KR*/K*/W*/SKWR*E/-D/KW-BG
+'duckweed,': TK*/*U/KR*/K*/W*/SKWRE/-D/KW-BG
 'and': SKP
 'was': WAS
 'always': AULS

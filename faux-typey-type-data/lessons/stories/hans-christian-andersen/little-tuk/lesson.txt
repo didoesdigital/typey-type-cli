@@ -467,7 +467,7 @@ Little Tuk
 'a': AEU
 'hen': HEPB
 'from': TPR
-'Kjoge,"': K*P/SKWR*/KWRO/*PBLG/KW-BG/KR-GS
+'Kjoge,"': K*P/SKWR*/SKWRO/*PBLG/KW-BG/KR-GS
 'and': SKP
 'then': THEPB
 'she': SHE
@@ -514,7 +514,7 @@ Little Tuk
 'a': AEU
 'target': TARGT
 'as': AS
-'Prastoe.': P*P/R*/A*/S*/T*/KWRO/SKWR*E/TP-PL
+'Prastoe.': P*P/R*/A*/S*/T*/SKWRO/SKWRE/TP-PL
 'He': KPA/HE
 'said': SED
 'there': THR
@@ -968,7 +968,7 @@ Little Tuk
 'This': KPA/TH
 'was': WAS
 'King': KO*EUPBG
-'Hroar': H*P/R*/KWRO/A*R
+'Hroar': H*P/R*/SKWRO/A*R
 'of': -F
 'the': -T
 'Springs': KPA/SPREUPBGS
@@ -980,7 +980,7 @@ Little Tuk
 'the': -T
 'town': TOUPB
 'of': -F
-'Roeskilde,': R*P/O*/*E/S*/K*/*EU/HR*/TK*/SKWR*E/KW-BG
+'Roeskilde,': R*P/O*/*E/S*/K*/*EU/HR*/TK*/SKWRE/KW-BG
 'as': AS
 'it': T
 'is': S
@@ -1038,7 +1038,7 @@ Little Tuk
 'towns,"': TOUPBS/KW-BG/KR-GS
 'said': SED
 'King': KO*EUPBG
-'Hroar.': H*P/R*/KWRO/A*R/TP-PL
+'Hroar.': H*P/R*/SKWRO/A*R/TP-PL
 'All': KPA/AUL
 'at': AT
 'once': WUPBS
@@ -1072,7 +1072,7 @@ Little Tuk
 'had': H
 'come': KOPL
 'from': TPR
-'Soroe': S*P/O*R/KWRO/SKWR*E
+'Soroe': S*P/O*R/SKWRO/SKWRE
 'where': W-R
 'the': -T
 'grass': TKPWRAS
@@ -1164,7 +1164,7 @@ Little Tuk
 'as': AS
 'death': TK*T
 'in': TPH
-'Soroe."': S*P/O*R/KWRO/SKWR*E/TP-PL/KR-GS
+'Soroe."': S*P/O*R/SKWRO/SKWRE/TP-PL/KR-GS
 'Then': KPA/THEPB
 'little': HREUL
 'Tuk': T*P/*U/*BG
@@ -1362,7 +1362,7 @@ Little Tuk
 'flying': TPHRAOEUG
 'out': OUT
 'of': -F
-'Kjoge.': K*P/SKWR*/KWRO/*PBLG/TP-PL
+'Kjoge.': K*P/SKWR*/SKWRO/*PBLG/TP-PL
 'You': KPA/U
 'shall': SHAL
 'have': SR
@@ -1413,7 +1413,7 @@ Little Tuk
 'like': HRAOEUBG
 'those': THOZ
 'at': AT
-'Prastoe.': P*P/R*/A*/S*/T*/KWRO/SKWR*E/TP-PL
+'Prastoe.': P*P/R*/A*/S*/T*/SKWRO/SKWRE/TP-PL
 'Understand': KPA/URPBD
 'me': PHE
 'well;': WEL/STPH*FPLT
@@ -1437,7 +1437,7 @@ Little Tuk
 'Corsor,': KPA/KR*/O*/R*/-S/O*R/KW-BG
 'and': SKP
 'at': AT
-'Roeskilde,—Don't': R*P/O*/*E/S*/K*/*EU/HR*/TK*/SKWR*E/KW-BG/EPL/TKA*RB/KPA*/TKOEPBT
+'Roeskilde,—Don't': R*P/O*/*E/S*/K*/*EU/HR*/TK*/SKWRE/KW-BG/EPL/TKA*RB/KPA*/TKOEPBT
 'forget': TPORGT
 'the': -T
 'names': TPHAEUPLS
@@ -1446,7 +1446,7 @@ Little Tuk
 'towns,': TOUPBS/KW-BG
 'as': AS
 'King': KO*EUPBG
-'Hroar': H*P/R*/KWRO/A*R
+'Hroar': H*P/R*/SKWRO/A*R
 'said,—you': SED/KW-BG/EPL/TKA*RB/U
 'shall': SHAL
 'speak': SPAOEBG
@@ -1474,7 +1474,7 @@ Little Tuk
 'I': EU
 'lay': HRAEU
 'in': TPH
-'Soroe,"': S*P/O*R/KWRO/SKWR*E/KW-BG/KR-GS
+'Soroe,"': S*P/O*R/SKWRO/SKWRE/KW-BG/KR-GS
 'said': SED
 'little': HREUL
 'Tuk': T*P/*U/*BG

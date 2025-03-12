@@ -170,7 +170,7 @@ Jorinda and Jorindel
 'whose': WHOZ
 'name': TPHAEUPL
 'was': WAS
-'Jorinda.': SKWROR/KWREU/*PBD/KWRA/TP-PL
+'Jorinda.': SKWROR/KWREU/*PBD/SKWRA/TP-PL
 'She': KPA/SHE
 'was': WAS
 'prettier': PRET/KWRER
@@ -269,7 +269,7 @@ Jorinda and Jorindel
 'the': -T
 'tall': TAUL
 'birches.': PWEUR/-FPS/TP-PL
-'Jorinda': SKWROR/KWREU/*PBD/KWRA
+'Jorinda': SKWROR/KWREU/*PBD/SKWRA
 'sat': SAT
 'down': TKOUPB
 'to': TO
@@ -388,7 +388,7 @@ Jorinda and Jorindel
 'pale,': PAEL/KW-BG
 'and': SKP
 'trembled.': TREPL/-BLD/TP-PL
-'Jorinda': SKWROR/KWREU/*PBD/KWRA
+'Jorinda': SKWROR/KWREU/*PBD/SKWRA
 'was': WAS
 'just': SKWRUFT
 'singing,': SEUPBG/-G/KW-BG
@@ -425,7 +425,7 @@ Jorinda and Jorindel
 'and': SKP
 'beheld': PWE/HELD
 'his': HEUS
-'Jorinda': SKWROR/KWREU/*PBD/KWRA
+'Jorinda': SKWROR/KWREU/*PBD/SKWRA
 'changed': KHAEUPBGD
 'into': TPHAO
 'a': AEU
@@ -630,7 +630,7 @@ Jorinda and Jorindel
 'back': PWABG
 'his': HEUS
 'dear': TKAER
-'Jorinda:': SKWROR/KWREU/*PBD/KWRA/STPH-FPLT
+'Jorinda:': SKWROR/KWREU/*PBD/SKWRA/STPH-FPLT
 'but': PWUT
 'she': SHE
 'laughed': HRAFD
@@ -718,7 +718,7 @@ Jorinda and Jorindel
 'saw': SAU
 'nothing': TPHOG
 'of': -F
-'Jorinda.': SKWROR/KWREU/*PBD/KWRA/TP-PL
+'Jorinda.': SKWROR/KWREU/*PBD/SKWRA/TP-PL
 'At': KPA/AT
 'last': HRAFT
 'he': HE
@@ -776,7 +776,7 @@ Jorinda and Jorindel
 'he': HE
 'found': TPOUPBD
 'his': HEUS
-'Jorinda': SKWROR/KWREU/*PBD/KWRA
+'Jorinda': SKWROR/KWREU/*PBD/SKWRA
 'again.': TKPWEPB/TP-PL
 'In': KPA/TPH
 'the': -T
@@ -1002,7 +1002,7 @@ Jorinda and Jorindel
 'which': WEU
 'was': WAS
 'his': HEUS
-'Jorinda?': SKWROR/KWREU/*PBD/KWRA/H-F
+'Jorinda?': SKWROR/KWREU/*PBD/SKWRA/H-F
 'While': KPA/WHAOEUL
 'he': HE
 'was': WAS
@@ -1046,7 +1046,7 @@ Jorinda and Jorindel
 'the': -T
 'flower,': TPHRO*UR/KW-BG
 'and': SKP
-'Jorinda': SKWROR/KWREU/*PBD/KWRA
+'Jorinda': SKWROR/KWREU/*PBD/SKWRA
 'stood': STAOD
 'before': PW-FR
 'him,': HEUPL/KW-BG
@@ -1094,7 +1094,7 @@ Jorinda and Jorindel
 'and': SKP
 'he': HE
 'took': TAOBG
-'Jorinda': SKWROR/KWREU/*PBD/KWRA
+'Jorinda': SKWROR/KWREU/*PBD/SKWRA
 'home,': HOEPL/KW-BG
 'where': W-R
 'they': THE

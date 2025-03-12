@@ -1102,7 +1102,7 @@ Kew Gardens
 'the': -T
 'ancients': AEURBT/-S
 'as': AS
-'Thessaly,': T*P/H*/*ES/KWRA/HREU/KW-BG
+'Thessaly,': T*P/H*/*ES/SKWRA/HREU/KW-BG
 'William,': WOEUPL/KW-BG
 'and': SKP
 'now,': TPHOURBGS

@@ -1156,8 +1156,8 @@ The Thorny Road of Honor
 'Hueen.': KPA/HAOU/*EPB/TP-PL
 'It': KPA/T
 'is': S
-'Tycho': KPA/TAO*E/*FP/KWRO
-'Brahe.': PW*P/R*/A*/H*/SKWR*E/TP-PL
+'Tycho': KPA/TAO*E/*FP/SKWRO
+'Brahe.': PW*P/R*/A*/H*/SKWRE/TP-PL
 'He': KPA/HE
 'raised': RA*EUFD
 'the': -T

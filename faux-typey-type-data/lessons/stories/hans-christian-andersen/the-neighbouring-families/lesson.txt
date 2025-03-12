@@ -2544,8 +2544,8 @@ The Neighbouring Families
 'best': PWEFT
 'ones': WUPBZ
 'too.': TAO/TP-PL
-'Curoo!': KPA/KUR/KWRO/KWRO/SKHRAPL
-'Curoo!': KPA/KUR/KWRO/KWRO/SKHRAPL
+'Curoo!': KPA/KUR/SKWRAO/SKHRAPL
+'Curoo!': KPA/KUR/SKWRAO/SKHRAPL
 'How': KPA/HOU
 'she': SHE
 'lifts': HREUFTS
@@ -2555,8 +2555,8 @@ The Neighbouring Families
 'ugly,': ULG/KW-BG
 'spiteful': SPAOEUT/-FL
 'creature!': KRAOEFP/SKHRAPL
-'Curoo!': KPA/KUR/KWRO/KWRO/SKHRAPL
-'Curoo!"': KPA/KUR/KWRO/KWRO/SKHRAPL/KR-GS
+'Curoo!': KPA/KUR/SKWRAO/SKHRAPL
+'Curoo!"': KPA/KUR/SKWRAO/SKHRAPL/KR-GS
 'And': AFPBD
 'the': -T
 'eyes': AO*EUS
@@ -2577,7 +2577,7 @@ The Neighbouring Families
 'little': HREUL
 'grey': TKPWRA*EU
 'ones!': WUPBZ/SKHRAPL
-'Curoo,': KPA/KUR/KWRO/KWRO/KW-BG
+'Curoo,': KPA/KUR/SKWRAO/KW-BG
 'curoo,': KUR/SKWRAO/KW-BG
 'curoo!"': KUR/SKWRAO/SKHRAPL/KR-GS
 'So': KPA/SO

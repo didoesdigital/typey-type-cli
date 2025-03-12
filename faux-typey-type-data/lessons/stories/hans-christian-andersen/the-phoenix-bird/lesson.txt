@@ -231,7 +231,7 @@ The Phoenix Bird
 'the': -T
 'plains': PHRAEUPBS
 'of': -F
-'Lapland,': HR*P/A*/P*/HR*/KWRA/*PBD/KW-BG
+'Lapland,': HR*P/A*/P*/HR*/SKWRA/*PBD/KW-BG
 'and': SKP
 'hops': HOPS
 'among': PHOPBG
@@ -292,7 +292,7 @@ The Phoenix Bird
 'eye': AOEU
 'of': -F
 'the': -T
-'Hindoo': KPA/HAOEUPBD/KWRO/KWRO
+'Hindoo': KPA/HAOEUPBD/SKWRAO
 'maid': PHAEUD
 'gleams': TKPWHRAOEPL/-S
 'bright': PWRAOEUT
@@ -354,7 +354,7 @@ The Phoenix Bird
 'red': RED
 'beak;': PWAOEBG/STPH*FPLT
 'on': OPB
-'Shakspeare's': S*P/H*/A*/K*/-S/*P/SKWR*E/A*R/SKWR*E/AES
+'Shakspeare's': S*P/H*/A*/K*/-S/*P/SKWRE/A*R/SKWRE/AES
 'shoulder': SHOURLD
 'he': HE
 'sat': SAT
@@ -397,7 +397,7 @@ The Phoenix Bird
 'to': TO
 'thee': THAOE
 'the': -T
-'Marseillaise,': PH*P/A*/R*/S*/*E/*EU/HR*/HR*/KWRA/AOEUZ/A*U/KW-BG
+'Marseillaise,': PH*P/A*/R*/S*/*E/*EU/HR*/HR*/SKWRA/AOEUZ/A*U/KW-BG
 'and': SKP
 'thou': THO*U
 'kissedst': K*/*EU/S*/S*/*E/TK*/S*/T*

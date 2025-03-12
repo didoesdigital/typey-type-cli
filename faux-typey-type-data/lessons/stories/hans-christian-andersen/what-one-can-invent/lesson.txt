@@ -852,9 +852,9 @@ What One Can Invent
 ''wine-land,'': A*E/WAOEUPB/H-PB/HRAPBD/KW-BG/AE
 'that': THA
 'is,': S-RBGS
-''Groenland,'': A*E/TKPW*P/R*/O*/*E/TPH*/HR*/KWRA/*PBD/KW-BG/AE
+''Groenland,'': A*E/TKPW*P/R*/O*/*E/TPH*/HR*/SKWRA/*PBD/KW-BG/AE
 'or': OR
-''Sloeland.'"': A*E/S*P/HR*/O*/*E/HR*/KWRA/*PBD/TP-PL/AE/KR-GS
+''Sloeland.'"': A*E/S*P/HR*/O*/*E/HR*/SKWRA/*PBD/TP-PL/AE/KR-GS
 '"That': KW-GS/KPA*/THA
 'is': S
 'quite': KWAOEUT
@@ -914,7 +914,7 @@ What One Can Invent
 'through': THRU
 'the': -T
 'great': TKPWRAET
-'manufactory;': PH*/A*/TPH*/*U/TP*/A*/KR*/T*/O*R/KWREU/STPH*FPLT
+'manufactory;': PH*/A*/TPH*/*U/TP*/A*/KR*/T*/SKWRO/REU/STPH*FPLT
 'that': THA
 'was': WAS
 'their': THAEUR
@@ -1165,7 +1165,7 @@ What One Can Invent
 'Easter': AOEFRT
 'nor': TPH-R
 'by': PWEU
-'Whitsuntide!': W*P/H*/*EU/T*/S*/*U/TPH*/T*/*EU/TK*/SKWR*E/SKHRAPL
+'Whitsuntide!': W*P/H*/*EU/T*/S*/*U/TPH*/T*/*EU/TK*/SKWRE/SKHRAPL
 'You': KPA/U
 'will': HR
 'not': TPHOT
@@ -1189,7 +1189,7 @@ What One Can Invent
 'do': TKO
 'that': THA
 'before': PW-FR
-'Shrove': S*P/H*/R*/O*/SR*/SKWR*E
+'Shrove': S*P/H*/R*/O*/SR*/SKWRE
 'Tuesday.': TAOUZ/TP-PL
 'Hunt': H*UPBT
 'the': -T

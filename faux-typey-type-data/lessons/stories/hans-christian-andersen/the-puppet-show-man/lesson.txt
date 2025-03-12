@@ -139,7 +139,7 @@ The Puppet-Show Man
 'little': HREUL
 'town': TOUPB
 'of': -F
-'Slagelse;': S*P/HR*/A*/TKPW*/*E/HR*/-S/SKWR*E/STPH*FPLT
+'Slagelse;': S*P/HR*/A*/TKPW*/*E/HR*/-S/SKWRE/STPH*FPLT
 'there': THR
 'was': WAS
 'a': AEU

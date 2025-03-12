@@ -1200,9 +1200,9 @@ A Cheerful Temper
 'she': SHE
 'sang': SAPBG
 '"Mi': KW-GS/PH*P/*EU
-'manca': PH*/A*/TPH*/KR*/KWRA
+'manca': PH*/A*/TPH*/KR*/SKWRA
 'la': HRA
-'voce,"[1]': SR*/O*/KR*/SKWR*E/KW-BG/KR-GS/PWR-BGT/#S/PWR*BGT
+'voce,"[1]': SR*/O*/KR*/SKWRE/KW-BG/KR-GS/PWR-BGT/#S/PWR*BGT
 'it': T
 'was': WAS
 'the': -T

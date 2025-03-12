@@ -88,7 +88,7 @@ The Happy Family
 'have': SR
 'made': PHAED
 'into': TPHAO
-'fricassees;': TP*/R*/EUBG/KWRA/-S/-S/KWRAE/-S/STPH*FPLT
+'fricassees;': TP*/R*/EUBG/SKWRA/-S/-S/KWRAE/-S/STPH*FPLT
 'and': SKP
 'when': WHEPB
 'they': THE

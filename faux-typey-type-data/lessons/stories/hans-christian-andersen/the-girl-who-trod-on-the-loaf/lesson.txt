@@ -1123,7 +1123,7 @@ The Girl Who Trod on the Loaf
 'seen': SAOEPB
 'by': PWEU
 'the': -T
-'cowherd': KAU/W*/H*/SKWR*E/R*D
+'cowherd': KAU/W*/H*/SKWRE/R*D
 'from': TPR
 'the': -T
 'hill,': HEUL/KW-BG

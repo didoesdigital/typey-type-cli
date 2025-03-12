@@ -89,7 +89,7 @@ Monday or Tuesday
 'Wheels': KPA/WHAOELS
 'strike': STRAOEUBG
 'divergently.': TKWERPBLG/EPBT/HREU/TP-PL
-'Omnibuses': KPA/OPL/TPHEU/PWUS/SKWR*E/-S
+'Omnibuses': KPA/OPL/TPHEU/PWUS/SKWRE/-S
 'conglomerate': KAUPB/TPWHROPL/RAT
 'in': TPH
 'conflict)—for': TPHREUBGT/PR*EPB/EPL/TKA*RB/TPOR

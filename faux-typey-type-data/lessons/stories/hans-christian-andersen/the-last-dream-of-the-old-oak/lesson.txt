@@ -1055,7 +1055,7 @@ The Last Dream of the Old Oak
 'with': W
 'spear': SPAOER
 'and': SKP
-'halberd,': H*/A*/HR*/PW*/SKWR*E/R*D/KW-BG
+'halberd,': H*/A*/HR*/PW*/SKWRE/R*D/KW-BG
 'pitching': PEUFPG
 'their': THAEUR
 'tents,': TEPBTS/KW-BG
@@ -1064,7 +1064,7 @@ The Last Dream of the Old Oak
 'striking': STRAOEUG
 'them.': THEPL/TP-PL
 'The': KPA/-T
-'watchfires': W*/A*/T*/KR*/H*/TP*/*EU/R*/SKWR*E/-S
+'watchfires': W*/A*/T*/KR*/H*/TP*/*EU/R*/SKWRE/-S
 'again': TKPWEPB
 'blazed,': PWHRAEUZ/-D/KW-BG
 'and': SKP
@@ -1115,7 +1115,7 @@ The Last Dream of the Old Oak
 'then,': THEPB/KW-BG
 'guitars': TKPWEU/TAR/-S
 'and': SKP
-'Eolian': *EP/HRO*/SKWREU/KWRA/*PB
+'Eolian': *EP/HRO*/KWRA*/*PB
 'harps': HARP/-S
 'had': H
 'been': PW-PB

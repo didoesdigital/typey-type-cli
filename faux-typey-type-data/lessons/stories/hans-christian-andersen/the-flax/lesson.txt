@@ -179,9 +179,9 @@ The Flax
 'mournfully—': PHOURPB/TPHREU/EPL/TKA*RB
 '"Snip,': KW-GS/KPA*/STPHEUP/KW-BG
 'snap,': STPHAP/KW-BG
-'snurre,': S*/TPH*/*U/R*/R*/SKWR*E/KW-BG
-'Basse': KPA/PWAS/SKWR*E
-'lurre:': HR*/*U/R*/R*/SKWR*E/STPH-FPLT
+'snurre,': S*/TPH*/*U/R*/R*/SKWRE/KW-BG
+'Basse': KPA/PWAS/SKWRE
+'lurre:': HR*/*U/R*/R*/SKWRE/STPH-FPLT
 'The': KPA/-T
 'song': SOPBG
 'is': S
@@ -436,9 +436,9 @@ The Flax
 'of': -F
 ''Snip,': A*E/KPA*/STPHEUP/KW-BG
 'snap,': STPHAP/KW-BG
-'snurre,': S*/TPH*/*U/R*/R*/SKWR*E/KW-BG
-'Basse': KPA/PWAS/SKWR*E
-'lurre.'': HR*/*U/R*/R*/SKWR*E/TP-PL/AE
+'snurre,': S*/TPH*/*U/R*/R*/SKWRE/KW-BG
+'Basse': KPA/PWAS/SKWRE
+'lurre.'': HR*/*U/R*/R*/SKWRE/TP-PL/AE
 'But': KPA/PWUT
 'the': -T
 'song': SOPBG
@@ -1223,7 +1223,7 @@ The Flax
 'stood': STAOD
 'in': TPH
 'the': -T
-'washhouse.': W*/A*/S*/H*/H*/KWRO/SKWRU/-S/SKWR*E/TP-PL
+'washhouse.': W*/A*/S*/H*/H*/SKWRO/SKWRU/-S/SKWRE/TP-PL
 '"After': KW-GS/KPA*/AF
 'work,': WORBG/KW-BG
 'it': T
@@ -1689,8 +1689,8 @@ The Flax
 'ashes,—': ARBS/KW-BG/EPL/TKA*RB
 '"Snip,': KW-GS/KPA*/STPHEUP/KW-BG
 'snap,': STPHAP/KW-BG
-'snurre,': S*/TPH*/*U/R*/R*/SKWR*E/KW-BG
-'Basse': KPA/PWAS/SKWR*E
+'snurre,': S*/TPH*/*U/R*/R*/SKWRE/KW-BG
+'Basse': KPA/PWAS/SKWRE
 'lure:': HRAOUR/STPH-FPLT
 'The': KPA/-T
 'song': SOPBG

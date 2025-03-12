@@ -204,7 +204,7 @@ Fundevogel
 'said,': SED/KW-BG
 ''Listen,': A*E/KPA*/HREUFPB/KW-BG
 'old': OLD
-'Sanna,': SAPB/*PB/KWRA/KW-BG
+'Sanna,': SAPB/*PB/SKWRA/KW-BG
 'why': KWR
 'are': R
 'you': U
@@ -334,7 +334,7 @@ Fundevogel
 'Last': KPA/HRAFT
 'night,': TPHAOEUT/KW-BG
 'old': OLD
-'Sanna': SAPB/*PB/KWRA
+'Sanna': SAPB/*PB/SKWRA
 'carried': KAERD
 'so': SO
 'many': PHAEPB

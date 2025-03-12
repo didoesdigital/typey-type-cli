@@ -397,7 +397,7 @@ There Is No Doubt About It
 'see': SAOE
 'it."': T/TP-PL/KR-GS
 '"Prenez': KW-GS/P*P/R*/*EPB/*EZ
-'garde': TKPWA/R*D/SKWR*E
+'garde': TKPWA/R*D/SKWRE
 'aux': A*/*U/KP*
 'enfants!"': *E/TPH*/TP*/APBT/-S/SKHRAPL/KR-GS
 'said': SED

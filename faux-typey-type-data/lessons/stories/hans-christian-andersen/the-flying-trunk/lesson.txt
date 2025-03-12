@@ -369,7 +369,7 @@ The Flying Trunk
 '"it': KW-GS/T
 'has': HAS
 'been': PW-PB
-'prophesied': PRO/P*/H*/SKWR*E/-S/SKWREU/-D
+'prophesied': PRO/P*/H*/SKWRE/-S/SKWREU/-D
 'that': THA
 'she': SHE
 'will': HR
