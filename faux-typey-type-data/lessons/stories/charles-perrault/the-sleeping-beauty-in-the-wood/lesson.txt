@@ -983,7 +983,7 @@ The Sleeping Beauty in the Wood
 'the': -T
 'kingdom': KEUPBG/TKOPL
 'of': -F
-'Matakin,': PH*P/A/TA/*BG/*EUPB/KW-BG
+'Matakin,': PH*P/A/TA/K*EUPB/KW-BG
 'twelve': TWEFL
 'thousand': THOUD
 'leagues': HRAOEG/-S

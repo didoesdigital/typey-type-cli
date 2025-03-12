@@ -578,7 +578,7 @@ Rumpelstiltskin
 'song,': SOPBG/KW-BG
 'and': SKP
 'the': -T
-'manikin': PHA/TPHAO*E/*BG/*EUPB
+'manikin': PHA/TPHAO*E/K*EUPB
 'once': WUPBS
 'more': PHOR
 'spun': SPUPB
@@ -926,7 +926,7 @@ Rumpelstiltskin
 'my': PHEU
 'lady': HRA*ED
 'dream': TKRAOEPL
-'Rumpelstiltskin': R*P/*U/PH*/P*/*E/HR*/S*/T*/*EU/HR*/T*/-S/*BG/*EUPB
+'Rumpelstiltskin': R*P/*U/PH*/P*/*E/HR*/S*/T*/*EU/HR*/T*/-S/K*EUPB
 'is': S
 'my': PHEU
 'name!"': TPHAEUPL/SKHRAPL/KR-GS

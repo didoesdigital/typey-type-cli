@@ -775,7 +775,7 @@ The Blue Light
 'the': -T
 'little': HREUL
 'black': PWHRABG
-'manikin': PHA/TPHAO*E/*BG/*EUPB
+'manikin': PHA/TPHAO*E/K*EUPB
 'and': SKP
 'said:': SED/STPH-FPLT
 ''I': A*E/EU
@@ -835,7 +835,7 @@ The Blue Light
 'for': TPOR
 'me.'': PHE/TP-PL/AE
 'The': KPA/-T
-'manikin': PHA/TPHAO*E/*BG/*EUPB
+'manikin': PHA/TPHAO*E/K*EUPB
 'said:': SED/STPH-FPLT
 ''That': A*E/KPA*/THA
 'is': S
@@ -873,7 +873,7 @@ The Blue Light
 'open,': OEP/KW-BG
 'and': SKP
 'the': -T
-'manikin': PHA/TPHAO*E/*BG/*EUPB
+'manikin': PHA/TPHAO*E/K*EUPB
 'carried': KAERD
 'in': TPH
 'the': -T
@@ -964,7 +964,7 @@ The Blue Light
 'cock': KOBG
 'crowed,': KROE/-D/KW-BG
 'the': -T
-'manikin': PHA/TPHAO*E/*BG/*EUPB
+'manikin': PHA/TPHAO*E/K*EUPB
 'carried': KAERD
 'her': HER
 'back': PWABG
@@ -1117,7 +1117,7 @@ The Blue Light
 'the': -T
 'king,': KEUPBG/KW-BG
 'the': -T
-'manikin': PHA/TPHAO*E/*BG/*EUPB
+'manikin': PHA/TPHAO*E/K*EUPB
 'was': WAS
 'standing': STAPBG
 'beside': PWE/SAOEUD
@@ -1158,7 +1158,7 @@ The Blue Light
 'for': TPOR
 'the': -T
 'crafty': KRAF/TEU
-'manikin': PHA/TPHAO*E/*BG/*EUPB
+'manikin': PHA/TPHAO*E/K*EUPB
 'had': H
 'just': SKWRUFT
 'before': PW-FR
@@ -1263,7 +1263,7 @@ The Blue Light
 'it.'': T/TP-PL/AE
 'The': KPA/-T
 'black': PWHRABG
-'manikin': PHA/TPHAO*E/*BG/*EUPB
+'manikin': PHA/TPHAO*E/K*EUPB
 'heard': HAERD
 'this': TH
 'plot,': PHROT/KW-BG
@@ -1512,7 +1512,7 @@ The Blue Light
 'summoned': SPHUPBD
 'the': -T
 'black': PWHRABG
-'manikin.': PHA/TPHAO*E/*BG/*EUPB/TP-PL
+'manikin.': PHA/TPHAO*E/K*EUPB/TP-PL
 ''Have': A*E/KPA*/SR
 'no': TPHO
 'fear,'': TPAOER/KW-BG/AE
@@ -1634,7 +1634,7 @@ The Blue Light
 'had': H
 'ascended,': A/SEPBD/-D/KW-BG
 'the': -T
-'manikin': PHA/TPHAO*E/*BG/*EUPB
+'manikin': PHA/TPHAO*E/K*EUPB
 'was': WAS
 'there': THR
 'with': W
@@ -1675,7 +1675,7 @@ The Blue Light
 'ill.'': EUL/TP-PL/AE
 'Then': KPA/THEPB
 'the': -T
-'manikin': PHA/TPHAO*E/*BG/*EUPB
+'manikin': PHA/TPHAO*E/K*EUPB
 'fell': TPEL
 'on': OPB
 'them': THEPL

@@ -1919,7 +1919,7 @@ A Society
 'resumed,': RAOUPLD/KW-BG
 '"when': KW-GS/WHEPB
 'Professor': PRO*EFR
-'Hobkin': H*P/O*/PW*/*BG/*EUPB
+'Hobkin': H*P/O*/PW*/K*EUPB
 'was': WAS
 'out,': OUT/KW-BG
 'I': EU
@@ -2010,7 +2010,7 @@ A Society
 'opened': OEPD
 'and': SKP
 'Professor': PRO*EFR
-'Hobkin': H*P/O*/PW*/*BG/*EUPB
+'Hobkin': H*P/O*/PW*/K*EUPB
 'himself': HEUPLS
 'appeared.': A/PAOERD/TP-PL
 'A': KPA/AEU
@@ -2118,7 +2118,7 @@ A Society
 'mistake.': SPHAEUBG/TP-PL
 'Probably': KPA/PROBL
 'Professor': PRO*EFR
-'Hobkin': H*P/O*/PW*/*BG/*EUPB
+'Hobkin': H*P/O*/PW*/K*EUPB
 'was': WAS
 'a': AEU
 'gynæcologist.': TKPW*/KWR*/TPH*/xxx/KR*/O*/HR*/O*/TKPW*/EUFT/TP-PL
@@ -3826,7 +3826,7 @@ A Society
 'invention': EUPB/SREPBGS
 'of': -F
 'Professor': PRO*EFR
-'Hobkin,"': H*P/O*/PW*/*BG/*EUPB/KW-BG/KR-GS
+'Hobkin,"': H*P/O*/PW*/K*EUPB/KW-BG/KR-GS
 'Ruth': RAO*UT
 'interrupted.': EUPBT/RUPTD/TP-PL
 '"Anyhow,': KW-GS/KPA*/TPHEU/HOU/KW-BG
@@ -4755,7 +4755,7 @@ A Society
 'never': TPHEFR
 'forget': TPORGT
 'old': OLD
-'Hobkin': H*P/O*/PW*/*BG/*EUPB
+'Hobkin': H*P/O*/PW*/K*EUPB
 'and': SKP
 'the': -T
 'hairpin,"': HAEUR/*P/*EUPB/KW-BG/KR-GS
