@@ -849,7 +849,7 @@ The Adventures of Chanticleer and Partlet
 'tricks.': TREUBGS/TP-PL
 '2.': #T/P-P
 'HOW': *URP/HOU
-'CHANTICLEER': KR*P/H*P/A*P/TPH*P/T*P/*EUP/KR*P/HR*P/*EP/*EP/R*P
+'CHANTICLEER': *URP/KHAPBT/EUBG/*L/*ER
 'AND': *URP/SKP
 'PARTLET': P*P/A*P/R*P/T*P/HR*P/*EP/T*P
 'WENT': *URP/WEPBT
@@ -1220,7 +1220,7 @@ The Adventures of Chanticleer and Partlet
 'BURIED,': *URP/PWUR/EUD/KW-BG
 'AND': *URP/SKP
 'HOW': *URP/HOU
-'CHANTICLEER': KR*P/H*P/A*P/TPH*P/T*P/*EUP/KR*P/HR*P/*EP/*EP/R*P
+'CHANTICLEER': *URP/KHAPBT/EUBG/*L/*ER
 'DIED': *URP/TKAOEUD
 'OF': *URP/-F
 'GRIEF': *URP/TKPWRAOEF
