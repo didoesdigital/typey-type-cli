@@ -1895,7 +1895,7 @@ What the Old Man Does Is Always Right
 'herbs,': HERBS/KW-BG
 'but': PWUT
 'the': -T
-'schoolmistress': S*/KR*/H*/O*/O*/HR*/PH*/*EU/S*/T*/R*/*ES
+'schoolmistress': SKAOL/TK-LS/PHEUS/TRES
 'is': S
 'very': SRE
 'mean,': PHAOEPB/KW-BG
