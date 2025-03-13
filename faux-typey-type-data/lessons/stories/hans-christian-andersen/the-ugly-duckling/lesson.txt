@@ -1577,7 +1577,7 @@ The Ugly Duckling
 'geese,': TKPWAOES/KW-BG
 'or': OR
 'rather': RAER
-'goslings,': TKPW*/O*/S*/HR*/-G/-S/KW-BG
+'goslings,': TKPW/-S/HREUPBG/-S/KW-BG
 'for': TPOR
 'they': THE
 'had': H

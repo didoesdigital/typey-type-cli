@@ -3708,7 +3708,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'whole': WHOEL
 'bucketful': PWUBGT/-FL
 'of': -F
-'gudgeons': TKPW*/*U/TK*/*PBLG/O*PB/-S
+'gudgeons': TKPW*/*U/TK*/*PBLG/O*PBS
 'brought': PWRAUT
 'to': TO
 'her.': HER/TP-PL
@@ -3739,7 +3739,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'water': WAUR
 'with': W
 'the': -T
-'gudgeons': TKPW*/*U/TK*/*PBLG/O*PB/-S
+'gudgeons': TKPW*/*U/TK*/*PBLG/O*PBS
 'in': TPH
 'it': T
 'over': OEFR

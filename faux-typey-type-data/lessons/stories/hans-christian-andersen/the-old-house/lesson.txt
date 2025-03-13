@@ -344,7 +344,7 @@ The Old House
 'and': SKP
 'gutters': TKPWUT/ERS
 'with': W
-'dragons': TKRAG/O*PB/-S
+'dragons': TKRAG/O*PBS
 'at': AT
 'the': -T
 'spout.': SPOUT/TP-PL

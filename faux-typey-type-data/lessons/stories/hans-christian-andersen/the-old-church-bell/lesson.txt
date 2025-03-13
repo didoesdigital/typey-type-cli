@@ -2044,9 +2044,9 @@ The Old Church Bell
 'immortal': EUPL/PHORT/A*L
 'bard,': PWARD/KW-BG
 'John': SKWROPB
-'Christoper': KREUFT/SKWRO/KW-BG/*P/*ER
+'Christoper': KREUS/TO*P/*ER
 'Frederick': TPRED/REUBG
-'Schiller!': S*P/KR*/H*/*EU/HR*/HR*/*ER/SKHRAPL
+'Schiller!': S*P/KR*/H*/*EU/HR*/HRER/SKHRAPL
 '[1]': PWR-BG/#S/PWR*BGT
 'The': KPA/-T
 'Danish': TKAEUPB/EURB

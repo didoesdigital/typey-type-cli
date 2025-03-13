@@ -1636,7 +1636,7 @@ The Girl Who Trod on the Loaf
 'little': HREUL
 'girl': TKPWEURL
 'had': H
-'lamented': HRAPLT/-D
+'lamented': HRAEPL/EPBT/-D
 'and': SKP
 'wept': WEPT
 'about': PW

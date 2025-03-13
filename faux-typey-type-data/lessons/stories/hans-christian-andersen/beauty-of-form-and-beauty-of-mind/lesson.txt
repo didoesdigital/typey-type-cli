@@ -1313,14 +1313,14 @@ Beauty of Form and Beauty of Mind
 'connecting': KEBGT/-G
 'herself': H*ERS
 'with': W
-'Thorwalsden.': T*P/H*/O*/R*/W*/A*/HR*/S*/TK*/*EPB/TP-PL
+'Thorwalsden.': T*P/H*/O*/R*/W*/A*L/-S/TK*EPB/TP-PL
 '"You': KW-GS/KPA*/U
 'are': R
 'a': AEU
 'true': TRAOU
 'successor': SUBG/SES/SOR
 'of': -F
-'Thorwalsden,"': T*P/H*/O*/R*/W*/A*/HR*/S*/TK*/*EPB/KW-BG/KR-GS
+'Thorwalsden,"': T*P/H*/O*/R*/W*/A*L/-S/TK*EPB/KW-BG/KR-GS
 'she': SHE
 'said': SED
 'to': TO
@@ -1712,7 +1712,7 @@ Beauty of Form and Beauty of Mind
 'had': H
 'set': SET
 'up': UP
-'Thorwalsden's': T*P/H*/O*/R*/W*/A*/HR*/S*/TK*/*EPB/AES
+'Thorwalsden's': T*P/H*/O*/R*/W*/A*L/-S/TK*EPB/AES
 'bust': PWUFT
 'at': AT
 'the': -T

@@ -92,7 +92,7 @@ The Flying Trunk
 'every': EF
 'night,': TPHAOEUT/KW-BG
 'made': PHAED
-'kites': KAOEUT/-S
+'kites': KEUT/ES
 'out': OUT
 'of': -F
 'five': TPAOEUF
@@ -369,7 +369,7 @@ The Flying Trunk
 '"it': KW-GS/T
 'has': HAS
 'been': PW-PB
-'prophesied': PRO/P*/H*/SKWRE/-S/SKWREU/-D
+'prophesied': PRO/P*/H*/ES/KWREUD
 'that': THA
 'she': SHE
 'will': HR

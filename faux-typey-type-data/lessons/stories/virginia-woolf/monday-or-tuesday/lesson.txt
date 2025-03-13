@@ -89,14 +89,14 @@ Monday or Tuesday
 'Wheels': KPA/WHAOELS
 'strike': STRAOEUBG
 'divergently.': TKWERPBLG/EPBT/HREU/TP-PL
-'Omnibuses': KPA/OPL/TPHEU/PWUS/SKWRE/-S
+'Omnibuses': KPA/OPL/TPHEU/PWUS/ES
 'conglomerate': KAUPB/TPWHROPL/RAT
 'in': TPH
 'conflict)—for': TPHREUBGT/PR*EPB/EPL/TKA*RB/TPOR
 'ever': -FR
 'desiring—(the': STKAOEURG/EPL/TKA*RB/PREPB/-T
 'clock': KHROBG
-'asseverates': A*/S*/S*/*E/SR*/*ER/A*T/-S
+'asseverates': A*/S*/S*/*E/SR*/*E/R*/A*/T*/ES
 'with': W
 'twelve': TWEFL
 'distinct': STKEUPBG
@@ -288,5 +288,5 @@ Monday or Tuesday
 'her': HER
 'stars;': STARS/STPH*FPLT
 'then': THEPB
-'bares': PWAEUR/-S
+'bares': PWAR/ES
 'them.': THEPL/TP-PL

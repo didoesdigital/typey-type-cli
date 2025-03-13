@@ -247,7 +247,7 @@ An Unwritten Novel
 'passenger': PAEPBG
 'train': TRAEUPB
 'at': AT
-'Doncaster': TK*P/O*/TPH*/KR*/A*/S*/T*/*ER
+'Doncaster': TK*P/O*/TPH*/KR*/SKWRA/STER
 'was': WAS
 'in': TPH
 'collision': KHREUGS
@@ -1161,7 +1161,7 @@ An Unwritten Novel
 'roofs': RAOFS
 'like': HRAOEUBG
 'the': -T
-'spines': SPAOEUPB/-S
+'spines': SPEUPB/ES
 'of': -F
 'caterpillars,': KAT/PHRAR/-S/KW-BG
 'this': TH
@@ -1520,7 +1520,7 @@ An Unwritten Novel
 'when': WHEPB
 'Spring': KPA/SPREUPBG
 'comes,': KOPLS/KW-BG
-'primroses.': PREUPL/ROES/-S/TP-PL
+'primroses.': PREUPL/ROES/ES/TP-PL
 'A': KPA/AEU
 'parting,': PART/-G/KW-BG
 'was': WAS
@@ -2168,9 +2168,9 @@ An Unwritten Novel
 'the': -T
 'crimes,': KRAOEUPLS/KW-BG
 'sorrows,': SROE/-S/KW-BG
-'rhapsodies,': R*/H*/A*/P*/S*/O*/TK*/AO*E/-S/KW-BG
+'rhapsodies,': R*/H*/A*/P*/S*/O*/TK*/KWREU/-S/KW-BG
 'or': OR
-'insanities': EUPB/S*/A*/TPH*/*EU/T*/AO*E/-S
+'insanities': EUPB/S*/A*/TPH*/*EU/T*/KWREU/-S
 'for': TPOR
 'poor': PAOR
 'Minnie': PHEUPB/AO*E
@@ -2723,7 +2723,7 @@ An Unwritten Novel
 'and': SKP
 'over': OEFR
 'the': -T
-'glacis': TKPW*/HR*/A*/KR*/SKWREU/-S
+'glacis': TKPW*/HR*/A*/KR*/EUS
 'of': -F
 'cut': KUT
 'glass,': TKPWHRARBGS
@@ -2961,7 +2961,7 @@ An Unwritten Novel
 'line—are': HRAOEUPB/EPL/TKA*RB/R
 'we': WE
 'past': PAFT
-'Lewes?—there': HR*P/*E/W*/SKWRE/-S/H-F/EPL/TKA*RB/THR
+'Lewes?—there': HR*P/*E/W*/ES/H-F/EPL/TKA*RB/THR
 'must': PHUFT
 'be': -B
 'Jimmy—or': SKWREUPL/KWREU/EPL/TKA*RB/OR
@@ -3228,7 +3228,7 @@ An Unwritten Novel
 'of': -F
 'an': APB
 'ancient': AEURBT
-'whaler': W*/H*/A*L/*ER
+'whaler': W*/H*/SKWRA/HRER
 'when': WHEPB
 'the': -T
 'seas': SAES
@@ -3524,7 +3524,7 @@ An Unwritten Novel
 'eggshell': EG/SHEL
 'into': TPHAO
 'deep': TKAOEP
-'declivities).': TKE/KR*/HR*/*EU/SR*/*EU/T*/AO*E/-S/PR*EPB/TP-PL
+'declivities).': TKE/KR*/HR*/*EU/SR*/*EU/T*/KWREU/-S/PR*EPB/TP-PL
 'She': KPA/SHE
 'said': SED
 'it': T
@@ -3649,7 +3649,7 @@ An Unwritten Novel
 'what': WHA
 'splendours': SHREPBD/O*R/A*U/-S
 'and': SKP
-'pageantries': P*/A*/TKPW*/*E/A*/TPH*/T*/R*/AO*E/-S
+'pageantries': P*/A*/TKPW*/*E/A*/TPH*/T*/R*/KWREU/-S
 'glimpsed': TKPWHREUPLS/-D
 'in': TPH
 'girlhood.': TKPWEURL/HAO*D/TP-PL
@@ -3860,7 +3860,7 @@ An Unwritten Novel
 'Hilda': HEUL/TKA
 'will': HR
 'come.': KOPL/TP-PL
-'Ignominies,': *EUG/TPHOPL/*EUPB/AO*E/-S/KW-BG
+'Ignominies,': *EUG/TPHOPL/*EUPB/KWREU/-S/KW-BG
 'humiliations,': HAOU/PHEUL/KWRAEUGS/-S/KW-BG
 'oh!': O*ERBGS/SKHRAPL
 'Close': KPA/KHROES

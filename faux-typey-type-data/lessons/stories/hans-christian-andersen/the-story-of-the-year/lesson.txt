@@ -1531,7 +1531,7 @@ The Story of the Year
 'in': TPH
 'fresh': TPRERB
 'fragrance.': TPRAEUG/RAPBS/TP-PL
-'Primroses': KPA/PREUPL/ROES/-S
+'Primroses': KPA/PREUPL/ROES/ES
 'and': SKP
 'anemones': A/PHEPB/PHE/-S
 'sprung': SPRUPBG

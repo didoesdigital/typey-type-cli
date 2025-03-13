@@ -835,7 +835,7 @@ Clever Gretel
 'her': HER
 'master,': PHAFRT/KW-BG
 'and': SKP
-'lamented': HRAPLT/-D
+'lamented': HRAEPL/EPBT/-D
 'the': -T
 'fine': TPAOEUPB
 'chickens.': KHEU/KEPB/-S/TP-PL

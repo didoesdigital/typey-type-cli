@@ -354,7 +354,7 @@ The Swineherd
 'of': -F
 'the': -T
 'late': HRAEUT
-'lamented': HRAPLT/-D
+'lamented': HRAEPL/EPBT/-D
 'empress,"': EPL/PRES/KW-BG/KR-GS
 'said': SED
 'an': APB

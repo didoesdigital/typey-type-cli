@@ -582,7 +582,7 @@ The Elves and the Shoemaker
 'a': AEU
 'pair': PAEUR
 'of': -F
-'pantaloons': PAPBT/A*L/SKWRO/O*PB/-S
+'pantaloons': PAPBT/A*L/SKWRO/O*PBS
 'into': TPHAO
 'the': -T
 'bargain;': PWAR/TKPWAEUPB/STPH*FPLT

@@ -399,7 +399,7 @@ There Is No Doubt About It
 '"Prenez': KW-GS/P*P/R*/*EPB/*EZ
 'garde': TKPWA/R*D/SKWRE
 'aux': A*/*U/KP*
-'enfants!"': *E/TPH*/TP*/APBT/-S/SKHRAPL/KR-GS
+'enfants!"': EPB/TP*/APBT/-S/SKHRAPL/KR-GS
 'said': SED
 'father': TPAER
 'owl;': OUL/STPH*FPLT

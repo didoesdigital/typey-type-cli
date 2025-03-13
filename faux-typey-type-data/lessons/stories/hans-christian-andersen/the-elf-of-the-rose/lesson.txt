@@ -153,7 +153,7 @@ The Elf of the Rose
 'leaf': HRAOEF
 'of': -F
 'a': AEU
-'linden-tree.': HR*/SKWREU/*PBD/*EPB/H-PB/TRAOE/TP-PL
+'linden-tree.': HR*/SKWREU/*PB/TK*EPB/H-PB/TRAOE/TP-PL
 'What': KPA/WHA
 'we': WE
 'call': KAUL
@@ -612,7 +612,7 @@ The Elf of the Rose
 'earth': *ERT
 'under': TPH-PB
 'the': -T
-'linden-tree.': HR*/SKWREU/*PBD/*EPB/H-PB/TRAOE/TP-PL
+'linden-tree.': HR*/SKWREU/*PB/TK*EPB/H-PB/TRAOE/TP-PL
 '"Now': KW-GS/KPA*/TPHOU
 'he': HE
 'is': S
@@ -716,7 +716,7 @@ The Elf of the Rose
 'a': AEU
 'dry': TKRAOEU
 'rolled-up': ROLD/SKWR*UP
-'linden-leaf,': HR*/SKWREU/*PBD/*EPB/H-PB/HRAOEF/KW-BG
+'linden-leaf,': HR*/SKWREU/*PB/TK*EPB/H-PB/HRAOEF/KW-BG
 'which': WEU
 'had': H
 'fallen': TPAUPBL
@@ -900,7 +900,7 @@ The Elf of the Rose
 'her': HER
 'of': -F
 'the': -T
-'linden-tree,': HR*/SKWREU/*PBD/*EPB/H-PB/TRAOE/KW-BG
+'linden-tree,': HR*/SKWREU/*PB/TK*EPB/H-PB/TRAOE/KW-BG
 'in': TPH
 'full': TPUL
 'blossom,': PWHROFPL/KW-BG
@@ -1071,7 +1071,7 @@ The Elf of the Rose
 'spot': SPOT
 'where': W-R
 'the': -T
-'linden-tree': HR*/SKWREU/*PBD/*EPB/H-PB/TRAOE
+'linden-tree': HR*/SKWREU/*PB/TK*EPB/H-PB/TRAOE
 'stood;': STAOD/STPH*FPLT
 'and': SKP
 'after': AF

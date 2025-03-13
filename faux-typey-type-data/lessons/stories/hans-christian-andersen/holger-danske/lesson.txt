@@ -94,7 +94,7 @@ Holger Danske
 'flags': TPHRAGS
 'wave,': WAF/KW-BG
 'and': SKP
-'Danes': TKA*EUPB/-S
+'Danes': TKAPB/ES
 'and': SKP
 'Swedes': SWAOED/-S
 'say,': SAEU/KW-BG
@@ -1127,7 +1127,7 @@ Holger Danske
 'were': WR
 'true,': TRAOU/KW-BG
 'ancient': AEURBT
-'Danes.': TKA*EUPB/-S/TP-PL
+'Danes.': TKAPB/ES/TP-PL
 'I': EU
 'was': WAS
 'on': OPB

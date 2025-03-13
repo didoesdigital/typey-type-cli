@@ -432,7 +432,7 @@ The Old Grave-Stone
 'branches': PWRAFRPBS
 'of': -F
 'the': -T
-'linden-tree': HR*/SKWREU/*PBD/*EPB/H-PB/TRAOE
+'linden-tree': HR*/SKWREU/*PB/TK*EPB/H-PB/TRAOE
 'waving': WAFG
 'above': PWOF
 'them,': THEPL/KW-BG

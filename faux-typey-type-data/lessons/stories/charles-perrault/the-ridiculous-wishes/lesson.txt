@@ -245,7 +245,7 @@ The Ridiculous Wishes
 'woodcutter,': WAOD/KUT/*ER/KW-BG
 'he': HE
 'blithely': PWHRAO*EUT/HREU
-'corded': KORD/-D
+'corded': KR*/O*/R*/TK-D
 'his': HEUS
 'faggot,': TPAGT/KW-BG
 'and': SKP

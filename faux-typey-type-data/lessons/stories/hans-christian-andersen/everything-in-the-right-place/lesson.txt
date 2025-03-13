@@ -33,7 +33,7 @@ Everything in the Right Place
 'which': WEU
 'reeds': RAOED/-S
 'and': SKP
-'bulrushes': PW*/*U/HR*/R*/SKWRU/*RB/SKWRE/-S
+'bulrushes': PW*/*U/HR*/R*/SKWRU/*RB/ES
 'grew.': TKPWRAOU/TP-PL
 'Close': KPA/KHROES
 'by': PWEU
@@ -1374,7 +1374,7 @@ Everything in the Right Place
 'rolled': ROLD
 'about': PW
 'on': OPB
-'castors;': KAS/TOR/-S/STPH*FPLT
+'castors;': KAFT/O*RS/STPH*FPLT
 'there': THR
 'were': WR
 'tables': TAEUBLS
@@ -2408,7 +2408,7 @@ Everything in the Right Place
 'the': -T
 'kind': KEUPBD
 'that': THA
-'Thespis': KPA/-T/-S/*P/SKWREU/-S
+'Thespis': T*P/H*/ES/*P/EUS
 'created,': KRAOETD/KW-BG
 'and': SKP
 'it': T

@@ -13,7 +13,7 @@ Ib and Little Christina
 'Gudenau,': TKPWU/TK*EPB/SKWRA/SKWRU/KW-BG
 'in': TPH
 'North': TPHOERT
-'Jutland,': SKWR*P/*U/T*/HR*/SKWRA/*PBD/KW-BG
+'Jutland,': KPA/SKWRUT/HRA*PBD/KW-BG
 'a': AEU
 'long': HROPBG
 'way': WAEU
@@ -498,7 +498,7 @@ Ib and Little Christina
 'found': TPOUPBD
 'a': AEU
 'few': TPAOU
-'snipes'': STPAOEUP/-S/AE
+'snipes'': STPHEUP/ES/AE
 'eggs': EGS
 'in': TPH
 'the': -T
@@ -3327,7 +3327,7 @@ Ib and Little Christina
 'so': SO
 'far': TPAR
 'into': TPHAO
-'Jutland.': SKWR*P/*U/T*/HR*/SKWRA/*PBD/TP-PL
+'Jutland.': KPA/SKWRUT/HRA*PBD/TP-PL
 'On': KPA/OPB
 'the': -T
 'journey,': SKWRURPB/KW-BG
@@ -3823,7 +3823,7 @@ Ib and Little Christina
 'the': -T
 'ferry-boat': TPER/REU/H-PB/PWOET
 'from': TPR
-'Aarhus': A*P/A*/R*/H*/SKWRU/-S
+'Aarhus': A*P/A*/R*/H*/SKWRUS
 'to': TO
 'Copenhagen.': KOEP/*EPB/HAG/TP-PL
 'To': KPA/TO

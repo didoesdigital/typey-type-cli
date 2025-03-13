@@ -373,7 +373,7 @@ The Last Dream of the Old Oak
 'hedges,': HEPBLG/-S/KW-BG
 'wild': WAOEULD
 'thyme,': THAOEUPL/KW-BG
-'primroses,': PREUPL/ROES/-S/KW-BG
+'primroses,': PREUPL/ROES/ES/KW-BG
 'and': SKP
 'mint,': PHEUPBT/KW-BG
 'and': SKP
@@ -1024,7 +1024,7 @@ The Last Dream of the Old Oak
 'gallant': TKPWAL/HRAPBT
 'steeds,': STAOEDZ/KW-BG
 'with': W
-'plumes': PHRAOUPL/-S
+'plumes': PHR*UPL/ES
 'waving': WAFG
 'in': TPH
 'their': THAEUR
@@ -2036,7 +2036,7 @@ The Last Dream of the Old Oak
 'on': OPB
 'the': -T
 'Druids'': TKRAOU/EUD/-S/AE
-'altars.': AL/TAR/-S/TP-PL
+'altars.': A*LT/A*RS/TP-PL
 'The': KPA/-T
 'sea': SAE
 'gradually': TKPWRAD/WAEL

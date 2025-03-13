@@ -283,7 +283,7 @@ Snowdrop
 'But': KPA/PWUT
 'Snowdrop': KPA/STPHOE/TK-LS/TKROP
 'is': S
-'lovelier': HR*/O*/SR*/*E/HR*/SKWREU/*ER
+'lovelier': HR*/O*/SR*/*E/HR*/KWRER
 'far': TPAR
 'than': THAPB
 'thee!'': THAOE/SKHRAPL/AE
@@ -969,7 +969,7 @@ Snowdrop
 'and': SKP
 'she': SHE
 'Is': KPA/S
-'lovelier': HR*/O*/SR*/*E/HR*/SKWREU/*ER
+'lovelier': HR*/O*/SR*/*E/HR*/KWRER
 'far,': TPAR/KW-BG
 'O': O*P
 'queen!': KWAOEPB/SKHRAPL
@@ -1336,7 +1336,7 @@ Snowdrop
 'and': SKP
 'she': SHE
 'Is': KPA/S
-'lovelier': HR*/O*/SR*/*E/HR*/SKWREU/*ER
+'lovelier': HR*/O*/SR*/*E/HR*/KWRER
 'far,': TPAR/KW-BG
 'O': O*P
 'queen!': KWAOEPB/SKHRAPL
@@ -2271,7 +2271,7 @@ Snowdrop
 'I': EU
 'ween;': WE/*EPB/STPH*FPLT
 'But': KPA/PWUT
-'lovelier': HR*/O*/SR*/*E/HR*/SKWREU/*ER
+'lovelier': HR*/O*/SR*/*E/HR*/KWRER
 'far': TPAR
 'is': S
 'the': -T

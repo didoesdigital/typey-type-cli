@@ -390,7 +390,7 @@ The Bell
 'the': -T
 'title': TAOEULT
 'of': -F
-'"Bellringer': KW-GS/PW*P/*E/HR*/HR*/R*/-G/*ER
+'"Bellringer': KW-GS/PW*P/*E/HR*/HR*/R*/EUPBG/*ER
 'to': TO
 'the': -T
 'World,"': KPA/WORLD/KW-BG/KR-GS
@@ -497,7 +497,7 @@ The Bell
 'He': KPA/HE
 'was': WAS
 'appointed': POEUPBD
-'"Bellringer': KW-GS/PW*P/*E/HR*/HR*/R*/-G/*ER
+'"Bellringer': KW-GS/PW*P/*E/HR*/HR*/R*/EUPBG/*ER
 'to': TO
 'the': -T
 'World,"': KPA/WORLD/KW-BG/KR-GS

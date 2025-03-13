@@ -2076,9 +2076,9 @@ Iron Hans
 'foot,': TPAOT/KW-BG
 'and': SKP
 'limped': HREUPL/-PD
-'hobblety': H*/O*/PW*/PW*/HR*/ET/KWREU
+'hobblety': H*/O*/PW*/PW*/HR*ET/KWREU
 'jib,': SKWREUB/KW-BG
-'hobblety': H*/O*/PW*/PW*/HR*/ET/KWREU
+'hobblety': H*/O*/PW*/PW*/HR*ET/KWREU
 'jib;': SKWREUB/STPH*FPLT
 'nevertheless': TPHEFRLS
 'he': HE
@@ -2457,7 +2457,7 @@ Iron Hans
 '"Here': KW-GS/KPA*/HAOER
 'comes': KOPLS
 'our': OUR
-'hobblety': H*/O*/PW*/PW*/HR*/ET/KWREU
+'hobblety': H*/O*/PW*/PW*/HR*ET/KWREU
 'jib': SKWREUB
 'back': PWABG
 'again!"': TKPWEPB/SKHRAPL/KR-GS

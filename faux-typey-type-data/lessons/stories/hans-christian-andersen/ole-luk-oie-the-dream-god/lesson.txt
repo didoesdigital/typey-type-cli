@@ -3707,7 +3707,7 @@ Ole-Luk-Oie, the Dream-God
 'uniform': KWRAOUFRPL
 'of': -F
 'a': AEU
-'hussar,': H*/SKWRU/-S/-S/A*R/KW-BG
+'hussar,': H*/SKWRUS/-S/A*R/KW-BG
 'and': SKP
 'a': AEU
 'mantle': PHAPBT/*L

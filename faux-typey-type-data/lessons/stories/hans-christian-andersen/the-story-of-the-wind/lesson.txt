@@ -193,7 +193,7 @@ The Story of the Wind
 'the': -T
 'house.': HOUS/TP-PL
 'The': KPA/-T
-'cellars': SEL/AR/-S
+'cellars': KREL/A*RS
 'were': WR
 'full': TPUL
 'of': -F
@@ -390,7 +390,7 @@ The Story of the Wind
 'the': -T
 'coast': KOEFT
 'of': -F
-'Jutland.': SKWR*P/*U/T*/HR*/SKWRA/*PBD/TP-PL
+'Jutland.': KPA/SKWRUT/HRA*PBD/TP-PL
 'I': EU
 'had': H
 'hurried': HUR/EUD
@@ -399,7 +399,7 @@ The Story of the Wind
 'heath': HAO*ET
 'and': SKP
 'over': OEFR
-'Jutland's': SKWR*P/*U/T*/HR*/SKWRA/*PBD/AES
+'Jutland's': KPA/SKWRUT/HRA*PBD/AES
 'wood-girt': WAOD/H-PB/TKPWEURT
 'eastern': AOEFT/ERPB
 'coast,': KOEFT/KW-BG
@@ -431,7 +431,7 @@ The Story of the Wind
 'the': -T
 'shores': SHORS
 'of': -F
-'Zeeland,': STKPW*P/*E/*E/HR*/SKWRA/*PBD/KW-BG
+'Zeeland,': STKPW*P/KWRAE/HRA*PBD/KW-BG
 'near': TPHAOER
 'to': TO
 'the': -T
@@ -2119,7 +2119,7 @@ The Story of the Wind
 'and': SKP
 'store-rooms,': STOR/H-PB/RAOPLS/KW-BG
 'the': -T
-'cellars': SEL/AR/-S
+'cellars': KREL/A*RS
 'and': SKP
 'cupboards;': KUP/PWAORDZ/STPH*FPLT
 'the': -T
@@ -3626,7 +3626,7 @@ The Story of the Wind
 'of': -F
 'Wiborg,': W*P/*EU/PW*/O*/R*/TKPW*/KW-BG
 'in': TPH
-'Jutland,': SKWR*P/*U/T*/HR*/SKWRA/*PBD/KW-BG
+'Jutland,': KPA/SKWRUT/HRA*PBD/KW-BG
 'stood': STAOD
 'the': -T
 'fine': TPAOEUPB

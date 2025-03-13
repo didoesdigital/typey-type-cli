@@ -510,7 +510,7 @@ The Bird of Popular Song
 'songs': SOPBGS
 'which,': WEU/KW-BG
 'like': HRAOEUBG
-'Runes': KPA/RAO*UPB/-S
+'Runes': KPA/RUPB/ES
 'laid': HRAEUD
 'under': TPH-PB
 'a': AEU
@@ -707,7 +707,7 @@ The Bird of Popular Song
 'He': KPA/HE
 'lays': HRAEUZ
 'the': -T
-'Runes': KPA/RAO*UPB/-S
+'Runes': KPA/RUPB/ES
 'beneath': TPHAO*ET
 'our': OUR
 'tongues,': TUPBG/-S/KW-BG

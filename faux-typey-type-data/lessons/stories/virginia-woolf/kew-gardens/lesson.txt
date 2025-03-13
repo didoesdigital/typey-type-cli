@@ -840,7 +840,7 @@ Kew Gardens
 'second': SEBGD
 'with': W
 'its': EUTS
-'antennæ': A*/TPH*/T*/*E/TPH*/TPH*/xxx
+'antennæ': A*EPBT/TPH*/TPH*/xxx
 'trembling': TREPL/-BLG
 'as': AS
 'if': TP
@@ -2167,7 +2167,7 @@ Kew Gardens
 'people.': PAOEPL/TP-PL
 '"Come': KW-GS/KPA*/KOPL
 'along,': HRAOPBG/KW-BG
-'Trissie;': T*P/R*/SKWREU/-S/-S/AO*E/STPH*FPLT
+'Trissie;': T*P/R*/EUS/-S/AO*E/STPH*FPLT
 'it's': T-S
 'time': TAOEUPL
 'we': WE

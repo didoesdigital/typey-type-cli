@@ -133,7 +133,7 @@ The Beetle Who Went on His Travels
 'stable,': STAEURBLGS
 'where': W-R
 'the': -T
-'farrier': TP*/A*/R*/R*/SKWREU/*ER
+'farrier': TP*/A*/R*/R*/KWRER
 'had': H
 'been': PW-PB
 'shoeing': SHAOU/-G
@@ -177,7 +177,7 @@ The Beetle Who Went on His Travels
 'want?"': WAPBT/H-F/KR-GS
 'asked': SK-D
 'the': -T
-'farrier.': TP*/A*/R*/R*/SKWREU/*ER/TP-PL
+'farrier.': TP*/A*/R*/R*/KWRER/TP-PL
 '"Golden': KW-GS/KPA*/TKPWOELD/*EPB
 'shoes,"': SHAOUS/KW-BG/KR-GS
 'replied': RE/PHRAOEUD
@@ -193,7 +193,7 @@ The Beetle Who Went on His Travels
 'senses,"': SEPBSZ/KW-BG/KR-GS
 'cried': KRAOEUD
 'the': -T
-'farrier.': TP*/A*/R*/R*/SKWREU/*ER/TP-PL
+'farrier.': TP*/A*/R*/R*/KWRER/TP-PL
 '"Golden': KW-GS/KPA*/TKPWOELD/*EPB
 'shoes': SHAOUS
 'for': TPOR
@@ -249,7 +249,7 @@ The Beetle Who Went on His Travels
 'shoes?"': SHAOUS/H-F/KR-GS
 'asked': SK-D
 'the': -T
-'farrier;': TP*/A*/R*/R*/SKWREU/*ER/STPH*FPLT
+'farrier;': TP*/A*/R*/R*/KWRER/STPH*FPLT
 '"of': KW-GS/-F
 'course': KORS
 'you': U
@@ -296,7 +296,7 @@ The Beetle Who Went on His Travels
 'you,"': U/KW-BG/KR-GS
 'said': SED
 'the': -T
-'farrier.': TP*/A*/R*/R*/SKWREU/*ER/TP-PL
+'farrier.': TP*/A*/R*/R*/KWRER/TP-PL
 '"You're': KW-GS/KPA*/UR
 'a': AEU
 'rude': RAOUD
@@ -2902,7 +2902,7 @@ The Beetle Who Went on His Travels
 'was': WAS
 'it': T
 'the': -T
-'farrier': TP*/A*/R*/R*/SKWREU/*ER
+'farrier': TP*/A*/R*/R*/KWRER
 'asked': SK-D
 'me?': PHE/H-F
 'Ah,': KPA/AERBGS

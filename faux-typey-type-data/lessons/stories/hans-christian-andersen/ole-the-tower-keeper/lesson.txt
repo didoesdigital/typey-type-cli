@@ -850,7 +850,7 @@ Ole the Tower-Keeper
 'writers,': WREURS/KW-BG
 'and': SKP
 'artistic': TR*EUFBG
-'notabilities,—I': TPH*/O*/T*/A*/PW*/*EU/HR*/*EU/T*/AO*E/-S/KW-BG/EPL/TKA*RB/EU
+'notabilities,—I': TPH*/O*/T*/A*/PW*/*EU/HR*/*EU/T*/KWREU/-S/KW-BG/EPL/TKA*RB/EU
 'mean': PHAOEPB
 'those': THOZ
 'who': WHO
@@ -957,7 +957,7 @@ Ole the Tower-Keeper
 'of': -F
 'abuse': PWAOUS
 'and': SKP
-'vituperation': SR*EUT/SKWRUP/*ER/AEUGS
+'vituperation': SR*EUT/SKWRUP/SKWRE/RA*EUGS
 'they': THE
 'use,': AOUS/KW-BG
 'and': SKP
@@ -1081,7 +1081,7 @@ Ole the Tower-Keeper
 'came': KAEUPL
 'the': -T
 'little': HREUL
-'drummers': TKRAOURPL/-S
+'drummers': TKRUPL/PHER/-S
 'that': THA
 'beat': PWAET
 'their': THAEUR
@@ -1778,7 +1778,7 @@ Ole the Tower-Keeper
 'graves': TKPWRAEUFS
 'of': -F
 'Schleppegrell,': S*P/KR*/H*/HR*/*E/P*/P*/*E/TKPW*/R*/*E/HR*/HR*/KW-BG
-'Lasloes,': HR*P/A*/S*/HR*/SKWRO/SKWRE/-S/KW-BG
+'Lasloes,': HR*P/A*/S*/HR*/SKWRO/ES/KW-BG
 'and': SKP
 'their': THAEUR
 'comrades.': KOPL/RADZ/TP-PL

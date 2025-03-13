@@ -367,7 +367,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'spindles,': SPEUPBD/-LS/KW-BG
 'and': SKP
 'the': -T
-'dragons': TKRAG/O*PB/-S
+'dragons': TKRAG/O*PBS
 'lay': HRAEU
 'outside': OUDZ
 'the': -T
@@ -512,7 +512,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'in': TPH
 'new': TPHU
 'splendor,': SPHREPBD/O*R/KW-BG
-'lovelier': HR*/O*/SR*/*E/HR*/SKWREU/*ER
+'lovelier': HR*/O*/SR*/*E/HR*/KWRER
 'than': THAPB
 'ever.': -FR/TP-PL
 '"Who': KW-GS/KPA*/WHO
@@ -753,7 +753,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'in': TPH
 'the': -T
 'dark': TKARBG
-'troublous': T*/R*/O*/*U/PW*/HR*/SKWRO/SKWRU/-S
+'troublous': T*/R*/O*/*U/PW*/HR*/OUS
 'time': TAOEUPL
 'had': H
 'been': PW-PB

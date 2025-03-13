@@ -538,7 +538,7 @@ Little Tuk
 'proud,': PROUD/KW-BG
 'and': SKP
 'said,': SED/KW-BG
-'"Thorwalsden': KW-GS/T*P/H*/O*/R*/W*/A*/HR*/S*/TK*/*EPB
+'"Thorwalsden': KW-GS/T*P/H*/O*/R*/W*/A*L/-S/TK*EPB
 'lived': HREUFD
 'close': KHROES
 'to': TO
@@ -783,7 +783,7 @@ Little Tuk
 'many': PHAEPB
 'greetings': TKPWRAOEGTS
 'from': TPR
-'Corsor.': KPA/KR*/O*/R*/-S/O*R/TP-PL
+'Corsor.': KR*P/O*RS/O*R/TP-PL
 'It': KPA/T
 'is': S
 'a': AEU
@@ -794,7 +794,7 @@ Little Tuk
 'life.': HRAOEUF/TP-PL
 'It': KPA/T
 'has': HAS
-'steamships': STAOEPL/SHEUP/-S
+'steamships': STAEPL/SH-PS
 'and': SKP
 'mail-coaches.': PHAEUL/H-PB/KOEFPS/TP-PL
 'In': KPA/TPH
@@ -818,7 +818,7 @@ Little Tuk
 'the': -T
 'sea-shore,"': SAE/H-PB/SHOR/KW-BG/KR-GS
 'said': SED
-'Corsor;': KPA/KR*/O*/R*/-S/O*R/STPH*FPLT
+'Corsor;': KR*P/O*RS/O*R/STPH*FPLT
 '"I': KW-GS/EU
 'have': SR
 'high-roads': HAOEU/H-PB/RAODZ
@@ -1434,7 +1434,7 @@ Little Tuk
 'to': TO
 'sail': SAEUL
 'from': TPR
-'Corsor,': KPA/KR*/O*/R*/-S/O*R/KW-BG
+'Corsor,': KR*P/O*RS/O*R/KW-BG
 'and': SKP
 'at': AT
 'Roeskilde,—Don't': R*P/O*/*E/S*/K*/*EU/HR*/TK*/SKWRE/KW-BG/EPL/TKA*RB/KPA*/TKOEPBT

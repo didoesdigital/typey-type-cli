@@ -799,7 +799,7 @@ What One Can Invent
 'grew,"': TKPWRAOU/KW-BG/KR-GS
 'said': SED
 'the': -T
-'Sloes.': KPA/SHRO*E/-S/TP-PL
+'Sloes.': S*P/HR*/SKWRO/ES/TP-PL
 '"There': KW-GS/KPA*/THR
 'were': WR
 'Northmen,': TPHOERT/PH*EPB/KW-BG
@@ -852,9 +852,9 @@ What One Can Invent
 ''wine-land,'': A*E/WAOEUPB/H-PB/HRAPBD/KW-BG/AE
 'that': THA
 'is,': S-RBGS
-''Groenland,'': A*E/TKPW*P/R*/O*/*E/TPH*/HR*/SKWRA/*PBD/KW-BG/AE
+''Groenland,'': A*E/TKPW*P/R*/SKWRO/*EPB/HRA*PBD/KW-BG/AE
 'or': OR
-''Sloeland.'"': A*E/S*P/HR*/O*/*E/HR*/SKWRA/*PBD/TP-PL/AE/KR-GS
+''Sloeland.'"': A*E/KPA/SHRO*E/HRA*PBD/TP-PL/AE/KR-GS
 '"That': KW-GS/KPA*/THA
 'is': S
 'quite': KWAOEUT

@@ -1157,7 +1157,7 @@ The Mark on the Wall
 'old': OLD
 'house': HOUS
 'in': TPH
-'Kingsway.': K*P/*EU/TPH*/TKPW*/S*/W*/KWRA*E/TP-PL
+'Kingsway.': KPA/KEUPBGS/WA*E/TP-PL
 'The': KPA/-T
 'seed,': SAOED/KW-BG
 'I': EU
@@ -1671,10 +1671,10 @@ The Mark on the Wall
 'standard,': ST-D/KW-BG
 'which': WEU
 'establishes': STAEBS
-'Whitaker's': W*P/H*/EUT/KWRA/*BG/*ER/AES
+'Whitaker's': W*P/H*/SKWREU/TA*EURBG/AES
 'Table': TA*EUBL
 'of': -F
-'Precedency,': P*P/R*/*E/KR*/-D/*EPB/SEU/KW-BG
+'Precedency,': P*P/R*/*E/KR*/SKWRE/TK*EPB/SEU/KW-BG
 'which': WEU
 'has': HAS
 'become,': PW-BG/KW-BG
@@ -1711,7 +1711,7 @@ The Mark on the Wall
 'sideboards': SAOEUD/PWAO*RD/-S
 'and': SKP
 'the': -T
-'Landseer': KPA/HRAPBDZ/SKWRE/*ER
+'Landseer': KPA/HRAPBDZ/AO*ER
 'prints,': PREUPBTS/KW-BG
 'Gods': KPA/TKPWODZ
 'and': SKP
@@ -1788,10 +1788,10 @@ The Mark on the Wall
 'descend': TKE/SEPBD
 'a': AEU
 'small': SPHAL
-'tumulus,': T*/*U/PH*/*U/HR*/SKWRU/-S/KW-BG
+'tumulus,': T*/SP-S/*UPL/HRUS/KW-BG
 'a': AEU
 'smooth': SPHAO*T
-'tumulus': T*/*U/PH*/*U/HR*/SKWRU/-S
+'tumulus': T*/SP-S/*UPL/HRUS
 'like': HRAOEUBG
 'those': THOZ
 'barrows': PWAEUR/ROE/-S
@@ -1850,7 +1850,7 @@ The Mark on the Wall
 'about': PW
 'it.': T/TP-PL
 'Some': KPA/SOPL
-'antiquary': A*/TPH*/T*/*EU/KW*/SKWRU/AER
+'antiquary': A*EUPBT/KWA/REU
 'must': PHUFT
 'have': SR
 'dug': TKUG
@@ -1869,7 +1869,7 @@ The Mark on the Wall
 'man': PHAPB
 'is': S
 'an': APB
-'antiquary,': A*/TPH*/T*/*EU/KW*/SKWRU/AER/KW-BG
+'antiquary,': A*EUPBT/KWA/REU/KW-BG
 'I': EU
 'wonder?': WOPBD/H-F
 'Retired': KPA/RAO*EURD
@@ -2345,7 +2345,7 @@ The Mark on the Wall
 'were': WR
 'not': TPHOT
 'for': TPOR
-'Whitaker's': W*P/H*/EUT/KWRA/*BG/*ER/AES
+'Whitaker's': W*P/H*/SKWREU/TA*EURBG/AES
 'Almanack—if': KPA/AUPL/TPHABG/A*U/EPL/TKA*RB/TP
 'it': T
 'were': WR
@@ -2354,7 +2354,7 @@ The Mark on the Wall
 'the': -T
 'Table': TA*EUBL
 'of': -F
-'Precedency!': P*P/R*/*E/KR*/-D/*EPB/SEU/SKHRAPL
+'Precedency!': P*P/R*/*E/KR*/SKWRE/TK*EPB/SEU/SKHRAPL
 'I': EU
 'must': PHUFT
 'jump': SKWRUFRP
@@ -2418,10 +2418,10 @@ The Mark on the Wall
 'a': AEU
 'finger': TPEURPBG
 'against': TKPWEPBS
-'Whitaker's': W*P/H*/EUT/KWRA/*BG/*ER/AES
+'Whitaker's': W*P/H*/SKWREU/TA*EURBG/AES
 'Table': TA*EUBL
 'of': -F
-'Precedency?': P*P/R*/*E/KR*/-D/*EPB/SEU/H-F
+'Precedency?': P*P/R*/*E/KR*/SKWRE/TK*EPB/SEU/H-F
 'The': KPA/-T
 'Archbishop': KPA/AFRPB/PWEURB/OP
 'of': -F
@@ -2452,7 +2452,7 @@ The Mark on the Wall
 'the': -T
 'philosophy': TPEUFLS
 'of': -F
-'Whitaker;': W*P/H*/EUT/KWRA/*BG/*ER/STPH*FPLT
+'Whitaker;': W*P/H*/SKWREU/TA*EURBG/STPH*FPLT
 'and': SKP
 'the': -T
 'great': TKPWRAET
@@ -2463,7 +2463,7 @@ The Mark on the Wall
 'who': WHO
 'follows': TPOLS
 'whom.': WHOPL/TP-PL
-'Whitaker': W*P/H*/EUT/KWRA/*BG/*ER
+'Whitaker': W*P/H*/SKWREU/TA*EURBG
 'knows,': TPHOEZ/KW-BG
 'and': SKP
 'let': HRET
@@ -2761,7 +2761,7 @@ The Mark on the Wall
 'water-beetles': WAUR/H-PB/PWAOET/-LS
 'slowly': SHROEL
 'raising': RA*EUFG
-'domes': TKOEPL/-S
+'domes': TKOPL/ES
 'of': -F
 'mud': PHUD
 'upon': POPB
@@ -3005,7 +3005,7 @@ The Mark on the Wall
 'river?': REUFR/H-F
 'The': KPA/-T
 'Downs?': KPA/TKOUPBS/H-F
-'Whitaker's': W*P/H*/EUT/KWRA/*BG/*ER/AES
+'Whitaker's': W*P/H*/SKWREU/TA*EURBG/AES
 'Almanack?': KPA/AUPL/TPHABG/A*U/H-F
 'The': KPA/-T
 'fields': TPAOELDZ

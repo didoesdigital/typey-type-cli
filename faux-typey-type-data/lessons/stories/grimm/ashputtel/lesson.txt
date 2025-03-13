@@ -2415,7 +2415,7 @@ Ashputtel
 'went': WEPBT
 'in': TPH
 'and': SKP
-'curtsied': KURT/-S/SKWREU/-D
+'curtsied': KURT/-S/KWREUD
 'to': TO
 'him,': HEUPL/KW-BG
 'and': SKP

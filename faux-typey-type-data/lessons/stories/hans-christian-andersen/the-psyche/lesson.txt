@@ -948,7 +948,7 @@ The Psyche
 'about': PW
 'it': T
 'and': SKP
-'sullied': S*/*U/HR*/HR*/SKWREU/-D
+'sullied': S*/*U/HR*/HR*/KWREUD
 'its': EUTS
 'purity;': PAOURT/STPH*FPLT
 'but': PWUT
@@ -2365,12 +2365,12 @@ The Psyche
 'festivity.': TPEFT/EUFT/TP-PL
 'Two': KPA/TWO
 'charming': KHARPL/-G
-'Bacchantes': PW*P/A*/KR*/*FP/APBT/SKWRE/-S
+'Bacchantes': PW*P/A*/KR*/*FP/APBT/ES
 'were': WR
 'they;': THE/STPH*FPLT
 'certainly': SERPBL
 'not': TPHOT
-'Psyches—not': KPA/SAOEUBG/-S/EPL/TKA*RB/TPHOT
+'Psyches—not': KPA/SAO*EUBG/ES/EPL/TKA*RB/TPHOT
 'delicate,': TKEL/KAT/KW-BG
 'beautiful': PWAOUFL
 'roses,': ROES/-S/KW-BG

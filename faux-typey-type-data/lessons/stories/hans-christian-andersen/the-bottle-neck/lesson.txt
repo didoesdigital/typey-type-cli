@@ -9,7 +9,7 @@ The Bottle Neck
 'street,': STRAOET/KW-BG
 'among': PHOPBG
 'other': OER
-'abodes': A/PWOEDZ
+'abodes': AB/OEDZ
 'of': -F
 'poverty,': POFRT/KW-BG
 'stood': STAOD
@@ -1787,7 +1787,7 @@ The Bottle Neck
 'it': T
 'out,': OUT/KW-BG
 'his': HEUS
-'messmates': PHE/-S/*FPL/A*T/-S
+'messmates': PH*/*E/S*/S*/PH*/A*/T*/ES
 'gave': TKPWAEUF
 'it': T
 'the': -T
@@ -3350,7 +3350,7 @@ The Bottle Neck
 'sold': SOELD
 'to': TO
 'an': APB
-'aeronaut,': A*/*E/R*/O*/TPH*/A*/*U/T*/KW-BG
+'aeronaut,': A*ER/TPH*/A*/*U/T*/KW-BG
 'who': WHO
 'was': WAS
 'to': TO
@@ -3475,7 +3475,7 @@ The Bottle Neck
 'air': AEUR
 'with': W
 'the': -T
-'aeronaut': A*/*E/R*/O*/TPH*/A*/*U/T*
+'aeronaut': A*ER/TPH*/A*/*U/T*
 'and': SKP
 'the': -T
 'basket': PWAFBGT
@@ -3623,7 +3623,7 @@ The Bottle Neck
 'see': SAOE
 'distinctly': TKEUS/TEUPBGT/HREU
 'the': -T
-'aeronaut': A*/*E/R*/O*/TPH*/A*/*U/T*
+'aeronaut': A*ER/TPH*/A*/*U/T*
 'in': TPH
 'the': -T
 'balloon,': PWHRAOPB/KW-BG

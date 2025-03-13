@@ -1132,7 +1132,7 @@ The Shepherd's Story of the Bond of Friendship
 'with': W
 'them.': THEPL/TP-PL
 'The': KPA/-T
-'corpses': KORPS/-S
+'corpses': KOERP/ES
 'of': -F
 'the': -T
 'robbers,': RORBS/KW-BG
@@ -1419,7 +1419,7 @@ The Shepherd's Story of the Bond of Friendship
 'time': TAOEUPL
 'I': EU
 'met': PHET
-'Aphtanides.': A*P/P*/H*/T*/A*/TPH*/*EU/TK*/SKWRE/-S/TP-PL
+'Aphtanides.': A*P/P*/H*/T*/A*/TPH*/*EU/TK*/ES/TP-PL
 'My': KPA/PHEU
 'mother': PHOER
 'could': KO
@@ -1482,7 +1482,7 @@ The Shepherd's Story of the Bond of Friendship
 'green': TKPWRAOEPB
 'or': OR
 'blue.': PWHRU/TP-PL
-'Aphtanides': A*P/P*/H*/T*/A*/TPH*/*EU/TK*/SKWRE/-S
+'Aphtanides': A*P/P*/H*/T*/A*/TPH*/*EU/TK*/ES
 'knew': TPHAOU
 'how': HOU
 'to': TO
@@ -1697,7 +1697,7 @@ The Shepherd's Story of the Bond of Friendship
 'in': TPH
 'a': AEU
 'moment': PHOEPLT
-'Aphtanides': A*P/P*/H*/T*/A*/TPH*/*EU/TK*/SKWRE/-S
+'Aphtanides': A*P/P*/H*/T*/A*/TPH*/*EU/TK*/ES
 'has': HAS
 'sprung': SPRUPBG
 'in': TPH
@@ -1758,7 +1758,7 @@ The Shepherd's Story of the Bond of Friendship
 'in': TPH
 'whose': WHOZ
 'life': HRAOEUF
-'Aphtanides': A*P/P*/H*/T*/A*/TPH*/*EU/TK*/SKWRE/-S
+'Aphtanides': A*P/P*/H*/T*/A*/TPH*/*EU/TK*/ES
 'had': H
 'now': TPHOU
 'a': AEU
@@ -2034,7 +2034,7 @@ The Shepherd's Story of the Bond of Friendship
 'Once': KPA/WUPBS
 'our': OUR
 'beloved': PWHROFD
-'Aphtanides': A*P/P*/H*/T*/A*/TPH*/*EU/TK*/SKWRE/-S
+'Aphtanides': A*P/P*/H*/T*/A*/TPH*/*EU/TK*/ES
 'paid': PAEUD
 'us': US
 'a': AEU
@@ -2227,7 +2227,7 @@ The Shepherd's Story of the Bond of Friendship
 'when,': WHEPB/KW-BG
 'one': WUPB
 'evening,': AOEPBG/KW-BG
-'Aphtanides': A*P/P*/H*/T*/A*/TPH*/*EU/TK*/SKWRE/-S
+'Aphtanides': A*P/P*/H*/T*/A*/TPH*/*EU/TK*/ES
 'came': KAEUPL
 'in.': TPH/TP-PL
 'He': KPA/HE
@@ -2411,7 +2411,7 @@ The Shepherd's Story of the Bond of Friendship
 'my': PHEU
 'mother': PHOER
 'kissed': K*EUFD
-'Aphtanides.': A*P/P*/H*/T*/A*/TPH*/*EU/TK*/SKWRE/-S/TP-PL
+'Aphtanides.': A*P/P*/H*/T*/A*/TPH*/*EU/TK*/ES/TP-PL
 'At': KPA/AT
 'about': PW
 'two': TWO
@@ -2487,7 +2487,7 @@ The Shepherd's Story of the Bond of Friendship
 'and': SKP
 'my': PHEU
 'pistols.': PEUS/TOLS/TP-PL
-'Aphtanides': A*P/P*/H*/T*/A*/TPH*/*EU/TK*/SKWRE/-S
+'Aphtanides': A*P/P*/H*/T*/A*/TPH*/*EU/TK*/ES
 'was': WAS
 'clad': KHRAD
 'in': TPH
@@ -2809,7 +2809,7 @@ The Shepherd's Story of the Bond of Friendship
 'before': PW-FR
 'his': HEUS
 'departure,': TKPART/AOUR/KW-BG
-'Aphtanides': A*P/P*/H*/T*/A*/TPH*/*EU/TK*/SKWRE/-S
+'Aphtanides': A*P/P*/H*/T*/A*/TPH*/*EU/TK*/ES
 'sat': SAT
 'thoughtfully': THAUFL/HREU
 'beside': PWE/SAOEUD
@@ -2864,7 +2864,7 @@ The Shepherd's Story of the Bond of Friendship
 'seized': SAOEZ/-D
 'his': HEUS
 'hand:': HAPBD/STPH-FPLT
-'"Aphtanides,"': KW-GS/A*P/P*/H*/T*/A*/TPH*/*EU/TK*/SKWRE/-S/KW-BG/KR-GS
+'"Aphtanides,"': KW-GS/A*P/P*/H*/T*/A*/TPH*/*EU/TK*/ES/KW-BG/KR-GS
 'I': EU
 'exclaimed,': SKHRAEUPLD/KW-BG
 '"there': KW-GS/THR
@@ -2915,7 +2915,7 @@ The Shepherd's Story of the Bond of Friendship
 'you': U
 'love?"': HRUF/H-F/KR-GS
 'asked': SK-D
-'Aphtanides.': A*P/P*/H*/T*/A*/TPH*/*EU/TK*/SKWRE/-S/TP-PL
+'Aphtanides.': A*P/P*/H*/T*/A*/TPH*/*EU/TK*/ES/TP-PL
 'And': AFPBD
 'his': HEUS
 'face': TPAEUS
@@ -3103,7 +3103,7 @@ The Shepherd's Story of the Bond of Friendship
 'She': KPA/SHE
 'looked': HRAOBGD
 'at': AT
-'Aphtanides': A*P/P*/H*/T*/A*/TPH*/*EU/TK*/SKWRE/-S
+'Aphtanides': A*P/P*/H*/T*/A*/TPH*/*EU/TK*/ES
 'with': W
 'a': AEU
 'sweet': SWAOET
@@ -3225,7 +3225,7 @@ The Shepherd's Story of the Bond of Friendship
 'heart': HART
 'of': -F
 'poor': PAOR
-'Aphtanides.': A*P/P*/H*/T*/A*/TPH*/*EU/TK*/SKWRE/-S/TP-PL
+'Aphtanides.': A*P/P*/H*/T*/A*/TPH*/*EU/TK*/ES/TP-PL
 'Before': KPA/PW-FR
 'daybreak': TKAEU/PWRAEBG
 'he': HE

@@ -494,7 +494,7 @@ Blue Beard
 'for': TPOR
 'by': PWEU
 'the': -T
-'newmarried': TPH*/*E/W*/PH*/A*/R*/R*/SKWREU/-D
+'newmarried': TPH*/*E/W*/PH*/A*/R*/R*/KWREUD
 'lady,': HRA*ED/KW-BG
 'so': SO
 'great': TKPWRAET
@@ -1717,7 +1717,7 @@ Blue Beard
 'the': -T
 'other': OER
 'a': AEU
-'musqueteer;': PH*/*U/S*/KW*/SKWRU/ET/SKWRE/*ER/STPH*FPLT
+'musqueteer;': PH*/*U/S*/KW*/SKWRU/ET/AO*ER/STPH*FPLT
 'so': SO
 'that': THA
 'he': HE

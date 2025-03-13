@@ -2125,7 +2125,7 @@ Snow-White and Rose-Red
 'when': WHEPB
 'a': AEU
 'loud': HROUD
-'growling': TKPWROUL/-G
+'growling': TKPWROE/HREUPBG
 'was': WAS
 'heard,': HAERD/KW-BG
 'and': SKP

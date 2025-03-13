@@ -369,7 +369,7 @@ Jack the Dullard
 'King's': KO*EUPBG/AES
 'court,': KORT/KW-BG
 'as': AS
-'suitors': SAOU/TOR/-S
+'suitors': SAOUT/O*RS
 'to': TO
 'the': -T
 'King's': KO*EUPBG/AES
@@ -962,7 +962,7 @@ Jack the Dullard
 'Princess': KPA/PREUPB/SES
 'receive': SAOEF
 'the': -T
-'suitors;': SAOU/TOR/-S/STPH*FPLT
+'suitors;': SAOUT/O*RS/STPH*FPLT
 'and': SKP
 'as': AS
 'each': AOEFP

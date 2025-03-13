@@ -2201,7 +2201,7 @@ The Valiant Little Tailor
 'answered': AEPBS/-D
 'the': -T
 'first,': TPEUFRT/KW-BG
-'growling.': TKPWROUL/-G/TP-PL
+'growling.': TKPWROE/HREUPBG/TP-PL
 'They': KPA/THE
 'disputed': TKEUS/PAOUT/-D
 'about': PW
@@ -2500,7 +2500,7 @@ The Valiant Little Tailor
 'reward;': RE/WARD/STPH*FPLT
 'he,': HE/KW-BG
 'however,': HOUF/KW-BG
-'repented': RE/PEPBT/-D
+'repented': REP/EPBT/-D
 'of': -F
 'his': HEUS
 'promise,': PROPLS/KW-BG
@@ -3047,7 +3047,7 @@ The Valiant Little Tailor
 'and': SKP
 'patch': PAFP
 'the': -T
-'pantaloons,': PAPBT/A*L/SKWRO/O*PB/-S/KW-BG
+'pantaloons,': PAPBT/A*L/SKWRO/O*PBS/KW-BG
 'or': OR
 'else': ELS
 'I': EU
@@ -3244,7 +3244,7 @@ The Valiant Little Tailor
 'patch': PAFP
 'me': PHE
 'the': -T
-'pantaloons,': PAPBT/A*L/SKWRO/O*PB/-S/KW-BG
+'pantaloons,': PAPBT/A*L/SKWRO/O*PBS/KW-BG
 'or': OR
 'I': EU
 'will': HR

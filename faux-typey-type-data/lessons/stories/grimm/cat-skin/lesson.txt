@@ -1062,7 +1062,7 @@ Cat-Skin
 'an': APB
 'end': EPBD
 'she': SHE
-'curtsied;': KURT/-S/SKWREU/-D/STPH*FPLT
+'curtsied;': KURT/-S/KWREUD/STPH*FPLT
 'and': SKP
 'when': WHEPB
 'the': -T

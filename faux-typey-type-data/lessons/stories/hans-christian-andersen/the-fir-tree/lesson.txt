@@ -2847,7 +2847,7 @@ The Fir Tree
 'little': HREUL
 'palings.': P*/A*/HR*/*EU/TPH*/TKPW*/S*/TP-PL
 'The': KPA/-T
-'linden-trees': HR*/SKWREU/*PBD/*EPB/H-PB/TRAOES
+'linden-trees': HR*/SKWREU/*PB/TK*EPB/H-PB/TRAOES
 'were': WR
 'in': TPH
 'blossom;': PWHROFPL/STPH*FPLT

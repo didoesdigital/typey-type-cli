@@ -324,7 +324,7 @@ Cinderilla or the Little Glass Slipper
 'wonderfully': WOPBD/TPHREU
 'busy': PW-Z
 'in': TPH
-'chusing': HRO*ER/KHU/-S/-G
+'chusing': KR*/H*/SKWRUS/-G
 'out': OUT
 'such': SUFP
 'gowns,': TKPWOUPBS/KW-BG
@@ -1158,7 +1158,7 @@ Cinderilla or the Little Glass Slipper
 'Cinderilla': KR*P/*EU/TPH*/TK*/*E/R*/*EU/HR*/HR*/SKWRA
 'was': WAS
 'given': TKPWEUFPB
-'_pantoufles': RUPBD/P*/A*/TPH*/T*/O*/*U/TP*/*L/-S
+'_pantoufles': RUPBD/P*/A*/TPH*/T*/O*/*U/TP*/HR*/ES
 'de': TK*E
 'vair_--_i.e._,': SR*/A*/*EU/R*/RUPBD/H-PB/H-PB/RUPBD/*EU/TP-PL/*E/TP-PL/RUPBD/KW-BG
 'of': -F
@@ -1217,7 +1217,7 @@ Cinderilla or the Little Glass Slipper
 'people.': PAOEPL/TP-PL
 'Thus': KPA/THUS
 'the': -T
-'_pantoufles': RUPBD/P*/A*/TPH*/T*/O*/*U/TP*/*L/-S
+'_pantoufles': RUPBD/P*/A*/TPH*/T*/O*/*U/TP*/HR*/ES
 'de': TK*E
 'vair_': SR*/A*/*EU/R*/RUPBD
 'of': -F
@@ -1231,7 +1231,7 @@ Cinderilla or the Little Glass Slipper
 'tradition,': TRAGS/KW-BG
 'the': -T
 'homonymous': HO/PHO/TPHEUPL/OUS
-'_pantoufles': RUPBD/P*/A*/TPH*/T*/O*/*U/TP*/*L/-S
+'_pantoufles': RUPBD/P*/A*/TPH*/T*/O*/*U/TP*/HR*/ES
 'de': TK*E
 'verre_,': SR*/*E/R*/R*/SKWRE/RUPBD/KW-BG
 'or': OR

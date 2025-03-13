@@ -274,7 +274,7 @@ The Frogs Desiring a King
 'Then': KPA/THEPB
 'the': -T
 'Frogs': KPA/TPROGS
-'repented': RE/PEPBT/-D
+'repented': REP/EPBT/-D
 'when': WHEPB
 'too': TAO
 'late.': HRAEUT/TP-PL

@@ -46,7 +46,7 @@ The Labourer and the Nightingale
 'to': TO
 'me."': PHE/TP-PL/KR-GS
 '"We': KW-GS/KPA*/WE
-'Nightingales': KPA/TPHAOEUT/-G/TKPWAEL/-S
+'Nightingales': KPA/TPHAOEUT/-G/A*L/ES
 'never': TPHEFR
 'sing': SEUPBG
 'in': TPH

@@ -1821,7 +1821,7 @@ The Red Shoes
 'turned': TURPBD
 'back': PWABG
 'and': SKP
-'repented': RE/PEPBT/-D
+'repented': REP/EPBT/-D
 'right': RAOEUT
 'heartily': HART/HREU
 'of': -F
@@ -2120,7 +2120,7 @@ The Red Shoes
 'organ': O*RPBG
 'which': WEU
 'was': WAS
-'pealing': PA*EL/-G
+'pealing': PAE/HREUPBG
 'forth;': TPO*RT/STPH*FPLT
 'she': SHE
 'saw': SAU
@@ -2129,7 +2129,7 @@ The Red Shoes
 'of': -F
 'the': -T
 'old': OLD
-'pastors': PAS/TOR/-S
+'pastors': PAFT/O*RS
 'and': SKP
 'their': THAEUR
 'wives,': WAOEUFS/KW-BG

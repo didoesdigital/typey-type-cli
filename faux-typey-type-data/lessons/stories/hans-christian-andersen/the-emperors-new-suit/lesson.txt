@@ -1155,7 +1155,7 @@ The Emperor's New Suit
 'and': SKP
 'all': AUL
 'his': HEUS
-'barons': PWAR/ROPB/-S
+'barons': PWAR/O*PBS
 'then': THEPB
 'came': KAEUPL
 'to': TO

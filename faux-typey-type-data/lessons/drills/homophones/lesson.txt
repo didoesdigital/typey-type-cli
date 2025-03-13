@@ -8,8 +8,8 @@ Homophones
 'ax': A/KP*
 'axe': ABGS
 'adds': ADZ
-'adz': A*/TK*/STKPW*
-'adze': A*/TK*/STKPW*/SKWRE
+'adz': A*ED/STKPW*
+'adze': A*ED/STKPW*/SKWRE
 'adherence': AD/HERPBS
 'adherents': AD/HAOER/EPBTS
 'adolescence': AD/HRES/EPBS
@@ -365,7 +365,7 @@ Homophones
 'jean': SKWRAEPB
 'gild': TKPW*EULD
 'guild': TKPWEULD
-'gneiss': TKPW*/*PB/SKWRE/SKWREU/-S/-S
+'gneiss': TKPW*/*PB/SKWRE/EUS/-S
 'nice': TPHAOEUS
 'gored': TKPWOR/-D
 'gourd': TKPWORD
@@ -521,7 +521,7 @@ Homophones
 'lyre': HRAO*EUR
 'lichen': HREUFP/*EPB
 'liken': HRAOEUBG/*EPB
-'lickerish': HREUBG/*ER/SKWREU/*RB
+'lickerish': HREUBG/*ER/EURB
 'licorice': HREUBG/REUS
 'lie': HRAOEU
 'lye': HRAO*EU
@@ -539,7 +539,7 @@ Homophones
 'lox': HROBGS
 'loop': HRAOP
 'loupe': HRAO*P
-'loos': HRAO/-S
+'loos': HRO/OS
 'lose': HRUZ
 'lose': HRUZ
 'loose': HRAOS

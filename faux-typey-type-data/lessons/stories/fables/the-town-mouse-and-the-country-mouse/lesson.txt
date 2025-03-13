@@ -203,7 +203,7 @@ The Town Mouse and the Country Mouse
 'Suddenly': KPA/SULD
 'they': THE
 'heard': HAERD
-'growling': TKPWROUL/-G
+'growling': TKPWROE/HREUPBG
 'and': SKP
 'barking.': PWARBG/-G/TP-PL
 '"What': KW-GS/KPA*/WHA

@@ -367,7 +367,7 @@ The Willow-Wren and the Bear
 'called': KAULD
 'in:': TPH/STPH-FPLT
 ''Old': A*E/KPA*/OLD
-'Growler,': KPA/TKPWROUL/*ER/KW-BG
+'Growler,': KPA/TKPWROE/HRER/KW-BG
 'why': KWR
 'have': SR
 'you': U
@@ -844,7 +844,7 @@ The Willow-Wren and the Bear
 'hole': HOEL
 'and': SKP
 'cried:': KRAOEUD/STPH-FPLT
-''Growler,': A*E/KPA/TKPWROUL/*ER/KW-BG
+''Growler,': A*E/KPA/TKPWROE/HRER/KW-BG
 'you': U
 'are': R
 'to': TO

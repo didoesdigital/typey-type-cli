@@ -380,7 +380,7 @@ Children's Prattle
 'dollars'': TKHRARS/AE
 'worth': WO*RT
 'of': -F
-'bonbons,': PW*/O*/TPH*/PW*/O*PB/-S/KW-BG
+'bonbons,': PW*/O*/TPH*/PW*/O*PBS/KW-BG
 'and': SKP
 'give': TKPWEUF
 'them': THEPL

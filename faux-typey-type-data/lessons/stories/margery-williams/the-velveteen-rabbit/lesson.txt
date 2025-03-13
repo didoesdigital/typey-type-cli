@@ -1209,7 +1209,7 @@ The Velveteen Rabbit
 'under': TPH-PB
 'the': -T
 'raspberry': RAZ/PWER/REU
-'canes': KAEUPB/-S
+'canes': K/ES
 'behind': HEUPBD
 'the': -T
 'flower': TPHRO*UR
@@ -2985,7 +2985,7 @@ The Velveteen Rabbit
 'thicket': THEUBGT
 'of': -F
 'raspberry': RAZ/PWER/REU
-'canes,': KAEUPB/-S/KW-BG
+'canes,': K/ES/KW-BG
 'growing': TKPWROEG
 'tall': TAUL
 'and': SKP

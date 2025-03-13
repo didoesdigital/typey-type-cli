@@ -1045,7 +1045,7 @@ The Sleeping Beauty in the Wood
 'chariot,': KHAEUR/KWROT/KW-BG
 'drawn': TKRAUPB
 'by': PWEU
-'dragons.': TKRAG/O*PB/-S/TP-PL
+'dragons.': TKRAG/O*PBS/TP-PL
 'The': KPA/-T
 'King': KO*EUPBG
 'handed': HAPBD/-D
@@ -2004,7 +2004,7 @@ The Sleeping Beauty in the Wood
 'him,': HEUPL/KW-BG
 '"you': KW-GS/U
 'have': SR
-'tarried': T*/A*/R*/R*/SKWREU/-D
+'tarried': T*/A*/R*/R*/KWREUD
 'long."': HROPBG/TP-PL/KR-GS
 'The': KPA/-T
 'Prince,': PR*EUPBS/KW-BG
@@ -2565,7 +2565,7 @@ The Sleeping Beauty in the Wood
 'that': THA
 'she': SHE
 'had': H
-'Ogreish': KPA/OERG/SKWREU/*RB
+'Ogreish': KPA/OERG/EURB
 'inclinations,': EUPBG/TPHAEUGS/-S/KW-BG
 'and': SKP
 'that,': THARBGS

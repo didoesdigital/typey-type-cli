@@ -32,7 +32,7 @@ The String Quartet
 'venture': SREPBT/UR
 'to': TO
 'believe,': PWHREF/KW-BG
-'landaus': HRAPBD/SKWRA/SKWRU/-S
+'landaus': HRAPBD/SKWRA/SKWRUS
 'with': W
 'bays': PWAEU/-S
 'in': TPH
@@ -245,7 +245,7 @@ The String Quartet
 'besides': PW-DZ
 'regrets,': RAOE/TKPWRETS/KW-BG
 'pleasures,': PHR-RBS/KW-BG
-'vanities,': SR*/A*/TPH*/*EU/T*/AO*E/-S/KW-BG
+'vanities,': SR*/A*/TPH*/*EU/T*/KWREU/-S/KW-BG
 'and': SKP
 'desires—if': STKAOEURS/EPL/TKA*RB/TP
 'it's': T-S
@@ -328,7 +328,7 @@ The String Quartet
 'a': AEU
 'house': HOUS
 'at': AT
-'Malmesbury."': PH*P/A*/HR*/PH*/SKWRE/-S/PW*UR/KWREU/TP-PL/KR-GS
+'Malmesbury."': PH*P/A*/HR*/PH*/ES/PW*UR/KWREU/TP-PL/KR-GS
 '"How': KW-GS/KPA*/HOU
 'lucky': HROEUBG
 'to': TO
@@ -658,7 +658,7 @@ The String Quartet
 'in': TPH
 'jolly': SKWROL/HREU
 'old': OLD
-'fishwives,': TP*/*EU/S*/H*/W*/EUF/-S/KW-BG
+'fishwives,': TP*/*EU/S*/H*/W*/*EU/SR*/ES/KW-BG
 'squatted': SKWAT/-D
 'under': TPH-PB
 'arches,': AFRPBS/KW-BG
@@ -788,7 +788,7 @@ The String Quartet
 'we': WE
 'pass': PAS
 'the': -T
-'osier': O*/-S/SKWREU/*ER
+'osier': O*/S*/KWRER
 'bed.': PWED/TP-PL
 'What': KPA/WHA
 'are': R
@@ -972,7 +972,7 @@ The String Quartet
 'this': TH
 'slippery': SHREUP/REU
 'floor."': TPHRAOR/TP-PL/KR-GS
-'Eyeless': *EP/KWR*/*E/HR*/*ES
+'Eyeless': KPA/AOEU/-LS
 'old': OLD
 'age,': AEUPBLG/KW-BG
 'grey-headed': TKPWRA*EU/H-PB/HED/-D

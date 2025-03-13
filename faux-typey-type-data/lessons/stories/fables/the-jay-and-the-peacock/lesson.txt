@@ -63,7 +63,7 @@ The Jay and the Peacock
 'away': WA*EU
 'his': HEUS
 'borrowed': PWO*ERD
-'plumes.': PHRAOUPL/-S/TP-PL
+'plumes.': PHR*UPL/ES/TP-PL
 'So': KPA/SO
 'the': -T
 'Jay': SKWRA*EU

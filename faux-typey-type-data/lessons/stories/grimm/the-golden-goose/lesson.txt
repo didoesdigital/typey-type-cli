@@ -14,7 +14,7 @@ The Golden Goose
 'whom': WHOPL
 'was': WAS
 'called': KAULD
-'Dummling,[*]': TK*P/*U/PH*/PH*/HR*/-G/KW-BG/PWR-BGT/STA*R/PWR*BGT
+'Dummling,[*]': TK*P/*U/PH*/PH*/HREUPBG/KW-BG/PWR-BGT/STA*R/PWR*BGT
 'and': SKP
 'was': WAS
 'despised,': STKPAOEUDZ/KW-BG
@@ -298,7 +298,7 @@ The Golden Goose
 'carried': KAERD
 'home.': HOEPL/TP-PL
 'Then': KPA/THEPB
-'Dummling': TK*P/*U/PH*/PH*/HR*/-G
+'Dummling': TK*P/*U/PH*/PH*/HREUPBG
 'said:': SED/STPH-FPLT
 ''Father,': A*E/KPA*/TPAER/KW-BG
 'do': TKO
@@ -329,7 +329,7 @@ The Golden Goose
 'about': PW
 'it.'': T/TP-PL/AE
 'But': KPA/PWUT
-'Dummling': TK*P/*U/PH*/PH*/HR*/-G
+'Dummling': TK*P/*U/PH*/PH*/HREUPBG
 'begged': PWEGD
 'so': SO
 'long': HROPBG
@@ -408,7 +408,7 @@ The Golden Goose
 'hungry': HUPBG/REU
 'and': SKP
 'thirsty.'': THEURS/TEU/TP-PL/AE
-'Dummling': TK*P/*U/PH*/PH*/HR*/-G
+'Dummling': TK*P/*U/PH*/PH*/HREUPBG
 'answered:': AEPBS/-D/STPH-FPLT
 ''I': A*E/EU
 'have': SR
@@ -433,7 +433,7 @@ The Golden Goose
 'down,': TKOUPB/KW-BG
 'and': SKP
 'when': WHEPB
-'Dummling': TK*P/*U/PH*/PH*/HR*/-G
+'Dummling': TK*P/*U/PH*/PH*/HREUPBG
 'pulled': PULD
 'out': OUT
 'his': HEUS
@@ -508,7 +508,7 @@ The Golden Goose
 'leave': HREF
 'of': -F
 'him.': HEUPL/TP-PL
-'Dummling': TK*P/*U/PH*/PH*/HR*/-G
+'Dummling': TK*P/*U/PH*/PH*/HREUPBG
 'went': WEPBT
 'and': SKP
 'cut': KUT
@@ -604,7 +604,7 @@ The Golden Goose
 'as': AS
 'soon': SAOPB
 'as': AS
-'Dummling': TK*P/*U/PH*/PH*/HR*/-G
+'Dummling': TK*P/*U/PH*/PH*/HREUPBG
 'had': H
 'gone': TKPWOPB
 'out': OUT
@@ -731,7 +731,7 @@ The Golden Goose
 'The': KPA/-T
 'next': TPHEGT
 'morning': PHORPBG
-'Dummling': TK*P/*U/PH*/PH*/HR*/-G
+'Dummling': TK*P/*U/PH*/PH*/HREUPBG
 'took': TAOBG
 'the': -T
 'goose': TKPWAOS
@@ -957,7 +957,7 @@ The Golden Goose
 'them': THEPL
 'running': R*UPBG
 'behind': HEUPBD
-'Dummling': TK*P/*U/PH*/PH*/HR*/-G
+'Dummling': TK*P/*U/PH*/PH*/HREUPBG
 'and': SKP
 'the': -T
 'goose.': TKPWAOS/TP-PL
@@ -1007,7 +1007,7 @@ The Golden Goose
 'marry': PHAER
 'her.': HER/TP-PL
 'When': KPA/WHEPB
-'Dummling': TK*P/*U/PH*/PH*/HR*/-G
+'Dummling': TK*P/*U/PH*/PH*/HREUPBG
 'heard': HAERD
 'this,': TH/KW-BG
 'he': HE
@@ -1054,7 +1054,7 @@ The Golden Goose
 'never': TPHEFR
 'stop.': STOP/TP-PL
 'Thereupon': KPA/THRUP
-'Dummling': TK*P/*U/PH*/PH*/HR*/-G
+'Dummling': TK*P/*U/PH*/PH*/HREUPBG
 'asked': SK-D
 'to': TO
 'have': SR
@@ -1091,7 +1091,7 @@ The Golden Goose
 'cellarful': SEL/AR/-FL
 'of': -F
 'wine.': WAOEUPB/TP-PL
-'Dummling': TK*P/*U/PH*/PH*/HR*/-G
+'Dummling': TK*P/*U/PH*/PH*/HREUPBG
 'thought': THAUT
 'of': -F
 'the': -T
@@ -1131,7 +1131,7 @@ The Golden Goose
 'very': SRE
 'sorrowful': SOR/ROEFL
 'face.': TPAEUS/TP-PL
-'Dummling': TK*P/*U/PH*/PH*/HR*/-G
+'Dummling': TK*P/*U/PH*/PH*/HREUPBG
 'asked': SK-D
 'him': HEUPL
 'what': WHA
@@ -1186,7 +1186,7 @@ The Golden Goose
 'help': HEP
 'you,'': U/KW-BG/AE
 'said': SED
-'Dummling,': TK*P/*U/PH*/PH*/HR*/-G/KW-BG
+'Dummling,': TK*P/*U/PH*/PH*/HREUPBG/KW-BG
 ''just': A*E/SKWRUFT
 'come': KOPL
 'with': W
@@ -1232,7 +1232,7 @@ The Golden Goose
 'the': -T
 'barrels.': PWARLS/TP-PL
 'Then': KPA/THEPB
-'Dummling': TK*P/*U/PH*/PH*/HR*/-G
+'Dummling': TK*P/*U/PH*/PH*/HREUPBG
 'asked': SK-D
 'once': WUPBS
 'more': PHOR
@@ -1252,7 +1252,7 @@ The Golden Goose
 'whom': WHOPL
 'everyone': EFRPB
 'called': KAULD
-'Dummling,': TK*P/*U/PH*/PH*/HR*/-G/KW-BG
+'Dummling,': TK*P/*U/PH*/PH*/HREUPBG/KW-BG
 'should': SHO
 'take': TAEUBG
 'away': WA*EU
@@ -1278,7 +1278,7 @@ The Golden Goose
 'mountain': PHOUPB/TAEUPB
 'of': -F
 'bread.': PWRAED/TP-PL
-'Dummling': TK*P/*U/PH*/PH*/HR*/-G
+'Dummling': TK*P/*U/PH*/PH*/HREUPBG
 'did': TK
 'not': TPHOT
 'think': THEU
@@ -1355,7 +1355,7 @@ The Golden Goose
 'hunger.'': HURPBG/TP-PL/AE
 'At': KPA/AT
 'this': TH
-'Dummling': TK*P/*U/PH*/PH*/HR*/-G
+'Dummling': TK*P/*U/PH*/PH*/HREUPBG
 'was': WAS
 'glad,': TKPWHRAD/KW-BG
 'and': SKP
@@ -1425,7 +1425,7 @@ The Golden Goose
 'had': H
 'vanished.': SRAPB/EURBD/TP-PL
 'Then': KPA/THEPB
-'Dummling': TK*P/*U/PH*/PH*/HR*/-G
+'Dummling': TK*P/*U/PH*/PH*/HREUPBG
 'for': TPOR
 'the': -T
 'third': THEURD
@@ -1472,7 +1472,7 @@ The Golden Goose
 'daughter': TKAUR
 'for': TPOR
 'wife.'': WAOEUF/TP-PL/AE
-'Dummling': TK*P/*U/PH*/PH*/HR*/-G
+'Dummling': TK*P/*U/PH*/PH*/HREUPBG
 'went': WEPBT
 'straight': STRAEUT
 'into': TPHAO
@@ -1496,7 +1496,7 @@ The Golden Goose
 'he': HE
 'heard': HAERD
 'what': WHA
-'Dummling': TK*P/*U/PH*/PH*/HR*/-G
+'Dummling': TK*P/*U/PH*/PH*/HREUPBG
 'wanted,': WAPBTD/KW-BG
 'he': HE
 'said:': SED/STPH-FPLT
@@ -1566,7 +1566,7 @@ The Golden Goose
 'the': -T
 'king's': KEUPBG/AES
 'death,': TK*T/KW-BG
-'Dummling': TK*P/*U/PH*/PH*/HR*/-G
+'Dummling': TK*P/*U/PH*/PH*/HREUPBG
 'inherited': EUPB/HERTD
 'his': HEUS
 'kingdom': KEUPBG/TKOPL

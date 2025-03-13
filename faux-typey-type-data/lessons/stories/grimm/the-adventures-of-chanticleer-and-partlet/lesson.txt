@@ -21,7 +21,7 @@ The Adventures of Chanticleer and Partlet
 'to': TO
 'his': HEUS
 'wife': WAOEUF
-'Partlet,': P*P/A*/R*/T*/HR*/ET/KW-BG
+'Partlet,': KPA/PART/HR*ET/KW-BG
 ''suppose': A*E/SPOS
 'we': WE
 'go': TKPW
@@ -48,7 +48,7 @@ The Adventures of Chanticleer and Partlet
 'my': PHEU
 'heart,'': HART/KW-BG/AE
 'said': SED
-'Partlet,': P*P/A*/R*/T*/HR*/ET/KW-BG
+'Partlet,': KPA/PART/HR*ET/KW-BG
 ''let': A*E/HRET
 'us': US
 'go': TKPW
@@ -139,7 +139,7 @@ The Adventures of Chanticleer and Partlet
 'it': T
 'was': WAS
 'finished,': TP*EURBD/KW-BG
-'Partlet': P*P/A*/R*/T*/HR*/ET
+'Partlet': KPA/PART/HR*ET
 'jumped': SKWR*UPLD
 'into': TPHAO
 'it': T
@@ -443,7 +443,7 @@ The Adventures of Chanticleer and Partlet
 'to': TO
 'tread': TRED
 'on': OPB
-'Partlet's': P*P/A*/R*/T*/HR*/ET/AES
+'Partlet's': KPA/PART/HR*ET/AES
 'toes.': TO*ES/TP-PL
 'Late': KPA/HRAEUT
 'at': AT
@@ -523,7 +523,7 @@ The Adventures of Chanticleer and Partlet
 'the': -T
 'egg': EG
 'which': WEU
-'Partlet': P*P/A*/R*/T*/HR*/ET
+'Partlet': KPA/PART/HR*ET
 'had': H
 'laid': HRAEUD
 'by': PWEU
@@ -861,7 +861,7 @@ The Adventures of Chanticleer and Partlet
 'day,': TKAEU/KW-BG
 'Chanticleer': KPA/KHAPBT/EUBG/*L/*ER
 'and': SKP
-'Partlet': P*P/A*/R*/T*/HR*/ET
+'Partlet': KPA/PART/HR*ET
 'wished': WEURBD
 'to': TO
 'ride': RAOEUD
@@ -887,7 +887,7 @@ The Adventures of Chanticleer and Partlet
 'then': THEPB
 'he': HE
 'and': SKP
-'Partlet': P*P/A*/R*/T*/HR*/ET
+'Partlet': KPA/PART/HR*ET
 'got': TKPWOT
 'into': TPHAO
 'the': -T
@@ -921,7 +921,7 @@ The Adventures of Chanticleer and Partlet
 'pay': PAEU
 'To': KPA/TO
 'Mr': PH*P/R*
-'Korbes,': K*P/O*/R*/PW*/SKWRE/-S/KW-BG
+'Korbes,': K*P/O*/R*/PW*/ES/KW-BG
 'the': -T
 'fox,': TPOBGS/KW-BG
 'today.'': TOED/TP-PL/AE
@@ -984,7 +984,7 @@ The Adventures of Chanticleer and Partlet
 'pay': PAEU
 'To': KPA/TO
 'Mr': PH*P/R*
-'Korbes,': K*P/O*/R*/PW*/SKWRE/-S/KW-BG
+'Korbes,': K*P/O*/R*/PW*/ES/KW-BG
 'the': -T
 'fox,': TPOBGS/KW-BG
 'today.'': TOED/TP-PL/AE
@@ -1021,7 +1021,7 @@ The Adventures of Chanticleer and Partlet
 'arrived': A/RAOEUFD
 'at': AT
 'Mr': PH*P/R*
-'Korbes's': K*P/O*/R*/PW*/SKWRE/-S/AES
+'Korbes's': K*P/O*/R*/PW*/ES/AES
 'house,': HOUS/KW-BG
 'he': HE
 'was': WAS
@@ -1039,7 +1039,7 @@ The Adventures of Chanticleer and Partlet
 'coach-house,': KOEFP/H-PB/HOUS/KW-BG
 'Chanticleer': KPA/KHAPBT/EUBG/*L/*ER
 'and': SKP
-'Partlet': P*P/A*/R*/T*/HR*/ET
+'Partlet': KPA/PART/HR*ET
 'flew': TPHRAOU
 'upon': POPB
 'a': AEU
@@ -1085,7 +1085,7 @@ The Adventures of Chanticleer and Partlet
 'towel.': TOUL/TP-PL
 'When': KPA/WHEPB
 'Mr': PH*P/R*
-'Korbes': K*P/O*/R*/PW*/SKWRE/-S
+'Korbes': K*P/O*/R*/PW*/ES
 'came': KAEUPL
 'home,': HOEPL/KW-BG
 'he': HE
@@ -1228,7 +1228,7 @@ The Adventures of Chanticleer and Partlet
 'day': TKAEU
 'Chanticleer': KPA/KHAPBT/EUBG/*L/*ER
 'and': SKP
-'Partlet': P*P/A*/R*/T*/HR*/ET
+'Partlet': KPA/PART/HR*ET
 'agreed': TKPWRAED
 'to': TO
 'go': TKPW
@@ -1257,7 +1257,7 @@ The Adventures of Chanticleer and Partlet
 'between': TWAOEPB
 'them.': THEPL/TP-PL
 'Now': KPA/TPHOU
-'Partlet': P*P/A*/R*/T*/HR*/ET
+'Partlet': KPA/PART/HR*ET
 'found': TPOUPBD
 'a': AEU
 'very': SRE
@@ -1341,7 +1341,7 @@ The Adventures of Chanticleer and Partlet
 'some': SOPL
 'water,': WAURBGS
 'for': TPOR
-'Partlet': P*P/A*/R*/T*/HR*/ET
+'Partlet': KPA/PART/HR*ET
 'lies': HRAO*EUS
 'in': TPH
 'the': -T
@@ -1404,7 +1404,7 @@ The Adventures of Chanticleer and Partlet
 'will': HR
 'carry': KAER
 'to': TO
-'Partlet,': P*P/A*/R*/T*/HR*/ET/KW-BG
+'Partlet,': KPA/PART/HR*ET/KW-BG
 'who': WHO
 'lies': HRAO*EUS
 'on': OPB
@@ -1490,7 +1490,7 @@ The Adventures of Chanticleer and Partlet
 'the': -T
 'water': WAUR
 'to': TO
-'Partlet;': P*P/A*/R*/T*/HR*/ET/STPH*FPLT
+'Partlet;': KPA/PART/HR*ET/STPH*FPLT
 'but': PWUT
 'in': TPH
 'the': -T
@@ -1530,7 +1530,7 @@ The Adventures of Chanticleer and Partlet
 'him': HEUPL
 'over': OEFR
 'poor': PAOR
-'Partlet.': P*P/A*/R*/T*/HR*/ET/TP-PL
+'Partlet.': KPA/PART/HR*ET/TP-PL
 'And': AFPBD
 'six': SEUBGS
 'mice': PHAOEUS
@@ -1575,7 +1575,7 @@ The Adventures of Chanticleer and Partlet
 ''To': A*E/KPA*/TO
 'bury': PWUR/REU
 'my': PHEU
-'Partlet,'': P*P/A*/R*/T*/HR*/ET/KW-BG/AE
+'Partlet,'': KPA/PART/HR*ET/KW-BG/AE
 'said': SED
 'the': -T
 'other.': OER/TP-PL
@@ -1787,7 +1787,7 @@ The Adventures of Chanticleer and Partlet
 'managed': PHAPBGD
 'to': TO
 'get': TKPWET
-'Partlet': P*P/A*/R*/T*/HR*/ET
+'Partlet': KPA/PART/HR*ET
 'out': OUT
 'of': -F
 'it;': T/STPH*FPLT
@@ -1829,7 +1829,7 @@ The Adventures of Chanticleer and Partlet
 'with': W
 'his': HEUS
 'dead': TKED
-'Partlet;': P*P/A*/R*/T*/HR*/ET/STPH*FPLT
+'Partlet;': KPA/PART/HR*ET/STPH*FPLT
 'and': SKP
 'having': SR-G
 'dug': TKUG

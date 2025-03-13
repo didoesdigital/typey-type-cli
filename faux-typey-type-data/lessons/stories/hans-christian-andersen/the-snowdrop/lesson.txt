@@ -1276,7 +1276,7 @@ The Snowdrop
 'old': OLD
 'Danish': TKAEUPB/EURB
 'poet,': POET/KW-BG
-'Ambrosius': A*P/PH*/PW*/R*/SKWRO/-S/SKWREU/SKWRU/-S
+'Ambrosius': A*P/PH*/PW*/R*/OS/SKWREU/SKWRUS
 'Stub,': KPA/STUB/KW-BG
 'which': WEU
 'are': R
@@ -1321,7 +1321,7 @@ The Snowdrop
 'a': AEU
 'meaning!': PHAOEPBG/SKHRAPL
 'Poor': KPA/PAOR
-'Ambrosius': A*P/PH*/PW*/R*/SKWRO/-S/SKWREU/SKWRU/-S
+'Ambrosius': A*P/PH*/PW*/R*/OS/SKWREU/SKWRUS
 'Stub!': KPA/STUB/SKHRAPL
 'he': HE
 'was': WAS

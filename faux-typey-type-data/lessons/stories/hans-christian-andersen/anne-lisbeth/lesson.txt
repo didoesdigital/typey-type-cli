@@ -1239,7 +1239,7 @@ Anne Lisbeth
 'country': KREU
 'in': TPH
 'a': AEU
-'grazier's': TKPW*/R*/A*/STKPW*/SKWREU/*ER/AES
+'grazier's': TKPW*/R*/A*/STKPW*/KWRER/AES
 'cart,': KART/KW-BG
 'and': SKP
 'then': THEPB
@@ -2787,7 +2787,7 @@ Anne Lisbeth
 'unburied': UPB/PWUR/KWREUD
 'people,': PAOEPL/KW-BG
 'whose': WHOZ
-'corpses': KORPS/-S
+'corpses': KOERP/ES
 'had': H
 'been': PW-PB
 'washed': WARBD

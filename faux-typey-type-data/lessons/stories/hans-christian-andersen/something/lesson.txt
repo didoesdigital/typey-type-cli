@@ -1641,7 +1641,7 @@ Something
 'the': -T
 'old': OLD
 'woman': WOPL
-'curtsied': KURT/-S/SKWREU/-D
+'curtsied': KURT/-S/KWREUD
 'as': AS
 'well': WEL
 'as': AS

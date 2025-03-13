@@ -231,7 +231,7 @@ The Phoenix Bird
 'the': -T
 'plains': PHRAEUPBS
 'of': -F
-'Lapland,': HR*P/A*/P*/HR*/SKWRA/*PBD/KW-BG
+'Lapland,': KPA/HRAP/HRA*PBD/KW-BG
 'and': SKP
 'hops': HOPS
 'among': PHOPBG
@@ -321,7 +321,7 @@ The Phoenix Bird
 'the': -T
 'car': KAR
 'of': -F
-'Thespis': KPA/-T/-S/*P/SKWREU/-S
+'Thespis': T*P/H*/ES/*P/EUS
 'he': HE
 'sat': SAT
 'in': TPH

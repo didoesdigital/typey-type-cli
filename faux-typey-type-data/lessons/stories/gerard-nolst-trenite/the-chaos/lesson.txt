@@ -25,7 +25,7 @@ The Chaos
 'will': HR
 'keep': KAOEP
 'you,': U/KW-BG
-'Susy,': S*P/SKWRU/-S/KWREU/KW-BG
+'Susy,': S*P/SKWRUS/KWREU/KW-BG
 'busy,': PW-Z/KW-BG
 'Make': KPA/PHAEUBG
 'your': KWROUR
@@ -342,7 +342,7 @@ The Chaos
 'but': PWUT
 'minute.': PHEUPB/TP-PL
 'Say': KPA/SAEU
-'abscission': A*/PW*/S*/KR*/SKWREU/-S/-S/KWROPB
+'abscission': AB/S*/KR*/EUS/-S/KWROPB
 'with': W
 'precision,': PRE/SEUGS/KW-BG
 'Now:': KPA/TPHOU/STPH-FPLT
@@ -447,7 +447,7 @@ The Chaos
 'mover,': PHOFR/KW-BG
 'plover,': PHRO*FR/KW-BG
 'Dover.': TKOEFR/TP-PL
-'Leeches,': KPA/HRAOEFP/SKWRE/-S/KW-BG
+'Leeches,': KPA/HRAOEFP/ES/KW-BG
 'breeches,': PWRAOEFP/-S/KW-BG
 'wise,': WAOEUS/KW-BG
 'precise,': PRE/SAOEUS/KW-BG
@@ -526,7 +526,7 @@ The Chaos
 'and': SKP
 'hammer.': HAERPL/TP-PL
 'Pussy,': KPA/PUS/KWREU/KW-BG
-'hussy': H*/SKWRU/-S/-S/KWREU
+'hussy': H*/SKWRUS/-S/KWREU
 'and': SKP
 'possess,': PESZ/KW-BG
 'Desert,': KPA/STK*ERT/KW-BG
@@ -715,7 +715,7 @@ The Chaos
 'school,': SKAOL/KW-BG
 'wool,': WAOL/KW-BG
 'boon,': PWAOPB/KW-BG
-'Worcester,': W*P/O*/R*/KR*/EFT/*ER/KW-BG
+'Worcester,': W*P/O*/R*/KR*/SKWRE/STER/KW-BG
 'Boleyn,': *B/HRO*/KWRAOE/*PB/KW-BG
 'to': TO
 'impugn.': EUPL/PAOUPB/TP-PL
@@ -874,7 +874,7 @@ The Chaos
 'booked!': PWAOBGD/SKHRAPL
 'Zeus,': SAO*US/KW-BG
 'Thebes,': THAOEBS/KW-BG
-'Thales,': T*P/H*/SKWRA/*L/-S/KW-BG
+'Thales,': T*P/H*/A*L/ES/KW-BG
 'Aphrodite,': AFR/TKAOEUT/KW-BG
 'Paramour,': KPA/PAR/PHOUR/KW-BG
 'enamoured,': EPB/APL/O*R/A*U/-D/KW-BG
@@ -883,7 +883,7 @@ The Chaos
 'antipodes,': APB/TEUP/TKE/-S/KW-BG
 'Acquiesce,': KPA/A/KWAOES/KW-BG
 'and': SKP
-'obsequies.': O*/PW*/S*/*E/KW*/SKWRU/AO*E/-S/TP-PL
+'obsequies.': O*/PW*/S*/*E/KW*/SKWRU/KWREU/-S/TP-PL
 'Please': KPA/PHRES
 'don't': TKOEPBT
 'monkey': PHOPB/KAE
@@ -1045,7 +1045,7 @@ The Chaos
 'but': PWUT
 'noes,': TPHO/ES/KW-BG
 'canoes,': KA/TPHAO/-S/KW-BG
-'Puisne,': P*P/SKWRU/SKWREU/-S/*PB/SKWRE/KW-BG
+'Puisne,': P*P/SKWRU/EUS/*PB/SKWRE/KW-BG
 'truism,': TRAOU/EUFPL/KW-BG
 'use,': AOUS/KW-BG
 'to': TO
@@ -1059,7 +1059,7 @@ The Chaos
 'say': SAEU
 'actual,': TWAUL/KW-BG
 'but': PWUT
-'victual,': SR*/*EU/KR*/T*/SKWRU/A*L/KW-BG
+'victual,': SR*/*EU/KR*/T*/WAL/KW-BG
 'Seat,': KPA/SAOET/KW-BG
 'sweat,': SWET/KW-BG
 'chaste,': KHAEUFT/KW-BG
@@ -1375,7 +1375,7 @@ The Chaos
 'like': HRAOEUBG
 'rowlock,': R*/O*/W*/HR*/O*/KR*/*BG/KW-BG
 'gunwale,': TKPWUPB/TPHEL/KW-BG
-'Islington,': *EUP/S*/HR*/*EU/TPH*/TKPW*/T*/O*PB/KW-BG
+'Islington,': KPA/S/HREUPBG/TO*PB/KW-BG
 'and': SKP
 'Isle': KPA/AO*EULS
 'of': -F

@@ -53,7 +53,7 @@ In the Uttermost Parts of the Sea
 'had': H
 'endured': EPB/TKAOURD
 'many': PHAEPB
-'hardships;': HARD/SH-P/-S/STPH*FPLT
+'hardships;': HARD/SH-PS/STPH*FPLT
 'till': TEUL
 'at': AT
 'length': HREPBG

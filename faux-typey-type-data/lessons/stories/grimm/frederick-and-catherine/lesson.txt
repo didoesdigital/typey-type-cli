@@ -683,7 +683,7 @@ Frederick and Catherine
 'came': KAEUPL
 'by': PWEU
 'some': SOPL
-'pedlars': P*/*E/TK*/HR*/A*R/-S
+'pedlars': P*/*E/TK*/HR*/A*RS
 'with': W
 'earthenware': *ERT/*EPB/WA*EUR
 'plates': PHRAEUTS
@@ -829,7 +829,7 @@ Frederick and Catherine
 'them': THEPL
 'myself;': PHAO*EUS/STPH*FPLT
 'the': -T
-'pedlars': P*/*E/TK*/HR*/A*R/-S
+'pedlars': P*/*E/TK*/HR*/A*RS
 'went': WEPBT
 'themselves': TH*EPLS
 'and': SKP

@@ -368,7 +368,7 @@ The Wicked Prince
 'churches,': KHUFRPBS/KW-BG
 'on': OPB
 'the': -T
-'altars,': AL/TAR/-S/KW-BG
+'altars,': A*LT/A*RS/KW-BG
 'but': PWUT
 'in': TPH
 'this': TH
@@ -715,7 +715,7 @@ The Wicked Prince
 'and': SKP
 'became': PWAEUPL
 'fire-spitting': TPAOEUR/H-PB/SPEUGT
-'dragons.': TKRAG/O*PB/-S/TP-PL
+'dragons.': TKRAG/O*PBS/TP-PL
 'The': KPA/-T
 'prince': PREUPBS
 'was': WAS

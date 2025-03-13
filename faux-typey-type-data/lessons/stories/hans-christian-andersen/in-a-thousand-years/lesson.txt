@@ -313,7 +313,7 @@ In a Thousand Years
 'Charlemagne': KHARL/PHAEUPB
 'and': SKP
 'Napoleon.': TPHA/POL/KWROPB/TP-PL
-'Moliere': PH*P/HRO*/SKWREU/*ER/SKWRE
+'Moliere': PH*P/HRO*/KWRER/SKWRE
 'is': S
 'named,': TPHAEUPLD/KW-BG
 'the': -T
@@ -625,7 +625,7 @@ In a Thousand Years
 'of': -F
 'Oersted': KPA/*ERS/-D
 'and': SKP
-'Linnaeus,': HR*P/*EUPB/*PB/SKWRAOEU/SKWRU/-S/KW-BG
+'Linnaeus,': HR*P/*EUPB/*PB/SKWRA/KWR*US/KW-BG
 'and': SKP
 'for': TPOR
 'Norway,': TPHOR/WAEU/KW-BG

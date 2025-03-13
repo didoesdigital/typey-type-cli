@@ -701,7 +701,7 @@ The Elfin Hill
 'from': TPR
 'the': -T
 'grave': TKPWRAEUF
-'cellars.': SEL/AR/-S/TP-PL
+'cellars.': KREL/A*RS/TP-PL
 'These': KPA/THEZ
 'were': WR
 'all': AUL
@@ -857,7 +857,7 @@ The Elfin Hill
 'of': -F
 'rock': ROBG
 'and': SKP
-'freestone,': TPRAOE/*ES/O*EPB/KW-BG
+'freestone,': TPRAOE/STO*EPB/KW-BG
 'besides': PW-DZ
 'a': AEU
 'gold': TKPWOELD

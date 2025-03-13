@@ -85,7 +85,7 @@ The Wedding of Mrs Fox
 'fox': TPOBGS
 'was': WAS
 'dead,': TKED/KW-BG
-'suitors': SAOU/TOR/-S
+'suitors': SAOUT/O*RS
 'presented': PREPBTD
 'themselves.': TH*EPLS/TP-PL
 'The': KPA/-T
@@ -507,11 +507,11 @@ The Wedding of Mrs Fox
 'in': TPH
 'her': HER
 'room,': RAOPL/KW-BG
-'Bewailing': KPA/PWE/WAEUL/-G
+'Bewailing': PW*P/*E/W*/SKWRA/SKWREU/HREUPBG
 'her': HER
 'sorrowful': SOR/ROEFL
 'doom,': TKAOPL/KW-BG
-'Bewailing': KPA/PWE/WAEUL/-G
+'Bewailing': PW*P/*E/W*/SKWRA/SKWREU/HREUPBG
 'her': HER
 'trouble': TRUBL
 'so': SO
@@ -671,7 +671,7 @@ The Wedding of Mrs Fox
 'to': TO
 'send': SEPBD
 'the': -T
-'suitors': SAOU/TOR/-S
+'suitors': SAOUT/O*RS
 'away.': WA*EU/TP-PL
 'At': KPA/AT
 'length': HREPBG

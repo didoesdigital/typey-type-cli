@@ -133,7 +133,7 @@ Donkey-Skin
 'coverts': KOEFRT/-S
 'of': -F
 'rich': REUFP
-'caparison;': KAP/A*R/SKWREU/-S/O*PB/STPH*FPLT
+'caparison;': KAP/A*R/SKWREU/SO*PB/STPH*FPLT
 'but': PWUT
 'what': WHA
 'most': PHOFT
@@ -3855,7 +3855,7 @@ Donkey-Skin
 'the': -T
 'drums': TKRUPLS
 'and': SKP
-'fifes': TP*/*EU/TP*/SKWRE/-S
+'fifes': TP*/*EU/TP*/ES
 'and': SKP
 'trumpets': TRUPLTS
 'to': TO
@@ -3894,7 +3894,7 @@ Donkey-Skin
 'duchesses,': TKUFP/ES/-S/KW-BG
 'and': SKP
 'the': -T
-'marquises,': PHAR/KWAOES/-S/KW-BG
+'marquises,': PHA*R/KAOE/ES/KW-BG
 'and': SKP
 'the': -T
 'baronesses;': PWAR/ROPB/-PBS/-S/STPH*FPLT
@@ -4048,7 +4048,7 @@ Donkey-Skin
 'left': HREFT
 'out': OUT
 'the': -T
-'lowliest."': HR*/O*/W*/HR*/SKWREU/EFT/TP-PL/KR-GS
+'lowliest."': HR*/O*/W*/HR*/KWREFT/TP-PL/KR-GS
 'And': AFPBD
 'the': -T
 'servants': SER/SRAPBTS
@@ -4095,7 +4095,7 @@ Donkey-Skin
 'true': TRAOU
 'love': HRUF
 'is': S
-'timorous': HRO*ER/TEUPL/O*R/SKWRO/SKWRU/-S
+'timorous': HRO*ER/TEUPL/SKWRO/ROUS
 'and': SKP
 'has': HAS
 'no': TPHO

@@ -63,7 +63,7 @@ The Eagle and the Arrow
 'of': -F
 'its': EUTS
 'own': OEPB
-'plumes.': PHRAOUPL/-S/TP-PL
+'plumes.': PHR*UPL/ES/TP-PL
 '"Alas!"': KW-GS/KPA*/A/HRAS/SKHRAPL/KR-GS
 'it': T
 'cried,': KRAOEUD/KW-BG

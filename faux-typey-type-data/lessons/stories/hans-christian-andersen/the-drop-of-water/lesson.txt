@@ -187,9 +187,9 @@ The Drop of Water
 'But': KPA/PWUT
 'what': WHA
 'a': AEU
-'kribbling': K*/R*/*EU/PW*/PW*/HR*/-G
+'kribbling': K*/R*/*EU/PW*/PW*/HREUPBG
 'and': SKP
-'krabbling': K*/R*/A*/PW*/PW*/HR*/-G
+'krabbling': K*/R*/A*/PW*/PW*/HREUPBG
 'was': WAS
 'there!': THR/SKHRAPL
 'All': KPA/AUL

@@ -1111,7 +1111,7 @@ The Frog-Prince
 'horses,': HORSZ/KW-BG
 'decked': TKEBG/-D
 'with': W
-'plumes': PHRAOUPL/-S
+'plumes': PHR*UPL/ES
 'of': -F
 'feathers': TP*ET/ERS
 'and': SKP

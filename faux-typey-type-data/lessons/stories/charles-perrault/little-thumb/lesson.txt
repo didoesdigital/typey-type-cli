@@ -1398,7 +1398,7 @@ Little Thumb
 'of': -F
 'them': THEPL
 'the': -T
-'houling': H*/O*/*U/HR*/-G
+'houling': HO*E/SKWRU/HREUPBG
 'of': -F
 'wolves': WOFLS
 'coming': KO*G

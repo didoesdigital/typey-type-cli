@@ -353,7 +353,7 @@ Our Aunt
 'lane': HRAEPB
 'behind': HEUPBD
 'the': -T
-'playhouse,': P*/HR*/A*/KWR*/H*/SKWRO/SKWRU/-S/SKWRE/KW-BG
+'playhouse,': P*/HR*/A*/KWR*/H*/OUS/SKWRE/KW-BG
 'and': SKP
 'move': PHOF
 'into': TPHAO

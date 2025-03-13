@@ -64,7 +64,7 @@ King Grisly-Beard
 'thither': TH*EURT
 'all': AUL
 'her': HER
-'suitors;': SAOU/TOR/-S/STPH*FPLT
+'suitors;': SAOUT/O*RS/STPH*FPLT
 'and': SKP
 'they': THE
 'all': AUL
@@ -86,7 +86,7 @@ King Grisly-Beard
 'and': SKP
 'counts,': KOUPBTS/KW-BG
 'and': SKP
-'barons,': PWAR/ROPB/-S/KW-BG
+'barons,': PWAR/O*PBS/KW-BG
 'and': SKP
 'knights.': TPHAO*EUT/-S/TP-PL
 'Then': KPA/THEPB

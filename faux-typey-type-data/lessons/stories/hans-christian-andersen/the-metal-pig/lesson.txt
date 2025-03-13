@@ -536,7 +536,7 @@ The Metal Pig
 'Rape': KPA/RAEUP
 'of': -F
 'the': -T
-'Sabines,': SAEUB/AOEUPB/-S/KW-BG
+'Sabines,': SAB/*EUPB/ES/KW-BG
 'looked': HRAOBGD
 'like': HRAOEUBG
 'living': HREUFG
@@ -1322,7 +1322,7 @@ The Metal Pig
 'round': ROUPBD
 'his': HEUS
 'brow;': PWROU/STPH*FPLT
-'Alfieri': A*P/HR*/TP*/SKWREU/*ER/SKWREU
+'Alfieri': A*P/HR*/TP*/KWRER/SKWREU
 'and': SKP
 'Machiavelli;': PHABG/SREL/HREU/STPH*FPLT
 'for': TPOR
@@ -3379,7 +3379,7 @@ The Metal Pig
 'while': WHAOEUL
 'his': HEUS
 'wife': WAOEUF
-'lamented,': HRAPLT/-D/KW-BG
+'lamented,': HRAEPL/EPBT/-D/KW-BG
 'and': SKP
 'the': -T
 'boy': PWOEU

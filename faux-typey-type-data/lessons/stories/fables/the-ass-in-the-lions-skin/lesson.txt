@@ -71,7 +71,7 @@ The Ass in the Lion's Skin
 'him': HEUPL
 'a': AEU
 'sound': SOUPBD
-'cudgelling': KR*/*U/TK*/TKPW*/*E/HR*/HR*/-G
+'cudgelling': KR*/*U/TK*/TKPW*/*E/HR*/HREUPBG
 'for': TPOR
 'the': -T
 'fright': TPRAOEUT

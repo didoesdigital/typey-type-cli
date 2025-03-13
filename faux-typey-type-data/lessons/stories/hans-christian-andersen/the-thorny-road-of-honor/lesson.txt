@@ -551,7 +551,7 @@ The Thorny Road of Honor
 'been': PW-PB
 'sent': SEPBT
 'to': TO
-'seek—Firdusi—who': SAOEBG/EPL/TKA*RB/TP*P/SKWREU/R*D/SKWRU/-S/SKWREU/EPL/TKA*RB/WHO
+'seek—Firdusi—who': SAOEBG/EPL/TKA*RB/TP*P/SKWREU/R*D/SKWRUS/SKWREU/EPL/TKA*RB/WHO
 'has': HAS
 'wandered': WAPBD/-D
 'the': -T
@@ -982,7 +982,7 @@ The Thorny Road of Honor
 'front': TPROPBT
 'of': -F
 'the': -T
-'combating': KPWAT/-G
+'combating': KOEPL/AEUT/-G
 'army,': AERPL/KW-BG
 'and': SKP
 'brings': PWREUS
@@ -1028,7 +1028,7 @@ The Thorny Road of Honor
 'intellect,': SPWHREBGT/KW-BG
 'writes': WRAOEUTS
 '"La': KW-GS/KPA*/HRA
-'Pucelle."': P*P/*U/KR*/*E/HR*/*L/TP-PL/KR-GS
+'Pucelle."': P*P/*U/KR*/AO*EL/TP-PL/KR-GS
 'At': KPA/AT
 'the': -T
 'Thing': KPA/THEUPBG

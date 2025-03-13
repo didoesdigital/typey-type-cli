@@ -3277,7 +3277,7 @@ Little Tiny or Thumbelina
 'His': KPA/HEUS
 'kitchen': K-FP
 'and': SKP
-'cellars': SEL/AR/-S
+'cellars': KREL/A*RS
 'are': R
 'quite': KWAOEUT
 'full.': TPUL/TP-PL

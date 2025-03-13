@@ -477,7 +477,7 @@ A Society
 'was': WAS
 'written': WREUPB
 'was': WAS
-'execrable.': *E/KP*/*E/KR*/R*/A*/PW*/*L/TP-PL
+'execrable.': *E/KP*/*E/KR*/R*/-BL/TP-PL
 '"Poetry!': KW-GS/KPA*/POEURT/SKHRAPL
 'Poetry!"': KPA/POEURT/SKHRAPL/KR-GS
 'we': WE
@@ -2121,7 +2121,7 @@ A Society
 'Hobkin': H*P/O*/PW*/K*EUPB
 'was': WAS
 'a': AEU
-'gynæcologist.': TKPW*/KWR*/TPH*/xxx/KR*/O*/HR*/O*/TKPW*/EUFT/TP-PL
+'gynæcologist.': TKPW*/KWR*/TPH*/xxx/KR*/OLG/EUFT/TP-PL
 'A': KPA/AEU
 'scholar': SKHRAR
 'is': S
@@ -3489,7 +3489,7 @@ A Society
 'the': -T
 'centre.': STR/A*U/TP-PL
 'Is': KPA/S
-'Kensington': K*P/*E/TPH*/S*/*EU/TPH*/TKPW*/T*/O*PB
+'Kensington': KEPB/-S/-G/TO*PB
 'a': AEU
 'nice': TPHAOEUS
 'place': PHRAEUS

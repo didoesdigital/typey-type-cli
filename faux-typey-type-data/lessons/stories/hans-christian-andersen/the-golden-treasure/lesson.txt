@@ -2033,7 +2033,7 @@ The Golden Treasure
 'even': AOEPB
 'to': TO
 'the': -T
-'burgomaster's': PW*/*U/R*/TKPW*/O*/PH*/A*/S*/T*/*ER/AES
+'burgomaster's': PW*/*U/R*/TKPW*/OE/PHA/STER/AES
 'where': W-R
 'he': HE
 'gives': TKPWEUFS
@@ -2109,7 +2109,7 @@ The Golden Treasure
 'be': -B
 'famous!"': TPAEUPLS/SKHRAPL/KR-GS
 'And': AFPBD
-'burgomaster's': PW*/*U/R*/TKPW*/O*/PH*/A*/S*/T*/*ER/AES
+'burgomaster's': PW*/*U/R*/TKPW*/OE/PHA/STER/AES
 'Charlotte': KHARL/OT
 'sat': SAT
 'at': AT
@@ -2329,7 +2329,7 @@ The Golden Treasure
 'piece': PAOES
 'of': -F
 'news.': TPHUS/TP-PL
-'Burgomaster's': PW*P/*U/R*/TKPW*/O*/PH*/A*/S*/T*/*ER/AES
+'Burgomaster's': PW*P/*U/R*/TKPW*/OE/PHA/STER/AES
 'Charlotte': KHARL/OT
 'has': HAS
 'engaged': EPB/TKPWAEUPBLGD
@@ -2376,7 +2376,7 @@ The Golden Treasure
 'it': T
 'from': TPR
 'the': -T
-'burgomaster's': PW*/*U/R*/TKPW*/O*/PH*/A*/S*/T*/*ER/AES
+'burgomaster's': PW*/*U/R*/TKPW*/OE/PHA/STER/AES
 'own': OEPB
 'mouth.': PHO*UT/TP-PL
 'And': AFPBD
@@ -2674,7 +2674,7 @@ The Golden Treasure
 'kings,"': KEUPBGS/KW-BG/KR-GS
 'said': SED
 'the': -T
-'burgomaster's': PW*/*U/R*/TKPW*/O*/PH*/A*/S*/T*/*ER/AES
+'burgomaster's': PW*/*U/R*/TKPW*/OE/PHA/STER/AES
 'wife.': WAOEUF/TP-PL
 '"At': KW-GS/KPA*/AT
 'that': THA
