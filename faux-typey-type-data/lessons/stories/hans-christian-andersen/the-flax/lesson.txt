@@ -1223,7 +1223,7 @@ The Flax
 'stood': STAOD
 'in': TPH
 'the': -T
-'washhouse.': W*/A*/S*/H*/H*/SKWRO/SKWRU/-S/SKWRE/TP-PL
+'washhouse.': WARB/TK-LS/HOUS/TP-PL
 '"After': KW-GS/KPA*/AF
 'work,': WORBG/KW-BG
 'it': T
