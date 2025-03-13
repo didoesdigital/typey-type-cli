@@ -1064,7 +1064,7 @@ The Last Dream of the Old Oak
 'striking': STRAOEUG
 'them.': THEPL/TP-PL
 'The': KPA/-T
-'watchfires': W*/A*/T*/KR*/H*/TP*/*EU/R*/SKWRE/-S
+'watchfires': WAFP/TK-LS/TPAOEURS
 'again': TKPWEPB
 'blazed,': PWHRAEUZ/-D/KW-BG
 'and': SKP
