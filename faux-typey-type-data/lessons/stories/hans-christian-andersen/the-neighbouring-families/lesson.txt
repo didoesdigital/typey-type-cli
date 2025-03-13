@@ -2114,7 +2114,7 @@ The Neighbouring Families
 'a': AEU
 'few': TPAOU
 'black': PWHRABG
-'charred': KHAR/R-D
+'charred': KR*/H*/A*/R*/R*/-D
 'beams': PWAOEPLS
 'leaning': HRAOEPBG
 'against': TKPWEPBS
@@ -2203,7 +2203,7 @@ The Neighbouring Families
 'smoking': SPHOEG
 'house,': HOUS/KW-BG
 'the': -T
-'charred': KHAR/R-D
+'charred': KR*/H*/A*/R*/R*/-D
 'beams': PWAOEPLS
 'and': SKP
 'the': -T
@@ -2744,7 +2744,7 @@ The Neighbouring Families
 'water,': WAURBGS
 'and': SKP
 'the': -T
-'charred': KHAR/R-D
+'charred': KR*/H*/A*/R*/R*/-D
 'beams': PWAOEPLS
 'leaned': HRAOEPBD
 'against': TKPWEPBS
