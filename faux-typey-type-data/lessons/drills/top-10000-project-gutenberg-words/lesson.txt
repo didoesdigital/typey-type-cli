@@ -8453,7 +8453,7 @@ Top 10000 Project Gutenberg words
 'insure': STPHUR
 'laboured': HRAEU/PWOUR/-D
 'exaggeration': KPAPBLG/RAEUGS
-'mi': PH*/*EU
+'mi': PH*/SKWREU
 'shepherds': SHEP/ERDZ
 'lilies': HREUL/KWREU/-S
 'ballad': PWAL/HRAD

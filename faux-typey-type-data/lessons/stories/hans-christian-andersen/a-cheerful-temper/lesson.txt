@@ -1199,7 +1199,7 @@ A Cheerful Temper
 'when': WHEPB
 'she': SHE
 'sang': SAPBG
-'"Mi': KW-GS/PH*P/*EU
+'"Mi': KW-GS/PH*P/SKWREU
 'manca': PH*/A*/TPH*/KR*/SKWRA
 'la': HRA
 'voce,"[1]': SR*/O*/KR*/SKWRE/KW-BG/KR-GS/PWR-BGT/#S/PWR*BGT
