@@ -5247,7 +5247,7 @@ Top 10000 Project Gutenberg words
 'reigned': RAEPB/-D
 'coldly': KOELD/HREU
 'candles': KAPBD/-LS
-'km': K*/PH*
+'km': K-PL
 'sixth': S*BGS
 'blazing': PWHRAEUZ/-G
 'youngest': KWRUPBG/EFT
