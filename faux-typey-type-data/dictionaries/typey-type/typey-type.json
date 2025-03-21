@@ -39394,7 +39394,7 @@
   "PWOZ/KWREU": "Bozzy",
   "PWOZ/HERZ": "Bosnia-Herzegovina",
   "PW*": "{>}{&b}",
-  "PW*/R*": "br",
+  "PW*/R*": "{&br}",
   "PW*/R*/*EU/TKPW*/A*/TPH*/TK*/S*": "brigands",
   "PW*/A*/TPH*/TK*/PW*/O*/KP*": "bandbox",
   "PW*/A*/R*/O*/*U/KR*/H*/*E": "barouche",
