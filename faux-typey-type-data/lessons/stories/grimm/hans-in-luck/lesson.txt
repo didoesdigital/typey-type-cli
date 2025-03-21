@@ -1416,7 +1416,7 @@ Hans in Luck
 'lived': HREUFD
 'so': SO
 'well!'': WEL/SKHRAPL/AE
-''You're': A*E/KPA*/U/AE/R*/*E
+''You're': A*E/KPA*/U/AE/RE
 'right,'': RAOEUT/KW-BG/AE
 'said': SED
 'Hans,': HAPBS/KW-BG

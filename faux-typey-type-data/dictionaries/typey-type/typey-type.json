@@ -58949,7 +58949,7 @@
   "R*/A*/T*/T*/KWR*": "ratty",
   "R*/A*/P*/A*/KR*/*EU/T*/KWR*": "rapacity",
   "R*/A*/*EU/PH*/*E/TPH*/T*": "raiment",
-  "R*/*E": "re",
+  "R*/*E": "{&re}",
   "R*/*E/TKPW*/*EU/PH*/*E/TPH*/T*/A*/HR*/S*": "regimentals",
   "R*/*E/TPH*/KR*/O*/TPH*/T*/R*/*E": "rencontre",
   "R*/*E/T*/R*/O*/S*/P*/*E/KR*/T*/*EU/O*/TPH*/S*": "retrospections",
