@@ -380,6 +380,7 @@
     ["A/TKRAOE/TPHROE/", "adreno"],
     ["A/TKRAOEPB/", "adreno"],
     ["A/TKRO*EUPB/", "adreno"],
+    ["APBG/KWRO/", "angio"],
     ["*EBGS/TRA/", "extra"],
     ["*EFR/", "every"],
     ["*ERBGS/", "extra"],
