@@ -276,6 +276,7 @@
     ["PHEG/HRO/", "megalo"],
     ["PHEL/TPHO/", "melano"],
     ["PHO*FR/KWRO/", "morpho"],
+    ["PHULT/", "multi-"],
     ["PHRO*EUPB/", "immuno"],
     ["PROBGT/SKWRO/", "procto"],
     ["PROET/KWRO/", "proteo"],
