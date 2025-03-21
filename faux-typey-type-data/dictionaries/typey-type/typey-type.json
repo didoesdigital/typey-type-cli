@@ -48692,7 +48692,7 @@
   "PODZ": "pods",
   "P*": "{>}{&p}",
   "P*/S*/*E/*U/TK*": "pseud",
-  "P*/TKPW*": "pg",
+  "P*/TKPW*": "{&pg}",
   "P*/PW*/SKWR*": "peanut butter and jelly",
   "P*/PH*": "pm",
   "P*/P*/TP-PL": "pp.",
