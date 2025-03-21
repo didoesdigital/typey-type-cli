@@ -798,7 +798,7 @@ The Portuguese Duck
 'There': KPA/THR
 'are': R
 'two': TWO
-'Cochin': KPA/KR*/O*/*FP/*EUPB
+'Cochin': KR*P/SKWRO/*FP/*EUPB
 'Chinese': KHAOEUPBZ
 'amongst': PHOPBGS
 'them;': THEPL/STPH*FPLT

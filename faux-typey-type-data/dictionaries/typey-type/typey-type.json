@@ -32415,7 +32415,7 @@
   "KR*/H*/A*/PH*/PW*/*E/R*/PH*/A*/*EU/TK*": "chambermaid",
   "KR*/H*/A*/PH*/O*/*EU/S*": "chamois",
   "KR*/A*/S*/S*/*EU/TPH*/O*": "cassino",
-  "KR*/O*": "co",
+  "KR*/O*": "{&co}",
   "KR*/O*/TPH*/SR*/*E/R*/S*/*EU/PW*/HR*/*E": "conversible",
   "KR*/O*/TPH*/S*/O*/HR*/A*/T*/O*/R*/KWR*": "consolatory",
   "KR*/O*/TPH*/TPH*/*E/KP*/*EU/O*/TPH*": "connexion",

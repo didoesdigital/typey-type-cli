@@ -7487,7 +7487,7 @@ resource
 IRS
 confine
 sewing
-co
+{&co}
 congratulate
 Walt
 reconcile

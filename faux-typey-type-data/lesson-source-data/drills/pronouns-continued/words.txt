@@ -15,7 +15,7 @@ someone
 something
 something's
 certain
-co
+{&co}
 company
 each
 each other
