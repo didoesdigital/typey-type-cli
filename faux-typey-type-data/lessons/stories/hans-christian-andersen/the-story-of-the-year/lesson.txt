@@ -121,7 +121,7 @@ The Story of the Year
 'last': HRAFT
 'the': -T
 'storm': STORPL
-'abated,': A*/PW*/A*T/-D/KW-BG
+'abated,': A/PWAEUT/-D/KW-BG
 'and': SKP
 'a': AEU
 'narrow': TPHO*EUR

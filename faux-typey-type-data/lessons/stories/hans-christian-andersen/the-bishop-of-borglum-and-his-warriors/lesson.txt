@@ -1666,7 +1666,7 @@ The Bishop of Borglum and His Warriors
 'The': KPA/-T
 'wind': WEUPBD
 'has': HAS
-'abated.': A*/PW*/A*T/-D/TP-PL
+'abated.': A/PWAEUT/-D/TP-PL
 'The': KPA/-T
 'church': KHUFRPB
 'is': S

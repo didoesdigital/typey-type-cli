@@ -63180,7 +63180,7 @@
   "A*/TK*/SR*": "adv",
   "A*/TP*/T*": "aft",
   "A*/KR*/TK-LS/KURS/-D": "accursed",
-  "A*/PW*": "ab",
+  "A*/PW*": "{&ab}",
   "A*/PW*/O*/PH*/*EU/TPH*/A*/T*/*E": "abominate",
   "A*/PW*/O*/PH*/*EU/TPH*/A*/PW*/HR*/KWR*": "abominably",
   "A*/PW*BG": "abc",
