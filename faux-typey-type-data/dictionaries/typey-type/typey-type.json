@@ -67686,7 +67686,7 @@
   "*E/KP*/T*/O*/R*/T*": "extort",
   "*E/KP*/T*/O*/R*/T*/*E/TK*": "extorted",
   "*E/KR*/HR*/A*/T*": "eclat",
-  "*E/HR*": "el",
+  "*E/HR*": "{&el}",
   "*E/H-PB/PHAEUL": "e-mail",
   "*E/R*": "{&er}",
   "*E/AE/*ER": "e'er",

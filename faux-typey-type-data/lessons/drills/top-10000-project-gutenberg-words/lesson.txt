@@ -4768,7 +4768,7 @@ Top 10000 Project Gutenberg words
 'agitated': APBLG/TAEUTD
 'marching': PHAFRPB/-G
 'catching': KAFPG
-'el': *E/HR*
+'el': HRO*ER/EL
 'grasped': TKPWRAS/-PD
 'arrow': RO*EUR
 'tend': TEPBD

@@ -1175,7 +1175,7 @@ The String Quartet
 'book': PWAOBG
 'in': TPH
 'the': -T
-'oriel': AUR/KWR*EU/*E/HR*
+'oriel': AUR/*EU/HRO*ER/EL
 'window,': WOEUPBD/KW-BG
 'came': KAEUPL
 'out': OUT
