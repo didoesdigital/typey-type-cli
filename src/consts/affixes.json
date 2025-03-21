@@ -384,6 +384,7 @@
     ["*EBGS/TRA/", "extra"],
     ["*EFR/", "every"],
     ["*ERBGS/", "extra"],
+    ["A*D/TPHO/", "adeno"],
     ["A*EUPBT/H-PB/", "anti-"],
     ["A*F/", "after"],
     ["A*LG/*L/", "alkyl"],
