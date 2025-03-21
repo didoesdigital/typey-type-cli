@@ -20810,7 +20810,7 @@
   "TPH*/O*/*U/S*": "nous",
   "TPH*/*E/S*/S*": "ness",
   "TPH*/*E/AE/*ER": "ne'er",
-  "TPH*/*EU": "ni",
+  "TPH*/*EU": "{&ni}",
   "TPH*/*EU/TKPW*/H*/T*/KR*/A*/P*": "nightcap",
   "TPH*/*PBT": "nth",
   "TPH*E/EURB": "Netherlandish",
