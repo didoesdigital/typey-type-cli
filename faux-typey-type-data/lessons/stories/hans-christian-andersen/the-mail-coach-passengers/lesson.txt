@@ -48,8 +48,8 @@ The Mail-Coach Passengers
 'was': WAS
 'striking': STRAOEUG
 'twelve.': TWEFL/TP-PL
-'"Tan-ta-ra-ra,': KW-GS/KPA*/TAPB/H-PB/TA/A*U/H-PB/HRO*ER/RA/H-PB/HRO*ER/RA/KW-BG
-'tan-ta-ra-ra,"': TAPB/H-PB/TA/A*U/H-PB/HRO*ER/RA/H-PB/HRO*ER/RA/KW-BG/KR-GS
+'"Tan-ta-ra-ra,': KW-GS/KPA*/TAPB/H-PB/TAEU/H-PB/HRO*ER/RA/H-PB/HRO*ER/RA/KW-BG
+'tan-ta-ra-ra,"': TAPB/H-PB/TAEU/H-PB/HRO*ER/RA/H-PB/HRO*ER/RA/KW-BG/KR-GS
 'sounded': SOUPBD/-D
 'the': -T
 'horn,': HORPB/KW-BG

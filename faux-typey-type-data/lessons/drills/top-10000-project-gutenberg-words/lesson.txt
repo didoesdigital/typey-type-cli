@@ -7330,7 +7330,7 @@ Top 10000 Project Gutenberg words
 'persistent': PERPBT
 'Wisconsin': W*EU
 'ho': HO*E
-'ta': TA/A*U
+'ta': TAEU
 'fruitful': TPRAOUT/-FL
 'scoundrel': SKOUPBD/REL
 'coasts': KOEFTS
