@@ -10663,7 +10663,7 @@
   "SOD/-PB": "sodden",
   "SODZ": "sods",
   "S*": "{>}{&s}",
-  "S*/TKPW*": "sg",
+  "S*/TKPW*": "{&sg}",
   "S*/KW*/TP-PL": "sq.",
   "S*/KR*/R*/O*/PW*/PW*/HR*/*E": "scrobble",
   "S*/KR*/*U/T*/KR*/H*/*E/O*/TPH*": "scutcheon",
