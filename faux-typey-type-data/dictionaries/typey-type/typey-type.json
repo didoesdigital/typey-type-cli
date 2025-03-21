@@ -48694,7 +48694,7 @@
   "P*/S*/*E/*U/TK*": "pseud",
   "P*/TKPW*": "{&pg}",
   "P*/PW*/SKWR*": "peanut butter and jelly",
-  "P*/PH*": "pm",
+  "P*/PH*": "{&pm}",
   "P*/P*/TP-PL": "pp.",
   "P*/HR*/*EU/A*/TPH*/KR*/KWR*": "pliancy",
   "P*/H*/A*/*E/T*/O*/TPH*": "phaeton",
