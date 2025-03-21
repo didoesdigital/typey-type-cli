@@ -7120,7 +7120,7 @@ Top 10000 Project Gutenberg words
 'colonial': KHROEPBL
 'penetrating': PEPB/TRAEUGT
 'refinement': RE/TPAOEUPLT
-'te': T*/*E
+'te': T*/SKWRE
 'yacht': KWROT
 'intelligible': EUPB/TEL/EUBL
 'stray': STRAEU
