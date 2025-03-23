@@ -305,7 +305,7 @@ describe("choose outline for phrase", () => {
           strokeLookupAttempts,
           precedingChar
         )
-      ).toEqual(["A*UT/SKROL", 1]);
+      ).toEqual(["O*EUT/SKROL", 1]);
     });
 
     it("with long", () => {
