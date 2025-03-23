@@ -210,7 +210,8 @@ describe("create stroke hint for phrase", () => {
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("SKHRAPL/TP*/O*/O*");
       expect(
         createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
-      ).toEqual("SKHRAPL/TP*/KWRO/KWRO");
+        // ).toEqual("SKHRAPL/TP*/KWRO/KWRO");
+      ).toEqual("SKHRAPL/TP*/SKWRAO");
     });
 
     it("with and unknown word and trailing exclamation mark", () => {
@@ -219,7 +220,8 @@ describe("create stroke hint for phrase", () => {
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("TP*/O*/O*/SKHRAPL");
       expect(
         createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
-      ).toEqual("TP*/KWRO/KWRO/SKHRAPL");
+        // ).toEqual("TP*/KWRO/KWRO/SKHRAPL");
+      ).toEqual("TP*/SKWRAO/SKHRAPL");
     });
 
     it("with preceding double quotes and capital letter", () => {
@@ -287,7 +289,8 @@ describe("create stroke hint for phrase", () => {
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("KWAS/KWREU/KR*/O*/TPH*/TP*/*U/STKPW*/STKPW*/HR*/*E/TK*");
       expect(
         createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
-      ).toEqual("KWAS/KWREU/KAUPB/TP*/*U/STKPW*/STKPW*/HR*/-D");
+        // ).toEqual("KWAS/KWREU/KAUPB/TP*/*U/STKPW*/STKPW*/HR*/-D");
+      ).toEqual("KWAS/KWREU/KAUPB/TP*/*U/STKPW*/STKPW*/*LD/A*U");
     });
 
     it("with prefix that is not a word that has trailing hyphen and a word", () => {
@@ -302,7 +305,8 @@ describe("create stroke hint for phrase", () => {
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("TKPWHRAOEU/KR*/O*/TPH*/TP*/*U/STKPW*/STKPW*/HR*/*E/TK*");
       expect(
         createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
-      ).toEqual("TKPWHRAOEU/KAUPB/TP*/*U/STKPW*/STKPW*/HR*/-D");
+        // ).toEqual("TKPWHRAOEU/KAUPB/TP*/*U/STKPW*/STKPW*/HR*/-D");
+      ).toEqual("TKPWHRAOEU/KAUPB/TP*/*U/STKPW*/STKPW*/*LD/A*U");
     });
 
     it("with hyphenated compound word and suffix", () => {
@@ -748,7 +752,8 @@ describe("create stroke hint for phrase", () => {
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("1-Z -9Z 1/THOUZ TPHOUZ 1-Z/HUPB/HUPB #SO/W-B/THUZ");
       expect(
         createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
-      ).toEqual("1-Z/-9Z/1/THOUZ/TPHOUZ/1-Z/HUPB/HUPB/#SO/W-B/THUZ");
+        // ).toEqual("1-Z/-9Z/1/THOUZ/TPHOUZ/1-Z/HUPB/HUPB/#SO/W-B/THUZ");
+      ).toEqual("1-Z/-9Z/1/THOUZ/TPHOUZ/1/0/THO*EUPB/#SO/W-B/THUZ");
     });
 
     it("returns string with double numbers", () => {
@@ -814,7 +819,8 @@ describe("create stroke hint for phrase", () => {
       let wordOrPhraseMaterial = "kettle:10";
       expect(
         createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
-      ).toEqual("KET/*L/10*BG");
+        // ).toEqual("KET/*L/10*BG");
+      ).toEqual("KET/*L/10BG");
     });
 
     xit("showing good stroke hint for gibberish word and suffix with one hyphen", () => {
@@ -1564,7 +1570,8 @@ describe("create stroke hint for phrase", () => {
       );
       // expect(result).toEqual("A*/TK*/STKPW*/*E");
       // expect(result).toEqual("A/TK*/STKPW*/*E");
-      expect(result).toEqual("A*/TK*/STKPW*/SKWR*E");
+      // expect(result).toEqual("A*/TK*/STKPW*/SKWR*E");
+      expect(result).toEqual("A*ED/STKPW*/SKWRE");
     });
   });
 
@@ -1583,7 +1590,8 @@ describe("create stroke hint for phrase", () => {
         )
       );
       // expect(result).toEqual("*URP/A*RB/*T/*EU/O*/P*/*EU/A*/TPH*");
-      expect(result).toEqual("*URP/A*RB/*T/SKWREU/KWRO/*P/SKWREU/KWRA/*PB");
+      // expect(result).toEqual("*URP/A*RB/*T/SKWREU/KWRO/*P/SKWREU/KWRA/*PB");
+      expect(result).toEqual("*URP/A*RB/*T/KWRO*E/*P/KWRAPB");
     });
   });
 
@@ -1607,7 +1615,8 @@ describe("create stroke hint for phrase", () => {
           {}
         )
       );
-      expect(result).toEqual("PH-BG/KEPB/*PB/KWRA");
+      // expect(result).toEqual("PH-BG/KEPB/*PB/KWRA");
+      expect(result).toEqual("PH-BG/KEPB/*PB/SKWRA");
     });
   });
 
@@ -2159,7 +2168,8 @@ describe("create stroke hint for phrase", () => {
         AffixList.getSharedInstance()
       );
       // expect(result).toEqual("SEF/TPH*/O*/T*/A*/R*/*E/A*/HR*/W*/O*/R*/TK*");
-      expect(result).toEqual("SEF/TPH*/O*/T*/A*/R*/*E/A*/HR*/W*/KWRO/R*D");
+      // expect(result).toEqual("SEF/TPH*/O*/T*/A*/R*/*E/A*/HR*/W*/KWRO/R*D");
+      expect(result).toEqual("SEF/TPH*/O*/T*/A*R/SKWRE/A*L/WO*RD");
     });
 
     it('returns strokes, stroke, and number of attempts for “"Lady-bird,”', () => {
