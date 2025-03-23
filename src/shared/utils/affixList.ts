@@ -1,3 +1,7 @@
+import splitIntoStrokesDictsAndNamespaces from "./transformingDictionaries/splitIntoStrokesDictsAndNamespaces";
+import misstrokesJSON from "../json/misstrokes.json";
+import rankAffixes from "./rankAffixes";
+
 import type {
   LookupDictWithNamespacedDicts,
   AffixObject,
@@ -7,9 +11,22 @@ import type {
   SuffixEntry,
   SuffixOutlineWithLeadingSlash,
   SuffixTextWithNoTPRBGTS,
+  StenoDictionary,
 } from "../types";
 
 let SHARED_INSTANCE: AffixObject = { suffixes: [], prefixes: [] };
+
+const prefixRegex = /^\{([A-Za-z0-9.=<>\\:'"#-])+\^\}$/;
+const suffixRegex = /^\{\^([A-Za-z0-9.=<>\\:'"#-])+\}$/;
+
+const isAffix = (translation: string) => {
+  return translation.match(suffixRegex) || translation.match(prefixRegex);
+};
+
+const misstrokes = misstrokesJSON as StenoDictionary;
+const affixMisstrokes = Object.fromEntries(
+  Object.entries(misstrokes).filter((dictEntry) => isAffix(dictEntry[1]))
+);
 
 export class AffixList {
   suffixes: SuffixEntry[];
@@ -26,11 +43,14 @@ export class AffixList {
   constructor(dict: LookupDictWithNamespacedDicts) {
     const suffixes = [];
     const prefixes = [];
-    const prefixRegex = /^\{([A-Za-z0-9.=<>\\:'"#-])+\^\}$/;
-    const suffixRegex = /^\{\^([A-Za-z0-9.=<>\\:'"#-])+\}$/;
     for (const [phrase, outlinesAndSourceDicts] of dict) {
       if (phrase.match(suffixRegex)) {
-        const suffixOutlineWithLeadingSlash: SuffixOutlineWithLeadingSlash = `/${outlinesAndSourceDicts[0][0]}`;
+        const bestSuffixOutline = rankAffixes(
+          splitIntoStrokesDictsAndNamespaces(outlinesAndSourceDicts),
+          affixMisstrokes,
+          phrase
+        )[0][0];
+        const suffixOutlineWithLeadingSlash: SuffixOutlineWithLeadingSlash = `/${bestSuffixOutline}`;
         const suffixTextWithNoTPRBGTS: SuffixTextWithNoTPRBGTS = phrase
           .replace("{^", "")
           .replace("}", "");
@@ -42,7 +62,12 @@ export class AffixList {
       }
 
       if (phrase.match(prefixRegex)) {
-        const prefixOutlineWithSlash: PrefixOutlineWithSlash = `${outlinesAndSourceDicts[0][0]}/`;
+        const bestPrefixOutline = rankAffixes(
+          splitIntoStrokesDictsAndNamespaces(outlinesAndSourceDicts),
+          affixMisstrokes,
+          phrase
+        )[0][0];
+        const prefixOutlineWithSlash: PrefixOutlineWithSlash = `${bestPrefixOutline}/`;
         const prefixTextWithNoTPRBGTS: PrefixTextWithNoTPRBGTS = phrase
           .replace("{", "")
           .replace("^}", "");
@@ -53,6 +78,10 @@ export class AffixList {
         prefixes.push(prefixEntry);
       }
     }
+
+    // Sort by translation length so that longer affixes are selected first
+    suffixes.sort((a, b) => b[1].length - a[1].length);
+    prefixes.sort((a, b) => b[1].length - a[1].length);
 
     this.suffixes = suffixes;
     this.prefixes = prefixes;
