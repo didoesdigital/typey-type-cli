@@ -62787,7 +62787,7 @@
   "AOEBG/TKOR/KWRAPB": "Ecuadorian",
   "AOEBG/TPHOBGS": "equinox",
   "AOEBG/TPHEUPL/TEU": "equanimity",
-  "AOEBG/WEU/HRAT/RAL": "equilateral-",
+  "AOEBG/WEU/HRAT/RAL": "{equilateral-^}",
   "AOEBG/HRAT/RAL": "equilateral",
   "AOEBG/HROPBLG/EUBG": "ecologic",
   "AOEBG/HREURB/KWRA": "equilibria",
