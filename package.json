@@ -54,5 +54,5 @@
     "stenography"
   ],
   "types": "build/index.d.ts",
-  "packageManager": "yarn@4.4.1"
+  "packageManager": "yarn@4.7.0"
 }
