@@ -10881,7 +10881,7 @@
   "S*RPBG": "Surgeon General",
   "S*RPBGS": "Surgeons General",
   "S*P": "{&S}",
-  "S*P/TK*P": "SD",
+  "S*P/TK*P": "{&SD}",
   "S*P/TPH*": "{&Sn}",
   "S*P/TPH*P/KR*P": "SNc",
   "S*P/TPH*P/R*P": "SNr",
