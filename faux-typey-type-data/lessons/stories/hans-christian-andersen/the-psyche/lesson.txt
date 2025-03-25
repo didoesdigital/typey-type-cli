@@ -1896,7 +1896,7 @@ The Psyche
 'countenance': KOUPBT/TPHAPBS
 'with': W
 'the': -T
-'snaky': HRO*ER/S*P/TPH*/SKWRA/*BG/KWREU
+'snaky': S*/*PB/SKWRA/*BG/KWREU
 'locks.': HROBGZ/TP-PL
 'Like': KPA/HRAOEUBG
 'a': AEU

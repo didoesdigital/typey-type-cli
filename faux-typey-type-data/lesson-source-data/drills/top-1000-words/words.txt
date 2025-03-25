@@ -420,7 +420,7 @@ French
 live
 lady
 subject
-Sn
+{&Sn}
 answer
 sea
 fear

@@ -472,8 +472,8 @@ In the Nursery
 'a': AEU
 'colored': KHRORD
 'meerschaum.': PHAOER/SHAUPL/TP-PL
-'"'Snik,': KW-GS/AE/S*P/TPH*/SKWREU/*BG/KW-BG
-'snak,': HRO*ER/S*P/TPH*/SKWRA/*BG/KW-BG
+'"'Snik,': KW-GS/AE/S*P/TPHAO*E/*BG/KW-BG
+'snak,': S*/*PB/SKWRA/*BG/KW-BG
 'snurre,': S*/TPH*/*U/R*/R*/SKWRE/KW-BG
 'bassellurre!': PW*/A*/S*/S*/*E/HR*/HR*/*U/R*/R*/SKWRE/SKHRAPL
 'I'm': AOEUPL
@@ -521,9 +521,9 @@ In the Nursery
 'into': TPHAO
 'the': -T
 'bargain.': PWAR/TKPWAEUPB/TP-PL
-'Snikke,': S*P/TPH*/SKWREU/*BG/*BG/SKWRE/KW-BG
-'snakke,': HRO*ER/S*P/TPH*/SKWRA/*BG/*BG/SKWRE/KW-BG
-'snak!': HRO*ER/S*P/TPH*/SKWRA/*BG/SKHRAPL
+'Snikke,': S*P/TPHAO*E/*BG/*BG/SKWRE/KW-BG
+'snakke,': S*/*PB/SKWRA/*BG/*BG/SKWRE/KW-BG
+'snak!': S*/*PB/SKWRA/*BG/SKHRAPL
 'He': KPA/HE
 'shall': SHAL
 'have': SR
