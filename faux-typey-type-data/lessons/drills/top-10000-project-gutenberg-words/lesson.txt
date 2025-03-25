@@ -5270,7 +5270,7 @@ Top 10000 Project Gutenberg words
 'morals': PHORLS
 'damned': TKA*PLD
 'vexed': SREBGS/-D
-'2d': 2/TK*
+'2d': #T/TK*
 'pouring': PORG
 'bullet': PW*ULT
 'excessive': KPES/S*EUF
