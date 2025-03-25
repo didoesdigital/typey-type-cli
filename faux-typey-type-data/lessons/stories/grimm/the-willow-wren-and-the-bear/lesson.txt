@@ -604,7 +604,7 @@ The Willow-Wren and the Bear
 'down': TKOUPB
 'to': TO
 'the': -T
-'minutest': PH*/*EU/TPH*/*U/T*/*E/S*/T*
+'minutest': PHEUPB/*FT
 'detail,': TKE/TAEUL/KW-BG
 'to': TO
 'the': -T

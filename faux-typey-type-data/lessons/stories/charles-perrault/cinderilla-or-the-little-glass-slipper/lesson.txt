@@ -1909,7 +1909,7 @@ Cinderilla or the Little Glass Slipper
 'she': SHE
 'asked': SK-D
 'for': TPOR
-'jestingly.': SKWR*/*E/S*/T*/*EU/TPH*/TKPW*/HR*/KWR*/TP-PL
+'jestingly.': SKWREFT/-G/HREU/TP-PL
 'The': KPA/-T
 'next': TPHEGT
 'day': TKAEU
