@@ -66,7 +66,6 @@ NOT_MISSTROKE_DICTS := \
   $(DIDOESDIGITAL_DICTIONARIES_DIR)/punctuation-di.json \
   $(DIDOESDIGITAL_DICTIONARIES_DIR)/punctuation-powerups.json \
   $(DIDOESDIGITAL_DICTIONARIES_DIR)/punctuation-unspaced.json \
-  $(DIDOESDIGITAL_DICTIONARIES_DIR)/top-1000-words.json \
   $(DIDOESDIGITAL_DICTIONARIES_DIR)/top-10000-project-gutenberg-words.json
 
 MODIFIED_EMOJI_STRATEGY := vendor/emoji_strategy_reduced_to_c8900a0_chars.json
