@@ -7,5 +7,9 @@
   "wordList": "words.txt",
   "vocabulary": [
     "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json"
-  ]
+  ],
+  "presentationOptions": {
+    "replaceCapitalisationFormatting": true,
+    "replaceGlueCurlies": true
+  }
 }
