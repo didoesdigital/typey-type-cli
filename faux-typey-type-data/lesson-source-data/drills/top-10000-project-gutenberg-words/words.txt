@@ -4373,7 +4373,7 @@ spoil
 liable
 swords
 hearty
-BC
+{&BC}
 Abraham
 thoughtful
 traveller
