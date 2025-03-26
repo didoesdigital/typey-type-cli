@@ -6372,7 +6372,7 @@ Top 10000 Project Gutenberg words
 'chapters': KHAPTS
 'worthless': WO*RT/-L
 'aristocratic': A/REUFT/KRAT/EUBG
-'Nan': TPH*P/A*/TPH*
+'Nan': KPA/TPHAPB
 'especial': ES/PERBL
 'hon': HOPB
 'attentive': A/TEPBT/EUF
