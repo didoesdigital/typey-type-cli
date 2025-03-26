@@ -10,7 +10,7 @@ The Metal Pig
 'from': TPR
 'the': -T
 'Piazza': PAOE/AZ/SA
-'del': TK*/*E/HR*
+'del': TKE/HR*
 'Granduca,': TKPW*P/R*/A*/TPH*/TK*/*U/KR*/SKWRA/KW-BG
 'runs': RUPBS
 'a': AEU
@@ -484,7 +484,7 @@ The Metal Pig
 'at': AT
 'the': -T
 'Piazza': PAOE/AZ/SA
-'del': TK*/*E/HR*
+'del': TKE/HR*
 'Granduca,': TKPW*P/R*/A*/TPH*/TK*/*U/KR*/SKWRA/KW-BG
 'and': SKP
 'the': -T

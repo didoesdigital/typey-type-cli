@@ -4256,7 +4256,7 @@ bending
 solemnly
 twenty-four
 minor
-del
+{&del}
 crimson
 republic
 teachers
@@ -6859,7 +6859,7 @@ destructive
 environment
 blossom
 bridle
-yon
+{&yon}
 waistcoat
 extends
 confirm
@@ -7467,7 +7467,7 @@ pirates
 enforce
 doll
 briskly
-sez
+{&sez}
 skeleton
 comprehensive
 buttons
@@ -7764,7 +7764,7 @@ trench
 fore
 accession
 h
-dey
+{&dey}
 connexion
 Cairo
 mend
@@ -8592,7 +8592,7 @@ trades
 rounds
 accomplishments
 crawl
-aft
+{&aft}
 prevalent
 role
 dose
@@ -9899,7 +9899,7 @@ speakers
 woollen
 lightness
 bitten
-aux
+{&aux}
 toleration
 Lucia
 scar

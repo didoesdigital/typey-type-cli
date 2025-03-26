@@ -48,7 +48,7 @@ Irreversible binomials with opposites and antonyms
 'hills and valleys': HEULS/SKP/SRAELS
 'his and hers': HEUS/SKP/HERS
 'hither and thither': H*EURT/SKP/TH*EURT
-'hither and yon': H*EURT/SKP/KWR*/O*/TPH*
+'hither and yon': H*EURT/SKP/KWROE/*PB
 'hot and cold': HOT/SKP/KOELD
 'hurry up and wait': HUR/REU/UP/SKP/WAEUT
 'husband and wife': HUS/SKP/WAOEUF
