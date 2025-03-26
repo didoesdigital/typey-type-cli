@@ -188,12 +188,14 @@ yarn dev check-duplicate-outlines
 yarn dev check-duplicate-outlines --unique-translations
 ```
 
-To check for outlines that contain only fingerspelled strokes in a dictionary:
+To check for outlines that contain only fingerspelled strokes in the provided dictionaries:
 
 ```sh
 yarn dev help check-for-fingerspelled-strokes
-yarn dev check-for-fingerspelled-strokes <dictionary_path>
+yarn dev check-for-fingerspelled-strokes <dictionary_paths...>
 ```
+
+For example, you could run `yarn dev check-for-fingerspelled-strokes didoesdigital/steno-dictionaries/dictionaries/condensed-*.json | pbcopy` to check all of the condensed strokes dictionaries for fingerspelled strokes and copy the results to the pasteboard/clipboard.
 
 ## Debugging
 
