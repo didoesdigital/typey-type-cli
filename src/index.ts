@@ -4,6 +4,7 @@
 import buildLesson from "./commands/buildLesson";
 import buildLessonIndex from "./commands/buildLessonIndex";
 import checkDuplicateOutlines from "./commands/checkDuplicateOutlines";
+import checkForFingerspelledStrokes from "./commands/checkForFingerspelledStrokes";
 import copyDictionaries from "./commands/copyDictionaries";
 import validateLessons from "./commands/validateLessons";
 import buildRecommendationsCourses from "./commands/buildRecommendationsCourses";
@@ -97,6 +98,14 @@ async function main() {
       "show only duplicate outlines with differing translations"
     )
     .action(checkDuplicateOutlines.run);
+
+  program
+    .command("check-for-fingerspelled-strokes")
+    .description(
+      "Checks a dictionary for outlines containing only fingerspelled strokes"
+    )
+    .argument("<dictionary_path>", "dictionary to check")
+    .action(checkForFingerspelledStrokes.run);
 
   await program.parseAsync(process.argv);
 }
