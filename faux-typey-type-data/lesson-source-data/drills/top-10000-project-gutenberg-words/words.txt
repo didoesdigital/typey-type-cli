@@ -481,7 +481,7 @@ appeared
 river
 continued
 eye
-ety
+{&ety}
 sun
 information
 later
@@ -5147,7 +5147,7 @@ blush
 monument
 hardy
 thorough
-ein
+{&ein}
 ecclesiastical
 fertile
 exciting
