@@ -188,6 +188,13 @@ yarn dev check-duplicate-outlines
 yarn dev check-duplicate-outlines --unique-translations
 ```
 
+To check for outlines that contain only fingerspelled strokes in a dictionary:
+
+```sh
+yarn dev help check-for-fingerspelled-strokes
+yarn dev check-for-fingerspelled-strokes <dictionary_path>
+```
+
 ## Debugging
 
 While you can run CLI commands individually, for lessons, just use `make`. If you want to run a command though, do this:
