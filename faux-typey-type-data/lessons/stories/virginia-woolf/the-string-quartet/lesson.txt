@@ -455,7 +455,7 @@ The String Quartet
 'and': SKP
 'flushed;': TPHRURBD/STPH*FPLT
 'now': TPHOU
-'taciturn': T*/A*/KR*/*EU/T*/*U/R*/TPH*
+'taciturn': T*/A*/KR*/*EU/T*/*U/R*/*PB
 'and': SKP
 'sad,': SAD/KW-BG
 'as': AS

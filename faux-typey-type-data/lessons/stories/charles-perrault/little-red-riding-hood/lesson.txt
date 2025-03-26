@@ -119,7 +119,7 @@ Little Red Riding-Hood
 'she': SHE
 'was': WAS
 'going': TKPW-G
-'thro'': T*/H*/R*/O*/-PBT
+'thro'': T*/H*/R*/SKWRO/AE
 'the': -T
 'wood,': WAOD/KW-BG
 'she': SHE

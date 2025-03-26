@@ -189,7 +189,7 @@ Proverbs starting with A
 'well.': WEL/TP-PL
 'All': KPA/AUL
 'that': THA
-'glisters': TKPW*/HR*/*EU/S*/T*/*E/R*/S*
+'glisters': TKPW*/HR*/EUFT/*ERS
 'is': S
 'not': TPHOT
 'gold.': TKPWOELD/TP-PL

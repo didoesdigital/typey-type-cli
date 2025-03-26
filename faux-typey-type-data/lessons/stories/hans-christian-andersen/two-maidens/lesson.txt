@@ -557,7 +557,7 @@ Two Maidens
 'were': WR
 'called': KAULD
 '"hand-rammers."': KW-GS/HA*EPBD/RAPL/PHER/-S/TP-PL/KR-GS
-'"Mai—!"': KW-GS/PH*P/A*/*EU/EPL/TKA*RB/SKHRAPL/KR-GS
+'"Mai—!"': KW-GS/KPA/PHA/SKWREU/EPL/TKA*RB/SKHRAPL/KR-GS
 'they': THE
 'said,': SED/KW-BG
 'as': AS
@@ -567,7 +567,7 @@ Two Maidens
 'upon': POPB
 'the': -T
 'pavement.': PAEUFPLT/TP-PL
-'"Mai—!"': KW-GS/PH*P/A*/*EU/EPL/TKA*RB/SKHRAPL/KR-GS
+'"Mai—!"': KW-GS/KPA/PHA/SKWREU/EPL/TKA*RB/SKHRAPL/KR-GS
 'and': SKP
 'they': THE
 'were': WR

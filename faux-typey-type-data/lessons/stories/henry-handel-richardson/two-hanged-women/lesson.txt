@@ -685,7 +685,7 @@ Two Hanged Women
 'laughs': HRAFS
 'and': SKP
 'says': SEZ
-''ra-THER!'': A*E/R*/A*/H-PB/T*P/H*P/*EP/R*P/SKHRAPL/AE
+''ra-THER!'': A*E/HRO*ER/RA/H-PB/T*P/H*P/*EP/R*P/SKHRAPL/AE
 'And': AFPBD
 'other': OER
 'people,': PAOEPL/KW-BG
@@ -889,7 +889,7 @@ Two Hanged Women
 'except': KPEPT
 'not': TPHOT
 'get': TKPWET
-'ratty': R*/A*/T*/T*/KWR*
+'ratty': R*/A*/T*/T*/KWREU
 'when': WHEPB
 'I': EU
 'stay': STAEU
@@ -1021,7 +1021,7 @@ Two Hanged Women
 '. . .': HR-PZ
 'so': SO
 'why': KWR
-'SHOULDN'T': S*P/H*P/O*P/*UP/HR*P/TK*P/TPH*P/AE/T*P
+'SHOULDN'T': *URP/SHOPBT
 'I': EU
 'like': HRAOEUBG
 'him?': HEUPL/H-F

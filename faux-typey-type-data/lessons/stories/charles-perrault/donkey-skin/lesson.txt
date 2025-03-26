@@ -226,7 +226,7 @@ Donkey-Skin
 'crowns,': KROUPBS/KW-BG
 'and': SKP
 'golden': TKPWOELD/*EPB
-'louis': HR*/O*/*U/*EU/S*
+'louis': HRO*ER/HRAO*U/EUS
 'of': -F
 'every': EF
 'kind,': KEUPBD/KW-BG

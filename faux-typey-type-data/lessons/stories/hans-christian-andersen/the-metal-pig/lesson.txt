@@ -3436,7 +3436,7 @@ The Metal Pig
 'The': KPA/-T
 'painter,': PA*EURPBT/KW-BG
 'however,': HOUF/KW-BG
-'consoled': HRO*ER/KR*P/O*/TPH*/S*/O*/HR*/*E/TK*
+'consoled': KAUPB/SOEL/-D
 'the': -T
 'little': HREUL
 'fellow,': TP*EL/KW-BG

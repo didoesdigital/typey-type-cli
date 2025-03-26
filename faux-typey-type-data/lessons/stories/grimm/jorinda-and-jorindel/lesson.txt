@@ -454,11 +454,11 @@ Jorinda and Jorindel
 'three': THRAOE
 'times': TAOEUPLS
 'screamed:': SKRAOEPLD/STPH-FPLT
-''Tu': A*E/T*P/*U
+''Tu': A*E/T*P/SKWRU
 'whu!': W*/H*/SKWRU/SKHRAPL
-'Tu': T*P/*U
+'Tu': T*P/SKWRU
 'whu!': W*/H*/SKWRU/SKHRAPL
-'Tu': T*P/*U
+'Tu': T*P/SKWRU
 'whu!'': W*/H*/SKWRU/SKHRAPL/AE
 'Jorindel': SKWR*P/O*/R*/*EU/TPH*/TK*/*E/HR*
 'could': KO

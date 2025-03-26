@@ -2845,7 +2845,7 @@ The Fir Tree
 'over': OEFR
 'the': -T
 'little': HREUL
-'palings.': P*/A*/HR*/*EU/TPH*/TKPW*/S*/TP-PL
+'palings.': HRO*ER/PA/HREUPBG/-S/TP-PL
 'The': KPA/-T
 'linden-trees': HR*/SKWREU/*PB/TK*EPB/H-PB/TRAOES
 'were': WR

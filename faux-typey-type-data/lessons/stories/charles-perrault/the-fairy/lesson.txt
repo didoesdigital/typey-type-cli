@@ -495,7 +495,7 @@ The Fairy
 '"You': KW-GS/KPA*/U
 'shall': SHAL
 'go,': TKPW-RBGS
-'hussey,"': H*/*U/S*/S*/*E/KWR*/KW-BG/KR-GS
+'hussey,"': H*/SKWRUS/-S/KWRAOE/KW-BG/KR-GS
 'said': SED
 'the': -T
 'mother,': PHOER/KW-BG
@@ -692,7 +692,7 @@ The Fairy
 'answered': AEPBS/-D
 'the': -T
 'pert': PERT
-'hussey,': H*/*U/S*/S*/*E/KWR*/KW-BG
+'hussey,': H*/SKWRUS/-S/KWRAOE/KW-BG
 'throwing': THROEG
 'out': OUT
 'of': -F

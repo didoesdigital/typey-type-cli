@@ -221,7 +221,7 @@ The Chaos
 'mankind,': PHAPB/KAOEUPBD/KW-BG
 'Tortoise,': KPA/TOR/TOS/KW-BG
 'turquoise,': TUR/KOEUS/KW-BG
-'chamois-leather,': KR*/H*/A*/PH*/O*/*EU/S*/H-PB/HRE/THER/KW-BG
+'chamois-leather,': KR*/HA*PL/SKWRO/EUS/H-PB/HRE/THER/KW-BG
 'Reading,': KPA/RAEGD/KW-BG
 'Reading,': KPA/RAEGD/KW-BG
 'heathen,': HAOE/THEPB/KW-BG
@@ -290,7 +290,7 @@ The Chaos
 'with': W
 'khaki.': KA/KAOE/TP-PL
 'Discount,': KPA/TK-BG/KW-BG
-'viscount,': SR*/*EU/S*/TK-LS/KOUPBT/KW-BG
+'viscount,': SREUFBG/SKWRO/UPB/T*/SP-S/KW-BG
 'load': HRAOD
 'and': SKP
 'broad,': PWRAOD/KW-BG
@@ -686,7 +686,7 @@ The Chaos
 'doesn't)': TKOS/*PB/AE/T*/PR*EPB
 'with': W
 'nibbled.': TPHEUB/-LD/TP-PL
-'Phaeton,': KPA/P*/H*/A*/*E/T*/O*/TPH*/KW-BG
+'Phaeton,': P*P/H*/SKWRAOEU/TO*PB/KW-BG
 'paean,': PAOEU/A*PB/KW-BG
 'gnat,': TPHA*T/KW-BG
 'ghat,': TKPW*/H*/A*/T*/KW-BG
@@ -849,7 +849,7 @@ The Chaos
 'supposed': SPOED
 'to': TO
 'say': SAEU
-'Piquet': KPA/P*/*EU/KW*/*U/*E/T*
+'Piquet': P*P/*EU/KW*/SKWRU/ET
 'rhymes': RAOEUPLS
 'with': W
 'sobriquet.': S*/O*/PW*/R*/*EU/KW*/SKWRU/ET/TP-PL

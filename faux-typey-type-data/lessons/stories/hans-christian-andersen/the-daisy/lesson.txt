@@ -31,7 +31,7 @@ The Daisy
 'with': W
 'painted': PAEUPBTD
 'wooden': WAOD/EPB
-'palings': P*/A*/HR*/*EU/TPH*/TKPW*/S*
+'palings': HRO*ER/PA/HREUPBG/-S
 'in': TPH
 'front': TPROPBT
 'of': -F

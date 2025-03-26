@@ -21,7 +21,7 @@ Irreversible binomials with rhymes and similar-sounding words
 'hither and thither': H*EURT/SKP/TH*EURT
 'hocus pocus': HOEBG/SKWRUS/POEBG/SKWRUS/TP-PL
 'hoi polloi': HOEU/PHROEU
-'hoity toity': H*/O*/*EU/T*/KWR*/S-P/T*/O*/*EU/T*/KWR*
+'hoity toity': HO*E/EUT/KWREU/TO/EUT/KWREU
 'hot to trot': HOT/TO/TROT
 'huff and puff': HUF/SKP/PUF
 'hustle and bustle': HUFL/SKP/PWUFL
@@ -33,7 +33,7 @@ Irreversible binomials with rhymes and similar-sounding words
 'meet and greet': PHAOET/SKP/TKPWRAOET
 'motor voter': PHOERT/SROERT
 'my way or the highway': PHEU/WAEU/OR/-T/HAOEU/WAEU
-'namby-pamby': TPH*/A*/PH*/PW*/KWR*/H-PB/P*/A*/PH*/PW*/KWR*
+'namby-pamby': TPH*/A*/PH*/PW*/KWREU/H-PB/P*/A*/PH*/PW*/KWREU
 'name and shame': TPHAEUPL/SKP/SHAEUPL
 'name it and claim it': TPHAEUPL/T/SKP/KHRAEUPL/T
 'near and dear': TPHAOER/SKP/TKAER

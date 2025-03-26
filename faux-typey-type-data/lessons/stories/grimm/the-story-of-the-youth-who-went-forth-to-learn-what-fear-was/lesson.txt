@@ -3640,7 +3640,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'wedding': WEGD
 'celebrated;': SEL/PWRAEUT/-D/STPH*FPLT
 'but': PWUT
-'howsoever': HRO*ER/H*P/O*/W*/S*/O*/*E/SR*/*E/R*
+'howsoever': HOU/-S/SKWRO/SKWREFR
 'much': PHUFP
 'the': -T
 'young': KWRUPBG

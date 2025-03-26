@@ -98,7 +98,7 @@ Homophones
 'birth': PW*EURT
 'better': PWOERT
 'bettor': PWET/TOR
-'bight': PW*/*EU/TKPW*/H*/T*
+'bight': PW*EU/TKPW*/H*/T*
 'bite': PWAOEUT
 'billed': PW*EULD
 'build': PWEULD

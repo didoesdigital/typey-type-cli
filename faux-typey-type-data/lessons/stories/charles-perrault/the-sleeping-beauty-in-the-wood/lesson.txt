@@ -1513,7 +1513,7 @@ The Sleeping Beauty in the Wood
 'power': POUR
 'to': TO
 'pass': PAS
-'thro'': T*/H*/R*/O*/-PBT
+'thro'': T*/H*/R*/SKWRO/AE
 'the': -T
 'wood.': WAOD/TP-PL
 'head': HED
@@ -1723,7 +1723,7 @@ The Sleeping Beauty in the Wood
 'he': HE
 'had': H
 'pass'd': PAS/*D
-'thro'': T*/H*/R*/O*/-PBT
+'thro'': T*/H*/R*/SKWRO/AE
 'them.': THEPL/TP-PL
 'However,': KPA/HOUF/KW-BG
 'he': HE

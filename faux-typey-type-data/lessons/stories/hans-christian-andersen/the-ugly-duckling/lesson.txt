@@ -1416,7 +1416,7 @@ The Ugly Duckling
 'flew': TPHRAOU
 'over': OEFR
 'the': -T
-'palings.': P*/A*/HR*/*EU/TPH*/TKPW*/S*/TP-PL
+'palings.': HRO*ER/PA/HREUPBG/-S/TP-PL
 '"They': KW-GS/KPA*/THE
 'are': R
 'afraid': A/TPRAEUD

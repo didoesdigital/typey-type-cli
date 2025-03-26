@@ -116,7 +116,7 @@ The Two Fellows and the Bear
 'it': T
 'that': THA
 'Master': KPA/PHAFRT
-'Bruin': PW*P/R*/*U/*EU/TPH*
+'Bruin': PW*P/R*/SKWRU/*EUPB
 'whispered': WHEUS/PERD
 'to': TO
 'you?"': U/H-F/KR-GS

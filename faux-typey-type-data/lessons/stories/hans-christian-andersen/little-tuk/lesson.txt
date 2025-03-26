@@ -5,7 +5,7 @@ Little Tuk
 'called': KAULD
 'him': HEUPL
 'Little': KPA/HREUL
-'Tuk,': T*P/*U/*BG/KW-BG
+'Tuk,': T*P/SKWRU/*BG/KW-BG
 'but': PWUT
 'it': T
 'was': WAS
@@ -44,7 +44,7 @@ Little Tuk
 'for': TPOR
 'strangers.': STRAEURPBGS/TP-PL
 'Little': KPA/HREUL
-'Tuk': T*P/*U/*BG
+'Tuk': T*P/SKWRU/*BG
 'was': WAS
 'left': HREFT
 'at': AT
@@ -157,7 +157,7 @@ Little Tuk
 'her': HER
 'arms.': ARPLS/TP-PL
 'Then': KPA/THEPB
-'Tuk': T*P/*U/*BG
+'Tuk': T*P/SKWRU/*BG
 'ran': RAPB
 'to': TO
 'the': -T
@@ -235,7 +235,7 @@ Little Tuk
 'a': AEU
 'good': TKPWAOD
 'boy,': PWOEURBGS
-'Tuk,': T*P/*U/*BG/KW-BG
+'Tuk,': T*P/SKWRU/*BG/KW-BG
 'and': SKP
 'run': RUPB
 'across': KRAOS
@@ -247,7 +247,7 @@ Little Tuk
 'won't': WOEPBT
 'you?"': U/H-F/KR-GS
 'So': KPA/SO
-'Tuk': T*P/*U/*BG
+'Tuk': T*P/SKWRU/*BG
 'ran': RAPB
 'across': KRAOS
 'quickly,': KWEULG/KW-BG
@@ -445,7 +445,7 @@ Little Tuk
 'the': -T
 'book': PWAOBG
 'under': TPH-PB
-'Tuk's': T*P/*U/*BG/AES
+'Tuk's': T*P/SKWRU/*BG/AES
 'pillow': PEUL/OE
 'began': TKPWAPB
 'to': TO
@@ -553,7 +553,7 @@ Little Tuk
 'But': KPA/PWUT
 'now': TPHOU
 'little': HREUL
-'Tuk': T*P/*U/*BG
+'Tuk': T*P/SKWRU/*BG
 'was': WAS
 'no': TPHO
 'longer': HRORPBG
@@ -725,7 +725,7 @@ Little Tuk
 'And': AFPBD
 'again': TKPWEPB
 'little': HREUL
-'Tuk': T*P/*U/*BG
+'Tuk': T*P/SKWRU/*BG
 'lay': HRAEU
 'in': TPH
 'his': HEUS
@@ -744,9 +744,9 @@ Little Tuk
 'stood': STAOD
 'by': PWEU
 'him.': HEUPL/TP-PL
-'"Tuk!': KW-GS/T*P/*U/*BG/SKHRAPL
+'"Tuk!': KW-GS/T*P/SKWRU/*BG/SKHRAPL
 'little': HREUL
-'Tuk!"': T*P/*U/*BG/SKHRAPL/KR-GS
+'Tuk!"': T*P/SKWRU/*BG/SKHRAPL/KR-GS
 'said': SED
 'a': AEU
 'voice.': SROEUS/TP-PL
@@ -889,7 +889,7 @@ Little Tuk
 'eyes': AO*EUS
 'of': -F
 'little': HREUL
-'Tuk': T*P/*U/*BG
+'Tuk': T*P/SKWRU/*BG
 'appeared': A/PAOERD
 'a': AEU
 'confusion': KAUFGS
@@ -1023,7 +1023,7 @@ Little Tuk
 'of': -F
 'water.': WAUR/TP-PL
 'Little': KPA/HREUL
-'Tuk': T*P/*U/*BG
+'Tuk': T*P/SKWRU/*BG
 'saw': SAU
 'and': SKP
 'heard': HAERD
@@ -1167,7 +1167,7 @@ Little Tuk
 'Soroe."': S*P/O*R/SKWRO/SKWRE/TP-PL/KR-GS
 'Then': KPA/THEPB
 'little': HREUL
-'Tuk': T*P/*U/*BG
+'Tuk': T*P/SKWRU/*BG
 'saw': SAU
 'she': SHE
 'was': WAS
@@ -1280,7 +1280,7 @@ Little Tuk
 'wearing,': WAERG/KW-BG
 'that': THA
 'little': HREUL
-'Tuk': T*P/*U/*BG
+'Tuk': T*P/SKWRU/*BG
 'at': AT
 'length': HREPBG
 'fell': TPEL
@@ -1354,7 +1354,7 @@ Little Tuk
 'cock': KOBG
 'crow,': KROE/KW-BG
 'little': HREUL
-'Tuk.': T*P/*U/*BG/TP-PL
+'Tuk.': T*P/SKWRU/*BG/TP-PL
 ''Cock-a-doodle-doo.'': A*E/KPA*/KOBG/H-PB/AEU/H-PB/TKAOD/*L/H-PB/TKAO/TP-PL/AE
 'The': KPA/-T
 'fowls': TPO*UL/-S
@@ -1454,7 +1454,7 @@ Little Tuk
 'and': SKP
 'clearly': KAOERL
 'little': HREUL
-'Tuk,': T*P/*U/*BG/KW-BG
+'Tuk,': T*P/SKWRU/*BG/KW-BG
 'and': SKP
 'when': WHEPB
 'at': AT
@@ -1477,7 +1477,7 @@ Little Tuk
 'Soroe,"': S*P/O*R/SKWRO/SKWRE/KW-BG/KR-GS
 'said': SED
 'little': HREUL
-'Tuk': T*P/*U/*BG
+'Tuk': T*P/SKWRU/*BG
 'awaking.': A/WAEUBG/-G/TP-PL
 'It': KPA/T
 'was': WAS
@@ -1569,7 +1569,7 @@ Little Tuk
 'come': KOPL
 'true."': TRAOU/TP-PL/KR-GS
 'Little': KPA/HREUL
-'Tuk': T*P/*U/*BG
+'Tuk': T*P/SKWRU/*BG
 'did': TK
 'not': TPHOT
 'at': AT

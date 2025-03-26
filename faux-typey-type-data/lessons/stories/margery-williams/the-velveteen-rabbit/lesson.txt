@@ -1509,7 +1509,7 @@ The Velveteen Rabbit
 'or': OR
 'play': PHRAEU
 'at': AT
-'brigands': PW*/R*/*EU/TKPW*/A*/TPH*/TK*/S*
+'brigands': PWR*EUG/SKWRA/*PBD/-S
 'among': PHOPBG
 'the': -T
 'trees,': TRAOES/KW-BG

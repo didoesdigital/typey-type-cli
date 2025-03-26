@@ -1872,7 +1872,7 @@ Little Tiny or Thumbelina
 'he': HE
 'always': AULS
 'spoke': SPOEBG
-'slightingly': S*/HR*/*EU/TKPW*/H*/T*/*EU/TPH*/TKPW*/HR*/KWR*
+'slightingly': SHRAOEUT/-G/HREU
 'of': -F
 'the': -T
 'sun': SUPB

@@ -529,7 +529,7 @@ Blue Beard
 'them.': THEPL/TP-PL
 'They': KPA/THE
 'ran': RAPB
-'thro'': T*/H*/R*/O*/-PBT
+'thro'': T*/H*/R*/SKWRO/AE
 'all': AUL
 'the': -T
 'rooms,': RAOPLS/KW-BG
@@ -1753,7 +1753,7 @@ Blue Beard
 'ran': RAPB
 'their': THAEUR
 'swords': SWORDZ
-'thro'': T*/H*/R*/O*/-PBT
+'thro'': T*/H*/R*/SKWRO/AE
 'his': HEUS
 'body': PWO*ED
 'and': SKP

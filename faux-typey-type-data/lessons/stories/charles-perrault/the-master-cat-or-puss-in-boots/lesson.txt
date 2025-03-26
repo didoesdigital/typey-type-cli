@@ -165,7 +165,7 @@ The Master Cat or Puss in Boots
 'I': EU
 'may': PHAEU
 'scamper': SKAPL/PER
-'thro'': T*/H*/R*/O*/-PBT
+'thro'': T*/H*/R*/SKWRO/AE
 'the': -T
 'dirt': TKEURT
 'and': SKP
@@ -434,7 +434,7 @@ The Master Cat or Puss in Boots
 'the': -T
 'Marquis': PHAR/KWEUS
 'of': -F
-'Carabas"': KR*P/A*/R*/A*/PW*/A*/S*/KR-GS
+'Carabas"': KR*P/A*/R*/A*/PW*/SKWRA/-S/KR-GS
 '(for': PREPB/TPOR
 'that': THA
 'was': WAS
@@ -653,7 +653,7 @@ The Master Cat or Puss in Boots
 'The': KPA/-T
 'Marquis': PHAR/KWEUS
 'of': -F
-'Carabas': KR*P/A*/R*/A*/PW*/A*/S*
+'Carabas': KR*P/A*/R*/A*/PW*/SKWRA/-S
 'did': TK
 'what': WHA
 'the': -T
@@ -692,7 +692,7 @@ The Master Cat or Puss in Boots
 'lord': HRORD
 'Marquis': PHAR/KWEUS
 'of': -F
-'Carabas': KR*P/A*/R*/A*/PW*/A*/S*
+'Carabas': KR*P/A*/R*/A*/PW*/SKWRA/-S
 'is': S
 'drowning."': TKROUPBG/TP-PL/KR-GS
 'At': KPA/AT
@@ -738,7 +738,7 @@ The Master Cat or Puss in Boots
 'the': -T
 'Marquis': PHAR/KWEUS
 'of': -F
-'Carabas.': KR*P/A*/R*/A*/PW*/A*/S*/TP-PL
+'Carabas.': KR*P/A*/R*/A*/PW*/SKWRA/-S/TP-PL
 'While': KPA/WHAOEUL
 'they': THE
 'were': WR
@@ -825,7 +825,7 @@ The Master Cat or Puss in Boots
 'lord': HRORD
 'Marquis': PHAR/KWEUS
 'of': -F
-'Carabas.': KR*P/A*/R*/A*/PW*/A*/S*/TP-PL
+'Carabas.': KR*P/A*/R*/A*/PW*/SKWRA/-S/TP-PL
 'The': KPA/-T
 'King': KO*EUPBG
 'received': SAOEFD
@@ -872,7 +872,7 @@ The Master Cat or Puss in Boots
 'the': -T
 'Marquis': PHAR/KWEUS
 'of': -F
-'Carabas': KR*P/A*/R*/A*/PW*/A*/S*
+'Carabas': KR*P/A*/R*/A*/PW*/SKWRA/-S
 'had': H
 'no': TPHO
 'sooner': SAORPB
@@ -962,7 +962,7 @@ The Master Cat or Puss in Boots
 'lord': HRORD
 'Marquis': PHAR/KWEUS
 'of': -F
-'Carabas,': KR*P/A*/R*/A*/PW*/A*/S*/KW-BG
+'Carabas,': KR*P/A*/R*/A*/PW*/SKWRA/-S/KW-BG
 'you': U
 'shall': SHAL
 'be': -B
@@ -993,7 +993,7 @@ The Master Cat or Puss in Boots
 'lord': HRORD
 'Marquis': PHAR/KWEUS
 'of': -F
-'Carabas,"': KR*P/A*/R*/A*/PW*/A*/S*/KW-BG/KR-GS
+'Carabas,"': KR*P/A*/R*/A*/PW*/SKWRA/-S/KW-BG/KR-GS
 'answered': AEPBS/-D
 'they': THE
 'all': AUL
@@ -1018,7 +1018,7 @@ The Master Cat or Puss in Boots
 'the': -T
 'Marquis': PHAR/KWEUS
 'of': -F
-'Carabas.': KR*P/A*/R*/A*/PW*/A*/S*/TP-PL
+'Carabas.': KR*P/A*/R*/A*/PW*/SKWRA/-S/TP-PL
 '"You': KW-GS/KPA*/U
 'see,': SAOERBGS
 'sir,"': SEUR/KW-BG/KR-GS
@@ -1077,7 +1077,7 @@ The Master Cat or Puss in Boots
 'the': -T
 'Marquis': PHAR/KWEUS
 'of': -F
-'Carabas,': KR*P/A*/R*/A*/PW*/A*/S*/KW-BG
+'Carabas,': KR*P/A*/R*/A*/PW*/SKWRA/-S/KW-BG
 'you': U
 'shall': SHAL
 'be': -B
@@ -1113,7 +1113,7 @@ The Master Cat or Puss in Boots
 'lord': HRORD
 'Marquis': PHAR/KWEUS
 'of': -F
-'Carabas,"': KR*P/A*/R*/A*/PW*/A*/S*/KW-BG/KR-GS
+'Carabas,"': KR*P/A*/R*/A*/PW*/SKWRA/-S/KW-BG/KR-GS
 'replied': RE/PHRAOEUD
 'the': -T
 'reapers;': RAOEP/*ERS/STPH*FPLT
@@ -1153,7 +1153,7 @@ The Master Cat or Puss in Boots
 'lord': HRORD
 'Marquis': PHAR/KWEUS
 'of': -F
-'Carabas.': KR*P/A*/R*/A*/PW*/A*/S*/TP-PL
+'Carabas.': KR*P/A*/R*/A*/PW*/SKWRA/-S/TP-PL
 'Monsieur': PHOPB/SAOUR
 'Puss': KPA/PUSZ
 'came': KAEUPL
@@ -1524,7 +1524,7 @@ The Master Cat or Puss in Boots
 'lord': HRORD
 'Marquis': PHAR/KWEUS
 'of': -F
-'Carabas."': KR*P/A*/R*/A*/PW*/A*/S*/TP-PL/KR-GS
+'Carabas."': KR*P/A*/R*/A*/PW*/SKWRA/-S/TP-PL/KR-GS
 '"What!': KW-GS/KPA*/WHA/SKHRAPL
 'my': PHEU
 'lord': HRORD
@@ -1632,7 +1632,7 @@ The Master Cat or Puss in Boots
 'lord': HRORD
 'Marquis': PHAR/KWEUS
 'of': -F
-'Carabas,': KR*P/A*/R*/A*/PW*/A*/S*/KW-BG
+'Carabas,': KR*P/A*/R*/A*/PW*/SKWRA/-S/KW-BG
 'as': AS
 'was': WAS
 'his': HEUS

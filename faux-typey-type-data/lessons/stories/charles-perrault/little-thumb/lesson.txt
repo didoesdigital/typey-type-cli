@@ -571,7 +571,7 @@ Little Thumb
 'along': HRAOPBG
 'a': AEU
 'by-way,': PWEU/H-PB/WAEU/KW-BG
-'thro'': T*/H*/R*/O*/-PBT
+'thro'': T*/H*/R*/SKWRO/AE
 'the': -T
 'winding': WAOEUPBD/-G
 'bushes.': PWURBS/TP-PL

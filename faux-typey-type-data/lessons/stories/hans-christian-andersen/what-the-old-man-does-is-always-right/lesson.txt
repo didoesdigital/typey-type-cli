@@ -134,7 +134,7 @@ What the Old Man Does Is Always Right
 'hangs': HAPBGS
 'over': OEFR
 'the': -T
-'palings;': P*/A*/HR*/*EU/TPH*/TKPW*/S*/STPH*FPLT
+'palings;': HRO*ER/PA/HREUPBG/-S/STPH*FPLT
 'and': SKP
 'beneath': TPHAO*ET
 'its': EUTS
@@ -672,7 +672,7 @@ What the Old Man Does Is Always Right
 'him': HEUPL
 'by': PWEU
 'our': OUR
-'palings,': P*/A*/HR*/*EU/TPH*/TKPW*/S*/KW-BG
+'palings,': HRO*ER/PA/HREUPBG/-S/KW-BG
 'and': SKP
 'in': TPH
 'the': -T
@@ -911,7 +911,7 @@ What the Old Man Does Is Always Right
 'and': SKP
 'by': PWEU
 'the': -T
-'palings,': P*/A*/HR*/*EU/TPH*/TKPW*/S*/KW-BG
+'palings,': HRO*ER/PA/HREUPBG/-S/KW-BG
 'and': SKP
 'at': AT
 'the': -T

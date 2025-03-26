@@ -410,7 +410,7 @@
 "*URP/SKP": "AND",
 "P*P/A*P/R*P/T*P/HR*P/*EP/T*P": "PARTLET",
 "*URP/SREUFT": "VISIT",
-"*URP/PH*P/R*": "MR",
+"PH*P/R*P": "MR",
 "K*P/O*P/R*P/PW*P/*EP/S*P": "KORBES",
 "KPA/TPHOER": "Another",
 "WEURBD": "wished",

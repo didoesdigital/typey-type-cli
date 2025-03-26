@@ -2637,7 +2637,7 @@ The Neighbouring Families
 'under': TPH-PB
 'the': -T
 'garden': TKPWA*RPB
-'palings,': P*/A*/HR*/*EU/TPH*/TKPW*/S*/KW-BG
+'palings,': HRO*ER/PA/HREUPBG/-S/KW-BG
 'and': SKP
 'when': WHEPB
 'they': THE

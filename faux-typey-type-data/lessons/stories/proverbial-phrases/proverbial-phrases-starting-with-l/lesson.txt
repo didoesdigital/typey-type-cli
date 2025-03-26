@@ -112,7 +112,7 @@ Proverbial phrases starting with L
 'all': AUL
 'beer': PWAOER
 'and': SKP
-'skittles.': S*/K*/*EU/T*/T*/HR*/*E/S*/TP-PL
+'skittles.': S*/K*/*EU/T*/T*/HR*/ES/TP-PL
 'Life': KPA/HRAOEUF
 'is': S
 'what': WHA

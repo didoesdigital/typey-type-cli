@@ -968,7 +968,7 @@
 "PAEURB": "patient",
 "A/TREUGS": "attrition",
 "SKWREPB/RAEUGS/-S": "generations",
-"H*/O*/*U/S*/*E/PH*/A*/*EU/TK*/S*/KW-BG": "housemaids,",
+"H*/O*/*U/S*/*E/PH*/A*/*EU/TK*/-S/KW-BG": "housemaids,",
 "RE/SRAOELD": "revealed",
 "KOET": "coat",
 "PAEUPBT/KW-BG": "paint,",

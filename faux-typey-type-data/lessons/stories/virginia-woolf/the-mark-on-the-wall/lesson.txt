@@ -2145,7 +2145,7 @@ The Mark on the Wall
 'many': PHAEPB
 'generations': SKWREPB/RAEUGS/-S
 'of': -F
-'housemaids,': H*/O*/*U/S*/*E/PH*/A*/*EU/TK*/S*/KW-BG
+'housemaids,': H*/O*/*U/S*/*E/PH*/A*/*EU/TK*/-S/KW-BG
 'revealed': RE/SRAOELD
 'its': EUTS
 'head': HED

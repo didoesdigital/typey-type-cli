@@ -922,7 +922,7 @@ The Butterfly
 'this': TH
 'thought': THAUT
 'he': HE
-'consoled': HRO*ER/KR*P/O*/TPH*/S*/O*/HR*/*E/TK*
+'consoled': KAUPB/SOEL/-D
 'himself': HEUPLS
 'a': AEU
 'little.': HREUL/TP-PL

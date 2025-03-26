@@ -1422,7 +1422,7 @@ Holger Danske
 'he': HE
 'lashed': HRARBD
 'the': -T
-'follies': HRO*ER/TP*P/O*/HR*/HR*/*EU/*E/S*
+'follies': TP*/O*/HR*/HR*/KWREU/-S
 'and': SKP
 'prejudices': PREPBLG/TKEUS/-S
 'of': -F

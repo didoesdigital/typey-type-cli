@@ -564,7 +564,7 @@ An Unwritten Novel
 'of': -F
 'brothers': PWROERS
 'at': AT
-'Eastbourne,': *EP/A*/S*/T*/PW*/O*/*U/R*/TPH*/*E/KW-BG
+'Eastbourne,': *EP/A*/S*/T*/PW*/O*UR/*PB/SKWRE/KW-BG
 'and': SKP
 'the': -T
 'time': TAOEUPL
@@ -1157,7 +1157,7 @@ An Unwritten Novel
 'the': -T
 'roofs': RAOFS
 'of': -F
-'Eastbourne—zigzagging': *EP/A*/S*/T*/PW*/O*/*U/R*/TPH*/*E/EPL/TKA*RB/S*EUG/SA*G/-G
+'Eastbourne—zigzagging': *EP/A*/S*/T*/PW*/O*UR/*PB/SKWRE/EPL/TKA*RB/S*EUG/SA*G/-G
 'roofs': RAOFS
 'like': HRAOEUBG
 'the': -T
@@ -1338,7 +1338,7 @@ An Unwritten Novel
 'the': -T
 'roofs': RAOFS
 'of': -F
-'Eastbourne,': *EP/A*/S*/T*/PW*/O*/*U/R*/TPH*/*E/KW-BG
+'Eastbourne,': *EP/A*/S*/T*/PW*/O*UR/*PB/SKWRE/KW-BG
 'Minnie': PHEUPB/AO*E
 'Marsh': KPA/PHA*RB
 'prays': PRAEU/-S
@@ -1380,7 +1380,7 @@ An Unwritten Novel
 'back': PWABG
 'streets': STRAOETS
 'of': -F
-'Eastbourne,': *EP/A*/S*/T*/PW*/O*/*U/R*/TPH*/*E/KW-BG
+'Eastbourne,': *EP/A*/S*/T*/PW*/O*UR/*PB/SKWRE/KW-BG
 'the': -T
 'God': TKPWO*D
 'of': -F
@@ -1599,7 +1599,7 @@ An Unwritten Novel
 'ribbon': REUB/O*PB
 'in': TPH
 'the': -T
-'draper's': HRO*ER/TK*P/R*/SKWRA/*P/*ER/AES
+'draper's': TK*/R*/SKWRA/*P/*ER/AES
 'window': WOEUPBD
 'spangled': SPAPBG/*LD
 'in': TPH
@@ -1743,7 +1743,7 @@ An Unwritten Novel
 'I': EU
 'want.': WAPBT/TP-PL
 'The': KPA/-T
-'draper's': HRO*ER/TK*P/R*/SKWRA/*P/*ER/AES
+'draper's': TK*/R*/SKWRA/*P/*ER/AES
 'window': WOEUPBD
 'looped': HRAOPD
 'with': W
@@ -2682,7 +2682,7 @@ An Unwritten Novel
 'but': PWUT
 'rhododendrons': ROED/TKEPBD/ROPB/-S
 'in': TPH
-'Eastbourne—in': *EP/A*/S*/T*/PW*/O*/*U/R*/TPH*/*E/EPL/TKA*RB/TPH
+'Eastbourne—in': *EP/A*/S*/T*/PW*/O*UR/*PB/SKWRE/EPL/TKA*RB/TPH
 'December—on': TKAOES/EPL/TKA*RB/OPB
 'the': -T
 'Marshes'': KPA/PHAR/-RBS/AE
@@ -2810,7 +2810,7 @@ An Unwritten Novel
 'on': OPB
 'Thursdays,': THURDZ/KW-BG
 'his': HEUS
-'Eastbourne': *EP/A*/S*/T*/PW*/O*/*U/R*/TPH*/*E
+'Eastbourne': *EP/A*/S*/T*/PW*/O*UR/*PB/SKWRE
 'day,': TKAEU/KW-BG
 'takes': TAEUBGS
 'his': HEUS
@@ -3334,7 +3334,7 @@ An Unwritten Novel
 'you': U
 'driving': TKRAOEUFG
 'through': THRU
-'Eastbourne': *EP/A*/S*/T*/PW*/O*/*U/R*/TPH*/*E
+'Eastbourne': *EP/A*/S*/T*/PW*/O*UR/*PB/SKWRE
 'this': TH
 'afternoon': AFPB
 'in': TPH
@@ -3980,7 +3980,7 @@ An Unwritten Novel
 'Yes,': KPA/KWRE/KW-BG
 'this': TH
 'is': S
-'Eastbourne.': *EP/A*/S*/T*/PW*/O*/*U/R*/TPH*/*E/TP-PL
+'Eastbourne.': *EP/A*/S*/T*/PW*/O*UR/*PB/SKWRE/TP-PL
 'I'll': AOEUL
 'reach': RAOEFP
 'it': T
@@ -4038,7 +4038,7 @@ An Unwritten Novel
 'far': TPAR
 'side': SAOEUD
 'of': -F
-'Eastbourne).': *EP/A*/S*/T*/PW*/O*/*U/R*/TPH*/*E/PR*EPB/TP-PL
+'Eastbourne).': *EP/A*/S*/T*/PW*/O*UR/*PB/SKWRE/PR*EPB/TP-PL
 '"I'll': KW-GS/AOEUL
 'wait': WAEUT
 'by': PWEU

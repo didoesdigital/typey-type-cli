@@ -59,7 +59,7 @@ The Thistle's Experiences
 'garden,': TKPWA*RPB/KW-BG
 'by': PWEU
 'the': -T
-'palings': P*/A*/HR*/*EU/TPH*/TKPW*/S*
+'palings': HRO*ER/PA/HREUPBG/-S
 'at': AT
 'the': -T
 'road-side,': RAOD/H-PB/SAOEUD/KW-BG
@@ -307,7 +307,7 @@ The Thistle's Experiences
 'blooms': PWHRAOPL/-S
 'in': TPH
 'the': -T
-'scutcheon': S*/KR*/*U/T*/KR*/H*/*E/O*/TPH*
+'scutcheon': S*/KR*/*U/T*/*FP/SKWRE/O*PB
 'of': -F
 'my': PHEU
 'country.': KREU/TP-PL
@@ -435,7 +435,7 @@ The Thistle's Experiences
 'really': R-L
 'inside': TPH-DZ
 'the': -T
-'palings,': P*/A*/HR*/*EU/TPH*/TKPW*/S*/KW-BG
+'palings,': HRO*ER/PA/HREUPBG/-S/KW-BG
 'and': SKP
 'not': TPHOT
 'outside.': OUDZ/TP-PL
@@ -759,7 +759,7 @@ The Thistle's Experiences
 'it': T
 'was.': WAS/TP-PL
 '"The': KW-GS/KPA*/-T
-'thievish': T*/H*/*EU/*E/SR*/*EU/S*/H*
+'thievish': T*/H*/*EU/*E/SR*/EURB
 'rabble!"': RABL/SKHRAPL/KR-GS
 'said': SED
 'the': -T
@@ -994,7 +994,7 @@ The Thistle's Experiences
 'garden,': TKPWA*RPB/KW-BG
 'across': KRAOS
 'the': -T
-'palings:': P*/A*/HR*/*EU/TPH*/TKPW*/S*/STPH-FPLT
+'palings:': HRO*ER/PA/HREUPBG/-S/STPH-FPLT
 '"Up': KW-GS/KPA*/UP
 'the': -T
 'hill,': HEUL/KW-BG
@@ -1220,7 +1220,7 @@ The Thistle's Experiences
 'climb': KHRAOEUPL
 'across': KRAOS
 'the': -T
-'palings': P*/A*/HR*/*EU/TPH*/TKPW*/S*
+'palings': HRO*ER/PA/HREUPBG/-S
 'again,': STKPWERPBGS
 'and': SKP
 'to': TO

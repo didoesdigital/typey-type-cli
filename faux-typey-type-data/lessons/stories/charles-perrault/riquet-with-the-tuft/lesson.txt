@@ -2507,7 +2507,7 @@ Riquet With the Tuft
 'martial': PHAR/SHAL
 'and': SKP
 'heroic.': HOEURBG/TP-PL
-'Howsoever': H*P/O*/W*/S*/O*/*E/SR*/*E/R*
+'Howsoever': KPA/HOU/-S/SKWRO/SKWREFR
 'it': T
 'was,': WAS/KW-BG
 'the': -T

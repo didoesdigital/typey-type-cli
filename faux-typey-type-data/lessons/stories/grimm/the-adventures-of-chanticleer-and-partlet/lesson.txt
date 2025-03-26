@@ -855,7 +855,7 @@ The Adventures of Chanticleer and Partlet
 'WENT': *URP/WEPBT
 'TO': *URP/TO
 'VISIT': *URP/SREUFT
-'MR': *URP/PH*P/R*
+'MR': PH*P/R*P
 'KORBES': K*P/O*P/R*P/PW*P/*EP/S*P
 'Another': KPA/TPHOER
 'day,': TKAEU/KW-BG

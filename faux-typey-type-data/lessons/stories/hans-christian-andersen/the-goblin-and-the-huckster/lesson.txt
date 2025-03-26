@@ -227,7 +227,7 @@ The Goblin and the Huckster
 'the': -T
 'rest': REFT
 'for': TPOR
-'sixpence,': S*/*EU/KP*/P*/*E/TPH*/KR*/*E/KW-BG
+'sixpence,': SEUBGS/*P/EPBS/KW-BG
 'if': TP
 'you': U
 'will."': HR/TP-PL/KR-GS

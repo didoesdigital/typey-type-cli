@@ -1268,7 +1268,7 @@ Jack the Dullard
 '"Well,': KW-GS/KPA*/WEL/KW-BG
 'it's': T-S
 'most': PHOFT
-'abominably': A*/PW*/O*/PH*/*EU/TPH*/A*/PW*/HR*/KWR*
+'abominably': AB/OPL/*EUPB/PWHREU
 'hot': HOT
 'here."': HAOER/TP-PL/KR-GS
 '"Yes,': KW-GS/KPA*/KWRE/KW-BG
