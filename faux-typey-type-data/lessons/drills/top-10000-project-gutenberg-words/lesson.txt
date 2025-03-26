@@ -9054,7 +9054,7 @@ Top 10000 Project Gutenberg words
 'fiscal': TPEUFBG
 'mien': PH*/*EU/*E/TPH*
 'charging': KHARPBLG/-G
-'cor': KR*/O*/R*
+'cor': KO*R
 'railing': RAEULG
 'peers': PAOERZ
 'inferred': TPH-FRD
@@ -9143,7 +9143,7 @@ Top 10000 Project Gutenberg words
 'rout': RO*UT
 'scatter': SKAERT
 'Boer': PWO/*ER
-'FTP': TP*P/T*P/P*P
+'FTP': TP-PT
 'Steve': STAOEF
 'extant': EBGS/TAPBT
 'Bohemia': PWOE/HAOEPL/KWRA
