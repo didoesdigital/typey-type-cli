@@ -481,7 +481,7 @@ appeared
 river
 continued
 eye
-ety
+{&ety}
 sun
 information
 later
