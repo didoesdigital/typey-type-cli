@@ -178,7 +178,9 @@ const generateLessonEntriesFromRules = (
     const bestOutline = bestStrokeAndDictAndName[0];
     const entry: DictEntry = [bestOutline, translation];
 
-    const isInWordList = words ? matchesWordList(entry, words, rules) : true;
+    const isInWordList = words
+      ? matchesWordList(translation, words, rules)
+      : true;
     const passesAllRules = ruleFilters(entry);
     const isNotExcludedTranslation =
       !translationExclusions.includes(translation);

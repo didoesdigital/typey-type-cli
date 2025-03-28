@@ -1,8 +1,13 @@
-import type { DictEntry, Rules } from "../../cli-types";
+import { Translation } from "src/shared/types";
 import ruleTransforms from "../../consts/ruleTransforms";
+import type { Rules } from "../../cli-types";
 
-const matchesWordList = (entry: DictEntry, words: string[], rules: Rules) => {
-  let transformed = entry[1];
+const matchesWordList = (
+  translation: Translation,
+  words: string[],
+  rules: Rules
+) => {
+  let transformed = translation;
 
   for (const [rule, expectation] of Object.entries(rules)) {
     if (expectation && ruleTransforms[rule]) {
