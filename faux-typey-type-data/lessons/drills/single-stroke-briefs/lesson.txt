@@ -2208,7 +2208,7 @@ Single-Stroke Briefs
 'general': SKWREPBL
 'generality': SKWREPBLT
 'generals': SKWREPBS
-'genetic': SKWRAO*EBG
+'genetic': SKWR*EPBG
 'genial': SKWRAOEPBL
 'gent': SKWREPBT
 'gentle': SKWR*EPBLT
