@@ -22,7 +22,7 @@ describe("recursively build stroke hint for phrase", () => {
   });
 
   afterEach(() => {
-    AffixList.setSharedInstance([]);
+    AffixList.setSharedInstance({ prefixes: [], suffixes: [] });
   });
 
   describe("no matches", () => {

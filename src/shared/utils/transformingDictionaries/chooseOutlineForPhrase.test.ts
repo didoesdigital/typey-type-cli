@@ -21,7 +21,7 @@ describe("choose outline for phrase", () => {
   });
 
   afterEach(() => {
-    AffixList.setSharedInstance([]);
+    AffixList.setSharedInstance({ prefixes: [], suffixes: [] });
   });
 
   describe("returns array of chosen outline and number of lookup attempts", () => {
