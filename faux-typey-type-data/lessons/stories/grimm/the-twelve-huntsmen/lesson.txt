@@ -848,7 +848,7 @@ The Twelve Huntsmen
 'replied:': RE/PHRAOEUD/STPH-FPLT
 ''They': A*E/KPA*/THE
 'have': SR
-'restrained': RAOE/STRAEUPBD
+'restrained': RE/STRAEUPBD
 'themselves.'': TH*EPLS/TP-PL/AE
 'The': KPA/-T
 'king,': KEUPBG/KW-BG

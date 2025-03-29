@@ -353,7 +353,7 @@ Multi-syllable words with multiple strokes
 'slightest': SHRAOEUT/EFT
 'attacked': A/TABGD
 'maintained': PHAEUPB/TAEUPBD
-'restored': RAOE/STORD
+'restored': RE/STORD
 'concealed': KAUPB/SAOELD
 'accordance': A/KORD/APBS
 'hollow': HOL/OE
@@ -701,7 +701,7 @@ Multi-syllable words with multiple strokes
 'medical': PHED/K-L
 'garrison': TKPWAEUR/SOPB
 'wife's': WAOEUF/AES
-'retained': RAOE/TAEUPBD
+'retained': RE/TAEUPBD
 'agitation': APBLG/TAEUGS
 'prominent': PROPL/TPHEPBT
 'embrace': EPL/PWRAEUS
@@ -1394,7 +1394,7 @@ Multi-syllable words with multiple strokes
 'terrace': TER/AS
 'allusion': A/HRAOUGS
 'Isabel': AOES/PWEL
-'resigned': RAOE/SAOEUPBD
+'resigned': RE/SAOEUPBD
 'humility': HAOUPL/EULT
 'Benjamin': PWEPBG/PHEUPB
 'marrying': PHAR/REU/-G
@@ -1611,7 +1611,7 @@ Multi-syllable words with multiple strokes
 'aloft': A/HROFT
 'indebted': EUPB/TKETD
 'logic': HROPBLG/EUBG
-'restrained': RAOE/STRAEUPBD
+'restrained': RE/STRAEUPBD
 'weariness': WAOER/REU/-PBS
 'enlarged': EPB/HRARPBLGD
 'Franklin': TPRAPB/KHREUPB
@@ -1711,7 +1711,7 @@ Multi-syllable words with multiple strokes
 'tended': TEPBD/-D
 'rejoicing': RE/SKWROEUFG
 'plunder': PHRUPBD/ER
-'removing': RAOE/PHOFG
+'removing': RE/PHOFG
 'jungle': SKWRUPBG/-L
 'famine': TPAPL/-PB
 'palaces': PAL/AS/-S
@@ -2309,7 +2309,7 @@ Multi-syllable words with multiple strokes
 'demanding': TKPHAPBD/-G
 'beset': PWE/SET
 'ensuring': EPB/SHAOURPBG
-'regained': RAOE/TKPWAEUPBD
+'regained': RE/TKPWAEUPBD
 'voluntarily': SROL/TAERL
 'longitude': HROPBG/TAOUD
 'permanently': PERPL/HREU
@@ -2355,7 +2355,7 @@ Multi-syllable words with multiple strokes
 'interfered': EUPBT/TPAOERD
 'Achilles': A/KEUL/ES
 'wanton': WAPB/TOPB
-'repay': RAOE/PAEU
+'repay': RE/PAEU
 'routine': RAOU/TAOEPB
 'grassy': TKPWRAS/SEU
 'unsuccessful': UPB/SKEFL

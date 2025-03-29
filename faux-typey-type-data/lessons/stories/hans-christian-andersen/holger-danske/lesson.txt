@@ -1095,7 +1095,7 @@ Holger Danske
 'as': AS
 'I': EU
 'have': SR
-'retained': RAOE/TAEUPBD
+'retained': RE/TAEUPBD
 'it': T
 'in': TPH
 'my': PHEU

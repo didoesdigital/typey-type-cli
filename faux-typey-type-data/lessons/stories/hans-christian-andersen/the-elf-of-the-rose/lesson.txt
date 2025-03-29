@@ -1075,7 +1075,7 @@ The Elf of the Rose
 'stood;': STAOD/STPH*FPLT
 'and': SKP
 'after': AF
-'removing': RAOE/PHOFG
+'removing': RE/PHOFG
 'the': -T
 'leaves': HREFS
 'from': TPR

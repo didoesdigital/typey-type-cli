@@ -2180,7 +2180,7 @@ Iron Hans
 'could': KO
 'hardly': HA*RLD
 'be': -B
-'restrained,': RAOE/STRAEUPBD/KW-BG
+'restrained,': RE/STRAEUPBD/KW-BG
 'and': SKP
 'behind': HEUPBD
 'them': THEPL

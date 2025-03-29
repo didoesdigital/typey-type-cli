@@ -903,7 +903,7 @@ The Goblin and the Huckster
 'goblin': TKPWOB/HREUPB
 'entered': SPWR-D
 'and': SKP
-'restored': RAOE/STORD
+'restored': RE/STORD
 'the': -T
 'tongue': TUPBG
 'to': TO

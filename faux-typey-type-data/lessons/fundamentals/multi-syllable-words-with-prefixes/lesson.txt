@@ -114,7 +114,7 @@ Multi-syllable words with prefixes
 'declare': TKE/KHRAR
 'beheld': PWE/HELD
 'attacked': A/TABGD
-'restored': RAOE/STORD
+'restored': RE/STORD
 'concealed': KAUPB/SAOELD
 'accordance': A/KORD/APBS
 'contains': KAUPB/TAEUPBS
@@ -210,7 +210,7 @@ Multi-syllable words with prefixes
 'pretend': PRE/TEPBD
 'alas': A/HRAS
 'awakened': A/WAEUBG/-PBD
-'retained': RAOE/TAEUPBD
+'retained': RE/TAEUPBD
 'embrace': EPL/PWRAEUS
 'awoke': A/WOEBG
 'incomplete': EUPB/KPHRAOET
@@ -391,7 +391,7 @@ Multi-syllable words with prefixes
 'offspring': AUF/SPREUPBG
 'indispensable': EUPB/TKEUS/PEPBS/-BL
 'allusion': A/HRAOUGS
-'resigned': RAOE/SAOEUPBD
+'resigned': RE/SAOEUPBD
 'endowed': EPB/TKOU/-D
 'restraint': RE/STRAEUPBT
 'professed': PRO/TPES/-D
@@ -438,7 +438,7 @@ Multi-syllable words with prefixes
 'indulged': EUPB/TKULGD
 'aloft': A/HROFT
 'indebted': EUPB/TKETD
-'restrained': RAOE/STRAEUPBD
+'restrained': RE/STRAEUPBD
 'enlarged': EPB/HRARPBLGD
 'refrain': RE/TPRAEUPB
 'unexpectedly': UPB/EBGS/PEBGT/-D/HREU
@@ -464,7 +464,7 @@ Multi-syllable words with prefixes
 'intensely': EUPB/TEPBS/HREU
 'insignificant': EUPB/SEUG
 'rejoicing': RE/SKWROEUFG
-'removing': RAOE/PHOFG
+'removing': RE/PHOFG
 'improvements': EUPL/PROFPLTS
 'instinctively': EUPB/STEUPBGT/EUFL
 'detailed': TKE/TAEULD
@@ -611,7 +611,7 @@ Multi-syllable words with prefixes
 'attach': A/TAFP
 'beset': PWE/SET
 'ensuring': EPB/SHAOURPBG
-'regained': RAOE/TKPWAEUPBD
+'regained': RE/TKPWAEUPBD
 'uproar': AUP/RAOR
 'unsolicited': UPB/SHREUS/-D
 'reluctant': RE/HRUBGT/APBT
@@ -620,7 +620,7 @@ Multi-syllable words with prefixes
 'redistribution': RE/TKR-BGS
 'eminently': EPL/TPHEPBT/HREU
 'interfered': EUPBT/TPAOERD
-'repay': RAOE/PAEU
+'repay': RE/PAEU
 'unsuccessful': UPB/SKEFL
 'renown': RE/TPHOUPB
 'defy': TKE/TPEU

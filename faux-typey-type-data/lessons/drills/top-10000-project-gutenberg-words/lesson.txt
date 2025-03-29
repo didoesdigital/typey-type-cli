@@ -2720,7 +2720,7 @@ Top 10000 Project Gutenberg words
 'attacked': A/TABGD
 'organization': ORGS
 'maintained': PHAEUPB/TAEUPBD
-'restored': RAOE/STORD
+'restored': RE/STORD
 'folks': TPOBG
 'concealed': KAUPB/SAOELD
 'accordance': A/KORD/APBS
@@ -3858,7 +3858,7 @@ Top 10000 Project Gutenberg words
 'heroic': HOEURBG
 'inform': TPH-F
 'wife's': WAOEUF/AES
-'retained': RAOE/TAEUPBD
+'retained': RE/TAEUPBD
 'agitation': APBLG/TAEUGS
 'nobles': TPHOEBLS
 'prominent': PROPL/TPHEPBT
@@ -5603,7 +5603,7 @@ Top 10000 Project Gutenberg words
 'grip': TKPWREUP
 'juice': SKWRAOUS
 'Isabel': AOES/PWEL
-'resigned': RAOE/SAOEUPBD
+'resigned': RE/SAOEUPBD
 'humility': HAOUPL/EULT
 'Benjamin': PWEPBG/PHEUPB
 'blast': PWHRAFT
@@ -6081,7 +6081,7 @@ Top 10000 Project Gutenberg words
 'dearly': TKAERL
 'logic': HROPBLG/EUBG
 'panic': PA*PBG
-'restrained': RAOE/STRAEUPBD
+'restrained': RE/STRAEUPBD
 'lb': HR*/PW*
 'vainly': SRA*EUPB/HREU
 'weariness': WAOER/REU/-PBS
@@ -6303,7 +6303,7 @@ Top 10000 Project Gutenberg words
 'threat': THRET
 'legislature': HR*UR
 'plunder': PHRUPBD/ER
-'removing': RAOE/PHOFG
+'removing': RE/PHOFG
 'jungle': SKWRUPBG/-L
 'ghosts': TKPWOEFTS
 'numbered': TPHUPLD
@@ -7582,7 +7582,7 @@ Top 10000 Project Gutenberg words
 'thereto': THR-T
 'heaped': HAOEPD
 'jewel': SKWRAOUL
-'regained': RAOE/TKPWAEUPBD
+'regained': RE/TKPWAEUPBD
 'voluntarily': SROL/TAERL
 'longitude': HROPBG/TAOUD
 'permanently': PERPL/HREU
@@ -7670,7 +7670,7 @@ Top 10000 Project Gutenberg words
 'interfered': EUPBT/TPAOERD
 'Achilles': A/KEUL/ES
 'wanton': WAPB/TOPB
-'repay': RAOE/PAEU
+'repay': RE/PAEU
 'brother-in-law': PWROERPBL
 'routine': RAOU/TAOEPB
 'son-in-law': SOPBL

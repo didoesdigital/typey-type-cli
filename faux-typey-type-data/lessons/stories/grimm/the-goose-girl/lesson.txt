@@ -2213,7 +2213,7 @@ The Goose-Girl
 'see': SAOE
 'them,': THEPL/KW-BG
 'and': SKP
-'restored': RAOE/STORD
+'restored': RE/STORD
 'the': -T
 'faithful': TPA*EUT/-FL
 'Falada': TP*P/A*/HR*/A*/TK*/SKWRA

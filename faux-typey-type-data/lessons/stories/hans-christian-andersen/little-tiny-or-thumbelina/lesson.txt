@@ -2475,7 +2475,7 @@ Little Tiny or Thumbelina
 'the': -T
 'warmth': WARPLT
 'had': H
-'restored': RAOE/STORD
+'restored': RE/STORD
 'him': HEUPL
 'to': TO
 'life.': HRAOEUF/TP-PL

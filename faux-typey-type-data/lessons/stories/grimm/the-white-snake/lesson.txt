@@ -683,7 +683,7 @@ The White Snake
 'remember': RER
 'you': U
 'and': SKP
-'repay': RAOE/PAEU
+'repay': RE/PAEU
 'you': U
 'for': TPOR
 'saving': SAFG

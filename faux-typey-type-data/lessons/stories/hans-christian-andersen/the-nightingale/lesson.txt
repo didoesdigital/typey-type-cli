@@ -3252,7 +3252,7 @@ The Nightingale
 'awoke,': A/WOEBG/KW-BG
 'strengthened': STR*EPBG/-PBD
 'and': SKP
-'restored,': RAOE/STORD/KW-BG
+'restored,': RE/STORD/KW-BG
 'the': -T
 'sun': SUPB
 'shone': SHO*EPB

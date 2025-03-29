@@ -3104,7 +3104,7 @@ Everything in the Right Place
 'there': THR
 'and': SKP
 'were': WR
-'restored.': RAOE/STORD/TP-PL
+'restored.': RE/STORD/TP-PL
 '"Everything': KW-GS/KPA*/EFRG
 'in': TPH
 'the': -T
