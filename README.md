@@ -212,7 +212,7 @@ For interactive debugging, here are some options:
 
 ```sh
 yarn build && node --inspect-brk ./build/index.js build-lesson --target=faux-typey-type-data/lessons/drills/homophones/lesson.txt --metadata=faux-typey-type-data/lesson-source-data/drills/homophones/meta.json
-yarn build && node --inspect-brk ./build/index.js build-typey-type-dictionary --target=faux-typey-type-data/lesson-intermediate-data/typey-type-standard-dict-set-combined.json --intermediate
+yarn build && node --inspect-brk ./build/index.js build-typey-type-dictionary --target=faux-typey-type-data/lesson-intermediate-data/typey-type-standard-dict-set-combined.json
 yarn build && node --inspect-brk ./build/index.js build-lesson-index
 ```
 
