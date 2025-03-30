@@ -3,7 +3,7 @@
 import fs from "node:fs/promises";
 
 import lessonTargetDataDir from "../consts/lessonTargetDataDir";
-import { StenoDictionary } from "src/shared/types";
+import type { StenoDictionary } from "src/shared/types";
 
 const longestSingleStrokeTarget = `${lessonTargetDataDir}/drills/longest-words-with-single-stroke-briefs/longest-words-with-single-stroke-briefs.json`;
 const singleStrokeTarget = `${lessonTargetDataDir}/drills/single-stroke-briefs/single-stroke-briefs.json`;

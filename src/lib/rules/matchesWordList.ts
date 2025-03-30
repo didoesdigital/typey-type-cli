@@ -1,5 +1,5 @@
-import { Translation } from "src/shared/types";
 import ruleTransforms from "../../consts/ruleTransforms";
+import type { Translation } from "src/shared/types";
 import type { Rules } from "../../cli-types";
 
 const matchesWordList = (
