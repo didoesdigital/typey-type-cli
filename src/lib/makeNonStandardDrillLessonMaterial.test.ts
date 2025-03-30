@@ -1,7 +1,13 @@
+import AFFIXES from "../shared/utils/affixes/affixes";
+import loadAffixes from "../lib/loadAffixesFromFile";
 import makeNonStandardDrillLessonMaterial from "./makeNonStandardDrillLessonMaterial";
 import type { StenoDictionary } from "../shared/types";
 
 describe("makeNonStandardDrillLessonMaterial", () => {
+  beforeAll(() => {
+    AFFIXES.setLoadFunction(loadAffixes);
+  });
+
   it("returns non-standard drill lesson material", async () => {
     // const recommendedLookupDict: LookupDictWithNamespacedDicts = new Map([
     //   ["it", [["KPWH", "typey:typey-type.json"]]],

@@ -1,7 +1,13 @@
+import AFFIXES from "../shared/utils/affixes/affixes";
+import loadAffixes from "../lib/loadAffixesFromFile";
 import lookUpWords from "./lookUpWords";
 import type { LookupDictWithNamespacedDicts } from "../shared/types";
 
 describe("lookUpWords", () => {
+  beforeAll(() => {
+    AFFIXES.setLoadFunction(loadAffixes);
+  });
+
   it("returns entries", async () => {
     const lookupDict: LookupDictWithNamespacedDicts = new Map([
       ["pleased", [["PHREFD", "namespaced:dict.json"]]],

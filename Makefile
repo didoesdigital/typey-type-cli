@@ -18,6 +18,7 @@ LESSON_SRC_DIR := $(DATA_DIR)/lesson-source-data
 LESSON_INDEX_SRC := $(LESSON_SRC_DIR)/sourceLessonIndex.json
 DICTIONARIES_SRC_DIR := $(DATA_DIR)/dictionary-source-data
 DICTIONARIES_TARGET_DIR := $(DATA_DIR)/dictionaries
+AFFIXES_TARGET_DIR := $(DATA_DIR)/affixes
 TARGET_MISSTROKES_JSON := $(DICTIONARIES_TARGET_DIR)/didoesdigital/misstrokes.json
 TARGET_EMOJI_JSON := $(DICTIONARIES_TARGET_DIR)/didoesdigital/emoji.json
 DICTIONARY_INTERMEDIATE_DIR := $(DATA_DIR)/dictionary-intermediate-data
@@ -102,7 +103,8 @@ intermediate-standard-dict: $(LESSON_INTERMEDIATE_DIR)/typey-type-standard-dict-
 $(LESSON_INTERMEDIATE_DIR)/typey-type-standard-dict-set-combined.json: build/index.js $(ALL_TS_FILES) $(TYPEY_TYPE_DICTIONARIES)
 	@mkdir -p "$(LESSON_INTERMEDIATE_DIR)" # make sure intermediate lesson directory exists before adding subdirectories inside them
 	@mkdir -p "$(DICTIONARY_INTERMEDIATE_DIR)" # make sure intermediate dictionary directory exists before adding subdirectories inside them
-	@echo "Running build-typey-type-dictionary for intermediate dict"
+	@mkdir -p "$(AFFIXES_TARGET_DIR)" # make sure target affixes directory exists before adding affixes inside
+	@echo "Running build-typey-type-dictionary for intermediate dict (and affixes.json)"
 	@$(CLI) build-typey-type-dictionary --target=$@
 
 # typey-type-dict
@@ -110,7 +112,8 @@ typey-type-dict: $(DATA_DIR)/dictionaries/typey-type/typey-type-full.json
 $(DATA_DIR)/dictionaries/typey-type/typey-type-full.json: build/index.js $(TYPEY_TYPE_DICTIONARIES) $(ALL_TS_FILES)
 	@mkdir -p "$(DICTIONARY_INTERMEDIATE_DIR)" # make sure intermediate dictionary directory exists before adding subdirectories inside them
 	@mkdir -p "$(TYPEY_TARGET_DICT_DIR)" # make sure target typey-type subdirectory exists before adding files inside
-	@echo "Running build-typey-type-dictionary to build typey-type-full.json (and typey-type.json)"
+	@mkdir -p "$(AFFIXES_TARGET_DIR)" # make sure target affixes directory exists before adding affixes inside
+	@echo "Running build-typey-type-dictionary to build typey-type-full.json (and typey-type.json and affixes.json)"
 	@$(CLI) build-typey-type-dictionary --target=$@
 
 # emoji-dict
@@ -214,6 +217,8 @@ clean:
 	@mkdir -p "$(LESSON_TARGET_DIR)"
 	@if [ -e $(LESSON_INTERMEDIATE_DIR) ] ; then rm -r $(LESSON_INTERMEDIATE_DIR); fi;
 	@mkdir -p "$(LESSON_INTERMEDIATE_DIR)"
+	@if [ -e $(AFFIXES_TARGET_DIR) ] ; then rm -r $(AFFIXES_TARGET_DIR); fi;
+	@mkdir -p "$(AFFIXES_TARGET_DIR)"
 
 # # This is an example of a make recipe with useful reminders of make syntax…
 # faux-typey-type-data/lesson-source-data/fundamentals/introduction/lesson.txt: faux-typey-type-data/lesson-source-data/fundamentals/introduction/meta.json faux-typey-type-data/dictionaries/didoesdigital/dict.json

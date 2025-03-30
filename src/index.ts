@@ -14,7 +14,13 @@ import buildEmojiDictionary from "./commands/buildEmojiDictionary";
 import buildEmojiStrategy from "./commands/buildEmojiStrategy";
 import addNewRule from "./commands/addNewRule";
 import splitLessonIndex from "./commands/splitLessonIndex";
+import affixes from "./shared/utils/affixes/affixes";
+import loadAffixes from "./lib/loadAffixesFromFile";
 
+// Note: we *could* set the load function only in the modules of the commands
+// that need it (building Typey Type dictionary and building fundamental and
+// drill lessons). This is simpler for now.
+affixes.setLoadFunction(loadAffixes);
 
 async function main() {
   const program = new Command();

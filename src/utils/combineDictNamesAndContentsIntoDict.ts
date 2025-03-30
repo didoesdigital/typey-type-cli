@@ -1,9 +1,8 @@
 import rankOutlines from "../shared/utils/transformingDictionaries/rankOutlines/rankOutlines";
-import affixesJSON from "../consts/affixes.json";
+import AFFIXES from "../shared/utils/affixes/affixes";
 import sortByStenoOrder from "./sortByStenoOrder";
 
 import type {
-  AffixObject,
   DictName,
   Outline,
   StenoDictionary,
@@ -26,7 +25,6 @@ type TempDict = Map<Translation, OutlineAndDictName[]>;
 // NOTE: We are only using Typey Type dictionaries without misstrokes, otherwise we'd need to
 // import the misstrokes.json file here instead of using an empty object
 const misstrokes = {};
-const affixes = affixesJSON as AffixObject;
 
 /**
  * Combines dictionaries into a slim dictionary with brief solitude
@@ -89,7 +87,7 @@ const combineDictNamesAndContentsIntoDict = (
         listOfStrokeAndDictAndNamespace,
         misstrokes,
         translation,
-        affixes
+        AFFIXES.getSharedAffixes()
       );
 
       const bestOutline = allOutlines[0][0];

@@ -1,4 +1,13 @@
-import type { PersonalDictionaryNameAndContents } from "../../types";
+import LATEST_TYPEY_TYPE_FULL_DICT_NAME from "../../../shared/constant/latestTypeyTypeFullDictName";
+import misstrokesJSON from "../../../shared/json/misstrokes.json";
+import createGlobalLookupDictionary from "./createGlobalLookupDictionary";
+import getAffixMisstrokesFromMisstrokes from "../affixes/getAffixMisstrokesFromMisstrokes";
+import getAffixesFromLookupDict from "../affixes/getAffixesFromLookupDict";
+import AFFIXES from "../affixes/affixes";
+import type {
+  PersonalDictionaryNameAndContents,
+  StenoDictionary,
+} from "../../types";
 
 // One entry per phrase:
 const testTypeyTypeDict = {
@@ -2391,4 +2400,28 @@ const personalDictionaries: PersonalDictionaryNameAndContents[] = [
   ["test-aussie.json", testAussieDict],
 ];
 
-export { testTypeyTypeDict, testTypeyTypeExtras, personalDictionaries };
+const testTypeyTypeFull = { ...testTypeyTypeDict, ...testTypeyTypeExtras };
+
+const testGlobalLookupDictionary = createGlobalLookupDictionary(
+  personalDictionaries,
+  [[testTypeyTypeFull, LATEST_TYPEY_TYPE_FULL_DICT_NAME]]
+);
+const misstrokes = misstrokesJSON as StenoDictionary;
+const affixMisstrokes = getAffixMisstrokesFromMisstrokes(misstrokes);
+const testAffixes = getAffixesFromLookupDict(
+  testGlobalLookupDictionary,
+  affixMisstrokes
+);
+// const affixesLoadFunction = () => {
+//   return testAffixes;
+// };
+// AFFIXES.setLoadFunction(affixesLoadFunction);
+// AFFIXES.setSharedAffixes(testAffixes);
+
+export {
+  testTypeyTypeDict,
+  testTypeyTypeExtras,
+  personalDictionaries,
+  testGlobalLookupDictionary,
+  testAffixes,
+};

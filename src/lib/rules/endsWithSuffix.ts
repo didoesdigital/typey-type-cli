@@ -1,7 +1,7 @@
-import AFFIXES from "../../consts/affixes.json";
+import AFFIXES from "../../shared/utils/affixes/affixes";
 
 const endsWithSuffix = (outline: string, translation: string) =>
-  AFFIXES.suffixes.some(
+  AFFIXES.getSharedAffixes().suffixes.some(
     ([suffixOutline, suffixText]) =>
       outline.endsWith(suffixOutline) && translation.endsWith(suffixText)
   );

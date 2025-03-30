@@ -1,7 +1,13 @@
+import AFFIXES from "../shared/utils/affixes/affixes";
+import loadAffixes from "../lib/loadAffixesFromFile";
 import makeStandardDrillLessonMaterial from "./makeStandardDrillLessonMaterial";
 import type { LookupDictWithNamespacedDicts } from "../shared/types";
 
 describe("makeStandardDrillLessonMaterial", () => {
+  beforeAll(() => {
+    AFFIXES.setLoadFunction(loadAffixes);
+  });
+
   it("returns standard drill lesson material with no presentation options", async () => {
     const vocabLookupDict: LookupDictWithNamespacedDicts = new Map([
       ["14", [["14", "typey:typey-type.json"]]],

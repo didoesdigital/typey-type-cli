@@ -1,7 +1,7 @@
-import AFFIXES from "../../consts/affixes.json";
+import AFFIXES from "../../shared/utils/affixes/affixes";
 
 const startsWithPrefix = (outline: string, translation: string) =>
-  AFFIXES.prefixes.some(
+  AFFIXES.getSharedAffixes().prefixes.some(
     ([prefixOutline, prefixText]) =>
       outline.startsWith(prefixOutline) && translation.startsWith(prefixText)
   );

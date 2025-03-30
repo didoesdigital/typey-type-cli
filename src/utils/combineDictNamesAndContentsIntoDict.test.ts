@@ -1,6 +1,12 @@
+import AFFIXES from "../shared/utils/affixes/affixes";
+import loadAffixes from "../lib/loadAffixesFromFile";
 import combineDictNamesAndContentsIntoDict from "./combineDictNamesAndContentsIntoDict";
 
 describe("combineDictNamesAndContentsIntoDict", () => {
+  beforeAll(() => {
+    AFFIXES.setLoadFunction(loadAffixes);
+  });
+
   it("combines dictionaries in given order, ranking duplicate outlines, then overriding previous entries, with top-10000-project-gutenberg-words.json trumping all others, to produce typey-type.json", async () => {
     expect(
       combineDictNamesAndContentsIntoDict([
