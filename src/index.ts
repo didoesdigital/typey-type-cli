@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 "use strict";
 
+import { Command } from "commander";
 import buildLesson from "./commands/buildLesson";
 import buildLessonIndex from "./commands/buildLessonIndex";
 import checkDuplicateOutlines from "./commands/checkDuplicateOutlines";
@@ -14,7 +15,6 @@ import buildEmojiStrategy from "./commands/buildEmojiStrategy";
 import addNewRule from "./commands/addNewRule";
 import splitLessonIndex from "./commands/splitLessonIndex";
 
-import { Command } from "commander";
 
 async function main() {
   const program = new Command();
