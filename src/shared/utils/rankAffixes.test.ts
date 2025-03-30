@@ -41,7 +41,7 @@ const affixMisstrokes: StenoDictionary = {
   "KAO*ERP": "{^keeper}",
   "KAUB": "{sub^}",
   "KOBG/SKWRUS": "{^coccus}",
-  "KOUFRPBT": "{counter^}",
+  "KOURPBT": "{counter^}",
   "KPWHROS/SO": "{glosso^}",
   "KR*GS": '{^"}',
   "KR-GS": '{^"}',
