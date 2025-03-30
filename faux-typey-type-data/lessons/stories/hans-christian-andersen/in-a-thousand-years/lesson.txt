@@ -313,7 +313,7 @@ In a Thousand Years
 'Charlemagne': KHARL/PHAEUPB
 'and': SKP
 'Napoleon.': TPHA/POL/KWROPB/TP-PL
-'Moliere': PH*P/HRO*/KWRER/SKWRE
+'Moliere': PH*P/O*L/KWRER/SKWRE
 'is': S
 'named,': TPHAEUPLD/KW-BG
 'the': -T

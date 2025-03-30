@@ -1377,7 +1377,7 @@ Holger Danske
 'a': AEU
 'collection': KHREBGS
 'of': -F
-'Holberg's': H*P/HRO*/PWERG/AES
+'Holberg's': H*P/O*L/PWERG/AES
 'plays,': PHRAEUZ/KW-BG
 'which': WEU
 'are': R

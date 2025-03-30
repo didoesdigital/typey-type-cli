@@ -1801,7 +1801,7 @@ Ole the Tower-Keeper
 'the': -T
 'grave': TKPWRAEUF
 'of': -F
-'Holberg,': H*P/HRO*/PWERG/KW-BG
+'Holberg,': H*P/O*L/PWERG/KW-BG
 'the': -T
 'thanks': THAPBGS
 'of': -F

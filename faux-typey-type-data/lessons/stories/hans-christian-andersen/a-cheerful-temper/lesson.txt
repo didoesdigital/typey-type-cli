@@ -715,7 +715,7 @@ A Cheerful Temper
 'a': AEU
 'view': SRAOU
 'of': -F
-'Tyrol,': T*P/KWR*/R*/HRO*/KW-BG
+'Tyrol,': T*P/KWR*/R*/O*L/KW-BG
 'or': OR
 'a': AEU
 'beech-tree': PWAOEFP/H-PB/TRAOE

@@ -716,7 +716,7 @@ The Chaos
 'wool,': WAOL/KW-BG
 'boon,': PWAOPB/KW-BG
 'Worcester,': W*P/O*/R*/KR*/SKWRE/STER/KW-BG
-'Boleyn,': *B/HRO*/KWRAOE/*PB/KW-BG
+'Boleyn,': *B/O*L/KWRAOE/*PB/KW-BG
 'to': TO
 'impugn.': EUPL/PAOUPB/TP-PL
 'Say': KPA/SAEU

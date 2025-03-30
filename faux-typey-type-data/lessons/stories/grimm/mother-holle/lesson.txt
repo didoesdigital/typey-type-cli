@@ -464,7 +464,7 @@ Mother Holle
 'I': EU
 'am': APL
 'Mother': KPA/PHOER
-'Holle.'': H*P/HRO*/*L/TP-PL/AE
+'Holle.'': H*P/O*L/*L/TP-PL/AE
 'The': KPA/-T
 'old': OLD
 'woman': WOPL
@@ -550,7 +550,7 @@ Mother Holle
 'on': OPB
 'with': W
 'Mother': KPA/PHOER
-'Holle': H*P/HRO*/*L
+'Holle': H*P/O*L/*L
 'for': TPOR
 'some': SOPL
 'time,': TAOEUPL/KW-BG
@@ -599,7 +599,7 @@ Mother Holle
 'off': OF
 'with': W
 'Mother': KPA/PHOER
-'Holle': H*P/HRO*/*L
+'Holle': H*P/O*L/*L
 'than': THAPB
 'with': W
 'her': HER
@@ -613,7 +613,7 @@ Mother Holle
 'went': WEPBT
 'to': TO
 'Mother': KPA/PHOER
-'Holle': H*P/HRO*/*L
+'Holle': H*P/O*L/*L
 'and': SKP
 'said,': SED/KW-BG
 ''I': A*E/EU
@@ -644,7 +644,7 @@ Mother Holle
 'people.'': PAOEPL/TP-PL/AE
 'Then': KPA/THEPB
 'Mother': KPA/PHOER
-'Holle': H*P/HRO*/*L
+'Holle': H*P/O*L/*L
 'said,': SED/KW-BG
 ''I': A*E/EU
 'am': APL
@@ -732,7 +732,7 @@ Mother Holle
 'industry,'': STREU/KW-BG/AE
 'said': SED
 'Mother': KPA/PHOER
-'Holle,': H*P/HRO*/*L/KW-BG
+'Holle,': H*P/O*L/*L/KW-BG
 'and': SKP
 'as': AS
 'she': SHE
@@ -1016,7 +1016,7 @@ Mother Holle
 'came': KAEUPL
 'to': TO
 'Mother': KPA/PHOER
-'Holle's': H*P/HRO*/*L/AES
+'Holle's': H*P/O*L/*L/AES
 'house,': HOUS/KW-BG
 'and': SKP
 'as': AS
@@ -1061,7 +1061,7 @@ Mother Holle
 'to': TO
 'please': PHRES
 'Mother': KPA/PHOER
-'Holle,': H*P/HRO*/*L/KW-BG
+'Holle,': H*P/O*L/*L/KW-BG
 'for': TPOR
 'she': SHE
 'thought': THAUT
@@ -1133,7 +1133,7 @@ Mother Holle
 'about.': PW/TP-PL
 'So': KPA/SO
 'Mother': KPA/PHOER
-'Holle': H*P/HRO*/*L
+'Holle': H*P/O*L/*L
 'very': SRE
 'soon': SAOPB
 'got': TKPWOT
@@ -1164,7 +1164,7 @@ Mother Holle
 'be': -B
 'mine.'': PHAOEUPB/TP-PL/AE
 'Mother': KPA/PHOER
-'Holle': H*P/HRO*/*L
+'Holle': H*P/O*L/*L
 'led': HRED
 'her,': HER/KW-BG
 'as': AS

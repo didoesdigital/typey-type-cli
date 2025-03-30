@@ -960,7 +960,7 @@ Our Aunt
 'the': -T
 'dungeon': TKUPBGS
 'of': -F
-'Ugolino,': *UP/TKPW*/HRO*/*EUPB/SKWRO/KW-BG
+'Ugolino,': *UP/TKPW*/O*L/*EUPB/SKWRO/KW-BG
 'where': W-R
 'that': THA
 'unhappy': UPB/HAEP

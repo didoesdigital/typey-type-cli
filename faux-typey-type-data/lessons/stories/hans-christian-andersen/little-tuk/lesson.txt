@@ -1126,7 +1126,7 @@ Little Tuk
 'pretty': PREUT
 'stories': STOERS
 'from': TPR
-'Holberg's': H*P/HRO*/PWERG/AES
+'Holberg's': H*P/O*L/PWERG/AES
 'comedies,': KOPL/TKEU/-S
 'and': SKP
 'about': PW

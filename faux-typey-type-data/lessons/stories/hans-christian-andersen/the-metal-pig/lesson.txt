@@ -883,7 +883,7 @@ The Metal Pig
 'times.': TAOEUPLS/TP-PL
 'The': KPA/-T
 'Florentine,': TPHROR/EPB/TAOEPB/KW-BG
-'Angiolo': KPA/APBG/SKWREU/HRO*/SKWRO
+'Angiolo': KPA/APBG/SKWREU/O*L/SKWRO
 'Bronzino,': PW*P/R*/O*/TPH*/STKPW*/*EUPB/SKWRO/KW-BG
 'painted': PAEUPBTD
 'this': TH
