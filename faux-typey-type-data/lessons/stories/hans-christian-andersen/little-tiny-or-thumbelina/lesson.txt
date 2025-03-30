@@ -239,7 +239,7 @@ Little Tiny or Thumbelina
 'rose-leaf': ROEZ/H-PB/HRAOEF
 'for': TPOR
 'a': AEU
-'counterpane.': KOUFRPBT/PAEPB/TP-PL
+'counterpane.': KOURPBT/PAEPB/TP-PL
 'Here': KPA/HAOER
 'she': SHE
 'slept': SHREPT
@@ -2568,7 +2568,7 @@ Little Tiny or Thumbelina
 'for': TPOR
 'her': HER
 'own': OEPB
-'counterpane,': KOUFRPBT/PAEPB/KW-BG
+'counterpane,': KOURPBT/PAEPB/KW-BG
 'and': SKP
 'laid': HRAEUD
 'it': T

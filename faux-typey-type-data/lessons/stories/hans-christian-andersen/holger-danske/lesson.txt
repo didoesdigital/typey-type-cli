@@ -465,7 +465,7 @@ Holger Danske
 'chin': KHEUPB
 'against': TKPWEPBS
 'the': -T
-'counterpane,': KOUFRPBT/PAEPB/KW-BG
+'counterpane,': KOURPBT/PAEPB/KW-BG
 'and': SKP
 'imagined': PHAPBLGD
 'that': THA

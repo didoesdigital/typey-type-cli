@@ -833,7 +833,7 @@ The Elf of the Rose
 'hair': HAEUR
 'upon': POPB
 'the': -T
-'counterpane;': KOUFRPBT/PAEPB/STPH*FPLT
+'counterpane;': KOURPBT/PAEPB/STPH*FPLT
 'but': PWUT
 'he': HE
 'did': TK
