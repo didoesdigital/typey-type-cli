@@ -1,17 +1,19 @@
 import combineValidDictionaries from "./combineValidDictionaries";
-import createAGlobalLookupDictionary from "./createAGlobalLookupDictionary";
+import createGlobalLookupDictionary from "./createGlobalLookupDictionary";
 import {
   testTypeyTypeDict,
-  testPloverDict,
+  testTypeyTypeExtras,
   personalDictionaries,
 } from "./transformingDictionaries.fixtures";
 import { AffixList } from "../affixList";
+import LATEST_TYPEY_TYPE_FULL_DICT_NAME from "../../constant/latestTypeyTypeFullDictName";
 import type { PersonalDictionaryNameAndContents } from "../../types";
 
-const globalLookupDictionary = createAGlobalLookupDictionary(
+const testTypeyTypeFull = { ...testTypeyTypeDict, ...testTypeyTypeExtras };
+
+const globalLookupDictionary = createGlobalLookupDictionary(
   personalDictionaries,
-  testTypeyTypeDict,
-  testPloverDict
+  [[testTypeyTypeFull, LATEST_TYPEY_TYPE_FULL_DICT_NAME]]
 );
 
 describe("combining valid dictionaries without sorting", () => {
@@ -23,7 +25,7 @@ describe("combining valid dictionaries without sorting", () => {
     AffixList.setSharedInstance({ prefixes: [], suffixes: [] });
   });
 
-  it("returns a combined Map with strokes left unsorted which means dictionary insertion order and alphabetic where personal dictionaries are processed first, then Typey Type, then Plover", () => {
+  it("returns a combined Map with strokes left unsorted which means dictionary insertion order and alphabetic where personal dictionaries are processed first, then Typey Type", () => {
     let personalDictionaries: PersonalDictionaryNameAndContents[] = [
       ["personal.json", { "TAO*EUPT": "Typey Type" }],
       ["overrides.json", { "SED": "sed" }],
@@ -43,27 +45,13 @@ describe("combining valid dictionaries without sorting", () => {
       "TPHO": "no",
       "TPOR": "for",
       "WHEPB": "when",
-    };
-
-    let testPloverDict = {
-      "*F": "of",
-      "-F": "of",
       "1-R": "I",
-      "APBD": "and",
-      "E": "he",
-      "HE": "he",
-      "O": "to",
       "P-R": "for",
-      "PHO": "no",
-      "SAEUD": "said",
-      "SED": "said",
-      "SKP": "and",
-      "SOUPBD/-Z": "sounds",
-      "SOUPBDZ": "sounds",
-      "SOUPBSD": "sounds",
-      "SP": "and",
-      "SPH": "some",
       "WH": "when",
+      "PHO": "no",
+      "SPH": "some",
+      "APBD": "and",
+      "SOUPBD/-Z": "sounds",
     };
 
     let expectedCombinedDict = new Map([
@@ -71,98 +59,75 @@ describe("combining valid dictionaries without sorting", () => {
       [
         "and",
         [
-          ["SKP", "typey:typey-type.json"],
-          ["APBD", "plover:plover-main-3-jun-2018.json"],
-          ["SKP", "plover:plover-main-3-jun-2018.json"],
-          ["SP", "plover:plover-main-3-jun-2018.json"],
+          ["SKP", "typey:typey-type-full.json"],
+          ["APBD", "typey:typey-type-full.json"],
         ],
       ],
-      [
-        "to",
-        [
-          ["TO", "typey:typey-type.json"],
-          ["O", "plover:plover-main-3-jun-2018.json"],
-        ],
-      ],
+      ["to", [["TO", "typey:typey-type-full.json"]]],
       [
         "said",
         [
-          ["SAEUD", "typey:typey-type.json"],
-          ["SED", "typey:typey-type.json"],
-          ["SAEUD", "plover:plover-main-3-jun-2018.json"],
-          ["SED", "plover:plover-main-3-jun-2018.json"],
+          ["SAEUD", "typey:typey-type-full.json"],
+          ["SED", "typey:typey-type-full.json"],
         ],
       ],
       ["sed", [["SED", "user:overrides.json"]]],
       [
         "sounds",
         [
-          ["SOUPBDZ", "typey:typey-type.json"],
-          ["SOUPBD/-Z", "plover:plover-main-3-jun-2018.json"],
-          ["SOUPBDZ", "plover:plover-main-3-jun-2018.json"],
-          ["SOUPBSD", "plover:plover-main-3-jun-2018.json"],
+          ["SOUPBDZ", "typey:typey-type-full.json"],
+          ["SOUPBD/-Z", "typey:typey-type-full.json"],
         ],
       ],
       [
         "he",
         [
           ["E", "user:misstrokes.json"],
-          ["HE", "typey:typey-type.json"],
-          ["E", "plover:plover-main-3-jun-2018.json"],
-          ["HE", "plover:plover-main-3-jun-2018.json"],
+          ["HE", "typey:typey-type-full.json"],
         ],
       ],
-      [
-        "of",
-        [
-          ["-F", "typey:typey-type.json"],
-          ["*F", "plover:plover-main-3-jun-2018.json"],
-          ["-F", "plover:plover-main-3-jun-2018.json"],
-        ],
-      ],
+      ["of", [["-F", "typey:typey-type-full.json"]]],
       [
         "I",
         [
-          ["EU", "typey:typey-type.json"],
-          ["1-R", "plover:plover-main-3-jun-2018.json"],
+          ["EU", "typey:typey-type-full.json"],
+          ["1-R", "typey:typey-type-full.json"],
         ],
       ],
       [
         "some",
         [
-          ["SOPL", "typey:typey-type.json"],
-          ["SPH", "plover:plover-main-3-jun-2018.json"],
+          ["SOPL", "typey:typey-type-full.json"],
+          ["SPH", "typey:typey-type-full.json"],
         ],
       ],
       [
         "no",
         [
-          ["TPHO", "typey:typey-type.json"],
-          ["PHO", "plover:plover-main-3-jun-2018.json"],
+          ["TPHO", "typey:typey-type-full.json"],
+          ["PHO", "typey:typey-type-full.json"],
         ],
       ],
       [
         "for",
         [
-          ["TPOR", "typey:typey-type.json"],
-          ["P-R", "plover:plover-main-3-jun-2018.json"],
+          ["TPOR", "typey:typey-type-full.json"],
+          ["P-R", "typey:typey-type-full.json"],
         ],
       ],
       [
         "when",
         [
-          ["WHEPB", "typey:typey-type.json"],
-          ["WH", "plover:plover-main-3-jun-2018.json"],
+          ["WHEPB", "typey:typey-type-full.json"],
+          ["WH", "typey:typey-type-full.json"],
         ],
       ],
     ]);
 
     expect(
-      combineValidDictionaries(
-        personalDictionaries,
-        [[testTypeyTypeDict, "typey-type.json"]],
-        testPloverDict
-      )
+      combineValidDictionaries(personalDictionaries, [
+        [testTypeyTypeDict, "typey-type-full.json"],
+      ])
     ).toEqual(expectedCombinedDict);
   });
 
