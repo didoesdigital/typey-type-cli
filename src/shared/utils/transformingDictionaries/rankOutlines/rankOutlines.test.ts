@@ -1,21 +1,25 @@
 import rankOutlines from "./rankOutlines";
-import createAGlobalLookupDictionary from "../createAGlobalLookupDictionary";
+import createGlobalLookupDictionary from "../createGlobalLookupDictionary";
 import { AffixList } from "../../affixList";
 import {
   testTypeyTypeDict,
-  testPloverDict,
+  testTypeyTypeExtras,
   personalDictionaries,
 } from "../transformingDictionaries.fixtures";
+import LATEST_TYPEY_TYPE_FULL_DICT_NAME from "../../../constant/latestTypeyTypeFullDictName";
+
 import type {
   AffixObject,
   StrokeAndDictionaryAndNamespace,
 } from "../../../types";
 
-const globalLookupDictionary = createAGlobalLookupDictionary(
+const testTypeyTypeFull = { ...testTypeyTypeDict, ...testTypeyTypeExtras };
+
+const globalLookupDictionary = createGlobalLookupDictionary(
   personalDictionaries,
-  testTypeyTypeDict,
-  testPloverDict
+  [[testTypeyTypeFull, LATEST_TYPEY_TYPE_FULL_DICT_NAME]]
 );
+
 let sharedAffixes = AffixList.getSharedInstance();
 
 describe("rankOutlines", () => {
@@ -34,40 +38,40 @@ describe("rankOutlines", () => {
       let arrayOfStrokesAndTheirSourceDictNames: StrokeAndDictionaryAndNamespace[] =
         [
           ["KWAD/RUP/KAT", "typey-type.json", "typey"],
-          ["KWA/TKRAOU/PHREU/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWA/TKRAOU/PHREU/KAT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWA/TKRAOUP/HREU/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWA/TKRAOUP/HREU/KAT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWA/TKRAOUP/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWA/TKRAOUP/KAT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWA/TKRUP/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWA/TKRUP/KAT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAD/RAOU/PHREU/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAD/RAOU/PHREU/KAT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAD/RAOUD/KAT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAD/RAOUP/HREU/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAD/RAOUP/HREU/KAT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAD/RAOUP/HREUBGT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAD/RAOUP/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAD/RAOUP/KAT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAD/RUP/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAD/RUP/KAT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAU/TKRAOU/PHREU/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAU/TKRAOU/PHREU/KAT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAU/TKRAOUP/HREU/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAU/TKRAOUP/HREU/KAT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAU/TKRAOUP/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAU/TKRAOUP/KAT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAU/TKRUP/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAU/TKRUP/KAT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAUD/RAOU/PHREU/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAUD/RAOU/PHREU/KAT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAUD/RAOUP/HREU/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAUD/RAOUP/HREU/KAT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAUD/RAOUP/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAUD/RAOUP/KAT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAUD/RUP/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAUD/RUP/KAT", "plover-main-3-jun-2018.json", "plover"],
+          ["KWA/TKRAOU/PHREU/KAEUT", "typey-type-full.json", "typey"],
+          ["KWA/TKRAOU/PHREU/KAT", "typey-type-full.json", "typey"],
+          ["KWA/TKRAOUP/HREU/KAEUT", "typey-type-full.json", "typey"],
+          ["KWA/TKRAOUP/HREU/KAT", "typey-type-full.json", "typey"],
+          ["KWA/TKRAOUP/KAEUT", "typey-type-full.json", "typey"],
+          ["KWA/TKRAOUP/KAT", "typey-type-full.json", "typey"],
+          ["KWA/TKRUP/KAEUT", "typey-type-full.json", "typey"],
+          ["KWA/TKRUP/KAT", "typey-type-full.json", "typey"],
+          ["KWAD/RAOU/PHREU/KAEUT", "typey-type-full.json", "typey"],
+          ["KWAD/RAOU/PHREU/KAT", "typey-type-full.json", "typey"],
+          ["KWAD/RAOUD/KAT", "typey-type-full.json", "typey"],
+          ["KWAD/RAOUP/HREU/KAEUT", "typey-type-full.json", "typey"],
+          ["KWAD/RAOUP/HREU/KAT", "typey-type-full.json", "typey"],
+          ["KWAD/RAOUP/HREUBGT", "typey-type-full.json", "typey"],
+          ["KWAD/RAOUP/KAEUT", "typey-type-full.json", "typey"],
+          ["KWAD/RAOUP/KAT", "typey-type-full.json", "typey"],
+          ["KWAD/RUP/KAEUT", "typey-type-full.json", "typey"],
+          ["KWAD/RUP/KAT", "typey-type-full.json", "typey"],
+          ["KWAU/TKRAOU/PHREU/KAEUT", "typey-type-full.json", "typey"],
+          ["KWAU/TKRAOU/PHREU/KAT", "typey-type-full.json", "typey"],
+          ["KWAU/TKRAOUP/HREU/KAEUT", "typey-type-full.json", "typey"],
+          ["KWAU/TKRAOUP/HREU/KAT", "typey-type-full.json", "typey"],
+          ["KWAU/TKRAOUP/KAEUT", "typey-type-full.json", "typey"],
+          ["KWAU/TKRAOUP/KAT", "typey-type-full.json", "typey"],
+          ["KWAU/TKRUP/KAEUT", "typey-type-full.json", "typey"],
+          ["KWAU/TKRUP/KAT", "typey-type-full.json", "typey"],
+          ["KWAUD/RAOU/PHREU/KAEUT", "typey-type-full.json", "typey"],
+          ["KWAUD/RAOU/PHREU/KAT", "typey-type-full.json", "typey"],
+          ["KWAUD/RAOUP/HREU/KAEUT", "typey-type-full.json", "typey"],
+          ["KWAUD/RAOUP/HREU/KAT", "typey-type-full.json", "typey"],
+          ["KWAUD/RAOUP/KAEUT", "typey-type-full.json", "typey"],
+          ["KWAUD/RAOUP/KAT", "typey-type-full.json", "typey"],
+          ["KWAUD/RUP/KAEUT", "typey-type-full.json", "typey"],
+          ["KWAUD/RUP/KAT", "typey-type-full.json", "typey"],
         ];
       expect(
         rankOutlines(
@@ -81,78 +85,78 @@ describe("rankOutlines", () => {
         // suffix outline and the other is slightly shorter, we get a ragged result:
         [
           ["KWAD/RUP/KAT", "typey-type.json", "typey"],
-          ["KWAD/RUP/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAD/RUP/KAT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWA/TKRUP/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWA/TKRUP/KAT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAUD/RUP/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAUD/RUP/KAT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAD/RAOUD/KAT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAD/RAOUP/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAD/RAOUP/KAT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAU/TKRUP/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAU/TKRUP/KAT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWA/TKRAOUP/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWA/TKRAOUP/KAT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAUD/RAOUP/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAUD/RAOUP/KAT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAU/TKRAOUP/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAU/TKRAOUP/KAT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAD/RAOUP/HREUBGT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAD/RAOU/PHREU/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAD/RAOU/PHREU/KAT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAD/RAOUP/HREU/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAD/RAOUP/HREU/KAT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWA/TKRAOU/PHREU/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWA/TKRAOU/PHREU/KAT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWA/TKRAOUP/HREU/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWA/TKRAOUP/HREU/KAT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAUD/RAOU/PHREU/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAUD/RAOU/PHREU/KAT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAUD/RAOUP/HREU/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAUD/RAOUP/HREU/KAT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAU/TKRAOU/PHREU/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAU/TKRAOU/PHREU/KAT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAU/TKRAOUP/HREU/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-          ["KWAU/TKRAOUP/HREU/KAT", "plover-main-3-jun-2018.json", "plover"],
+          ["KWAD/RUP/KAEUT", "typey-type-full.json", "typey"],
+          ["KWAD/RUP/KAT", "typey-type-full.json", "typey"],
+          ["KWA/TKRUP/KAEUT", "typey-type-full.json", "typey"],
+          ["KWA/TKRUP/KAT", "typey-type-full.json", "typey"],
+          ["KWAUD/RUP/KAEUT", "typey-type-full.json", "typey"],
+          ["KWAUD/RUP/KAT", "typey-type-full.json", "typey"],
+          ["KWAD/RAOUD/KAT", "typey-type-full.json", "typey"],
+          ["KWAD/RAOUP/KAEUT", "typey-type-full.json", "typey"],
+          ["KWAD/RAOUP/KAT", "typey-type-full.json", "typey"],
+          ["KWAU/TKRUP/KAEUT", "typey-type-full.json", "typey"],
+          ["KWAU/TKRUP/KAT", "typey-type-full.json", "typey"],
+          ["KWA/TKRAOUP/KAEUT", "typey-type-full.json", "typey"],
+          ["KWA/TKRAOUP/KAT", "typey-type-full.json", "typey"],
+          ["KWAUD/RAOUP/KAEUT", "typey-type-full.json", "typey"],
+          ["KWAUD/RAOUP/KAT", "typey-type-full.json", "typey"],
+          ["KWAU/TKRAOUP/KAEUT", "typey-type-full.json", "typey"],
+          ["KWAU/TKRAOUP/KAT", "typey-type-full.json", "typey"],
+          ["KWAD/RAOUP/HREUBGT", "typey-type-full.json", "typey"],
+          ["KWAD/RAOU/PHREU/KAEUT", "typey-type-full.json", "typey"],
+          ["KWAD/RAOU/PHREU/KAT", "typey-type-full.json", "typey"],
+          ["KWAD/RAOUP/HREU/KAEUT", "typey-type-full.json", "typey"],
+          ["KWAD/RAOUP/HREU/KAT", "typey-type-full.json", "typey"],
+          ["KWA/TKRAOU/PHREU/KAEUT", "typey-type-full.json", "typey"],
+          ["KWA/TKRAOU/PHREU/KAT", "typey-type-full.json", "typey"],
+          ["KWA/TKRAOUP/HREU/KAEUT", "typey-type-full.json", "typey"],
+          ["KWA/TKRAOUP/HREU/KAT", "typey-type-full.json", "typey"],
+          ["KWAUD/RAOU/PHREU/KAEUT", "typey-type-full.json", "typey"],
+          ["KWAUD/RAOU/PHREU/KAT", "typey-type-full.json", "typey"],
+          ["KWAUD/RAOUP/HREU/KAEUT", "typey-type-full.json", "typey"],
+          ["KWAUD/RAOUP/HREU/KAT", "typey-type-full.json", "typey"],
+          ["KWAU/TKRAOU/PHREU/KAEUT", "typey-type-full.json", "typey"],
+          ["KWAU/TKRAOU/PHREU/KAT", "typey-type-full.json", "typey"],
+          ["KWAU/TKRAOUP/HREU/KAEUT", "typey-type-full.json", "typey"],
+          ["KWAU/TKRAOUP/HREU/KAT", "typey-type-full.json", "typey"],
         ]
         // If we sorted aesthetically by length in that scenario, we'd get this:
         // [
         //   ["KWAD/RUP/KAT", "typey-type.json", "typey"],
-        //   ["KWAD/RUP/KAT", "plover-main-3-jun-2018.json", "plover"],
-        //   ["KWA/TKRUP/KAT", "plover-main-3-jun-2018.json", "plover"],
-        //   ["KWAUD/RUP/KAT", "plover-main-3-jun-2018.json", "plover"],
-        //   ["KWAD/RAOUD/KAT", "plover-main-3-jun-2018.json", "plover"],
-        //   ["KWAD/RAOUP/KAT", "plover-main-3-jun-2018.json", "plover"],
-        //   ["KWAD/RUP/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-        //   ["KWAU/TKRUP/KAT", "plover-main-3-jun-2018.json", "plover"],
-        //   ["KWA/TKRAOUP/KAT", "plover-main-3-jun-2018.json", "plover"],
-        //   ["KWA/TKRUP/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-        //   ["KWAUD/RAOUP/KAT", "plover-main-3-jun-2018.json", "plover"],
-        //   ["KWAUD/RUP/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-        //   ["KWAD/RAOUP/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-        //   ["KWAU/TKRAOUP/KAT", "plover-main-3-jun-2018.json", "plover"],
-        //   ["KWAU/TKRUP/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-        //   ["KWA/TKRAOUP/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-        //   ["KWAUD/RAOUP/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-        //   ["KWAD/RAOUP/HREUBGT", "plover-main-3-jun-2018.json", "plover"],
-        //   ["KWAU/TKRAOUP/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-        //   ["KWAD/RAOU/PHREU/KAT", "plover-main-3-jun-2018.json", "plover"],
-        //   ["KWAD/RAOUP/HREU/KAT", "plover-main-3-jun-2018.json", "plover"],
-        //   ["KWA/TKRAOU/PHREU/KAT", "plover-main-3-jun-2018.json", "plover"],
-        //   ["KWA/TKRAOUP/HREU/KAT", "plover-main-3-jun-2018.json", "plover"],
-        //   ["KWAUD/RAOU/PHREU/KAT", "plover-main-3-jun-2018.json", "plover"],
-        //   ["KWAUD/RAOUP/HREU/KAT", "plover-main-3-jun-2018.json", "plover"],
-        //   ["KWAD/RAOU/PHREU/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-        //   ["KWAD/RAOUP/HREU/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-        //   ["KWAU/TKRAOU/PHREU/KAT", "plover-main-3-jun-2018.json", "plover"],
-        //   ["KWAU/TKRAOUP/HREU/KAT", "plover-main-3-jun-2018.json", "plover"],
-        //   ["KWA/TKRAOU/PHREU/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-        //   ["KWA/TKRAOUP/HREU/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-        //   ["KWAUD/RAOU/PHREU/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-        //   ["KWAUD/RAOUP/HREU/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-        //   ["KWAU/TKRAOU/PHREU/KAEUT", "plover-main-3-jun-2018.json", "plover"],
-        //   ["KWAU/TKRAOUP/HREU/KAEUT", "plover-main-3-jun-2018.json", "plover"],
+        //   ["KWAD/RUP/KAT", "typey-type-full.json", "typey"],
+        //   ["KWA/TKRUP/KAT", "typey-type-full.json", "typey"],
+        //   ["KWAUD/RUP/KAT", "typey-type-full.json", "typey"],
+        //   ["KWAD/RAOUD/KAT", "typey-type-full.json", "typey"],
+        //   ["KWAD/RAOUP/KAT", "typey-type-full.json", "typey"],
+        //   ["KWAD/RUP/KAEUT", "typey-type-full.json", "typey"],
+        //   ["KWAU/TKRUP/KAT", "typey-type-full.json", "typey"],
+        //   ["KWA/TKRAOUP/KAT", "typey-type-full.json", "typey"],
+        //   ["KWA/TKRUP/KAEUT", "typey-type-full.json", "typey"],
+        //   ["KWAUD/RAOUP/KAT", "typey-type-full.json", "typey"],
+        //   ["KWAUD/RUP/KAEUT", "typey-type-full.json", "typey"],
+        //   ["KWAD/RAOUP/KAEUT", "typey-type-full.json", "typey"],
+        //   ["KWAU/TKRAOUP/KAT", "typey-type-full.json", "typey"],
+        //   ["KWAU/TKRUP/KAEUT", "typey-type-full.json", "typey"],
+        //   ["KWA/TKRAOUP/KAEUT", "typey-type-full.json", "typey"],
+        //   ["KWAUD/RAOUP/KAEUT", "typey-type-full.json", "typey"],
+        //   ["KWAD/RAOUP/HREUBGT", "typey-type-full.json", "typey"],
+        //   ["KWAU/TKRAOUP/KAEUT", "typey-type-full.json", "typey"],
+        //   ["KWAD/RAOU/PHREU/KAT", "typey-type-full.json", "typey"],
+        //   ["KWAD/RAOUP/HREU/KAT", "typey-type-full.json", "typey"],
+        //   ["KWA/TKRAOU/PHREU/KAT", "typey-type-full.json", "typey"],
+        //   ["KWA/TKRAOUP/HREU/KAT", "typey-type-full.json", "typey"],
+        //   ["KWAUD/RAOU/PHREU/KAT", "typey-type-full.json", "typey"],
+        //   ["KWAUD/RAOUP/HREU/KAT", "typey-type-full.json", "typey"],
+        //   ["KWAD/RAOU/PHREU/KAEUT", "typey-type-full.json", "typey"],
+        //   ["KWAD/RAOUP/HREU/KAEUT", "typey-type-full.json", "typey"],
+        //   ["KWAU/TKRAOU/PHREU/KAT", "typey-type-full.json", "typey"],
+        //   ["KWAU/TKRAOUP/HREU/KAT", "typey-type-full.json", "typey"],
+        //   ["KWA/TKRAOU/PHREU/KAEUT", "typey-type-full.json", "typey"],
+        //   ["KWA/TKRAOUP/HREU/KAEUT", "typey-type-full.json", "typey"],
+        //   ["KWAUD/RAOU/PHREU/KAEUT", "typey-type-full.json", "typey"],
+        //   ["KWAUD/RAOUP/HREU/KAEUT", "typey-type-full.json", "typey"],
+        //   ["KWAU/TKRAOU/PHREU/KAEUT", "typey-type-full.json", "typey"],
+        //   ["KWAU/TKRAOUP/HREU/KAEUT", "typey-type-full.json", "typey"],
         // ]
       );
     });
@@ -240,7 +244,7 @@ describe("rankOutlines", () => {
 
   it("returns A plover entry after B non-plover entry", () => {
     const strokesAndSourceDicts: [string, string, string][] = [
-      ["TO", "plover-main-3-jun-2018.json", "plover"],
+      ["TO", "typey-type-full.json", "typey"],
       ["O", "typey-type.json", "user"],
     ];
     const misstrokesJSON = {};
@@ -251,14 +255,14 @@ describe("rankOutlines", () => {
       rankOutlines(strokesAndSourceDicts, misstrokesJSON, translation, affixes)
     ).toEqual([
       ["O", "typey-type.json", "user"],
-      ["TO", "plover-main-3-jun-2018.json", "plover"],
+      ["TO", "typey-type-full.json", "typey"],
     ]);
   });
 
   it("returns B plover entry after A non-plover entry", () => {
     const strokesAndSourceDicts: [string, string, string][] = [
       ["TO", "typey-type.json", "user"],
-      ["O", "plover-main-3-jun-2018.json", "plover"],
+      ["O", "typey-type-full.json", "typey"],
     ];
     const misstrokesJSON = {};
     const translation = "to";
@@ -268,7 +272,7 @@ describe("rankOutlines", () => {
       rankOutlines(strokesAndSourceDicts, misstrokesJSON, translation, affixes)
     ).toEqual([
       ["TO", "typey-type.json", "user"],
-      ["O", "plover-main-3-jun-2018.json", "plover"],
+      ["O", "typey-type-full.json", "typey"],
     ]);
   });
 
@@ -308,8 +312,8 @@ describe("rankOutlines", () => {
 
   it("returns A misstroke entry after B non-misstroke entry", () => {
     const strokesAndSourceDicts: [string, string, string][] = [
-      ["O", "plover-main-3-jun-2018.json", "plover"],
-      ["TO", "plover-main-3-jun-2018.json", "plover"],
+      ["O", "typey-type-full.json", "typey"],
+      ["TO", "typey-type-full.json", "typey"],
     ];
     const misstrokesJSON = { O: "to" };
     const translation = "to";
@@ -318,15 +322,15 @@ describe("rankOutlines", () => {
     expect(
       rankOutlines(strokesAndSourceDicts, misstrokesJSON, translation, affixes)
     ).toEqual([
-      ["TO", "plover-main-3-jun-2018.json", "plover"],
-      ["O", "plover-main-3-jun-2018.json", "plover"],
+      ["TO", "typey-type-full.json", "typey"],
+      ["O", "typey-type-full.json", "typey"],
     ]);
   });
 
   it("returns B misstroke entry after A non-misstroke entry", () => {
     const strokesAndSourceDicts: [string, string, string][] = [
-      ["TO", "plover-main-3-jun-2018.json", "plover"],
-      ["O", "plover-main-3-jun-2018.json", "plover"],
+      ["TO", "typey-type-full.json", "typey"],
+      ["O", "typey-type-full.json", "typey"],
     ];
     const misstrokesJSON = { O: "to" };
     const translation = "to";
@@ -335,8 +339,8 @@ describe("rankOutlines", () => {
     expect(
       rankOutlines(strokesAndSourceDicts, misstrokesJSON, translation, affixes)
     ).toEqual([
-      ["TO", "plover-main-3-jun-2018.json", "plover"],
-      ["O", "plover-main-3-jun-2018.json", "plover"],
+      ["TO", "typey-type-full.json", "typey"],
+      ["O", "typey-type-full.json", "typey"],
     ]);
   });
 
@@ -344,8 +348,6 @@ describe("rankOutlines", () => {
     const strokesAndSourceDicts: [string, string, string][] = [
       ["TO/TK-LS", "typey-type.json", "typey"],
       ["TO", "typey-type.json", "typey"],
-      ["O", "plover-main-3-jun-2018.json", "plover"],
-      ["TO", "plover-main-3-jun-2018.json", "plover"],
     ];
     const misstrokesJSON = { TEF: "test", O: "to" };
     const translation = "to";
@@ -356,8 +358,6 @@ describe("rankOutlines", () => {
     ).toEqual([
       ["TO", "typey-type.json", "typey"],
       ["TO/TK-LS", "typey-type.json", "typey"],
-      ["TO", "plover-main-3-jun-2018.json", "plover"],
-      ["O", "plover-main-3-jun-2018.json", "plover"],
     ]);
   });
 
@@ -598,7 +598,8 @@ describe("rankOutlines", () => {
   });
 
   describe("with different outlines including misstrokes across dictionaries", () => {
-    it('returns sorted list of outlines for "and", prioritising user, typey, plover namespaces, and by length', () => {
+    // TODO: consider how another namespace might fit in here instead of Plover, before Typey Type
+    xit('returns sorted list of outlines for "and", prioritising user, typey, plover namespaces, and by length', () => {
       let arrayOfStrokesAndTheirSourceDictNames: StrokeAndDictionaryAndNamespace[] =
         [
           ["-PBD", "plover.json", "plover"],
@@ -661,7 +662,8 @@ describe("rankOutlines", () => {
   });
 
   describe("with different outlines including misstrokes across dictionaries", () => {
-    it('returns sorted list of outlines for "cite", prioritising user, typey, plover namespaces, and good strokes over misstrokes of equal length', () => {
+    // TODO: consider how another namespace might fit in here instead of Plover, before Typey Type
+    xit('returns sorted list of outlines for "cite", prioritising user, typey, plover namespaces, and good strokes over misstrokes of equal length', () => {
       let arrayOfStrokesAndTheirSourceDictNames: StrokeAndDictionaryAndNamespace[] =
         [
           ["SKRAO*EUT", "plover.json", "plover"],
@@ -733,7 +735,8 @@ describe("rankOutlines", () => {
   });
 
   describe("with different outlines including misstrokes across dictionaries", () => {
-    it('returns sorted list of outlines for "he", prioritising user, typey, plover namespaces, and good strokes over misstrokes that are shorter', () => {
+    // TODO: consider how another namespace might fit in here instead of Plover, before Typey Type
+    xit('returns sorted list of outlines for "he", prioritising user, typey, plover namespaces, and good strokes over misstrokes that are shorter', () => {
       let arrayOfStrokesAndTheirSourceDictNames: StrokeAndDictionaryAndNamespace[] =
         [
           ["E", "magnum.json", "user"],
