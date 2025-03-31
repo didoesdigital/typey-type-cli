@@ -1,18 +1,22 @@
-import createAGlobalLookupDictionary from "./createAGlobalLookupDictionary";
+import createGlobalLookupDictionary from "./createGlobalLookupDictionary";
 import chooseOutlineForPhrase from "./chooseOutlineForPhrase";
 import { AffixList } from "../affixList";
 import {
   testTypeyTypeDict,
-  testPloverDict,
   personalDictionaries,
+  testTypeyTypeExtras,
 } from "./transformingDictionaries.fixtures";
+import LATEST_TYPEY_TYPE_FULL_DICT_NAME from "../../constant/latestTypeyTypeFullDictName";
+
 import type { LookupDictWithNamespacedDicts } from "../../types";
 
-const globalLookupDictionary = createAGlobalLookupDictionary(
+const testTypeyTypeFull = { ...testTypeyTypeDict, ...testTypeyTypeExtras };
+
+const globalLookupDictionary = createGlobalLookupDictionary(
   personalDictionaries,
-  testTypeyTypeDict,
-  testPloverDict
+  [[testTypeyTypeFull, LATEST_TYPEY_TYPE_FULL_DICT_NAME]]
 );
+
 const precedingChar = "";
 
 describe("choose outline for phrase", () => {

@@ -181,7 +181,7 @@ const testTypeyTypeDict = {
   "1/PW*": "1b",
   "1/S*/T*": "1st",
   "2/KP*/4": "2 x 4",
-  "#T/W-B/THUZ": "2,000",
+  "#T-/W-B/THUZ": "2,000",
   "230EU": "2/3",
   "2/0": "20",
   "2-Z": "200",
@@ -209,7 +209,7 @@ const testTypeyTypeDict = {
   "3/T-BS": "3 tablespoon",
   "3/T-BS/-S": "3 tablespoons",
   "3/KP*/6": "3 x 6",
-  "#P/W-B/THUZ": "3,000",
+  "#P-/W-B/THUZ": "3,000",
   "340EU": "3/4",
   "30EU8": "3/8",
   "3/0": "30",
@@ -350,9 +350,9 @@ const testTypeyTypeDict = {
   "0RBGS": "{&0}",
   "#S": "{&1}",
   "1-RBGS": "{&1}",
-  "#T": "{&2}",
+  "#T-": "{&2}",
   "2-RBGS": "{&2}",
-  "#P": "{&3}",
+  "#P-": "{&3}",
   "3-RBGS": "{&3}",
   "#H": "{&4}",
   "4-RBGS": "{&4}",
@@ -521,6 +521,45 @@ const testTypeyTypeDict = {
   "WR-PT": "with respect",
   "SOFR": "so far",
   "TPAR": "far",
+};
+
+// multiple entries per phrase:
+const testTypeyTypeExtras = {
+  "A/HREF": '<a href="{^}',
+  "APBD": "and",
+  "SKP": "and",
+  "P-R": "for",
+  "PHO": "no",
+  "WH": "when",
+  "SPH": "some",
+  "TPEURS": "first",
+  "KR-PGS": "cross-petition",
+  "TKR*FPLT": "Dr.{-|}",
+  "PH-BGS": "Mx.{-|}",
+  "PHRARPLS": "Mr. and Mrs.",
+  "KHAPBT": "chant",
+  "EL/TKREUPBLG": "Eldridge",
+  "TWA*S": "{~|'^}twas",
+  "SKWR*EPL": "gentlemen",
+  "OP/TOPL/TREUFT": "optometrist",
+  "POED/TREUFT": "podiatrist",
+  "HOR/TKEFRB/-S": "hors d'oeuvres",
+  "O*R/TK*EFRBS": "hors d'oeuvres",
+  "O*R/TK*EFRBZ": "hors d'oeuvres",
+  "O*R/TK*EFRS": "hors d'oeuvres",
+  "O*R/TK*EFRZ": "hors d'oeuvres",
+  "O*R/TKEFRBS": "hors d'oeuvres",
+  "O*R/TKEFRBZ": "hors d'oeuvres",
+  "O*R/TKER/*FS": "hors d'oeuvres",
+  "OR/TK*EFRS": "hors d'oeuvres",
+  "OR/TK*EFRZ": "hors d'oeuvres",
+  "OR/TKEFRB": "hors d'oeuvres",
+  "OR/TKER/*FS": "hors d'oeuvres",
+  "KH-S": "which is",
+  "SWEU": "which is",
+  "WEU/S": "which is",
+  "WR-PT": "with respect",
+  "W-RPT": "with respect",
 };
 
 // multiple entries per phrase:
@@ -2392,4 +2431,4 @@ const personalDictionaries: PersonalDictionaryNameAndContents[] = [
   ["test-aussie.json", testAussieDict],
 ];
 
-export { testTypeyTypeDict, testPloverDict, personalDictionaries };
+export { testTypeyTypeDict, testTypeyTypeExtras, testPloverDict, personalDictionaries };

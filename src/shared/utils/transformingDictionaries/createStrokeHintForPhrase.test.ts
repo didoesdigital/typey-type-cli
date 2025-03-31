@@ -1,17 +1,20 @@
 import createStrokeHintForPhrase from "./createStrokeHintForPhrase";
-import createAGlobalLookupDictionary from "./createAGlobalLookupDictionary";
+import createGlobalLookupDictionary from "./createGlobalLookupDictionary";
 import { AffixList } from "../affixList";
 import {
   testTypeyTypeDict,
-  testPloverDict,
+  testTypeyTypeExtras,
   personalDictionaries,
 } from "./transformingDictionaries.fixtures";
+import LATEST_TYPEY_TYPE_FULL_DICT_NAME from "../../constant/latestTypeyTypeFullDictName";
+
 import type { PersonalDictionaryNameAndContents } from "../../types";
 
-const globalLookupDictionary = createAGlobalLookupDictionary(
+const testTypeyTypeFull = { ...testTypeyTypeDict, ...testTypeyTypeExtras };
+
+const globalLookupDictionary = createGlobalLookupDictionary(
   personalDictionaries,
-  testTypeyTypeDict,
-  testPloverDict
+  [[testTypeyTypeFull, LATEST_TYPEY_TYPE_FULL_DICT_NAME]]
 );
 
 describe("create stroke hint for phrase", () => {
@@ -117,13 +120,13 @@ describe("create stroke hint for phrase", () => {
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("WUPB/EPL/TKA*RB/TWO/KW-BG/#P/#H/H-PB/#A/KR-GS/#F/AE/#-P/ xxx");
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("WUPB/EPL/TKA*RB/TWO/KW-BG/#P/#H/H-PB/R5/KR-GS/#F/AE/#-P/ xxx");
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("WUPB/EPL/TKA*RB/TWO/KW-BG/#P/#H/H-PB/R5/KR-GS/#F/AE/#-P");
-      // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("WUPB/EPL/TKA*RB/TWO/KW-BG/#P/#H/H-PB/R5/KR-GS/#F/AE/#-P/KHR-PB/*E");
+      // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("WUPB/EPL/TKA*RB/TWO/KW-BG/#P-/#H/H-PB/R5/KR-GS/#F/AE/#-P/KHR-PB/*E");
       expect(
         createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
       ).toEqual(
-        "WUPB/EPL/TKA*RB/TWO/KW-BG/#P/#H/H-PB/#A/KR-GS/#F/AE/#-P/KHR-PB/*E/*EU/TKPW*/H*/T*/STPH*FPLT/TPH*"
+        "WUPB/EPL/TKA*RB/TWO/KW-BG/#P-/#H/H-PB/#A/KR-GS/#F/AE/#-P/KHR-PB/*E/*EU/TKPW*/H*/T*/STPH*FPLT/TPH*"
       );
-      // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("WUPB/EPL/TKA*RB/TWO/KW-BG/#P/#H/H-PB/#A/KR-GS/#F/AE/#-P/KHR-PB/AOE/KWR*EU/TKPW*/H*/T*/STPH*FPLT/TPH*");
+      // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("WUPB/EPL/TKA*RB/TWO/KW-BG/#P-/#H/H-PB/#A/KR-GS/#F/AE/#-P/KHR-PB/AOE/KWR*EU/TKPW*/H*/T*/STPH*FPLT/TPH*");
     });
 
     it("with only punctuation dash", () => {
@@ -155,13 +158,14 @@ describe("create stroke hint for phrase", () => {
       expect(
         createStrokeHintForPhrase(
           wordOrPhraseMaterial,
-          createAGlobalLookupDictionary(
-            emptyPersonalDictionaries,
-            {
-              "POEURT": "poetry",
-            },
-            {}
-          )
+          createGlobalLookupDictionary(emptyPersonalDictionaries, [
+            [
+              {
+                "POEURT": "poetry",
+              },
+              LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+            ],
+          ])
         )
       ).toEqual("KW-GS/KPA*/POEURT/SKHRAPL");
     });
@@ -172,15 +176,16 @@ describe("create stroke hint for phrase", () => {
       expect(
         createStrokeHintForPhrase(
           wordOrPhraseMaterial,
-          createAGlobalLookupDictionary(
-            emptyPersonalDictionaries,
-            {
-              "AERBGS": "ah,",
-              "HA*E": "ah",
-              "KW-BG": "{,}",
-            },
-            {}
-          )
+          createGlobalLookupDictionary(emptyPersonalDictionaries, [
+            [
+              {
+                "AERBGS": "ah,",
+                "HA*E": "ah",
+                "KW-BG": "{,}",
+              },
+              LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+            ],
+          ])
         )
       ).toEqual("KW-GS/KPA*/AERBGS");
     });
@@ -191,15 +196,16 @@ describe("create stroke hint for phrase", () => {
       expect(
         createStrokeHintForPhrase(
           wordOrPhraseMaterial,
-          createAGlobalLookupDictionary(
-            emptyPersonalDictionaries,
-            {
-              "AERBGS": "ah,",
-              "HA*E": "ah",
-              "KW-BG": "{,}",
-            },
-            {}
-          )
+          createGlobalLookupDictionary(emptyPersonalDictionaries, [
+            [
+              {
+                "AERBGS": "ah,",
+                "HA*E": "ah",
+                "KW-BG": "{,}",
+              },
+              LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+            ],
+          ])
         )
       ).toEqual("KPA/AERBGS");
     });
@@ -354,10 +360,9 @@ describe("create stroke hint for phrase", () => {
     it("with mid-^ prefix with hyphen", () => {
       const midDashPrefixPersonalDictionaries: PersonalDictionaryNameAndContents[] =
         [];
-      const midDashPrefixGlobalLookupDictionary = createAGlobalLookupDictionary(
+      const midDashPrefixGlobalLookupDictionary = createGlobalLookupDictionary(
         midDashPrefixPersonalDictionaries,
-        { "PHEUD/H-PB": "{mid-^}" },
-        {}
+        [[{ "PHEUD/H-PB": "{mid-^}" }, LATEST_TYPEY_TYPE_FULL_DICT_NAME]]
       );
       const wordOrPhraseMaterial = "mid-^";
       expect(
@@ -503,15 +508,16 @@ describe("create stroke hint for phrase", () => {
       let wordOrPhraseMaterial = "impersonated";
       const result = createStrokeHintForPhrase(
         wordOrPhraseMaterial,
-        createAGlobalLookupDictionary(
-          emptyPersonalDictionaries,
-          {
-            "EUPL": "{im^}",
-            "EUPL/PERS/TPHAEUT": "impersonate",
-            "-D": "{^ed}",
-          },
-          {}
-        )
+        createGlobalLookupDictionary(emptyPersonalDictionaries, [
+          [
+            {
+              "EUPL": "{im^}",
+              "EUPL/PERS/TPHAEUT": "impersonate",
+              "-D": "{^ed}",
+            },
+            LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+          ],
+        ])
       );
       expect(result).toEqual("EUPL/PERS/TPHAEUT/-D");
     });
@@ -521,15 +527,16 @@ describe("create stroke hint for phrase", () => {
       let wordOrPhraseMaterial = "toed";
       const result = createStrokeHintForPhrase(
         wordOrPhraseMaterial,
-        createAGlobalLookupDictionary(
-          emptyPersonalDictionaries,
-          {
-            "TO": "to",
-            "TO*E": "toe",
-            "-D": "{^ed}",
-          },
-          {}
-        )
+        createGlobalLookupDictionary(emptyPersonalDictionaries, [
+          [
+            {
+              "TO": "to",
+              "TO*E": "toe",
+              "-D": "{^ed}",
+            },
+            LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+          ],
+        ])
       );
       expect(result).toEqual("TO/-D"); // "TO*E/-D" produces "toeed" not "toed"
     });
@@ -637,12 +644,16 @@ describe("create stroke hint for phrase", () => {
     it('shows outline for "didoesdigital.com"', () => {
       const emptyPersonalDictionaries: PersonalDictionaryNameAndContents[] = [];
       const wordOrPhraseMaterial = "didoesdigital.com";
-      const customGlobalLookupDictionary = createAGlobalLookupDictionary(
+      const customGlobalLookupDictionary = createGlobalLookupDictionary(
         emptyPersonalDictionaries,
-        {
-          "KROPL": "{^.com}",
-        },
-        {}
+        [
+          [
+            {
+              "KROPL": "{^.com}",
+            },
+            LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+          ],
+        ]
       );
 
       expect(
@@ -717,17 +728,17 @@ describe("create stroke hint for phrase", () => {
   describe("returns string showing text with numbers", () => {
     it("zero to five with dashes", () => {
       // let wordOrPhraseMaterial = "0.1.2.3.4.5.6.7.8.9.10";
-      // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("#O P-P #S P-P #T P-P #P P-P #H P-P #A P-P #F P-P #-P P-P #L P-P #-T 1/0");
+      // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("#O P-P #S P-P #T- P-P #P- P-P #H P-P #A P-P #F P-P #-P P-P #L P-P #-T 1/0");
       let wordOrPhraseMaterial = "-0-1-2-3-4-5";
-      // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("H*B #O H-PB #S H-PB #T H-PB #P H-PB #H H-PB #A");
+      // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("H*B #O H-PB #S H-PB #T- H-PB #P- H-PB #H H-PB #A");
       expect(
         createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
-      ).toEqual("H*B/#O/H-PB/#S/H-PB/#T/H-PB/#P/H-PB/#H/H-PB/#A");
+      ).toEqual("H*B/#O/H-PB/#S/H-PB/#T-/H-PB/#P-/H-PB/#H/H-PB/#A");
     });
 
     it("five to ten with dashes", () => {
       // let wordOrPhraseMaterial = "0.1.2.3.4.5.6.7.8.9.10";
-      // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("#O P-P #S P-P #T P-P #P P-P #H P-P #A P-P #F P-P #-P P-P #L P-P #-T 1/0");
+      // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("#O P-P #S P-P #T- P-P #P- P-P #H P-P #A P-P #F P-P #-P P-P #L P-P #-T 1/0");
       let wordOrPhraseMaterial = "-5-6-7-8-9-10";
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("H*B #A H-PB #F H-PB #-P H-PB #L H-PB #-T H-PB 1/0");
       expect(
@@ -737,7 +748,7 @@ describe("create stroke hint for phrase", () => {
 
     it("zero to ten with spaces", () => {
       // let wordOrPhraseMaterial = "0 1 2 3 4 5 6 7 8 9 10";
-      // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("#O #S #T #P #H #A #F #-P #L #-T 1/0");
+      // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("#O #S #T- #P- #H #A #F #-P #L #-T 1/0");
       let wordOrPhraseMaterial = "0 0 1 2 3 4 5 6 7 8 9 10";
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("#O 0EU #S #T #P #H R5 #F #-P #L #-T 1/0");
       expect(
@@ -892,16 +903,20 @@ describe("create stroke hint for phrase", () => {
 
     it("showing good stroke hint for hyphenated compound word with trailing punctuation", () => {
       const emptyPersonalDictionaries: PersonalDictionaryNameAndContents[] = [];
-      const mouseHunterGlobalLookupDictionary = createAGlobalLookupDictionary(
+      const mouseHunterGlobalLookupDictionary = createGlobalLookupDictionary(
         emptyPersonalDictionaries,
-        {
-          "H-PB": "{^-^}",
-          "KW-BG": "{,}",
-          "PHOUS": "mouse",
-          "HURPBT": "Hunter",
-          "HUPB/TER": "hunter",
-        },
-        {}
+        [
+          [
+            {
+              "H-PB": "{^-^}",
+              "KW-BG": "{,}",
+              "PHOUS": "mouse",
+              "HURPBT": "Hunter",
+              "HUPB/TER": "hunter",
+            },
+            LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+          ],
+        ]
       );
       let wordOrPhraseMaterial = "mouse-hunter,";
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("PHOUS H-PB HUPB/TER KW-BG");
@@ -923,16 +938,17 @@ describe("create stroke hint for phrase", () => {
     it("showing good stroke hint for another hyphenated compound word with trailing punctuation", () => {
       const emptyPersonalDictionaries: PersonalDictionaryNameAndContents[] = [];
       const toHyphenDayCommaGlobalLookupDictionary =
-        createAGlobalLookupDictionary(
-          emptyPersonalDictionaries,
-          {
-            "H-PB": "{^-^}",
-            "KW-BG": "{,}",
-            "TO": "to",
-            "TPHAOEUT": "night",
-          },
-          {}
-        );
+        createGlobalLookupDictionary(emptyPersonalDictionaries, [
+          [
+            {
+              "H-PB": "{^-^}",
+              "KW-BG": "{,}",
+              "TO": "to",
+              "TPHAOEUT": "night",
+            },
+            LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+          ],
+        ]);
       let wordOrPhraseMaterial = "to-night,";
       expect(
         createStrokeHintForPhrase(
@@ -945,17 +961,18 @@ describe("create stroke hint for phrase", () => {
     it("showing good stroke hint for another hyphenated compound word with suffix with hyphen and trailing punctuation", () => {
       const emptyPersonalDictionaries: PersonalDictionaryNameAndContents[] = [];
       const toHyphenDayCommaGlobalLookupDictionary =
-        createAGlobalLookupDictionary(
-          emptyPersonalDictionaries,
-          {
-            "H-PB": "{^-^}",
-            "KW-BG": "{,}",
-            "TO": "to",
-            "TKAEU": "day",
-            "TKA*EU": "{^-day}",
-          },
-          {}
-        );
+        createGlobalLookupDictionary(emptyPersonalDictionaries, [
+          [
+            {
+              "H-PB": "{^-^}",
+              "KW-BG": "{,}",
+              "TO": "to",
+              "TKAEU": "day",
+              "TKA*EU": "{^-day}",
+            },
+            LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+          ],
+        ]);
       let wordOrPhraseMaterial = "to-day,";
       expect(
         createStrokeHintForPhrase(
@@ -999,17 +1016,18 @@ describe("create stroke hint for phrase", () => {
         let wordOrPhraseMaterial = "'That";
         const result = createStrokeHintForPhrase(
           wordOrPhraseMaterial,
-          createAGlobalLookupDictionary(
-            emptyPersonalDictionaries,
-            {
-              "A*E": "{'^}",
-              "AE": "{^'}",
-              "KPA": "{}{-|}",
-              "KPA*": "{^}{-|}",
-              "THA": "that",
-            },
-            {}
-          )
+          createGlobalLookupDictionary(emptyPersonalDictionaries, [
+            [
+              {
+                "A*E": "{'^}",
+                "AE": "{^'}",
+                "KPA": "{}{-|}",
+                "KPA*": "{^}{-|}",
+                "THA": "that",
+              },
+              LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+            ],
+          ])
         );
         expect(result).toEqual("A*E/KPA*/THA");
       });
@@ -1020,17 +1038,18 @@ describe("create stroke hint for phrase", () => {
         let wordOrPhraseMaterial = "'That";
         const result = createStrokeHintForPhrase(
           wordOrPhraseMaterial,
-          createAGlobalLookupDictionary(
-            emptyPersonalDictionaries,
-            {
-              "A*E": "{~|'^}",
-              "AE": "{^'}",
-              "KPA": "{}{-|}",
-              "KPA*": "{^}{-|}",
-              "THA": "that",
-            },
-            {}
-          )
+          createGlobalLookupDictionary(emptyPersonalDictionaries, [
+            [
+              {
+                "A*E": "{~|'^}",
+                "AE": "{^'}",
+                "KPA": "{}{-|}",
+                "KPA*": "{^}{-|}",
+                "THA": "that",
+              },
+              LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+            ],
+          ])
         );
         expect(result).toEqual("A*E/KPA*/THA");
       });
@@ -1045,10 +1064,9 @@ describe("create stroke hint for phrase", () => {
           { "KPWH-BGT": "it can't", "KPWHO": "it can't" },
         ],
       ];
-      const phrasingBriefGlobalLookupDictionary = createAGlobalLookupDictionary(
+      const phrasingBriefGlobalLookupDictionary = createGlobalLookupDictionary(
         emptyPersonalDictionaries,
-        {},
-        {}
+        [[{}, LATEST_TYPEY_TYPE_FULL_DICT_NAME]]
       );
       const wordOrPhraseMaterial = "it can't";
       expect(
@@ -1068,19 +1086,20 @@ describe("create stroke hint for phrase", () => {
       expect(
         createStrokeHintForPhrase(
           wordOrPhraseMaterial,
-          createAGlobalLookupDictionary(
-            emptyPersonalDictionaries,
-            {
-              "*D": "{^'d}",
-              "AE": "{^'}",
-              "*EUT": "it",
-              "EUT": "it",
-              "T": "it",
-              "EUTD": "it'd",
-              "T*D": "it'd",
-            },
-            {}
-          )
+          createGlobalLookupDictionary(emptyPersonalDictionaries, [
+            [
+              {
+                "*D": "{^'d}",
+                "AE": "{^'}",
+                "*EUT": "it",
+                "EUT": "it",
+                "T": "it",
+                "EUTD": "it'd",
+                "T*D": "it'd",
+              },
+              LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+            ],
+          ])
         )
       ).toEqual("T*D");
     });
@@ -1116,18 +1135,19 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "which is";
       const result = createStrokeHintForPhrase(
         wordOrPhraseMaterial,
-        createAGlobalLookupDictionary(
-          emptyPersonalDictionaries,
-          {
-            // "KH-S": "which is", // maybe after adding preferPhrasingBriefStarters
-            // "SWEU": "which is", // might be a bug?
-            "S": "is",
-            "WEU": "which",
-            "WEU/S": "which is",
-            "WEUS": "which is",
-          },
-          {}
-        ),
+        createGlobalLookupDictionary(emptyPersonalDictionaries, [
+          [
+            {
+              // "KH-S": "which is", // maybe after adding preferPhrasingBriefStarters
+              // "SWEU": "which is", // might be a bug?
+              "S": "is",
+              "WEU": "which",
+              "WEU/S": "which is",
+              "WEUS": "which is",
+            },
+            LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+          ],
+        ]),
         AffixList.getSharedInstance()
       );
       expect(result).toEqual("WEUS");
@@ -1138,16 +1158,17 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "with respect";
       const result = createStrokeHintForPhrase(
         wordOrPhraseMaterial,
-        createAGlobalLookupDictionary(
-          emptyPersonalDictionaries,
-          {
-            "R-PT": "respect",
-            "W": "with",
-            "WR-PT": "with respect", // Order matters here
-            "W-RPT": "with respect", // Order matters here
-          },
-          {}
-        ),
+        createGlobalLookupDictionary(emptyPersonalDictionaries, [
+          [
+            {
+              "R-PT": "respect",
+              "W": "with",
+              "WR-PT": "with respect", // Order matters here
+              "W-RPT": "with respect", // Order matters here
+            },
+            LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+          ],
+        ]),
         AffixList.getSharedInstance()
       );
       expect(result).toEqual("WR-PT");
@@ -1157,13 +1178,17 @@ describe("create stroke hint for phrase", () => {
   describe("outline with dictionary comma formatting", () => {
     it("returns brief not multi-stroke outline", () => {
       const emptyPersonalDictionaries: PersonalDictionaryNameAndContents[] = [];
-      const thatCommaGlobalLookupDictionary = createAGlobalLookupDictionary(
+      const thatCommaGlobalLookupDictionary = createGlobalLookupDictionary(
         emptyPersonalDictionaries,
-        {
-          "KW-BG": "{,}",
-          "THARBGS": "that{,}",
-        },
-        {}
+        [
+          [
+            {
+              "KW-BG": "{,}",
+              "THARBGS": "that{,}",
+            },
+            LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+          ],
+        ]
       );
       let wordOrPhraseMaterial = "that,";
       expect(
@@ -1178,16 +1203,20 @@ describe("create stroke hint for phrase", () => {
   describe("hint for back.", () => {
     it("returns hint with preferred full stop outline", () => {
       const emptyPersonalDictionaries: PersonalDictionaryNameAndContents[] = [];
-      const backAffixGlobalLookupDictionary = createAGlobalLookupDictionary(
+      const backAffixGlobalLookupDictionary = createGlobalLookupDictionary(
         emptyPersonalDictionaries,
-        {
-          "PWABG": "back",
-          "PWA*EBG": "{back^}",
-          "PWA*BG": "{^back}",
-          "TP-PL": "{.}",
-          "PR-D": ".",
-        },
-        {}
+        [
+          [
+            {
+              "PWABG": "back",
+              "PWA*EBG": "{back^}",
+              "PWA*BG": "{^back}",
+              "TP-PL": "{.}",
+              "PR-D": ".",
+            },
+            LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+          ],
+        ]
       );
       let wordOrPhraseMaterial = "back.";
       expect(
@@ -1202,15 +1231,19 @@ describe("create stroke hint for phrase", () => {
   describe("hint for well-loved", () => {
     xit("returns hint with preferred shorter, phonetic well- prefix", () => {
       const emptyPersonalDictionaries: PersonalDictionaryNameAndContents[] = [];
-      const wellLovedGlobalLookupDictionary = createAGlobalLookupDictionary(
+      const wellLovedGlobalLookupDictionary = createGlobalLookupDictionary(
         emptyPersonalDictionaries,
-        {
-          "HROFD": "loved",
-          "SKWR*EL": "{well-^}", // Order matters here
-          "W*EL": "{well-^}", // Order matters here
-          "WEL": "well",
-        },
-        {}
+        [
+          [
+            {
+              "HROFD": "loved",
+              "SKWR*EL": "{well-^}", // Order matters here
+              "W*EL": "{well-^}", // Order matters here
+              "WEL": "well",
+            },
+            LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+          ],
+        ]
       );
       let wordOrPhraseMaterial = "well-loved";
       expect(
@@ -1225,15 +1258,19 @@ describe("create stroke hint for phrase", () => {
   describe('hint for "sh"', () => {
     it("returns fingerspelled word not suffix outline *RB for {^sh}", () => {
       const emptyPersonalDictionaries: PersonalDictionaryNameAndContents[] = [];
-      const shGlobalLookupDictionary = createAGlobalLookupDictionary(
+      const shGlobalLookupDictionary = createGlobalLookupDictionary(
         emptyPersonalDictionaries,
-        {
-          "*RB": "{^sh}",
-          "S*": "{&s}",
-          "H*": "{&h}",
-          "SH": "shh",
-        },
-        {}
+        [
+          [
+            {
+              "*RB": "{^sh}",
+              "S*": "{&s}",
+              "H*": "{&h}",
+              "SH": "shh",
+            },
+            LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+          ],
+        ]
       );
       let wordOrPhraseMaterial = "sh";
       expect(
@@ -1248,13 +1285,17 @@ describe("create stroke hint for phrase", () => {
   describe('hint for "enquiries"', () => {
     xit("returns a sensible hint for enquiry + ^ies without condensed stroke", () => {
       const emptyPersonalDictionaries: PersonalDictionaryNameAndContents[] = [];
-      const enquiriesGlobalLookupDictionary = createAGlobalLookupDictionary(
+      const enquiriesGlobalLookupDictionary = createGlobalLookupDictionary(
         emptyPersonalDictionaries,
-        {
-          "EPB/KWAOEUR/KWREU": "enquiry",
-          "KWREUS": "{^ies}",
-        },
-        {}
+        [
+          [
+            {
+              "EPB/KWAOEUR/KWREU": "enquiry",
+              "KWREUS": "{^ies}",
+            },
+            LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+          ],
+        ]
       );
       let wordOrPhraseMaterial = "enquiries";
       expect(
@@ -1269,14 +1310,18 @@ describe("create stroke hint for phrase", () => {
   describe('hint for "expostulated."', () => {
     it("returns a sensible hint for expostulate + ^ed and full stop without condensed stroke", () => {
       const emptyPersonalDictionaries: PersonalDictionaryNameAndContents[] = [];
-      const expostulatedGlobalLookupDictionary = createAGlobalLookupDictionary(
+      const expostulatedGlobalLookupDictionary = createGlobalLookupDictionary(
         emptyPersonalDictionaries,
-        {
-          "EBGS/POFT/HRAEUT": "expostulate",
-          "-D": "{^ed}",
-          "TP-PL": "{.}",
-        },
-        {}
+        [
+          [
+            {
+              "EBGS/POFT/HRAEUT": "expostulate",
+              "-D": "{^ed}",
+              "TP-PL": "{.}",
+            },
+            LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+          ],
+        ]
       );
       let wordOrPhraseMaterial = "expostulated.";
       expect(
@@ -1291,20 +1336,24 @@ describe("create stroke hint for phrase", () => {
   describe('hint for "so how\'s"', () => {
     it("returns a sensible hint using multi-word brief with apostrophe", () => {
       const emptyPersonalDictionaries: PersonalDictionaryNameAndContents[] = [];
-      const knockdGlobalLookupDictionary = createAGlobalLookupDictionary(
+      const knockdGlobalLookupDictionary = createGlobalLookupDictionary(
         emptyPersonalDictionaries,
-        {
-          "TPHAO*URS": "New Year's",
-          "TPHU": "new",
-          "KWRAOER": "year",
-          "TPHU/KWRAO*ER": "New Year",
-          "AE": "{^'}",
-          "AES": "{^'s}",
-          "-S": "{^s}",
-          "S*": "{&s}",
-          "KPA": "{}{-|}",
-        },
-        {}
+        [
+          [
+            {
+              "TPHAO*URS": "New Year's",
+              "TPHU": "new",
+              "KWRAOER": "year",
+              "TPHU/KWRAO*ER": "New Year",
+              "AE": "{^'}",
+              "AES": "{^'s}",
+              "-S": "{^s}",
+              "S*": "{&s}",
+              "KPA": "{}{-|}",
+            },
+            LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+          ],
+        ]
       );
       let wordOrPhraseMaterial = "New Year's";
       const result = createStrokeHintForPhrase(
@@ -1318,20 +1367,24 @@ describe("create stroke hint for phrase", () => {
   describe('hint for "so how\'s"', () => {
     it("returns a sensible hint using multi-word brief with apostrophe", () => {
       const emptyPersonalDictionaries: PersonalDictionaryNameAndContents[] = [];
-      const knockdGlobalLookupDictionary = createAGlobalLookupDictionary(
+      const knockdGlobalLookupDictionary = createGlobalLookupDictionary(
         emptyPersonalDictionaries,
-        {
-          "SHO*US": "so how's",
-          "SO": "so",
-          "HOU": "how",
-          "HO*US": "how's",
-          "AE": "{^'}",
-          "AES": "{^'s}",
-          "-S": "{^s}",
-          "S*": "{&s}",
-          "KPA": "{}{-|}",
-        },
-        {}
+        [
+          [
+            {
+              "SHO*US": "so how's",
+              "SO": "so",
+              "HOU": "how",
+              "HO*US": "how's",
+              "AE": "{^'}",
+              "AES": "{^'s}",
+              "-S": "{^s}",
+              "S*": "{&s}",
+              "KPA": "{}{-|}",
+            },
+            LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+          ],
+        ]
       );
       let wordOrPhraseMaterial = "so how's";
       const result = createStrokeHintForPhrase(
@@ -1345,16 +1398,20 @@ describe("create stroke hint for phrase", () => {
   describe("hint for knock'd", () => {
     it("returns a sensible apostrophe dee hint for existing lower-cased word", () => {
       const emptyPersonalDictionaries: PersonalDictionaryNameAndContents[] = [];
-      const knockdGlobalLookupDictionary = createAGlobalLookupDictionary(
+      const knockdGlobalLookupDictionary = createGlobalLookupDictionary(
         emptyPersonalDictionaries,
-        {
-          "*D": "{^'d}",
-          "AE": "{^'}",
-          "KPA": "{}{-|}",
-          "TK*": "{&d}",
-          "TPHOBG": "knock",
-        },
-        {}
+        [
+          [
+            {
+              "*D": "{^'d}",
+              "AE": "{^'}",
+              "KPA": "{}{-|}",
+              "TK*": "{&d}",
+              "TPHOBG": "knock",
+            },
+            LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+          ],
+        ]
       );
       let wordOrPhraseMaterial = "knock'd";
       const result = createStrokeHintForPhrase(
@@ -1368,18 +1425,22 @@ describe("create stroke hint for phrase", () => {
   describe("hint for frolick'd", () => {
     xit("returns a sensible apostrophe dee hint for missing lower-cased word", () => {
       const emptyPersonalDictionaries: PersonalDictionaryNameAndContents[] = [];
-      const frolickdGlobalLookupDictionary = createAGlobalLookupDictionary(
+      const frolickdGlobalLookupDictionary = createGlobalLookupDictionary(
         emptyPersonalDictionaries,
-        {
-          "*D": "{^'d}",
-          "AE": "{^'}",
-          "KPA": "{}{-|}",
-          "TK*": "{&d}",
-          "K*": "{&k}",
-          "*BG": "{^k}",
-          "TPROL/EUBG": "frolic",
-        },
-        {}
+        [
+          [
+            {
+              "*D": "{^'d}",
+              "AE": "{^'}",
+              "KPA": "{}{-|}",
+              "TK*": "{&d}",
+              "K*": "{&k}",
+              "*BG": "{^k}",
+              "TPROL/EUBG": "frolic",
+            },
+            LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+          ],
+        ]
       );
       let wordOrPhraseMaterial = "frolick'd";
       const result = createStrokeHintForPhrase(
@@ -1393,17 +1454,21 @@ describe("create stroke hint for phrase", () => {
   describe("hint for Heaven's", () => {
     it("returns a sensible apostrophe ess hint for capitalised words with contractions", () => {
       const emptyPersonalDictionaries: PersonalDictionaryNameAndContents[] = [];
-      const heavensGlobalLookupDictionary = createAGlobalLookupDictionary(
+      const heavensGlobalLookupDictionary = createGlobalLookupDictionary(
         emptyPersonalDictionaries,
-        {
-          "AE": "{^'}",
-          "AES": "{^'s}",
-          "HEFPB": "heaven",
-          "KPA": "{}{-|}",
-          "-S": "{^s}",
-          "S*": "{&s}",
-        },
-        {}
+        [
+          [
+            {
+              "AE": "{^'}",
+              "AES": "{^'s}",
+              "HEFPB": "heaven",
+              "KPA": "{}{-|}",
+              "-S": "{^s}",
+              "S*": "{&s}",
+            },
+            LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+          ],
+        ]
       );
       let wordOrPhraseMaterial = "Heaven's";
       const result = createStrokeHintForPhrase(
@@ -1421,20 +1486,21 @@ describe("create stroke hint for phrase", () => {
       let wordOrPhraseMaterial = "King's";
       const result = createStrokeHintForPhrase(
         wordOrPhraseMaterial,
-        createAGlobalLookupDictionary(
-          emptyPersonalDictionaries,
-          {
-            "AE": "{^'}",
-            "AES": "{^'s}",
-            "KEUPBG": "king",
-            "KO*EUPBG": "King",
-            "KEUPBG/AES": "king's",
-            "KPA": "{}{-|}",
-            "-S": "{^s}",
-            "S*": "{&s}",
-          },
-          {}
-        )
+        createGlobalLookupDictionary(emptyPersonalDictionaries, [
+          [
+            {
+              "AE": "{^'}",
+              "AES": "{^'s}",
+              "KEUPBG": "king",
+              "KO*EUPBG": "King",
+              "KEUPBG/AES": "king's",
+              "KPA": "{}{-|}",
+              "-S": "{^s}",
+              "S*": "{&s}",
+            },
+            LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+          ],
+        ])
       );
       expect(result).toEqual("KO*EUPBG/AES");
     });
@@ -1446,20 +1512,21 @@ describe("create stroke hint for phrase", () => {
       let wordOrPhraseMaterial = "is——where's";
       const result = createStrokeHintForPhrase(
         wordOrPhraseMaterial,
-        createAGlobalLookupDictionary(
-          emptyPersonalDictionaries,
-          {
-            "AE": "{^'}",
-            "AES": "{^'s}",
-            "EPL/TKA*RB": "—",
-            "S": "is",
-            "-S": "{^s}",
-            "W-R": "where",
-            "W-RS": "where's",
-            "S*": "{&s}",
-          },
-          {}
-        )
+        createGlobalLookupDictionary(emptyPersonalDictionaries, [
+          [
+            {
+              "AE": "{^'}",
+              "AES": "{^'s}",
+              "EPL/TKA*RB": "—",
+              "S": "is",
+              "-S": "{^s}",
+              "W-R": "where",
+              "W-RS": "where's",
+              "S*": "{&s}",
+            },
+            LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+          ],
+        ])
       );
       expect(result).toEqual("S/EPL/TKA*RB/EPL/TKA*RB/W-RS");
     });
@@ -1471,17 +1538,18 @@ describe("create stroke hint for phrase", () => {
       let wordOrPhraseMaterial = "ceiling—what?";
       const result = createStrokeHintForPhrase(
         wordOrPhraseMaterial,
-        createAGlobalLookupDictionary(
-          emptyPersonalDictionaries,
-          {
-            "KAOELG": "ceiling",
-            "EPL/TKA*RB": "—",
-            "WHA": "what",
-            "H-F": "{?}",
-            "KWEZ": "?",
-          },
-          {}
-        )
+        createGlobalLookupDictionary(emptyPersonalDictionaries, [
+          [
+            {
+              "KAOELG": "ceiling",
+              "EPL/TKA*RB": "—",
+              "WHA": "what",
+              "H-F": "{?}",
+              "KWEZ": "?",
+            },
+            LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+          ],
+        ])
       );
       expect(result).toEqual("KAOELG/EPL/TKA*RB/WHA/H-F");
     });
@@ -1493,20 +1561,21 @@ describe("create stroke hint for phrase", () => {
       let wordOrPhraseMaterial = "say—that's";
       const result = createStrokeHintForPhrase(
         wordOrPhraseMaterial,
-        createAGlobalLookupDictionary(
-          emptyPersonalDictionaries,
-          {
-            "AE": "{^'}",
-            "AES": "{^'s}",
-            "SAEU": "say",
-            "EPL/TKA*RB": "—",
-            "THATS": "that's",
-            "THA": "that",
-            "-S": "{^s}",
-            "S*": "{&s}",
-          },
-          {}
-        )
+        createGlobalLookupDictionary(emptyPersonalDictionaries, [
+          [
+            {
+              "AE": "{^'}",
+              "AES": "{^'s}",
+              "SAEU": "say",
+              "EPL/TKA*RB": "—",
+              "THATS": "that's",
+              "THA": "that",
+              "-S": "{^s}",
+              "S*": "{&s}",
+            },
+            LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+          ],
+        ])
       );
       expect(result).toEqual("SAEU/EPL/TKA*RB/THATS");
     });
@@ -1516,19 +1585,20 @@ describe("create stroke hint for phrase", () => {
       let wordOrPhraseMaterial = "evening—wouldn't";
       const result = createStrokeHintForPhrase(
         wordOrPhraseMaterial,
-        createAGlobalLookupDictionary(
-          emptyPersonalDictionaries,
-          {
-            "*PB": "{^n}",
-            "*PBT": "{^n't}",
-            "AE": "{^'}",
-            "AOEPBG": "evening",
-            "EPL/TKA*RB": "—",
-            "WO": "would",
-            "WOPBT": "wouldn't",
-          },
-          {}
-        )
+        createGlobalLookupDictionary(emptyPersonalDictionaries, [
+          [
+            {
+              "*PB": "{^n}",
+              "*PBT": "{^n't}",
+              "AE": "{^'}",
+              "AOEPBG": "evening",
+              "EPL/TKA*RB": "—",
+              "WO": "would",
+              "WOPBT": "wouldn't",
+            },
+            LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+          ],
+        ])
       );
       expect(result).toEqual("AOEPBG/EPL/TKA*RB/WOPBT");
     });
@@ -1540,15 +1610,16 @@ describe("create stroke hint for phrase", () => {
       let wordOrPhraseMaterial = "said:";
       const result = createStrokeHintForPhrase(
         wordOrPhraseMaterial,
-        createAGlobalLookupDictionary(
-          emptyPersonalDictionaries,
-          {
-            "SED": "said",
-            "STPH-FPLT": "{:}",
-            "KHR-PB": "{^:^}",
-          },
-          {}
-        )
+        createGlobalLookupDictionary(emptyPersonalDictionaries, [
+          [
+            {
+              "SED": "said",
+              "STPH-FPLT": "{:}",
+              "KHR-PB": "{^:^}",
+            },
+            LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+          ],
+        ])
       );
       expect(result).toEqual("SED/STPH-FPLT");
     });
@@ -1560,13 +1631,14 @@ describe("create stroke hint for phrase", () => {
       let wordOrPhraseMaterial = "adze";
       const result = createStrokeHintForPhrase(
         wordOrPhraseMaterial,
-        createAGlobalLookupDictionary(
-          emptyPersonalDictionaries,
-          {
-            "AEU": "a",
-          },
-          {}
-        )
+        createGlobalLookupDictionary(emptyPersonalDictionaries, [
+          [
+            {
+              "AEU": "a",
+            },
+            LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+          ],
+        ])
       );
       // expect(result).toEqual("A*/TK*/STKPW*/*E");
       // expect(result).toEqual("A/TK*/STKPW*/*E");
@@ -1581,13 +1653,14 @@ describe("create stroke hint for phrase", () => {
       let wordOrPhraseMaterial = "Æthiopian";
       const result = createStrokeHintForPhrase(
         wordOrPhraseMaterial,
-        createAGlobalLookupDictionary(
-          emptyPersonalDictionaries,
-          {
-            "A*RB": "æ",
-          },
-          {}
-        )
+        createGlobalLookupDictionary(emptyPersonalDictionaries, [
+          [
+            {
+              "A*RB": "æ",
+            },
+            LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+          ],
+        ])
       );
       // expect(result).toEqual("*URP/A*RB/*T/*EU/O*/P*/*EU/A*/TPH*");
       // expect(result).toEqual("*URP/A*RB/*T/SKWREU/KWRO/*P/SKWREU/KWRA/*PB");
@@ -1601,19 +1674,20 @@ describe("create stroke hint for phrase", () => {
       let wordOrPhraseMaterial = "McKenna";
       const result = createStrokeHintForPhrase(
         wordOrPhraseMaterial,
-        createAGlobalLookupDictionary(
-          emptyPersonalDictionaries,
-          {
-            "*PB": "{^n}",
-            "A": "{a^}",
-            "AEU": "a",
-            "KEPB": "Ken",
-            "KWRA": "{^a}",
-            "PH-BG": "{Mc^}{-|}",
-            "SKWRA": "{^a}",
-          },
-          {}
-        )
+        createGlobalLookupDictionary(emptyPersonalDictionaries, [
+          [
+            {
+              "*PB": "{^n}",
+              "A": "{a^}",
+              "AEU": "a",
+              "KEPB": "Ken",
+              "KWRA": "{^a}",
+              "PH-BG": "{Mc^}{-|}",
+              "SKWRA": "{^a}",
+            },
+            LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+          ],
+        ])
       );
       // expect(result).toEqual("PH-BG/KEPB/*PB/KWRA");
       expect(result).toEqual("PH-BG/KEPB/*PB/SKWRA");
@@ -1626,14 +1700,15 @@ describe("create stroke hint for phrase", () => {
       let wordOrPhraseMaterial = " and";
       const result = createStrokeHintForPhrase(
         wordOrPhraseMaterial,
-        createAGlobalLookupDictionary(
-          emptyPersonalDictionaries,
-          {
-            "SKP": "and",
-            "S-P": "{^ ^}",
-          },
-          {}
-        )
+        createGlobalLookupDictionary(emptyPersonalDictionaries, [
+          [
+            {
+              "SKP": "and",
+              "S-P": "{^ ^}",
+            },
+            LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+          ],
+        ])
       );
       expect(result).toEqual("S-P/SKP");
     });
@@ -1643,14 +1718,15 @@ describe("create stroke hint for phrase", () => {
       let wordOrPhraseMaterial = "and ";
       const result = createStrokeHintForPhrase(
         wordOrPhraseMaterial,
-        createAGlobalLookupDictionary(
-          emptyPersonalDictionaries,
-          {
-            "SKP": "and",
-            "S-P": "{^ ^}",
-          },
-          {}
-        )
+        createGlobalLookupDictionary(emptyPersonalDictionaries, [
+          [
+            {
+              "SKP": "and",
+              "S-P": "{^ ^}",
+            },
+            LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+          ],
+        ])
       );
       expect(result).toEqual("SKP/S-P");
     });
@@ -1660,14 +1736,15 @@ describe("create stroke hint for phrase", () => {
       let wordOrPhraseMaterial = " and ";
       const result = createStrokeHintForPhrase(
         wordOrPhraseMaterial,
-        createAGlobalLookupDictionary(
-          emptyPersonalDictionaries,
-          {
-            "SKP": "and",
-            "S-P": "{^ ^}",
-          },
-          {}
-        )
+        createGlobalLookupDictionary(emptyPersonalDictionaries, [
+          [
+            {
+              "SKP": "and",
+              "S-P": "{^ ^}",
+            },
+            LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+          ],
+        ])
       );
       expect(result).toEqual("S-P/SKP/S-P");
     });
@@ -1681,13 +1758,14 @@ describe("create stroke hint for phrase", () => {
         const wordOrPhraseMaterial = "the";
         const result = createStrokeHintForPhrase(
           wordOrPhraseMaterial,
-          createAGlobalLookupDictionary(
-            emptyPersonalDictionaries,
-            {
-              "-T": "the",
-            },
-            {}
-          ),
+          createGlobalLookupDictionary(emptyPersonalDictionaries, [
+            [
+              {
+                "-T": "the",
+              },
+              LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+            ],
+          ]),
           AffixList.getSharedInstance()
         );
         expect(result).toEqual("-T");
@@ -1701,14 +1779,15 @@ describe("create stroke hint for phrase", () => {
         const wordOrPhraseMaterial = "The";
         const result = createStrokeHintForPhrase(
           wordOrPhraseMaterial,
-          createAGlobalLookupDictionary(
-            emptyPersonalDictionaries,
-            {
-              "-T": "the",
-              "KPA": "{}{-|}",
-            },
-            {}
-          ),
+          createGlobalLookupDictionary(emptyPersonalDictionaries, [
+            [
+              {
+                "-T": "the",
+                "KPA": "{}{-|}",
+              },
+              LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+            ],
+          ]),
           AffixList.getSharedInstance()
         );
         expect(result).toEqual("KPA/-T");
@@ -1722,15 +1801,16 @@ describe("create stroke hint for phrase", () => {
         const wordOrPhraseMaterial = "bekettle";
         const result = createStrokeHintForPhrase(
           wordOrPhraseMaterial,
-          createAGlobalLookupDictionary(
-            emptyPersonalDictionaries,
-            {
-              "-B": "be",
-              "PWE": "{be^}",
-              "KET/*L": "kettle",
-            },
-            {}
-          ),
+          createGlobalLookupDictionary(emptyPersonalDictionaries, [
+            [
+              {
+                "-B": "be",
+                "PWE": "{be^}",
+                "KET/*L": "kettle",
+              },
+              LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+            ],
+          ]),
           AffixList.getSharedInstance()
         );
         expect(result).toEqual("PWE/KET/*L");
@@ -1742,18 +1822,19 @@ describe("create stroke hint for phrase", () => {
         const wordOrPhraseMaterial = "suitors";
         const result = createStrokeHintForPhrase(
           wordOrPhraseMaterial,
-          createAGlobalLookupDictionary(
-            emptyPersonalDictionaries,
-            {
-              "-S": "{^s}",
-              "O*R": "{^or}",
-              "O*RS": "{^ors}",
-              "SAOU/TOR": "suitor",
-              "SAOUT": "suit",
-              "SAOUT/TOR": "suitor",
-            },
-            {}
-          ),
+          createGlobalLookupDictionary(emptyPersonalDictionaries, [
+            [
+              {
+                "-S": "{^s}",
+                "O*R": "{^or}",
+                "O*RS": "{^ors}",
+                "SAOU/TOR": "suitor",
+                "SAOUT": "suit",
+                "SAOUT/TOR": "suitor",
+              },
+              LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+            ],
+          ]),
           AffixList.getSharedInstance()
         );
         expect(result).toEqual("SAOUT/O*RS");
@@ -1778,15 +1859,16 @@ describe("create stroke hint for phrase", () => {
         const wordOrPhraseMaterial = "quasi-confuzzled";
         const result = createStrokeHintForPhrase(
           wordOrPhraseMaterial,
-          createAGlobalLookupDictionary(
-            emptyPersonalDictionaries,
-            {
-              "KWAS/KWREU": "{quasi-}",
-              "KWA/SEU": "quasi",
-              "H-PB": "{^-^}",
-            },
-            {}
-          ),
+          createGlobalLookupDictionary(emptyPersonalDictionaries, [
+            [
+              {
+                "KWAS/KWREU": "{quasi-}",
+                "KWA/SEU": "quasi",
+                "H-PB": "{^-^}",
+              },
+              LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+            ],
+          ]),
           AffixList.getSharedInstance()
         );
         expect(result).toEqual(
@@ -1804,20 +1886,21 @@ describe("create stroke hint for phrase", () => {
         const wordOrPhraseMaterial = "is——where's";
         const result = createStrokeHintForPhrase(
           wordOrPhraseMaterial,
-          createAGlobalLookupDictionary(
-            emptyPersonalDictionaries,
-            {
-              "AE": "{^'}",
-              "AES": "{^'s}",
-              "EPL/TKA*RB": "—",
-              "S": "is",
-              "-S": "{^s}",
-              "W-R": "where",
-              "W-RS": "where's",
-              "S*": "{&s}",
-            },
-            {}
-          ),
+          createGlobalLookupDictionary(emptyPersonalDictionaries, [
+            [
+              {
+                "AE": "{^'}",
+                "AES": "{^'s}",
+                "EPL/TKA*RB": "—",
+                "S": "is",
+                "-S": "{^s}",
+                "W-R": "where",
+                "W-RS": "where's",
+                "S*": "{&s}",
+              },
+              LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+            ],
+          ]),
           AffixList.getSharedInstance()
         );
         expect(result).toEqual("S/EPL/TKA*RB/EPL/TKA*RB/W-RS");
@@ -1833,18 +1916,19 @@ describe("create stroke hint for phrase", () => {
         const wordOrPhraseMaterial = "podiatrist's";
         const result = createStrokeHintForPhrase(
           wordOrPhraseMaterial,
-          createAGlobalLookupDictionary(
-            emptyPersonalDictionaries,
-            {
-              "-S": "{^s}",
-              "AE": "{^'}",
-              "AES": "{^'s}",
-              "POED/TREUFT": "podiatrist",
-              "S": "is",
-              "S*": "{&s}",
-            },
-            {}
-          ),
+          createGlobalLookupDictionary(emptyPersonalDictionaries, [
+            [
+              {
+                "-S": "{^s}",
+                "AE": "{^'}",
+                "AES": "{^'s}",
+                "POED/TREUFT": "podiatrist",
+                "S": "is",
+                "S*": "{&s}",
+              },
+              LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+            ],
+          ]),
           AffixList.getSharedInstance()
         );
         expect(result).toEqual("POED/TREUFT/AES");
@@ -1858,19 +1942,20 @@ describe("create stroke hint for phrase", () => {
         const wordOrPhraseMaterial = "podiatrist's optometrist's";
         const result = createStrokeHintForPhrase(
           wordOrPhraseMaterial,
-          createAGlobalLookupDictionary(
-            emptyPersonalDictionaries,
-            {
-              "-S": "{^s}",
-              "AE": "{^'}",
-              "AES": "{^'s}",
-              "OP/TOPL/TREUFT": "optometrist",
-              "POED/TREUFT": "podiatrist",
-              "S": "is",
-              "S*": "{&s}",
-            },
-            {}
-          ),
+          createGlobalLookupDictionary(emptyPersonalDictionaries, [
+            [
+              {
+                "-S": "{^s}",
+                "AE": "{^'}",
+                "AES": "{^'s}",
+                "OP/TOPL/TREUFT": "optometrist",
+                "POED/TREUFT": "podiatrist",
+                "S": "is",
+                "S*": "{&s}",
+              },
+              LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+            ],
+          ]),
           AffixList.getSharedInstance()
         );
         expect(result).toEqual("POED/TREUFT/AES/OP/TOPL/TREUFT/AES");
@@ -1887,17 +1972,18 @@ describe("create stroke hint for phrase", () => {
         const wordOrPhraseMaterial = "so far, so good";
         const result = createStrokeHintForPhrase(
           wordOrPhraseMaterial,
-          createAGlobalLookupDictionary(
-            emptyPersonalDictionaries,
-            {
-              "KW-BG": "{,}",
-              "SO": "so",
-              "SOFR": "so far",
-              "TKPWAOD": "good",
-              "TPAR": "far",
-            },
-            {}
-          ),
+          createGlobalLookupDictionary(emptyPersonalDictionaries, [
+            [
+              {
+                "KW-BG": "{,}",
+                "SO": "so",
+                "SOFR": "so far",
+                "TKPWAOD": "good",
+                "TPAR": "far",
+              },
+              LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+            ],
+          ]),
           AffixList.getSharedInstance()
         );
         expect(result).toEqual("SOFR/KW-BG/SO/TKPWAOD");
@@ -1912,19 +1998,20 @@ describe("create stroke hint for phrase", () => {
         const wordOrPhraseMaterial = "wham, bam, thank you, ma'am";
         const result = createStrokeHintForPhrase(
           wordOrPhraseMaterial,
-          createAGlobalLookupDictionary(
-            emptyPersonalDictionaries,
-            {
-              "KW-BG": "{,}",
-              "PHAPL": "ma'am",
-              "PWAPL": "bam",
-              "THAPBG": "thank",
-              "THAUG": "thank you",
-              "U": "you",
-              "WHAPL": "wham",
-            },
-            {}
-          ),
+          createGlobalLookupDictionary(emptyPersonalDictionaries, [
+            [
+              {
+                "KW-BG": "{,}",
+                "PHAPL": "ma'am",
+                "PWAPL": "bam",
+                "THAPBG": "thank",
+                "THAUG": "thank you",
+                "U": "you",
+                "WHAPL": "wham",
+              },
+              LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+            ],
+          ]),
           AffixList.getSharedInstance()
         );
         expect(result).toEqual("WHAPL/KW-BG/PWAPL/KW-BG/THAUG/KW-BG/PHAPL");
@@ -1941,18 +2028,19 @@ describe("create stroke hint for phrase", () => {
         const wordOrPhraseMaterial = "a…";
         const result = createStrokeHintForPhrase(
           wordOrPhraseMaterial,
-          createAGlobalLookupDictionary(
-            emptyPersonalDictionaries,
-            {
-              "AEU": "a",
-              "HR-PS": "{^…}",
-              // TODO: add support for matching these
-              // "SKWR*RBGS": "{^}…{-|}",
-              // "SKWR-RBGS": "{^…}{-|}",
-              // "SKWR-RBGSZ": "{^}…{-|}",
-            },
-            {}
-          ),
+          createGlobalLookupDictionary(emptyPersonalDictionaries, [
+            [
+              {
+                "AEU": "a",
+                "HR-PS": "{^…}",
+                // TODO: add support for matching these
+                // "SKWR*RBGS": "{^}…{-|}",
+                // "SKWR-RBGS": "{^…}{-|}",
+                // "SKWR-RBGSZ": "{^}…{-|}",
+              },
+              LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+            ],
+          ]),
           AffixList.getSharedInstance()
         );
         expect(result).toEqual("AEU/HR-PS");
@@ -1964,13 +2052,14 @@ describe("create stroke hint for phrase", () => {
         const wordOrPhraseMaterial = "a…";
         const result = createStrokeHintForPhrase(
           wordOrPhraseMaterial,
-          createAGlobalLookupDictionary(
-            emptyPersonalDictionaries,
-            {
-              "AEU": "a",
-            },
-            {}
-          ),
+          createGlobalLookupDictionary(emptyPersonalDictionaries, [
+            [
+              {
+                "AEU": "a",
+              },
+              LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+            ],
+          ]),
           AffixList.getSharedInstance()
         );
         expect(result).toEqual("AEU/xxx");
@@ -1984,13 +2073,14 @@ describe("create stroke hint for phrase", () => {
         const wordOrPhraseMaterial = "a...";
         const result = createStrokeHintForPhrase(
           wordOrPhraseMaterial,
-          createAGlobalLookupDictionary(
-            emptyPersonalDictionaries,
-            {
-              "AEU": "a",
-            },
-            {}
-          ),
+          createGlobalLookupDictionary(emptyPersonalDictionaries, [
+            [
+              {
+                "AEU": "a",
+              },
+              LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+            ],
+          ]),
           AffixList.getSharedInstance()
         );
         expect(result).toEqual("AEU/TP-PL/TP-PL/TP-PL");
@@ -2004,13 +2094,14 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "hasOwnProperty";
       const result = createStrokeHintForPhrase(
         wordOrPhraseMaterial,
-        createAGlobalLookupDictionary(
-          emptyPersonalDictionaries,
-          {
-            "HAS/OEPB/PROT": "hasOwnProperty",
-          },
-          {}
-        ),
+        createGlobalLookupDictionary(emptyPersonalDictionaries, [
+          [
+            {
+              "HAS/OEPB/PROT": "hasOwnProperty",
+            },
+            LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+          ],
+        ]),
         AffixList.getSharedInstance()
       );
       expect(result).toEqual("HAS/OEPB/PROT");
@@ -2021,13 +2112,14 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "isPrototypeOf";
       const result = createStrokeHintForPhrase(
         wordOrPhraseMaterial,
-        createAGlobalLookupDictionary(
-          emptyPersonalDictionaries,
-          {
-            "S/KPA*/PRO/TOE/TAOEUP/KPA*/-F": "isPrototypeOf",
-          },
-          {}
-        ),
+        createGlobalLookupDictionary(emptyPersonalDictionaries, [
+          [
+            {
+              "S/KPA*/PRO/TOE/TAOEUP/KPA*/-F": "isPrototypeOf",
+            },
+            LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+          ],
+        ]),
         AffixList.getSharedInstance()
       );
       expect(result).toEqual("S/KPA*/PRO/TOE/TAOEUP/KPA*/-F");
@@ -2038,13 +2130,14 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "valueOf";
       const result = createStrokeHintForPhrase(
         wordOrPhraseMaterial,
-        createAGlobalLookupDictionary(
-          emptyPersonalDictionaries,
-          {
-            "SRAOUL/KPA*/-F": "valueOf",
-          },
-          {}
-        ),
+        createGlobalLookupDictionary(emptyPersonalDictionaries, [
+          [
+            {
+              "SRAOUL/KPA*/-F": "valueOf",
+            },
+            LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+          ],
+        ]),
         AffixList.getSharedInstance()
       );
       expect(result).toEqual("SRAOUL/KPA*/-F");
@@ -2055,13 +2148,14 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "toString";
       const result = createStrokeHintForPhrase(
         wordOrPhraseMaterial,
-        createAGlobalLookupDictionary(
-          emptyPersonalDictionaries,
-          {
-            "TO/STR*EUPBG": "toString",
-          },
-          {}
-        ),
+        createGlobalLookupDictionary(emptyPersonalDictionaries, [
+          [
+            {
+              "TO/STR*EUPBG": "toString",
+            },
+            LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+          ],
+        ]),
         AffixList.getSharedInstance()
       );
       expect(result).toEqual("TO/STR*EUPBG");
@@ -2076,14 +2170,15 @@ describe("create stroke hint for phrase", () => {
         const wordOrPhraseMaterial = "20/20";
         const result = createStrokeHintForPhrase(
           wordOrPhraseMaterial,
-          createAGlobalLookupDictionary(
-            emptyPersonalDictionaries,
-            {
-              // "20": "20",
-              "OEU": "{^/^}",
-            },
-            {}
-          ),
+          createGlobalLookupDictionary(emptyPersonalDictionaries, [
+            [
+              {
+                // "20": "20",
+                "OEU": "{^/^}",
+              },
+              LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+            ],
+          ]),
           AffixList.getSharedInstance()
         );
         // expect(result).toEqual("20/OEU/20");
@@ -2097,16 +2192,17 @@ describe("create stroke hint for phrase", () => {
         const wordOrPhraseMaterial = "20/20.";
         const result = createStrokeHintForPhrase(
           wordOrPhraseMaterial,
-          createAGlobalLookupDictionary(
-            emptyPersonalDictionaries,
-            {
-              // "20": "20",
-              "OEU": "{^/^}",
-              "TP-PL": "{.}",
-              "P-P": "{^.^}",
-            },
-            {}
-          ),
+          createGlobalLookupDictionary(emptyPersonalDictionaries, [
+            [
+              {
+                // "20": "20",
+                "OEU": "{^/^}",
+                "TP-PL": "{.}",
+                "P-P": "{^.^}",
+              },
+              LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+            ],
+          ]),
           AffixList.getSharedInstance()
         );
         expect(result).toEqual("20/OEU/20/TP-PL");
@@ -2120,15 +2216,16 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "=>";
       const result = createStrokeHintForPhrase(
         wordOrPhraseMaterial,
-        createAGlobalLookupDictionary(
-          emptyPersonalDictionaries,
-          {
-            "HARB/RO*BGT": "=>",
-            "S-P/TPRO*E": "=>",
-            "TPRO*E": "{#}=>",
-          },
-          {}
-        ),
+        createGlobalLookupDictionary(emptyPersonalDictionaries, [
+          [
+            {
+              "HARB/RO*BGT": "=>",
+              "S-P/TPRO*E": "=>",
+              "TPRO*E": "{#}=>",
+            },
+            LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+          ],
+        ]),
         AffixList.getSharedInstance()
       );
       expect(result).toEqual("S-P/TPRO*E");
@@ -2141,15 +2238,16 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "marriage-portion";
       const result = createStrokeHintForPhrase(
         wordOrPhraseMaterial,
-        createAGlobalLookupDictionary(
-          emptyPersonalDicts,
-          {
-            "PHAERPBLG": "marriage",
-            "PORGS": "portion",
-            "H-PB": "{^-^}",
-          },
-          {}
-        ),
+        createGlobalLookupDictionary(emptyPersonalDicts, [
+          [
+            {
+              "PHAERPBLG": "marriage",
+              "PORGS": "portion",
+              "H-PB": "{^-^}",
+            },
+            LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+          ],
+        ]),
         AffixList.getSharedInstance()
       );
       // expect(result).toEqual("PHAERPBLG H-PB PORGS");
@@ -2161,15 +2259,16 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "self-control";
       const result = createStrokeHintForPhrase(
         wordOrPhraseMaterial,
-        createAGlobalLookupDictionary(
-          emptyPersonalDicts,
-          {
-            "H-PB": "{^-^}",
-            "SEF": "{self-^}",
-            "KROL": "control",
-          },
-          {}
-        ),
+        createGlobalLookupDictionary(emptyPersonalDicts, [
+          [
+            {
+              "H-PB": "{^-^}",
+              "SEF": "{self-^}",
+              "KROL": "control",
+            },
+            LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+          ],
+        ]),
         AffixList.getSharedInstance()
       );
       expect(result).toEqual("SEF/KROL");
@@ -2180,14 +2279,15 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "self-notarealword";
       const result = createStrokeHintForPhrase(
         wordOrPhraseMaterial,
-        createAGlobalLookupDictionary(
-          emptyPersonalDicts,
-          {
-            "H-PB": "{^-^}",
-            "SEF": "{self-^}",
-          },
-          {}
-        ),
+        createGlobalLookupDictionary(emptyPersonalDicts, [
+          [
+            {
+              "H-PB": "{^-^}",
+              "SEF": "{self-^}",
+            },
+            LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+          ],
+        ]),
         AffixList.getSharedInstance()
       );
       // expect(result).toEqual("SEF/TPH*/O*/T*/A*/R*/*E/A*/HR*/W*/O*/R*/TK*");
@@ -2200,15 +2300,16 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = '"Lady-bird,';
       const result = createStrokeHintForPhrase(
         wordOrPhraseMaterial,
-        createAGlobalLookupDictionary(
-          emptyPersonalDicts,
-          {
-            "H-PB": "{^-^}",
-            "HRA*ED": "lady",
-            "PWEURD": "bird",
-          },
-          {}
-        ),
+        createGlobalLookupDictionary(emptyPersonalDicts, [
+          [
+            {
+              "H-PB": "{^-^}",
+              "HRA*ED": "lady",
+              "PWEURD": "bird",
+            },
+            LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+          ],
+        ]),
         AffixList.getSharedInstance()
       );
       expect(result).toEqual("KW-GS/KPA*/HRA*ED/H-PB/PWEURD/KW-BG");
