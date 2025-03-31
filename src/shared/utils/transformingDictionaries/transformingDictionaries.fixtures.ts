@@ -562,46 +562,6 @@ const testTypeyTypeExtras = {
   "W-RPT": "with respect",
 };
 
-// multiple entries per phrase:
-const testPloverDict = {
-  "A/HREF": '<a href="{^}',
-  "APBD": "and",
-  "SKP": "and",
-  "SP": "and",
-  "P-R": "for",
-  "PHO": "no",
-  "WH": "when",
-  "SPH": "some",
-  "TPEURS": "first",
-  "KR-PGS": "cross-petition",
-  "TKR*FPLT": "Dr.{-|}",
-  "PH-BGS": "Mx.{-|}",
-  "PHRARPLS": "Mr. and Mrs.",
-  "KHAPBT": "chant",
-  "EL/TKREUPBLG": "Eldridge",
-  "TWA*S": "{~|'^}twas",
-  "SKWR*EPL": "gentlemen",
-  "OP/TOPL/TREUFT": "optometrist",
-  "POED/TREUFT": "podiatrist",
-  "HOR/TKEFRB/-S": "hors d'oeuvres",
-  "O*R/TK*EFRBS": "hors d'oeuvres",
-  "O*R/TK*EFRBZ": "hors d'oeuvres",
-  "O*R/TK*EFRS": "hors d'oeuvres",
-  "O*R/TK*EFRZ": "hors d'oeuvres",
-  "O*R/TKEFRBS": "hors d'oeuvres",
-  "O*R/TKEFRBZ": "hors d'oeuvres",
-  "O*R/TKER/*FS": "hors d'oeuvres",
-  "OR/TK*EFRS": "hors d'oeuvres",
-  "OR/TK*EFRZ": "hors d'oeuvres",
-  "OR/TKEFRB": "hors d'oeuvres",
-  "OR/TKER/*FS": "hors d'oeuvres",
-  "KH-S": "which is",
-  "SWEU": "which is",
-  "WEU/S": "which is",
-  "WR-PT": "with respect",
-  "W-RPT": "with respect",
-};
-
 const testEmojiDict = {
   "PHOEPBLG/T*/PH*": "™",
 };
@@ -2431,4 +2391,4 @@ const personalDictionaries: PersonalDictionaryNameAndContents[] = [
   ["test-aussie.json", testAussieDict],
 ];
 
-export { testTypeyTypeDict, testTypeyTypeExtras, testPloverDict, personalDictionaries };
+export { testTypeyTypeDict, testTypeyTypeExtras, personalDictionaries };
