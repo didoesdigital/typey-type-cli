@@ -2,19 +2,19 @@ import {
   addOutlinesToWordsInCombinedDict,
   generateListOfWordsAndStrokes,
 } from "./transformingDictionaries";
-import createAGlobalLookupDictionary from "./createAGlobalLookupDictionary";
+import createGlobalLookupDictionary from "./createGlobalLookupDictionary";
 import { AffixList } from "../affixList";
 import {
   testTypeyTypeDict,
-  testPloverDict,
   personalDictionaries,
 } from "./transformingDictionaries.fixtures";
+import LATEST_TYPEY_TYPE_FULL_DICT_NAME from "../../constant/latestTypeyTypeFullDictName";
+
 import type { LookupDictWithNamespacedDicts, Outline } from "../../types";
 
-const globalLookupDictionary = createAGlobalLookupDictionary(
+const globalLookupDictionary = createGlobalLookupDictionary(
   personalDictionaries,
-  testTypeyTypeDict,
-  testPloverDict
+  [[testTypeyTypeDict, LATEST_TYPEY_TYPE_FULL_DICT_NAME]]
 );
 
 describe("add outlines for words to combined lookup dict", () => {
