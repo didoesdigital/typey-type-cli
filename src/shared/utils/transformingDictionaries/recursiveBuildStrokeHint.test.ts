@@ -1,19 +1,21 @@
 import recursiveBuildStrokeHint from "./recursiveBuildStrokeHint";
-import createAGlobalLookupDictionary from "./createAGlobalLookupDictionary";
+import createGlobalLookupDictionary from "./createGlobalLookupDictionary";
 import { AffixList } from "../affixList";
 import {
   testTypeyTypeDict,
-  testPloverDict,
+  testTypeyTypeExtras,
   personalDictionaries,
 } from "./transformingDictionaries.fixtures";
 import unknownStroke from "../../constant/unknownStroke";
+import LATEST_TYPEY_TYPE_FULL_DICT_NAME from "../../constant/latestTypeyTypeFullDictName";
 
 import type { PersonalDictionaryNameAndContents } from "../../types";
 
-const globalLookupDictionary = createAGlobalLookupDictionary(
+const testTypeyTypeFull = { ...testTypeyTypeDict, ...testTypeyTypeExtras };
+
+const globalLookupDictionary = createGlobalLookupDictionary(
   personalDictionaries,
-  testTypeyTypeDict,
-  testPloverDict
+  [[testTypeyTypeFull, LATEST_TYPEY_TYPE_FULL_DICT_NAME]]
 );
 
 describe("recursively build stroke hint for phrase", () => {
@@ -33,13 +35,14 @@ describe("recursively build stroke hint for phrase", () => {
         const wordOrPhraseMaterial = "çççççççççççççççççççççççççç";
         const result = recursiveBuildStrokeHint(
           wordOrPhraseMaterial,
-          createAGlobalLookupDictionary(
-            emptyPersonalDictionaries,
-            {
-              "KR*": "{&c}",
-            },
-            {}
-          ),
+          createGlobalLookupDictionary(emptyPersonalDictionaries, [
+            [
+              {
+                "KR*": "{&c}",
+              },
+              LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+            ],
+          ]),
           AffixList.getSharedInstance(),
           25
         );
@@ -54,13 +57,14 @@ describe("recursively build stroke hint for phrase", () => {
         const wordOrPhraseMaterial = "ç";
         const result = recursiveBuildStrokeHint(
           wordOrPhraseMaterial,
-          createAGlobalLookupDictionary(
-            emptyPersonalDictionaries,
-            {
-              "KR*": "{&c}",
-            },
-            {}
-          ),
+          createGlobalLookupDictionary(emptyPersonalDictionaries, [
+            [
+              {
+                "KR*": "{&c}",
+              },
+              LATEST_TYPEY_TYPE_FULL_DICT_NAME,
+            ],
+          ]),
           AffixList.getSharedInstance(),
           0
         );
