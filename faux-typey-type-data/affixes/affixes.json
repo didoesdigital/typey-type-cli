@@ -895,6 +895,8 @@
     ["EUPL/", "im"],
     ["EUR/", "ir"],
     ["KA/", "ka"],
+    ["O*E/", "O'"],
+    ["OE/AE/", "o'"],
     ["OERBGS/SKWR-RBGS/", "oh"],
     ["PH-BG/", "Mc"],
     ["PW*EU/", "bi"],

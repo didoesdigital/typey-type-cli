@@ -3708,7 +3708,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'cried': KRAOEUD
 'the': -T
 'new-born': TPHU/H-PB/PWORPB
-'Will-o'the-Wisps.': W*EUL/H-PB/O*/AE/-T/H-PB/KPA*/WEUS/-PS/TP-PL
+'Will-o'the-Wisps.': W*EUL/H-PB/OE/AE/-T/H-PB/KPA*/WEUS/-PS/TP-PL
 '"And': KW-GS/AFPBD
 'thus': THUS
 'the': -T
