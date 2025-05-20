@@ -1148,7 +1148,7 @@ What the Old Man Does Is Always Right
 'enter': SPWER
 'when': WHEPB
 'the': -T
-'ostler': O*/S*/T*/HRER
+'ostler': O*/*FT/HRER
 'came': KAEUPL
 'out,': OUT/KW-BG
 'and': SKP
@@ -1158,7 +1158,7 @@ What the Old Man Does Is Always Right
 'the': -T
 'door.': TKAOR/TP-PL
 'The': KPA/-T
-'ostler': O*/S*/T*/HRER
+'ostler': O*/*FT/HRER
 'was': WAS
 'carrying': KAERG
 'a': AEU
@@ -1176,7 +1176,7 @@ What the Old Man Does Is Always Right
 'apples,"': APLS/KW-BG/KR-GS
 'answered': AEPBS/-D
 'the': -T
-'ostler;': O*/S*/T*/HRER/STPH*FPLT
+'ostler;': O*/*FT/HRER/STPH*FPLT
 '"a': KW-GS/AEU
 'whole': WHOEL
 'sackful': SABG/-FL
@@ -1273,7 +1273,7 @@ What the Old Man Does Is Always Right
 'sackful?"': SABG/-FL/H-F/KR-GS
 'asked': SK-D
 'the': -T
-'ostler.': O*/S*/T*/HRER/TP-PL
+'ostler.': O*/*FT/HRER/TP-PL
 '"What': KW-GS/KPA*/WHA
 'will': HR
 'I': EU

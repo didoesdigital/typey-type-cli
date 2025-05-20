@@ -514,7 +514,7 @@ Little Tuk
 'a': AEU
 'target': TARGT
 'as': AS
-'Prastoe.': P*P/R*/A*/S*/T*/SKWRO/SKWRE/TP-PL
+'Prastoe.': KPA/PRA/*FT/SKWRO/SKWRE/TP-PL
 'He': KPA/HE
 'said': SED
 'there': THR
@@ -1413,7 +1413,7 @@ Little Tuk
 'like': HRAOEUBG
 'those': THOZ
 'at': AT
-'Prastoe.': P*P/R*/A*/S*/T*/SKWRO/SKWRE/TP-PL
+'Prastoe.': KPA/PRA/*FT/SKWRO/SKWRE/TP-PL
 'Understand': KPA/URPBD
 'me': PHE
 'well;': WEL/STPH*FPLT

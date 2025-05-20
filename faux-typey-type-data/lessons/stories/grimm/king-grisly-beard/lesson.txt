@@ -452,7 +452,7 @@ King Grisly-Beard
 'Grisly-beard,'': KPA/TKPWREUS/HREU/H-PB/PWAERD/KW-BG/AE
 'answered': AEPBS/-D
 'he;': HE/STPH*FPLT
-''hadst': A*E/H*/A*/TK*/S*/T*
+''hadst': A*E/H/*FT
 'thou': THO*U
 'taken': TAEPB
 'him,': HEUPL/KW-BG
@@ -495,7 +495,7 @@ King Grisly-Beard
 'to': TO
 'King': KO*EUPBG
 'Grisly-beard,': KPA/TKPWREUS/HREU/H-PB/PWAERD/KW-BG
-'hadst': H*/A*/TK*/S*/T*
+'hadst': H/*FT
 'thou': THO*U
 'taken': TAEPB
 'him,': HEUPL/KW-BG
@@ -538,7 +538,7 @@ King Grisly-Beard
 'to': TO
 'King': KO*EUPBG
 'Grisly-beard;': KPA/TKPWREUS/HREU/H-PB/PWAERD/STPH*FPLT
-'hadst': H*/A*/TK*/S*/T*
+'hadst': H/*FT
 'thou': THO*U
 'taken': TAEPB
 'him,': HEUPL/KW-BG

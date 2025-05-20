@@ -1556,7 +1556,7 @@ Kew Gardens
 'sees': SAO*ES
 'a': AEU
 'brass': PWRAS
-'candlestick': KR*/A*/TPH*/TK*/HR*/EFT/EUBG/*BG
+'candlestick': KA*PBLD/*FT/EUBG/*BG
 'reflecting': RAOE/TPHREBGT/-G
 'the': -T
 'light': HRAOEUT
@@ -1575,7 +1575,7 @@ Kew Gardens
 'seeing': SAOEG
 'the': -T
 'brass': PWRAS
-'candlestick': KR*/A*/TPH*/TK*/HR*/EFT/EUBG/*BG
+'candlestick': KA*PBLD/*FT/EUBG/*BG
 'again,': STKPWERPBGS
 'finally': TPHRAOEUPBL
 'starts': STARTS
@@ -1585,7 +1585,7 @@ Kew Gardens
 'stares': STAERS
 'at': AT
 'the': -T
-'candlestick': KR*/A*/TPH*/TK*/HR*/EFT/EUBG/*BG
+'candlestick': KA*PBLD/*FT/EUBG/*BG
 'with': W
 'all': AUL
 'his': HEUS

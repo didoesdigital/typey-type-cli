@@ -2926,7 +2926,7 @@ The Story of the Year
 'while': WHAOEUL
 'yet': KWRET
 'thou': THO*U
-'livest.': HR*/*EU/SR*/EFT/TP-PL
+'livest.': HREUF/*FT/TP-PL
 'The': KPA/-T
 'hour': HOUR
 'of': -F

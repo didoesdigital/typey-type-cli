@@ -3914,7 +3914,7 @@ The Psyche
 'the': -T
 'gift': TKPWEUFT
 'thou': THO*U
-'hadst': H*/A*/TK*/S*/T*
+'hadst': H/*FT
 'vouchsafed': SROUFP/SAEUF/-D
 'to': TO
 'me,': PHE/KW-BG

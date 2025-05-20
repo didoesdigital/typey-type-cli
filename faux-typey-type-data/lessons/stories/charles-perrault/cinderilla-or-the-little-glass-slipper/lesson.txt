@@ -1726,7 +1726,7 @@ Cinderilla or the Little Glass Slipper
 'home.': HOEPL/TP-PL
 '"If': KW-GS/KPA*/TP
 'thou': THO*U
-'hadst': H*/A*/TK*/S*/T*
+'hadst': H/*FT
 'been': PW-PB
 'at': AT
 'the': -T

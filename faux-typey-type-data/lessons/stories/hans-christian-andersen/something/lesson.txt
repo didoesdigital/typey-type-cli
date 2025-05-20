@@ -2542,7 +2542,7 @@ Something
 'Even': KPA/AOEPB
 'if': TP
 'thou': THO*U
-'couldst': KAU/*U/HR*/TK*/S*/T*
+'couldst': KO/*FT
 'return,': RURPB/KW-BG
 'and': SKP
 'at': AT

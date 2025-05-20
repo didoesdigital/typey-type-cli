@@ -947,7 +947,7 @@ The Flying Trunk
 'a': AEU
 'situation': SEUFP
 'as': AS
-'mainmast': PH*/A*/*EU/TPH*/PH*/A*/S*/T*
+'mainmast': PH*/A*/*EU/TPH*/PH*/SKWRA/*FT
 'in': TPH
 'a': AEU
 'very': SRE
