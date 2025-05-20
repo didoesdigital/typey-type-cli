@@ -1557,7 +1557,7 @@ Hansel and Gretel
 'When': KPA/WHEPB
 'it': T
 'was': WAS
-'mid-day,': PHEUD/PHEUD/TKA*EU/KW-BG
+'mid-day,': PHEUD/H-PB/TKAEU/KW-BG
 'they': THE
 'saw': SAU
 'a': AEU

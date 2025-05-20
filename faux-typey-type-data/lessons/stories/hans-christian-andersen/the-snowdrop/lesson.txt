@@ -927,7 +927,7 @@ The Snowdrop
 'lay': HRAEU
 'in': TPH
 'the': -T
-'post-bag,': POEFT/H-PB/PWAG/KW-BG
+'post-bag,': PO*EFT/PWAG/KW-BG
 'and': SKP
 'was': WAS
 'pressed': PREFD
