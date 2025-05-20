@@ -2454,7 +2454,7 @@ The Bishop of Borglum and His Warriors
 'gales!': TKPWA*L/ES/SKHRAPL
 'Send': KPA/SEPBD
 'thy': THAO*EU
-'sunbeams': SUPB/PWAOEPL/-S
+'sunbeams': SAUPB/PWAOEPLS
 'gleaming': TKPWHRAOEPL/-G
 'into': TPHAO
 'our': OUR

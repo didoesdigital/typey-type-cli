@@ -913,7 +913,7 @@ The Darning-Needle
 'as': AS
 'if': TP
 'the': -T
-'sunbeams': SUPB/PWAOEPL/-S
+'sunbeams': SAUPB/PWAOEPLS
 'were': WR
 'always': AULS
 'looking': HRAOG

@@ -3087,7 +3087,7 @@ The Psyche
 'fell': TPEL
 'like': HRAOEUBG
 'warm': WARPL
-'sunbeams': SUPB/PWAOEPL/-S
+'sunbeams': SAUPB/PWAOEPLS
 'upon': POPB
 'a': AEU
 'teeming': TAO*EPL/-G

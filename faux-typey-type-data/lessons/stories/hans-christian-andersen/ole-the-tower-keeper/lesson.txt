@@ -1649,7 +1649,7 @@ Ole the Tower-Keeper
 'up,': UP/KW-BG
 'and': SKP
 'the': -T
-'sunbeams': SUPB/PWAOEPL/-S
+'sunbeams': SAUPB/PWAOEPLS
 'bring': PWREU
 'the': -T
 'silent,': SHREPBT/KW-BG

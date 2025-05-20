@@ -460,7 +460,7 @@ The Angel
 'in': TPH
 'summer,': SAOURPL/KW-BG
 'the': -T
-'sunbeams': SUPB/PWAOEPL/-S
+'sunbeams': SAUPB/PWAOEPLS
 'would': WO
 'lie': HRAOEU
 'on': OPB

@@ -73,7 +73,7 @@ A Rose From Homer's Grave
 'and': SKP
 'as': AS
 'the': -T
-'sunbeams': SUPB/PWAOEPL/-S
+'sunbeams': SAUPB/PWAOEPLS
 'fell': TPEL
 'upon': POPB
 'her': HER

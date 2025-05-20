@@ -737,7 +737,7 @@ The Snowdrop
 'her': HER
 'like': HRAOEUBG
 'warm': WARPL
-'sunbeams.': SUPB/PWAOEPL/-S/TP-PL
+'sunbeams.': SAUPB/PWAOEPLS/TP-PL
 'In': KPA/TPH
 'her': HER
 'joy': SKWROEU

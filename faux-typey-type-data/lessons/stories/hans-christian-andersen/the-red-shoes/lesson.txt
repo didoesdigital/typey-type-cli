@@ -2256,7 +2256,7 @@ The Red Shoes
 'flew': TPHRAOU
 'on': OPB
 'the': -T
-'sunbeams': SUPB/PWAOEPL/-S
+'sunbeams': SAUPB/PWAOEPLS
 'to': TO
 'Heaven,': KPA/HEFPB/KW-BG
 'and': SKP

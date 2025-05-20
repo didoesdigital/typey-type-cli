@@ -909,7 +909,7 @@ The Bell
 'singing': SEUPBG/-G
 'and': SKP
 'the': -T
-'sunbeams': SUPB/PWAOEPL/-S
+'sunbeams': SAUPB/PWAOEPLS
 'played.': PHRAEUD/TP-PL
 'That': KPA/THA
 'was': WAS

@@ -184,6 +184,7 @@ Multi-syllable words with prefixes
 'conceive': KAUPB/SAOEF
 'confessed': KAUPB/TPES/-D
 'repose': RE/POES
+'sunset': SAUPB/SET
 'abode': A/PWOED
 'appearing': A/PAOERG
 'assurance': A/SHURPBS

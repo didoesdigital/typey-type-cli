@@ -936,7 +936,7 @@ The Last Dream of the Old Oak
 'green': TKPWRAOEPB
 'foliage;': TPOEL/APBLG/STPH*FPLT
 'the': -T
-'sunbeams': SUPB/PWAOEPL/-S
+'sunbeams': SAUPB/PWAOEPLS
 'played': PHRAEUD
 'among': PHOPBG
 'the': -T
