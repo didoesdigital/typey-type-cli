@@ -900,7 +900,6 @@ Multi-syllable words with suffixes
 'nodding': TPHOD/-G
 'productive': PROUBG/EUF
 'variations': SRAEUR/KWRAGS/-S
-'Belgium': PWEL/SKWRUPL
 'invaded': EUPB/SRAEUD/-D
 'magnitude': PHAG/TAOUD
 'precautions': PRE/KAUGS/-S
