@@ -2290,7 +2290,7 @@ The Story of the Year
 'us.': US/TP-PL
 'Everything': KPA/EFRG
 'is': S
-'home-like': HOEPL/SKWRAO*EUBG
+'home-like': HOEPL/SKWRAOEUBG
 'and': SKP
 'good,': TKPWAOD/KW-BG
 'and': SKP

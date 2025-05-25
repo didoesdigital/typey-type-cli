@@ -277,7 +277,7 @@ Riquet With the Tuft
 'mortified': PHORT/TPAOEUD
 'the': -T
 'Queen': KWAO*EPB
-'extreamly,': *E/KP*/T*/R*/*E/A*/PH*/HREU/KW-BG
+'extreamly,': *EBGS/T*/R*/*E/A*/PH*/HREU/KW-BG
 'but': PWUT
 'some': SOPL
 'moments': PHOEPLTS

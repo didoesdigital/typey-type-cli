@@ -586,7 +586,7 @@ The Chaos
 'does': TKOS
 'devour': TKE/SROUR
 'with': W
-'clangour.': KHRAPBG/O*UR/TP-PL
+'clangour.': KHRAPBG/O*UR/A*U/TP-PL
 'Pilot,': KPA/PAOEULT/KW-BG
 'pivot,': PEUFT/KW-BG
 'gaunt,': TKPWAUPBT/KW-BG
@@ -883,7 +883,7 @@ The Chaos
 'antipodes,': APB/TEUP/TKE/-S/KW-BG
 'Acquiesce,': KPA/A/KWAOES/KW-BG
 'and': SKP
-'obsequies.': O*/PW*/S*/*E/KW*/SKWRU/KWREU/-S/TP-PL
+'obsequies.': O*/PW*/S*/*E/KW*/SKWRU/KWREUS/TP-PL
 'Please': KPA/PHRES
 'don't': TKOEPBT
 'monkey': PHOPB/KAE

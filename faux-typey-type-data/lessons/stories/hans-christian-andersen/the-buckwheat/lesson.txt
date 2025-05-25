@@ -120,7 +120,7 @@ The Buckwheat
 'and': SKP
 'barley,': PWAR/HREU/KW-BG
 'but': PWUT
-'oats,-pretty': OET/-S/KW-BG/H-PB/PREUT
+'oats,-pretty': OET/-S/KW-BG/H*PB/PREUT
 'oats': OET/-S
 'that,': THARBGS
 'when': WHEPB

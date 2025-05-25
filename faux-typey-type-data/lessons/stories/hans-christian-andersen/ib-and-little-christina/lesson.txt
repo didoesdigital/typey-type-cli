@@ -757,7 +757,7 @@ Ib and Little Christina
 'farm,': TPARPL/KW-BG
 'with': W
 'its': EUTS
-'scanty-bearing': SKAPBT/TEU/PWA*ERPBG
+'scanty-bearing': SKAPBT/TEU/H-PB/PWAERG
 'fields,': TPAOELDZ/KW-BG
 'in': TPH
 'which': WEU
@@ -2743,7 +2743,7 @@ Ib and Little Christina
 'go.': TKPW/TP-PL
 'His': KPA/HEUS
 'eyes': AO*EUS
-'brightened,': PWRAOEUT/*EPB/-D/KW-BG
+'brightened,': PWRAOEUT/*EPBD/KW-BG
 'and': SKP
 'the': -T
 'words': WORDZ

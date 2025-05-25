@@ -838,7 +838,7 @@ The Little Elder-Tree Mother
 'we': WE
 'walked': WAUBGD
 'to': TO
-'Fredericksburg,': TPRED/REUBG/-S/PW*URG/KW-BG
+'Fredericksburg,': TPRED/REUBG/-S/PWURG/KW-BG
 'where': W-R
 'the': -T
 'king': KEUPBG
@@ -1916,7 +1916,7 @@ The Little Elder-Tree Mother
 'nor': TPH-R
 'to': TO
 'the': -T
-'Fredericksburg': TPRED/REUBG/-S/PW*URG
+'Fredericksburg': TPRED/REUBG/-S/PWURG
 'garden.': TKPWA*RPB/TP-PL
 'No;': KPA/TPHO/STPH*FPLT
 'the': -T

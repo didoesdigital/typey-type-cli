@@ -1170,7 +1170,7 @@ Hans in Luck
 'were': WR
 'a': AEU
 'pig': PEUG
-'now--like': TPHOU/H-PB/SKWRAO*EUBG
+'now--like': TPHOU/H-PB/SKWRAOEUBG
 'that': THA
 'fat': TPAT
 'gentleman': SKWRA*PL

@@ -477,7 +477,7 @@ A Society
 'was': WAS
 'written': WREUPB
 'was': WAS
-'execrable.': *E/KP*/*E/KR*/R*/-BL/TP-PL
+'execrable.': *EBGS/*E/KRAB/*L/TP-PL
 '"Poetry!': KW-GS/KPA*/POEURT/SKHRAPL
 'Poetry!"': KPA/POEURT/SKHRAPL/KR-GS
 'we': WE
@@ -3992,7 +3992,7 @@ A Society
 'us': US
 'nothing!"': TPHOG/SKHRAPL/KR-GS
 'we': WE
-'expostulated.': EBGS/POFT/HRAEUT/-D/TP-PL
+'expostulated.': *EBGS/POFT/HRAEUTD/TP-PL
 '"Or': KW-GS/KPA*/OR
 'do': TKO
 'you': U
@@ -4717,7 +4717,7 @@ A Society
 'I': EU
 'suggested.': SUGD/TP-PL
 'She': KPA/SHE
-'brightened': PWRAOEUT/*EPB/-D
+'brightened': PWRAOEUT/*EPBD
 'at': AT
 'this': TH
 'and': SKP

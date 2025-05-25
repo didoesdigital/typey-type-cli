@@ -2705,7 +2705,7 @@ The Neighbouring Families
 'into': TPHAO
 'the': -T
 'room,': RAOPL/KW-BG
-'exclaiming,': SKHRAEUPL/-G/KW-BG
+'exclaiming,': *EBGS/KHRAEUPLG/KW-BG
 '"All': KW-GS/KPA*/AUL
 'or': OR
 'nothing!': TPHOG/SKHRAPL

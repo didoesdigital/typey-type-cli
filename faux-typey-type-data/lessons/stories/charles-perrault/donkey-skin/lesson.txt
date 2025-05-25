@@ -1474,7 +1474,7 @@ Donkey-Skin
 'the': -T
 'diamonds': TKAOEUPLDZ
 'and': SKP
-'rubies': RUB/KWREU/-S
+'rubies': RUB/KWREUS
 'in': TPH
 'his': HEUS
 'crown': KROUPB

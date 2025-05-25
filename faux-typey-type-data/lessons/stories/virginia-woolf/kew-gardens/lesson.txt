@@ -840,7 +840,7 @@ Kew Gardens
 'second': SEBGD
 'with': W
 'its': EUTS
-'antennæ': A*EPBT/TPH*/TPH*/xxx
+'antennæ': AEPBT/TPH*/TPH*/xxx
 'trembling': TREPL/-BLG
 'as': AS
 'if': TP
@@ -868,7 +868,7 @@ Kew Gardens
 'the': -T
 'hollows,': HOL/OE/-S/KW-BG
 'flat,': TPHRAT/KW-BG
-'blade-like': PWHRAEUD/SKWRAO*EUBG
+'blade-like': PWHRAEUD/SKWRAOEUBG
 'trees': TRAOES
 'that': THA
 'waved': WAFD

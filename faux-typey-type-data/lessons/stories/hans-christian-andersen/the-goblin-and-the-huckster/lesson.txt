@@ -1182,7 +1182,7 @@ The Goblin and the Huckster
 'where': W-R
 'it': T
 'felt': TPELT
-'home-like': HOEPL/SKWRAO*EUBG
+'home-like': HOEPL/SKWRAOEUBG
 'and': SKP
 'comfortable.': K-BL/TP-PL
 'And': AFPBD

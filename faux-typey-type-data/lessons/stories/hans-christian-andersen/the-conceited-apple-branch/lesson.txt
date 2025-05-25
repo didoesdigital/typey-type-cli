@@ -1235,7 +1235,7 @@ The Conceited Apple-Branch
 'of': -F
 'which': WEU
 'its': EUTS
-'mist-like': PHEUFT/SKWRAO*EUBG
+'mist-like': PHEUFT/SKWRAOEUBG
 'shape': SHAEUP
 'was': WAS
 'so': SO

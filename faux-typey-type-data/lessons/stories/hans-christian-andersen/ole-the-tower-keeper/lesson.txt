@@ -752,7 +752,7 @@ Ole the Tower-Keeper
 'beside': PWE/SAOEUD
 'these': THEZ
 'venerable': SREPB/-BL
-'million-year-old': PHOEUPB/KWRAO*ER/O*ELD
+'million-year-old': PHOEUPB/KWRAORLD
 'boulders.': PWOELD/ERS/TP-PL
 'On': KPA/OPB
 'last': HRAFT
@@ -850,7 +850,7 @@ Ole the Tower-Keeper
 'writers,': WREURS/KW-BG
 'and': SKP
 'artistic': TR*EUFBG
-'notabilities,—I': TPH*/O*/T*/A*/PW*/*EU/HR*/*EU/T*/KWREU/-S/KW-BG/EPL/TKA*RB/EU
+'notabilities,—I': TPH*/O*/T*/A*/PW*/*EU/HR*/*EU/T*/KWREUS/KW-BG/EPL/TKA*RB/EU
 'mean': PHAOEPB
 'those': THOZ
 'who': WHO

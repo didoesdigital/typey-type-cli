@@ -687,7 +687,7 @@ The Old Grave-Stone
 'and': SKP
 'his': HEUS
 'eyes': AO*EUS
-'brightened,': PWRAOEUT/*EPB/-D/KW-BG
+'brightened,': PWRAOEUT/*EPBD/KW-BG
 'and': SKP
 'he': HE
 'seemed': SAOEPLD

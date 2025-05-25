@@ -232,7 +232,7 @@ The Princess and the Pea
 'and': SKP
 'then': THEPB
 'twenty': TWEPBT
-'eider-down': AOEUD/*ER/SKWRO*UPB
+'eider-down': AOEUD/*ER/TKO*UPB
 'beds': PWEDZ
 'on': OPB
 'top': TOP
@@ -322,7 +322,7 @@ The Princess and the Pea
 'and': SKP
 'the': -T
 'twenty': TWEPBT
-'eider-down': AOEUD/*ER/SKWRO*UPB
+'eider-down': AOEUD/*ER/TKO*UPB
 'beds.': PWEDZ/TP-PL
 'Nobody': KPA/TPHOEB
 'but': PWUT

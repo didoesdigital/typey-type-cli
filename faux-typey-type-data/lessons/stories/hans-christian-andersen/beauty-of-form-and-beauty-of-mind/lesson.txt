@@ -1561,7 +1561,7 @@ Beauty of Form and Beauty of Mind
 'he': HE
 'said,': SED/KW-BG
 'while': WHAOEUL
-'mamma-in-law': PHAPL/PHA/H-PB/TPH/H-PB/HRAU
+'mamma-in-law': PHAPL/PHA/*EUPB/HRAU
 'made': PHAED
 'the': -T
 'following': TPOLG
@@ -1708,7 +1708,7 @@ Beauty of Form and Beauty of Mind
 'the': -T
 'wedding': WEGD
 'speech.': SPAOEFP/TP-PL
-'Mamma-in-law': KPA/PHAPL/PHA/H-PB/TPH/H-PB/HRAU
+'Mamma-in-law': KPA/PHAPL/PHA/*EUPB/HRAU
 'had': H
 'set': SET
 'up': UP
@@ -1783,7 +1783,7 @@ Beauty of Form and Beauty of Mind
 'were': WR
 'to': TO
 'live;': HREUF/STPH*FPLT
-'mamma-in-law': PHAPL/PHA/H-PB/TPH/H-PB/HRAU
+'mamma-in-law': PHAPL/PHA/*EUPB/HRAU
 'accompanied': A/K-PD
 'them,': THEPL/KW-BG
 'to': TO
@@ -1983,7 +1983,7 @@ Beauty of Form and Beauty of Mind
 'voice,': SROEUS/KW-BG
 'the': -T
 'same': SAEUPL
-'bell-like': PWEL/SKWRAO*EUBG
+'bell-like': PWEL/SKWRAOEUBG
 'tones.': TOEPBS/TP-PL
 'It': KPA/T
 'was': WAS
@@ -2111,7 +2111,7 @@ Beauty of Form and Beauty of Mind
 'four': TPOUR
 'walls,"': WAULS/KW-BG/KR-GS
 'said': SED
-'mamma-in-law': PHAPL/PHA/H-PB/TPH/H-PB/HRAU
+'mamma-in-law': PHAPL/PHA/*EUPB/HRAU
 'and': SKP
 'daughter': TKAUR
 'both,': PWO*T/KW-BG
@@ -2312,7 +2312,7 @@ Beauty of Form and Beauty of Mind
 'a': AEU
 'great': TKPWRAET
 'advantage.': SRAPBG/TP-PL
-'Mamma-in-law': KPA/PHAPL/PHA/H-PB/TPH/H-PB/HRAU
+'Mamma-in-law': KPA/PHAPL/PHA/*EUPB/HRAU
 'acknowledged': ABG/TPHOPBLGD
 'that': THA
 'Sophy': S*P/O*/P*/H*/KWREU

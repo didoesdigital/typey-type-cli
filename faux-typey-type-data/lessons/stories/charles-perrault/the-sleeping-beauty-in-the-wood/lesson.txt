@@ -175,7 +175,7 @@ The Sleeping Beauty in the Wood
 'with': W
 'diamonds': TKAOEUPLDZ
 'and': SKP
-'rubies.': RUB/KWREU/-S/TP-PL
+'rubies.': RUB/KWREUS/TP-PL
 'But': KPA/PWUT
 'as': AS
 'they': THE
@@ -2436,7 +2436,7 @@ The Sleeping Beauty in the Wood
 'had': H
 'some': SOPL
 'little': HREUL
-'amour,': APL/O*UR/KW-BG
+'amour,': APL/O*UR/A*U/KW-BG
 'for': TPOR
 'he': HE
 'lived': HREUFD

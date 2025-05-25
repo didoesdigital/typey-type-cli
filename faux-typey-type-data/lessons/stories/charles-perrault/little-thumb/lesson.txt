@@ -2803,7 +2803,7 @@ Little Thumb
 'women': WEUPL
 'find': TPAOEUPBD
 'in': TPH
-'such-like': SUFP/SKWRAO*EUBG
+'such-like': SUFP/SKWRAOEUBG
 'cases.': KAEUSZ/TP-PL
 'The': KPA/-T
 'Ogre,': KPA/OERG/KW-BG

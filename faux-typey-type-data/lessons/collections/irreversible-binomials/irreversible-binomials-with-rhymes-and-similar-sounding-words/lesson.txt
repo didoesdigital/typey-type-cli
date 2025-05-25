@@ -21,7 +21,7 @@ Irreversible binomials with rhymes and similar-sounding words
 'hither and thither': H*EURT/SKP/TH*EURT
 'hocus pocus': HOEBG/SKWRUS/POEBG/SKWRUS/TP-PL
 'hoi polloi': HOEU/PHROEU
-'hoity toity': HO*E/EUT/KWREU/TO/EUT/KWREU
+'hoity toity': HO*E/TEU/TO/TEU
 'hot to trot': HOT/TO/TROT
 'huff and puff': HUF/SKP/PUF
 'hustle and bustle': HUFL/SKP/PWUFL

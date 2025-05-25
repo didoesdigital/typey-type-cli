@@ -8,7 +8,7 @@ Two Brothers
 'islands,': AOEU/HRAPBDZ/KW-BG
 'where': W-R
 'old': OLD
-'Thingstones,': KPA/THEUPBG/STO*PB/ES/KW-BG
+'Thingstones,': KPA/THEUPBG/STOPB/ES/KW-BG
 'the': -T
 'seats': SAOETS
 'of': -F

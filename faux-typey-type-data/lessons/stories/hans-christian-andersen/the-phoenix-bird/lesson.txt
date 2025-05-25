@@ -383,7 +383,7 @@ The Phoenix Bird
 'halls': HAULS
 'of': -F
 'the': -T
-'Wartburg.': KPA/WART/PW*URG/TP-PL
+'Wartburg.': KPA/WART/PWURG/TP-PL
 'The': KPA/-T
 'Phoenix': TPAOEPBGS
 'bird,': PWEURD/KW-BG

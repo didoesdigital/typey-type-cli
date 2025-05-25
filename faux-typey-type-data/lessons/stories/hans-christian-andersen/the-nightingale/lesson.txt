@@ -1686,7 +1686,7 @@ The Nightingale
 'over': OEFR
 'with': W
 'diamonds,': TKAOEUPLDZ/KW-BG
-'rubies,': RUB/KWREU/-S/KW-BG
+'rubies,': RUB/KWREUS/KW-BG
 'and': SKP
 'sapphires.': SA/TPAOEUR/-S/TP-PL
 'As': KPA/AS

@@ -602,7 +602,7 @@ Little Tuk
 'old': OLD
 'town': TOUPB
 'of': -F
-'Wordingburg,': KPA/WORGD/PW*URG/KW-BG
+'Wordingburg,': KPA/WORGD/PWURG/KW-BG
 'which': WEU
 'was': WAS
 'very': SRE

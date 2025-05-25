@@ -594,7 +594,7 @@ The Ridiculous Wishes
 'for': TPOR
 'gold,': TKPWOELD/KW-BG
 'pearls,': PERLS/KW-BG
-'rubies,': RUB/KWREU/-S/KW-BG
+'rubies,': RUB/KWREUS/KW-BG
 'diamonds,': TKAOEUPLDZ/KW-BG
 'for': TPOR
 'princely': PREUPBS/HREU

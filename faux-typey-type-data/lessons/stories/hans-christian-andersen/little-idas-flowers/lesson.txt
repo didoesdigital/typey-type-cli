@@ -2603,7 +2603,7 @@ Little Ida's Flowers
 'snowdrops': STPHOE/TK-LS/TKROP/-S
 'jingled': SKWREUPBG/-LD
 'their': THAEUR
-'bell-like': PWEL/SKWRAO*EUBG
+'bell-like': PWEL/SKWRAOEUBG
 'flowers,': TPHRO*URS/KW-BG
 'as': AS
 'if': TP

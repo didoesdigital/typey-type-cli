@@ -4,7 +4,7 @@ The Old Church Bell
 'the': -T
 'country': KREU
 'of': -F
-'Wurtemburg,': W*P/*U/R*/T*/*E/PH*/PW*URG/KW-BG
+'Wurtemburg,': W*P/*U/R*/T*/*E/PH*/PWURG/KW-BG
 'in': TPH
 'Germany,': SKWRERPL/TPHEU/KW-BG
 'where': W-R
@@ -1916,7 +1916,7 @@ The Old Church Bell
 'and': SKP
 'of': -F
 'the': -T
-'heaven-inspired': HEFPB/SKWR*EUPB/SPAOEUR/-D
+'heaven-inspired': HEFPB/SKWREUPB/SPAOEUR/-D
 'Maid': KPA/PHAEUD
 'of': -F
 'Orleans.': AUR/HRAOEPB/-S/TP-PL

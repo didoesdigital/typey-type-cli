@@ -1670,7 +1670,7 @@ The Metal Pig
 'the': -T
 'court.': KORT/TP-PL
 'Another': KPA/TPHOER
-'broken-down': PWROEPB/SKWRO*UPB
+'broken-down': PWROEPB/TKO*UPB
 'staircase': STAEUR/KAEUS
 'led': HRED
 'from': TPR
@@ -3836,7 +3836,7 @@ The Metal Pig
 'so': SO
 'pulled': PULD
 'and': SKP
-'tightened': TAOEUT/-PBD
+'tightened': TAOEUT/*EPBD
 'the': -T
 'string,': STREUPBG/KW-BG
 'that': THA

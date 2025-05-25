@@ -245,7 +245,7 @@ The String Quartet
 'besides': PW-DZ
 'regrets,': RAOE/TKPWRETS/KW-BG
 'pleasures,': PHR-RBS/KW-BG
-'vanities,': SR*/A*/TPH*/*EU/T*/KWREU/-S/KW-BG
+'vanities,': SR*/A*/TPH*/*EU/T*/KWREUS/KW-BG
 'and': SKP
 'desires—if': STKAOEURS/EPL/TKA*RB/TP
 'it's': T-S
@@ -1343,7 +1343,7 @@ The String Quartet
 'trumpeting.': TRUPLT/-G/TP-PL
 'Clang': KPA/KHRAPBG
 'and': SKP
-'clangour.': KHRAPBG/O*UR/TP-PL
+'clangour.': KHRAPBG/O*UR/A*U/TP-PL
 'Firm': KPA/TPEURPL
 'establishment.': STAEPLT/TP-PL
 'Fast': KPA/TPAFT

@@ -159,7 +159,7 @@ The Puppet-Show Man
 'in': TPH
 'black,': PWHRARBGS
 'of': -F
-'student-like': STAUPB/SKWRAO*EUBG
+'student-like': STAUPB/SKWRAOEUBG
 'appearance,': PAOERPBS/KW-BG
 'entered': SPWR-D
 'the': -T

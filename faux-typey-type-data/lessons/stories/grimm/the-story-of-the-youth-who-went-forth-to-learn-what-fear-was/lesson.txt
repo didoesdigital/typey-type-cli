@@ -2490,7 +2490,7 @@ The Story of the Youth Who Went Forth to Learn What Fear Was
 'it': T
 'is': S
 'a': AEU
-'pity,--for': PEUT/TEU/KW-BG/H-PB/H-PB/TPOR
+'pity,--for': PEUT/TEU/KW-BG/H-PB/H*PB/TPOR
 'so': SO
 'handsome': HAPBD/SO*PL
 'a': AEU

@@ -94,15 +94,6 @@ const run = async (options: Options) => {
   );
 
   await fs.writeFile(`${affixesPath}`, JSON.stringify(newAffixes, null, 2));
-  // NOTE: I'm working through CLI changes to *generate* the `affixes.json` instead of using a static source file. I want to avoid producing 1 giant diff that affects lots of lessons at once. To that end, after writing the `affixes.json` file here I immediately write over it by copying the original, static source file. We can then manually change parts of the static source file towards the generated version and roll out lesson changes a small chunk at a time. Once that work is complete, delete this try-catch block:
-  try {
-    await fs.copyFile("src/consts/affixes.json", affixesPath);
-    console.log(
-      "The original src/consts/affixes.json was copied to faux-typey-type-data/affixes/affixes.json"
-    );
-  } catch {
-    console.error("The file could not be copied");
-  }
 
   // NOTE: The `typey-type.json` dictionary is no longer used after Dec 2024
   // but we continue to build it for anyone that may be relying on it:

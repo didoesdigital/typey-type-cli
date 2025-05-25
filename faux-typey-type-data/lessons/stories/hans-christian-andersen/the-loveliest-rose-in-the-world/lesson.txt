@@ -286,7 +286,7 @@ The Loveliest Rose in the World
 'the': -T
 'grave': TKPWRAEUF
 'of': -F
-'Walburg,': W*P/A*L/PW*URG/KW-BG
+'Walburg,': W*P/A*L/PWURG/KW-BG
 'though': THOE
 'these': THEZ
 'roses': ROES/-S

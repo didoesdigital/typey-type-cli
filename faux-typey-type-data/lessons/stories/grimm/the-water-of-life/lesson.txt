@@ -336,7 +336,7 @@ The Water of Life
 'way': WAEU
 'was': WAS
 'so': SO
-'straitened': STRA*EUT/*EPB/-D
+'straitened': STRA*EUT/*EPBD
 'that': THA
 'he': HE
 'could': KO

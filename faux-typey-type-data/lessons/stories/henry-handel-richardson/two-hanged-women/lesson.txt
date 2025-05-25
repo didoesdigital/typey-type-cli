@@ -1110,7 +1110,7 @@ Two Hanged Women
 'on': OPB
 'you,': U/KW-BG
 'a': AEU
-'stranglehold,': STR-PBG/*L/HO*ELD/KW-BG
+'stranglehold,': STR-PBG/*L/HOELD/KW-BG
 'that': THA
 'nothing'll': TPHOG/AE/HR*/HR*
 'loosen.': HRAOFPB/TP-PL
@@ -1478,7 +1478,7 @@ Two Hanged Women
 'I': EU
 'mean': PHAOEPB
 'I'd': AOEUD
-'----': PH*PBS/H-PB/H-PB/H-PB
+'----': H-PB/H*PB/TK-R
 '"': KR-GS
 'But': KPA/PWUT
 'here': HAOER

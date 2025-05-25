@@ -106,7 +106,7 @@ The Mouse, the Bird, and the Sausage
 'whom': WHOPL
 'he': HE
 'boastfully': PWOEFT/TPHREU
-'expatiated': *E/KP*/P*/A*/T*/SKWREU/A*T/-D
+'expatiated': *EBGS/PAT/SKWREU/A*TD
 'on': OPB
 'the': -T
 'excellence': KPHREPBS

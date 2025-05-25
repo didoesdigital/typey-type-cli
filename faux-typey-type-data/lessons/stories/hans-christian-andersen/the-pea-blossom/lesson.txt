@@ -500,7 +500,7 @@ The Pea Blossom
 'pieces': PAOEFS
 'and': SKP
 'perform': PORPL
-'such-like': SUFP/SKWRAO*EUBG
+'such-like': SUFP/SKWRAOEUBG
 'hard': HARD
 'work,': WORBG/KW-BG
 'for': TPOR
