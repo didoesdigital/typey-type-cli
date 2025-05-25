@@ -934,7 +934,7 @@ Little Thumb
 'think': THEU
 'those': THOZ
 'very': SRE
-'importunate': *EUPL/PORT/SKWRU/*PB/A*T
+'importunate': EUPL/PORT/SKWRU/*PB/A*T
 'who': WHO
 'are': R
 'always': AULS

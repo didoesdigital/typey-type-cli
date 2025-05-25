@@ -1257,7 +1257,7 @@ The Old Street Lamp
 'saved': SAFD
 'from': TPR
 'further': TPURT
-'importunities.': *EUPL/P*/O*/R*/T*/*U/TPH*/*EU/T*/KWREU/-S/TP-PL
+'importunities.': EUPL/P*/O*/R*/T*/*U/TPH*/*EU/T*/KWREU/-S/TP-PL
 'Just': KPA/SKWRUFT
 'then': THEPB
 'a': AEU

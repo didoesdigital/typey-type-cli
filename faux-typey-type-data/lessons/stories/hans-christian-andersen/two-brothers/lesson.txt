@@ -466,7 +466,7 @@ Two Brothers
 'the': -T
 'bed': PWED
 'and': SKP
-'imprinted': *EUPL/PREUPBTD
+'imprinted': EUPL/PREUPBTD
 'a': AEU
 'kiss': KEUS
 'on': OPB

@@ -3829,7 +3829,7 @@ The Bottle Neck
 'got': TKPWOT
 'such': SUFP
 'an': APB
-'impetus': *EUPL/TUS
+'impetus': EUFRP/TUS
 'in': TPH
 'them,': THEPL/KW-BG
 'that': THA
