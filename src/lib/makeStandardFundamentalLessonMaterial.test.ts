@@ -1,7 +1,14 @@
+import loadAffixes from "./loadAffixesFromFile";
+import AFFIXES from "../shared/utils/affixes/affixes";
 import makeStandardFundamentalLessonMaterial from "./makeStandardFundamentalLessonMaterial";
+
 import type { LookupDictWithNamespacedDicts } from "../shared/types";
 
 describe("makeStandardFundamentalLessonMaterial", () => {
+  beforeAll(() => {
+    AFFIXES.setLoadFunction(loadAffixes);
+  });
+
   it("returns standard fundamental lesson material", async () => {
     const vocabLookupDict: LookupDictWithNamespacedDicts = new Map([
       ["the", [["-T", "typey:typey-type.json"]]],

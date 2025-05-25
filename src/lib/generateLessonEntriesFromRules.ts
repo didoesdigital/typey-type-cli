@@ -54,14 +54,13 @@ import hasStar from "./rules/hasStar";
 import matchesWordList from "./rules/matchesWordList";
 import isRomanNumeral from "./rules/isRomanNumeral";
 
-import affixesJSON from "../consts/affixes.json";
+import AFFIXES from "../shared/utils/affixes/affixes";
 import misstrokesJSON from "../shared/json/misstrokes.json";
 import rankOutlines from "../shared/utils/transformingDictionaries/rankOutlines/rankOutlines";
 import splitIntoStrokesDictsAndNamespaces from "../shared/utils/transformingDictionaries/splitIntoStrokesDictsAndNamespaces";
 
 import type { DictEntry, DictEntries, Rules } from "../cli-types";
 import type {
-  AffixObject,
   LookupDictWithNamespacedDicts,
   StenoDictionary,
 } from "../shared/types";
@@ -74,7 +73,6 @@ type RuleFunctionsTypes = {
 };
 
 const misstrokes = misstrokesJSON as StenoDictionary;
-const affixes = affixesJSON as AffixObject;
 
 const ruleFunctions: Required<RuleFunctionsTypes> = {
   isOneSyllable: isOneSyllable,
@@ -171,7 +169,7 @@ const generateLessonEntriesFromRules = (
       listOfStrokeAndDictAndNamespace,
       misstrokes,
       translation,
-      affixes
+      AFFIXES.getSharedAffixes()
     );
 
     const bestStrokeAndDictAndName = allOutlines[0];

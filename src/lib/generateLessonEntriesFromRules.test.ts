@@ -1,4 +1,6 @@
+import AFFIXES from "../shared/utils/affixes/affixes";
 import generateLessonEntriesFromRules from "./generateLessonEntriesFromRules";
+import loadAffixes from "./loadAffixesFromFile";
 
 import type { Rules } from "../cli-types";
 import type { LookupDictWithNamespacedDicts } from "../shared/types";
@@ -22,6 +24,10 @@ const rules: Rules = {
 };
 
 describe("generateLessonEntriesFromRules", () => {
+  beforeAll(() => {
+    AFFIXES.setLoadFunction(loadAffixes);
+  });
+
   it("creates a list with one syllable words", async () => {
     const lookupDict: LookupDictWithNamespacedDicts = new Map([
       ["was", [["WAS", "typey:typey-type.json"]]],
