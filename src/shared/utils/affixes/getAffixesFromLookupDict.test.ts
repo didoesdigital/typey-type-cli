@@ -40,4 +40,33 @@ describe("getAffixesFromLookupDict", () => {
       expectedResult
     );
   });
+
+  // NOTE: Treating these as affixes improves some stroke hints so it is
+  // probably worth keeping this behaviour.
+  it("allows affixes containing only punctuation", async () => {
+    const lookupDict: LookupDictWithNamespacedDicts = new Map([
+      ["{^'}", [["AE", "typey:typey-type.json"]]],
+      ["{'^}", [["A*E", "typey:typey-type.json"]]],
+      ["{-^}", [["H*PB", "typey:typey-type.json"]]],
+      ["{.^}", [["PO*EUP", "typey:typey-type.json"]]],
+      ["{^...}", [["HR-PS", "typey:typey-type.json"]]],
+    ]);
+    const affixMisstrokes = {};
+
+    const expectedResult: AffixObject = {
+      prefixes: [
+        ["A*E/", "'"],
+        ["H*PB/", "-"],
+        ["PO*EUP/", "."],
+      ],
+      suffixes: [
+        ["/HR-PS", "..."],
+        ["/AE", "'"],
+      ],
+    };
+
+    expect(getAffixesFromLookupDict(lookupDict, affixMisstrokes)).toEqual(
+      expectedResult
+    );
+  });
 });
