@@ -1578,7 +1578,7 @@ The Flying Trunk
 'evening': AOEPBG
 'about': PW
 'that.'': THA/TP-PL/AE
-'"'I': KW-GS/AE/EU
+'"'I': KW-GS/A*E/EU
 'think': THEU
 'it': T
 'highly': HAOEUL
@@ -1615,7 +1615,7 @@ The Flying Trunk
 'what': WHA
 'is': S
 'right.'': RAOEUT/TP-PL/AE
-'"'I': KW-GS/AE/EU
+'"'I': KW-GS/A*E/EU
 'certainly': SERPBL
 'am': APL
 'vexed,'': SREBGS/-D/KW-BG/AE
@@ -2048,7 +2048,7 @@ The Flying Trunk
 'it': T
 'very': SRE
 'beautiful.': PWAOUFL/TP-PL
-'"'I': KW-GS/AE/EU
+'"'I': KW-GS/A*E/EU
 'saw': SAU
 'the': -T
 'Turkish': TUR/KEURB

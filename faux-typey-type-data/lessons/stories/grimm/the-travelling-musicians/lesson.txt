@@ -230,7 +230,7 @@ The Travelling Musicians
 'said': SED
 'the': -T
 'ass,': A*S/KW-BG
-''what's': A*E/WHA/AES
+''what's': A*E/WHATS
 'the': -T
 'matter': PHAERT
 'with': W

@@ -2926,7 +2926,7 @@ Ole the Tower-Keeper
 'at': AT
 'the': -T
 'tree.': TRAOE/TP-PL
-''I'm': A*E/EU/AE/PH*
+''I'm': A*E/AOEUPL
 'sorry': SOER
 'for': TPOR
 'the': -T

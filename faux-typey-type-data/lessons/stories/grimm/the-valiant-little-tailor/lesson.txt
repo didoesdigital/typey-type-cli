@@ -3173,7 +3173,7 @@ The Valiant Little Tailor
 'the': -T
 'whole': WHOEL
 'plot.': PHROT/TP-PL
-''I'll': A*E/EU/AE/HR*/HR*
+''I'll': A*E/AOEUL
 'put': PUT
 'a': AEU
 'screw': SKRAOU

@@ -876,7 +876,7 @@ The Little Elder-Tree Mother
 'away': WA*EU
 'from': TPR
 'home.'': HOEPL/TP-PL/AE
-'"'And': KW-GS/AE/AFPBD
+'"'And': KW-GS/A*E/AFPBD
 'I': EU
 'often': OFPB
 'cried': KRAOEUD
@@ -1073,7 +1073,7 @@ The Little Elder-Tree Mother
 'the': -T
 'old': OLD
 'man.': PHAPB/TP-PL
-'"'I': KW-GS/AE/EU
+'"'I': KW-GS/A*E/EU
 'did': TK
 'not': TPHOT
 'know': TPHOE
@@ -1167,7 +1167,7 @@ The Little Elder-Tree Mother
 'everybody': EFRB
 'cares': KAEURS
 'for.'': TPOR/TP-PL/AE
-'"'And': KW-GS/AE/AFPBD
+'"'And': KW-GS/A*E/AFPBD
 'their': THAEUR
 'children': KHEURPB
 'have': SR

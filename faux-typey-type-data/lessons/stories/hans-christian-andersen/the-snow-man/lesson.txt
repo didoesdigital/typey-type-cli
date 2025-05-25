@@ -1258,7 +1258,7 @@ The Snow Man
 'what': WHA
 'it': T
 'is.': S/TP-PL
-'"'And': KW-GS/AE/AFPBD
+'"'And': KW-GS/A*E/AFPBD
 'why': KWR
 'did': TK
 'you': U

@@ -432,7 +432,7 @@ The Psyche
 'wine': WAOEUPB
 'and': SKP
 'bread.'': PWRAED/TP-PL/AE
-'"'And': KW-GS/AE/AFPBD
+'"'And': KW-GS/A*E/AFPBD
 'he': HE
 'even': AOEPB
 'appreciates': PRAOERBTS

@@ -755,7 +755,7 @@ The Puppet-Show Man
 'men': PHEPB
 'and': SKP
 'women.'': WEUPL/TP-PL/AE
-'"'I': KW-GS/AE/EU
+'"'I': KW-GS/A*E/EU
 'understand,'': URPBD/KW-BG/AE
 'he': HE
 'said;': SED/STPH*FPLT

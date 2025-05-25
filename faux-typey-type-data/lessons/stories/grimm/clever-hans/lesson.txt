@@ -583,7 +583,7 @@ Clever Hans
 ''Behave': A*E/KPA*/PWAEUF
 'well,': WEL/KW-BG
 'Hans.'': HAPBS/TP-PL/AE
-''I'll': A*E/EU/AE/HR*/HR*
+''I'll': A*E/AOEUL
 'behave': PWAEUF
 'well.': WEL/TP-PL
 'Goodbye,': KPA/TKPW-B/KW-BG
@@ -721,7 +721,7 @@ Clever Hans
 ''Behave': A*E/KPA*/PWAEUF
 'well,': WEL/KW-BG
 'Hans.'': HAPBS/TP-PL/AE
-''I'll': A*E/EU/AE/HR*/HR*
+''I'll': A*E/AOEUL
 'behave': PWAEUF
 'well.': WEL/TP-PL
 'Goodbye,': KPA/TKPW-B/KW-BG

@@ -570,7 +570,7 @@ In the Nursery
 'what': WHA
 'he': HE
 'says:': SEZ/STPH-FPLT
-'"'I': KW-GS/AE/EU
+'"'I': KW-GS/A*E/EU
 'haven't': SR-PB
 'a': AEU
 'spot': SPOT
@@ -800,7 +800,7 @@ In the Nursery
 'with': W
 'startling': START/*LG
 'effects:': TPEBGZ/STPH-FPLT
-'"'I': KW-GS/AE/EU
+'"'I': KW-GS/A*E/EU
 'can't': K-PBT
 'see,': SAOERBGS
 'heigho!': H*/*E/*EU/TKPW*/H*/SKWRO/SKHRAPL
@@ -850,7 +850,7 @@ In the Nursery
 'considered': KR-D
 'more': PHOR
 'genteel.': SKWREPB/TAOEL/TP-PL
-'"'I': KW-GS/AE/EU
+'"'I': KW-GS/A*E/EU
 'am': APL
 'driven': TKREUFPB
 'to': TO

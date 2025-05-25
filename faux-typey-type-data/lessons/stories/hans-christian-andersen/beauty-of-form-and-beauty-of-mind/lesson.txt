@@ -2500,7 +2500,7 @@ Beauty of Form and Beauty of Mind
 'died': TKAOEUD
 'before': PW-FR
 'me."': PHE/TP-PL/KR-GS
-'"'Pygmalion': KW-GS/AE/PEUG/PHAEUL/KWROPB
+'"'Pygmalion': KW-GS/A*E/PEUG/PHAEUL/KWROPB
 'loved': HROFD
 'his': HEUS
 'Galatea,'': KPA/TKPWA*L/A*T/SKWRA/KW-BG/AE

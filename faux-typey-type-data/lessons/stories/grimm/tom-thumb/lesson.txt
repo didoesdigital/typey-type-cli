@@ -877,7 +877,7 @@ Tom Thumb
 'masters!'': PHAFT/ERS/SKHRAPL/AE
 'said': SED
 'he,': HE/KW-BG
-''I'm': A*E/EU/AE/PH*
+''I'm': A*E/AOEUPL
 'off!': OF/SKHRAPL
 'mind': PHAOEUPBD
 'and': SKP
@@ -1040,7 +1040,7 @@ Tom Thumb
 'silver': SEUL/SRER
 'and': SKP
 'gold?'': TKPWOELD/H-F/AE
-''I'll': A*E/EU/AE/HR*/HR*
+''I'll': A*E/AOEUL
 'tell': TEL
 'you!'': U/SKHRAPL/AE
 'cried': KRAOEUD
@@ -1053,7 +1053,7 @@ Tom Thumb
 'the': -T
 'thief,': THAOEF/KW-BG
 'frightened;': TPRAOEUFPBD/STPH*FPLT
-''I'm': A*E/EU/AE/PH*
+''I'm': A*E/AOEUPL
 'sure': SHUR
 'I': EU
 'heard': HAERD
@@ -2113,7 +2113,7 @@ Tom Thumb
 'said': SED
 'the': -T
 'wolf;': WOFL/STPH*FPLT
-''you'll': A*E/U/AE/HR*/HR*
+''you'll': A*E/UL
 'awaken': A/WA*EUPB
 'everybody': EFRB
 'in': TPH

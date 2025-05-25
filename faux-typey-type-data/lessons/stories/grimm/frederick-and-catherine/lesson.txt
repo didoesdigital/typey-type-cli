@@ -1481,7 +1481,7 @@ Frederick and Catherine
 'well,'': WEL/KW-BG/AE
 'answered': AEPBS/-D
 'she,': SHE/KW-BG
-''I'll': A*E/EU/AE/HR*/HR*
+''I'll': A*E/AOEUL
 'carry': KAER
 'the': -T
 'door;': TKAOR/STPH*FPLT
