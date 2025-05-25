@@ -232,7 +232,7 @@ The Mark on the Wall
 'and': SKP
 'then': THEPB
 'leave': HREF
-'it....': T/TP-PL/TP-PL/TP-PL/TP-PL
+'it....': T/TP-PL/HR-PS
 'If': KPA/TP
 'that': THA
 'mark': PHARBG
@@ -703,7 +703,7 @@ The Mark on the Wall
 'casual,': KARBL/KW-BG
 'all': AUL
 'so': SO
-'haphazard....': HAF/HAZ/ARD/TP-PL/TP-PL/TP-PL/TP-PL
+'haphazard....': HAF/HAZ/ARD/TP-PL/HR-PS
 'But': KPA/PWUT
 'after': AF
 'life.': HRAOEUF/TP-PL
@@ -838,7 +838,7 @@ The Mark on the Wall
 'become—I': PW-BG/EPL/TKA*RB/EU
 'don't': TKOEPBT
 'know': TPHOE
-'what....': WHA/TP-PL/TP-PL/TP-PL/TP-PL
+'what....': WHA/TP-PL/HR-PS
 'And': AFPBD
 'yet': KWRET
 'that': THA
@@ -921,7 +921,7 @@ The Mark on the Wall
 'gently': SKWREPBT/HREU
 'on': OPB
 'the': -T
-'pane....': PAEPB/TP-PL/TP-PL/TP-PL/TP-PL
+'pane....': PAEPB/TP-PL/HR-PS
 'I': EU
 'want': WAPBT
 'to': TO
@@ -984,8 +984,8 @@ The Mark on the Wall
 'first': TPEUFRT
 'idea': KWR-D
 'that': THA
-'passes....': PA*FS/TP-PL/TP-PL/TP-PL/TP-PL
-'Shakespeare....': SHAEUBG/SPAOER/TP-PL/TP-PL/TP-PL/TP-PL
+'passes....': PA*FS/TP-PL/HR-PS
+'Shakespeare....': SHAEUBG/SPAOER/TP-PL/HR-PS
 'Well,': KPA/WEL/KW-BG
 'he': HE
 'will': HR
@@ -1731,7 +1731,7 @@ The Mark on the Wall
 'illegitimate': EUL/SKWREUT/PHAT
 'freedom—if': TPRAOEPLD/EPL/TKA*RB/TP
 'freedom': TPRAOEPLD
-'exists....': KPEUFTS/TP-PL/TP-PL/TP-PL/TP-PL
+'exists....': KPEUFTS/TP-PL/HR-PS
 'In': KPA/TPH
 'certain': SERPB
 'lights': HRAOEUTS
@@ -1841,7 +1841,7 @@ The Mark on the Wall
 'stretched': STREFPD
 'beneath': TPHAO*ET
 'the': -T
-'turf....': T*UFR/TP-PL/TP-PL/TP-PL/TP-PL
+'turf....': T*UFR/TP-PL/HR-PS
 'There': KPA/THR
 'must': PHUFT
 'be': -B
@@ -1861,7 +1861,7 @@ The Mark on the Wall
 'given': TKPWEUFPB
 'them': THEPL
 'a': AEU
-'name....': TPHAEUPL/TP-PL/TP-PL/TP-PL/TP-PL
+'name....': TPHAEUPL/TP-PL/HR-PS
 'What': KPA/WHA
 'sort': SORT
 'of': -F
@@ -2243,7 +2243,7 @@ The Mark on the Wall
 'health': H*ELT
 'of': -F
 'mind': PHAOEUPBD
-'increases....': EUPB/KRAOEFS/TP-PL/TP-PL/TP-PL/TP-PL
+'increases....': EUPB/KRAOEFS/TP-PL/HR-PS
 'Yes,': KPA/KWRE/KW-BG
 'one': WUPB
 'could': KO
@@ -2311,7 +2311,7 @@ The Mark on the Wall
 'of': -F
 'white': WHAOEUT
 'sea': SAE
-'eggs....': EGS/TP-PL/TP-PL/TP-PL/TP-PL
+'eggs....': EGS/TP-PL/HR-PS
 'How': KPA/HOU
 'peaceful': PAES/-FL
 'it': T
@@ -2656,7 +2656,7 @@ The Mark on the Wall
 'to': TO
 'be': -B
 'sure': SHUR
-'of....': -F/TP-PL/TP-PL/TP-PL/TP-PL
+'of....': -F/TP-PL/HR-PS
 'Wood': WAO*D
 'is': S
 'a': AEU
@@ -2896,7 +2896,7 @@ The Mark on the Wall
 'with': W
 'diamond-cut': TKAOEUPLD/H-PB/KUT
 'red': RED
-'eyes....': AO*EUS/TP-PL/TP-PL/TP-PL/TP-PL
+'eyes....': AO*EUS/TP-PL/HR-PS
 'One': KPA/WUPB
 'by': PWEU
 'one': WUPB
@@ -2989,7 +2989,7 @@ The Mark on the Wall
 'getting': TKPWEGT
 'in': TPH
 'the': -T
-'way....': WAEU/TP-PL/TP-PL/TP-PL/TP-PL
+'way....': WAEU/TP-PL/HR-PS
 'Where': KPA/W-R
 'was': WAS
 'I?': EU/H-F
@@ -3020,7 +3020,7 @@ The Mark on the Wall
 'moving,': PHOFG/KW-BG
 'falling,': TPAULG/KW-BG
 'slipping,': SHREUPG/KW-BG
-'vanishing....': SRAPB/EURBG/TP-PL/TP-PL/TP-PL/TP-PL
+'vanishing....': SRAPB/EURBG/TP-PL/HR-PS
 'There': KPA/THR
 'is': S
 'a': AEU
@@ -3048,7 +3048,7 @@ The Mark on the Wall
 'no': TPHO
 'good': TKPWAOD
 'buying': PWAOEUG
-'newspapers....': TPHAOUPS/TP-PL/TP-PL/TP-PL/TP-PL
+'newspapers....': TPHAOUPS/TP-PL/HR-PS
 'Nothing': KPA/TPHOG
 'ever': -FR
 'happens.': HAPS/TP-PL
@@ -3058,7 +3058,7 @@ The Mark on the Wall
 'God': TKPWO*D
 'damn': TKAEPL
 'this': TH
-'war!...': WAR/SKHRAPL/TP-PL/TP-PL/TP-PL
+'war!...': WAR/SKHRAPL/HR-PS
 'All': KPA/AUL
 'the': -T
 'same,': SAEUPL/KW-BG

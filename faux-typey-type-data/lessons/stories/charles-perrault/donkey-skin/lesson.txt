@@ -387,7 +387,7 @@ Donkey-Skin
 'desire': STKAOEUR
 'to': TO
 'marry': PHAER
-'again...."': TKPWEPB/TP-PL/TP-PL/TP-PL/TP-PL/KR-GS
+'again...."': TKPWEPB/TP-PL/HR-PS/KR-GS
 'At': KPA/AT
 'these': THEZ
 'words': WORDZ

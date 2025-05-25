@@ -639,7 +639,7 @@ The String Quartet
 'plane;': PHRAEPB/STPH*FPLT
 'up': UP
 'and': SKP
-'up....': UP/TP-PL/TP-PL/TP-PL/TP-PL
+'up....': UP/TP-PL/HR-PS
 'How': KPA/HOU
 'lovely': HROFL
 'goodness': TKPWAOD/-PBS
@@ -754,7 +754,7 @@ The String Quartet
 'the': -T
 'old': OLD
 'gentleman': SKWRA*PL
-'opposite....': OP/SEUT/TP-PL/TP-PL/TP-PL/TP-PL
+'opposite....': OP/SEUT/TP-PL/HR-PS
 'But': KPA/PWUT
 'suppose—suppose—Hush!"': SPOS/EPL/TKA*RB/SPOS/EPL/TKA*RB/KPA*/HURB/SKHRAPL/KR-GS
 'The': KPA/-T
@@ -976,7 +976,7 @@ The String Quartet
 'old': OLD
 'age,': AEUPBLG/KW-BG
 'grey-headed': TKPWRA*EU/H-PB/HED/-D
-'Sphinx....': STPEUPBGS/TP-PL/TP-PL/TP-PL/TP-PL
+'Sphinx....': STPEUPBGS/TP-PL/HR-PS
 'There': KPA/THR
 'she': SHE
 'stands': STAPBDZ
@@ -1212,7 +1212,7 @@ The String Quartet
 'to': TO
 'my': PHEU
 'skirt—to': SKEURT/EPL/TKA*RB/TO
-'hide....': HAOEUD/TP-PL/TP-PL/TP-PL/TP-PL
+'hide....': HAOEUD/TP-PL/HR-PS
 'But': KPA/PWUT
 'listen!': HREUFPB/SKHRAPL
 'the': -T
@@ -1299,7 +1299,7 @@ The String Quartet
 'escape': SKAEP
 'of': -F
 'the': -T
-'lovers....': HRUFRS/TP-PL/TP-PL/TP-PL/TP-PL
+'lovers....': HRUFRS/TP-PL/HR-PS
 'The': KPA/-T
 'green': TKPWRAOEPB
 'garden,': TKPWA*RPB/KW-BG
@@ -1337,7 +1337,7 @@ The String Quartet
 'planted': PHRAPBT/-D
 'on': OPB
 'marble': PHAERBL
-'pillars....': PEUL/AR/-S/TP-PL/TP-PL/TP-PL/TP-PL
+'pillars....': PEUL/AR/-S/TP-PL/HR-PS
 'Tramp': KPA/TRAFRP
 'and': SKP
 'trumpeting.': TRUPLT/-G/TP-PL

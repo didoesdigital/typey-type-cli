@@ -1411,7 +1411,7 @@ The Chaos
 'the': -T
 'sound': SOUPBD
 'of': -F
-'sup...': SUP/TP-PL/TP-PL/TP-PL
+'sup...': SUP/HR-PS
 'My': KPA/PHEU
 'advice': SREUS
 'is:': S/STPH-FPLT

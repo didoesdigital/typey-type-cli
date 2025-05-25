@@ -533,7 +533,7 @@ Kew Gardens
 'I': EU
 'might': PHAOEUT
 'have': SR
-'married....': PHAERD/TP-PL/TP-PL/TP-PL/TP-PL
+'married....': PHAERD/TP-PL/HR-PS
 'Well,': KPA/WEL/KW-BG
 'why': KWR
 'are': R
