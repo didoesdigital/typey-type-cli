@@ -1211,7 +1211,7 @@ The Puppet-Show Man
 'house.': HOUS/TP-PL
 'The': KPA/-T
 ''prima': A*E/PREU/PHA
-'donna'': HRO*ER/TKO*PB/KWRA/AE
+'donna'': HRO*ER/TKOPB/TPHA/AE
 'would': WO
 'only': OEPBL
 'act': ABGT

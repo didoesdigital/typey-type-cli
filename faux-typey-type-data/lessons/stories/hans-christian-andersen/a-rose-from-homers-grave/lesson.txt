@@ -303,7 +303,7 @@ A Rose From Homer's Grave
 'lights': HRAOEUTS
 'of': -F
 'the': -T
-'aurora': AU/ROR/KWRA
+'aurora': AU/ROR/RA
 'borealis.': PWOR/A*L/EUS/TP-PL
 'He': KPA/HE
 'plucked': PHRUBGD

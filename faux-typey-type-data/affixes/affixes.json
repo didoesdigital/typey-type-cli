@@ -1807,7 +1807,6 @@
     ["/STPEU", "i"],
     ["/STPO", "o"],
     ["/STPU", "u"],
-    ["/KWRA", "a"],
     ["/KWRO", "o"],
     ["/SKWR*E", "e"],
     ["/KWREUFPLT", "y"]

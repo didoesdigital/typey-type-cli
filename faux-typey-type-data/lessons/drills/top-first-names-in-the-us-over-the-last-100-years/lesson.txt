@@ -1,7 +1,7 @@
 Top first names in the US over the last 100 years
 
 'Mary': PHA*ER
-'Patricia': PA/TEURB/KWRA
+'Patricia': PA/TREU/SHA
 'Jennifer': SKWREPB/TPER
 'Linda': HREUPB/TKA
 'Elizabeth': HREUZ/PW*ET
@@ -18,7 +18,7 @@ Top first names in the US over the last 100 years
 'Sandra': SAPBD/RA
 'Ashley': ARB/HREU
 'Kimberly': KEUPL/PWERL
-'Donna': TKO*PB/KWRA
+'Donna': TKOPB/TPHA
 'Emily': EPL/HREU
 'Carol': KAEURL
 'Michelle': PHEURB/EL
@@ -76,7 +76,7 @@ Top first names in the US over the last 100 years
 'Doris': TKO*ERS
 'Kathryn': KA*EUT/R*EUPB
 'Gloria': TKPWHROR/KWRA
-'Teresa': TRAO*ES/KWRA
+'Teresa': TRAO*ES/SA
 'Sara': SA/RA
 'Janice': SKWRAPB/EUS
 'Marie': PHA/REU

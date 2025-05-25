@@ -2170,7 +2170,7 @@ The Shadow
 'like': HRAOEUBG
 'the': -T
 'radiant': RAEUD/KWRAPBT
-'aurora': AU/ROR/KWRA
+'aurora': AU/ROR/RA
 'borealis,': PWOR/A*L/EUS/KW-BG
 'surrounded': SROUPBD/-D
 'with': W

@@ -9,7 +9,7 @@ Greek alphabet as words
 'eta': A*EU/TA
 'theta': THO*EUT
 'iota': KWROE/TA
-'kappa': KAP/KWRA
+'kappa': KAP/PA
 'lambda': HRAPLD
 'mu': PHU
 'nu': TPH*U
