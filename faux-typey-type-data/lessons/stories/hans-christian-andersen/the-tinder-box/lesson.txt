@@ -2449,7 +2449,7 @@ The Tinder-Box
 'leather': HRE/THER
 'apron': AEUP/ROPB
 'and': SKP
-'slippers': SHREUP/ERS
+'slippers': SHREUP/*ERS
 'on,': OPB/KW-BG
 'galloped': TKPWAL/OP/-D
 'by': PWEU
@@ -2459,7 +2459,7 @@ The Tinder-Box
 'one': WUPB
 'of': -F
 'his': HEUS
-'slippers': SHREUP/ERS
+'slippers': SHREUP/*ERS
 'flew': TPHRAOU
 'off': OF
 'and': SKP

@@ -3971,7 +3971,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'to': TO
 'carry': KAER
 'the': -T
-'youngsters': KWR*UPBGS/ERS
+'youngsters': KWRUPBG/STERS
 'to': TO
 'the': -T
 'town,': TOUPB/KW-BG

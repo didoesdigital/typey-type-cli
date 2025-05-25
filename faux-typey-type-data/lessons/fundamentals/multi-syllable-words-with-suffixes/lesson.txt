@@ -107,7 +107,6 @@ Multi-syllable words with suffixes
 'disposed': TKEUS/POES/-D
 'electronically': HREBG/TROPB/KHREU
 'departed': TKPART/-D
-'quarters': KWART/ERS
 'celebrated': SEL/PWRAEUT/-D
 'slavery': SHRAEUF/REU
 'delightful': TKHRAOEUT/-FL
@@ -120,7 +119,6 @@ Multi-syllable words with suffixes
 'generations': SKWREPB/RAEUGS/-S
 'handed': HAPBD/-D
 'belonging': PWE/HROPBG/-G
-'masters': PHAFT/ERS
 'gratitude': TKPWRAT/TAOUD
 'merry': PHER/REU
 'confirmed': K-FRPL/-D
@@ -488,8 +486,6 @@ Multi-syllable words with suffixes
 'salary': SAL/REU
 'continual': T-PB/WAL
 'defended': TKAOE/TPEPBD/-D
-'workers': WORBG/ERS
-'farmers': TPARPL/ERS
 'wildly': WAOEULD/HREU
 'sadness': SAD/-PBS
 'wonderfully': WOPBD/TPHREU
@@ -533,7 +529,6 @@ Multi-syllable words with suffixes
 'identical': AOEUD/K-L
 'Westminster': WEFT/PHEUPB/STER
 'subjected': SUBT/-D
-'trousers': TROUZ/ERS
 'stillness': STEUL/-PBS
 'treachery': TREFP/REU
 'attendant': A/TEPBD/APBT
@@ -638,7 +633,6 @@ Multi-syllable words with suffixes
 'Percy': PER/SEU
 'profitable': PROFT/-BL
 'speculation': SPEBG/HRAEUGS
-'foreigners': TPORPB/ERS
 'ghastly': TKPWAFT/HREU
 'barbarous': PWARB/ROUS
 'patriotism': PAEURT/EUFPL
@@ -778,7 +772,6 @@ Multi-syllable words with suffixes
 'loneliness': HROPBL/-PBS
 'finely': TPAOEUPB/HREU
 'charities': KHAEURT/KWREU/-S
-'elders': ELD/ERS
 'Julian': SKWRAOUL/KWRAPB
 'sweetly': SWAOET/HREU
 'inevitably': TPHEFT/PWHREU
@@ -932,7 +925,6 @@ Multi-syllable words with suffixes
 'dreadfully': TKRED/TPHREU
 'sundry': SUPBD/REU
 'syllable': SEUL/-BL
-'commissioners': KPHEUGS/ERS
 'relish': REL/EURB
 'cordially': KORPBLG/HREU
 'Arabian': A/RAEUB/KWRAPB
@@ -968,7 +960,6 @@ Multi-syllable words with suffixes
 'personages': PERPB/APBLG/-S
 'frankness': TPRAPBG/-PBS
 'progressive': PROG/EUF
-'Rogers': ROPBLG/ERS
 'terminated': TERPL/TPHAEUT/-D
 'boldness': PWOLD/-PBS
 'needless': TPHAOED/-LS
@@ -1433,7 +1424,6 @@ Multi-syllable words with suffixes
 'township': TOUPB/SH-P
 'vacancy': SRAEUBG/SEU
 'acquiescence': A/KWAOES/EPBS
-'three-quarters': THRAOE/H-PB/KWART/ERS
 'exploration': SPHROR/AEUGS
 'stationary': STAEUGS/AER
 'disconcerted': TKEUS/KOPB/SERT/-D

@@ -721,7 +721,7 @@
 "SREL/SRET": "velvet",
 "SKUL/H-PB/KAP": "skull-cap",
 "TPUR/-D": "furred",
-"SHREUP/ERS/KW-BG": "slippers,",
+"SHREUP/*ERS/KW-BG": "slippers,",
 "STPHAFPD": "snatched",
 "RAEUP/KWRER": "rapier",
 "WAUL/EPL/TKA*RB/-T": "wall—the",

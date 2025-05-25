@@ -1393,7 +1393,7 @@ Our Aunt
 'and': SKP
 'had': H
 'list': HR*EUS
-'slippers': SHREUP/ERS
+'slippers': SHREUP/*ERS
 'put': PUT
 'on': OPB
 'their': THAEUR

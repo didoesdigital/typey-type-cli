@@ -1185,7 +1185,7 @@ The String Quartet
 'skull-cap': SKUL/H-PB/KAP
 'and': SKP
 'furred': TPUR/-D
-'slippers,': SHREUP/ERS/KW-BG
+'slippers,': SHREUP/*ERS/KW-BG
 'snatched': STPHAFPD
 'a': AEU
 'rapier': RAEUP/KWRER

@@ -50,7 +50,7 @@ The Little Match-Seller
 'a': AEU
 'pair': PAEUR
 'of': -F
-'slippers': SHREUP/ERS
+'slippers': SHREUP/*ERS
 'when': WHEPB
 'she': SHE
 'left': HREFT
@@ -104,7 +104,7 @@ The Little Match-Seller
 'One': KPA/WUPB
 'of': -F
 'the': -T
-'slippers': SHREUP/ERS
+'slippers': SHREUP/*ERS
 'she': SHE
 'could': KO
 'not': TPHOT

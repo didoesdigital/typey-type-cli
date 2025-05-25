@@ -58,7 +58,7 @@ The Shepherd's Boy
 'Wolf,"': KPA/WOFL/KW-BG/KR-GS
 'and': SKP
 'the': -T
-'villagers': SREUL/APBLG/ERS
+'villagers': SREUL/SKWRER/-S
 'came': KAEUPL
 'out': OUT
 'to': TO
@@ -94,7 +94,7 @@ The Shepherd's Boy
 'and': SKP
 'again': TKPWEPB
 'the': -T
-'villagers': SREUL/APBLG/ERS
+'villagers': SREUL/SKWRER/-S
 'came': KAEUPL
 'to': TO
 'his': HEUS
@@ -135,7 +135,7 @@ The Shepherd's Boy
 'this': TH
 'time': TAOEUPL
 'the': -T
-'villagers,': SREUL/APBLG/ERS/KW-BG
+'villagers,': SREUL/SKWRER/-S/KW-BG
 'who': WHO
 'had': H
 'been': PW-PB

@@ -395,7 +395,7 @@ The Red Shoes
 'shoes': SHAOUS
 'and': SKP
 'white': WHAOEUT
-'slippers.': SHREUP/ERS/TP-PL
+'slippers.': SHREUP/*ERS/TP-PL
 'It': KPA/T
 'all': AUL
 'looked': HRAOBGD

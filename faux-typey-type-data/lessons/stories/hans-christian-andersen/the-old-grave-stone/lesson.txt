@@ -444,7 +444,7 @@ The Old Grave-Stone
 'friendly': TPREPBLD
 'way': WAEU
 'to': TO
-'passers': PASZ/ERS
+'passers': PAS/SERS
 'by,': PWEU/KW-BG
 'it': T
 'really': R-L

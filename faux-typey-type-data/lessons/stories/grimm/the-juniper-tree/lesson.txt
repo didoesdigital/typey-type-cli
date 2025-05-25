@@ -1521,7 +1521,7 @@ The Juniper-Tree
 'one': WUPB
 'of': -F
 'his': HEUS
-'slippers.': SHREUP/ERS/TP-PL
+'slippers.': SHREUP/*ERS/TP-PL
 'But': KPA/PWUT
 'he': HE
 'ran': RAPB

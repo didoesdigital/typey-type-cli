@@ -2339,7 +2339,7 @@ The Elfin Hill
 'aunts."': AUPBTS/TP-PL/KR-GS
 'But': KPA/PWUT
 'the': -T
-'youngsters': KWR*UPBGS/ERS
+'youngsters': KWRUPBG/STERS
 'said': SED
 'they': THE
 'would': WO

@@ -2557,7 +2557,7 @@ The Psyche
 'portraits.': POR/TRAT/-S/TP-PL
 'All': KPA/AUL
 'the': -T
-'burners': PWURPB/ERS
+'burners': PWURPB/*ERS
 'of': -F
 'the': -T
 'six-armed': SEUBGS/H-PB/ARPLD

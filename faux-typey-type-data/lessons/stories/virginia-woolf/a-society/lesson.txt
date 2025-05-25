@@ -42,7 +42,7 @@ A Society
 'feathers': TP*ET/ERS
 'and': SKP
 'golden': TKPWOELD/*EPB
-'slippers.': SHREUP/ERS/TP-PL
+'slippers.': SHREUP/*ERS/TP-PL
 'Others': KPA/OERS
 'were': WR
 'idly': AOEUD/HREU

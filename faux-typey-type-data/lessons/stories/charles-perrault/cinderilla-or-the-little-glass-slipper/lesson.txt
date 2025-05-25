@@ -1138,7 +1138,7 @@ Cinderilla or the Little Glass Slipper
 'a': AEU
 'pair': PAEUR
 'of': -F
-'glass-slippers,': TKPWHRAS/H-PB/SHREUP/ERS/KW-BG
+'glass-slippers,': TKPWHRAS/H-PB/SHREUP/*ERS/KW-BG
 'the': -T
 'prettiest': PRET/KWREFT
 'in': TPH
@@ -1236,7 +1236,7 @@ Cinderilla or the Little Glass Slipper
 'verre_,': SR*/*E/R*/R*/SKWRE/RUPBD/KW-BG
 'or': OR
 'glass': TKPWHRAS
-'slippers,': SHREUP/ERS/KW-BG
+'slippers,': SHREUP/*ERS/KW-BG
 'a': AEU
 'delightful': TKHRAOEUT/-FL
 'Being': KPA/-BG
@@ -2014,7 +2014,7 @@ Cinderilla or the Little Glass Slipper
 'of': -F
 'her': HER
 'glass': TKPWHRAS
-'slippers,': SHREUP/ERS/KW-BG
+'slippers,': SHREUP/*ERS/KW-BG
 'which': WEU
 'the': -T
 'Prince': PR*EUPBS
@@ -2053,7 +2053,7 @@ Cinderilla or the Little Glass Slipper
 'of': -F
 'the': -T
 'little': HREUL
-'slippers,': SHREUP/ERS/KW-BG
+'slippers,': SHREUP/*ERS/KW-BG
 'fellow': TP*EL
 'to': TO
 'that': THA
@@ -2157,7 +2157,7 @@ Cinderilla or the Little Glass Slipper
 'her': HER
 'little': HREUL
 'glass': TKPWHRAS
-'slippers,': SHREUP/ERS/KW-BG
+'slippers,': SHREUP/*ERS/KW-BG
 'the': -T
 'prettiest': PRET/KWREFT
 'in': TPH

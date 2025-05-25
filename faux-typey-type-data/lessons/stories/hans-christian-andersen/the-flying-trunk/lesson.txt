@@ -134,7 +134,7 @@ The Flying Trunk
 'a': AEU
 'pair': PAEUR
 'of': -F
-'slippers,': SHREUP/ERS/KW-BG
+'slippers,': SHREUP/*ERS/KW-BG
 'an': APB
 'old': OLD
 'dressing-gown,': TKREFG/H-PB/TKPWOUPB/KW-BG
@@ -324,7 +324,7 @@ The Flying Trunk
 'in': TPH
 'dressing-gowns': TKREFG/H-PB/TKPWOUPBS
 'and': SKP
-'slippers,': SHREUP/ERS/KW-BG
+'slippers,': SHREUP/*ERS/KW-BG
 'as': AS
 'he': HE
 'was': WAS
@@ -1950,7 +1950,7 @@ The Flying Trunk
 'high': HAOEU
 'that': THA
 'their': THAEUR
-'slippers': SHREUP/ERS
+'slippers': SHREUP/*ERS
 'flew': TPHRAOU
 'about': PW
 'their': THAEUR

@@ -1642,7 +1642,7 @@ The Puppet-Show Man
 'shorter,': SHORT/*ER/KW-BG
 'for': TPOR
 'the': -T
-'youngsters': KWR*UPBGS/ERS
+'youngsters': KWRUPBG/STERS
 'don't': TKOEPBT
 'like': HRAOEUBG
 'long': HROPBG

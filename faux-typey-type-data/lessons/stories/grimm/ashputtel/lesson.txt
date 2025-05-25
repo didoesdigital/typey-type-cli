@@ -1167,7 +1167,7 @@ Ashputtel
 'for': TPOR
 'her,': HER/KW-BG
 'and': SKP
-'slippers': SHREUP/ERS
+'slippers': SHREUP/*ERS
 'of': -F
 'spangled': SPAPBG/*LD
 'silk;': S*EULG/STPH*FPLT
@@ -1800,7 +1800,7 @@ Ashputtel
 'former': TPRORPL
 'one,': WUPB/KW-BG
 'and': SKP
-'slippers': SHREUP/ERS
+'slippers': SHREUP/*ERS
 'which': WEU
 'were': WR
 'all': AUL

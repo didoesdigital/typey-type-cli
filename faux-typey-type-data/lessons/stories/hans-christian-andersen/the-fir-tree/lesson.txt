@@ -909,7 +909,7 @@ The Fir Tree
 'the': -T
 'forest,': TPOEFRT/KW-BG
 'while': WHAOEUL
-'passers': PASZ/ERS
+'passers': PAS/SERS
 'by': PWEU
 'would': WO
 'say,': SAEU/KW-BG

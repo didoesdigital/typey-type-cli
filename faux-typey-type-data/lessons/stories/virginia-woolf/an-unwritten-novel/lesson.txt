@@ -1206,7 +1206,7 @@ An Unwritten Novel
 'side': SAOEUD
 'furred': TPUR/-D
 'felt': TPELT
-'slippers.': SHREUP/ERS/TP-PL
+'slippers.': SHREUP/*ERS/TP-PL
 'The': KPA/-T
 'looking-glass—no,': HRAOG/H-PB/TKPWHRAS/EPL/TKA*RB/TPHORBGS
 'you': U
@@ -4225,7 +4225,7 @@ An Unwritten Novel
 'The': KPA/-T
 'white': WHAOEUT
 'light': HRAOEUT
-'splutters': SPHRUT/ERS
+'splutters': SPHRUT/*ERS
 'and': SKP
 'pours.': PAOURS/TP-PL
 'Plate-glass': KPA/PHRAET/H-PB/TKPWHRAS

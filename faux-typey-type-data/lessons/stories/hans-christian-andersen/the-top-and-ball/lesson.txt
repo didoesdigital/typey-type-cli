@@ -156,7 +156,7 @@ The Top and Ball
 'mother': PHOER
 'were': WR
 'morocco': HRO*ER/PHORBG/KOE
-'slippers,': SHREUP/ERS/KW-BG
+'slippers,': SHREUP/*ERS/KW-BG
 'and': SKP
 'that': THA
 'I': EU

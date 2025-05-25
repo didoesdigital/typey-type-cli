@@ -1606,7 +1606,7 @@ Jack the Dullard
 'the': -T
 'corporation': KORPGS
 'of': -F
-'printers—but': PREUPBT/ERS/EPL/TKA*RB/PWUT
+'printers—but': PREUPBT/*ERS/EPL/TKA*RB/PWUT
 'they': THE
 'are': R
 'not': TPHOT
