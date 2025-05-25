@@ -4581,7 +4581,7 @@ Ib and Little Christina
 'the': -T
 'autumn': AU/UPL
 'winds': WEUPBDZ
-'whirled': WHEURL/-D
+'whirled': WHEUR/*LD
 'the': -T
 'yellow': KWREL/OE
 'leaves': HREFS

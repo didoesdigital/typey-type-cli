@@ -2017,7 +2017,7 @@ Donkey-Skin
 'she': SHE
 'was': WAS
 'so': SO
-'dishevelled': TKEUS/H*/*E/SR*/*E/HR*/HR*/-D
+'dishevelled': TKEURB/EFL/*LD
 'and': SKP
 'dirty': TKOEURT
 'that': THA

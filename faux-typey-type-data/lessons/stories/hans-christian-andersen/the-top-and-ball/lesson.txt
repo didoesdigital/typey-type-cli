@@ -543,7 +543,7 @@ The Top and Ball
 'golden': TKPWOELD/*EPB
 'top,': TOP/KW-BG
 'and': SKP
-'whirled': WHEURL/-D
+'whirled': WHEUR/*LD
 'and': SKP
 'danced': TKAPBS/-D
 'about': PW

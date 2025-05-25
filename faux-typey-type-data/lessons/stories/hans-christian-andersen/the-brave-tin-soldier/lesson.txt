@@ -1134,7 +1134,7 @@ The Brave Tin Soldier
 'afraid.': A/TPRAEUD/TP-PL
 'The': KPA/-T
 'boat': PWOET
-'whirled': WHEURL/-D
+'whirled': WHEUR/*LD
 'round': ROUPBD
 'three': THRAOE
 'or': OR

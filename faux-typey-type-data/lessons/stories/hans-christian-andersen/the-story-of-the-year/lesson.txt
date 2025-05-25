@@ -2634,7 +2634,7 @@ The Story of the Year
 'winds': WEUPBDZ
 'of': -F
 'Autumn': KPA/AU/UPL
-'howled.': HOUL/-D/TP-PL
+'howled.': HOU/*LD/TP-PL
 'The': KPA/-T
 'year': KWRAOER
 'was': WAS

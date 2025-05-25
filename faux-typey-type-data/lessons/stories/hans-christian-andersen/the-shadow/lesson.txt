@@ -2711,7 +2711,7 @@ The Shadow
 'the': -T
 'walls,': WAULS/KW-BG
 'which': WEU
-'tickled': TEUBG/-LD
+'tickled': TEUBG/*LD
 'my': PHEU
 'back': PWABG
 'very': SRE

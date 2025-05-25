@@ -818,7 +818,7 @@ Homophones
 'soared': SAORD
 'sword': SWORD
 'sold': SOELD
-'soled': SOL/-D
+'soled': SO/*LD
 'sole': SOEL
 'soul': SOUL
 'some': SOPL
@@ -976,7 +976,7 @@ Homophones
 'whined': WHAOEUPBD
 'wind': WEUPBD
 'wined': WEUPB/-D
-'whirled': WHEURL/-D
+'whirled': WHEUR/*LD
 'world': WORLD
 'whit': WHEUT
 'wit': WEUT

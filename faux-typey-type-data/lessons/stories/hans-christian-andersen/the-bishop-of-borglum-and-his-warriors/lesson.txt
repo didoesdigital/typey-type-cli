@@ -2401,7 +2401,7 @@ The Bishop of Borglum and His Warriors
 'their': THAEUR
 'anxieties': APBG/AOEUTS
 'are': R
-'dispelled;': TKEUS/P*/*E/HR*/HR*/-D/STPH*FPLT
+'dispelled;': TKEUS/PEL/*LD/STPH*FPLT
 'and': SKP
 'at': AT
 'even': AOEPB

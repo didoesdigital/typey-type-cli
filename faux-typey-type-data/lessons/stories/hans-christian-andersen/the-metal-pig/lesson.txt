@@ -2172,7 +2172,7 @@ The Metal Pig
 'the': -T
 'room,': RAOPL/KW-BG
 'and': SKP
-'gambolled': TKPW*/A*/PH*/PW*/O*/HR*/HR*/-D
+'gambolled': TKPWAPL/PWOL/*LD
 'upon': POPB
 'the': -T
 'boy.': PWOEU/TP-PL
@@ -3843,7 +3843,7 @@ The Metal Pig
 'she': SHE
 'was': WAS
 'nearly': TPHAOERL
-'strangled;': STRAPBG/-LD/STPH*FPLT
+'strangled;': STRAPBG/*LD/STPH*FPLT
 'and': SKP
 'just': SKWRUFT
 'then': THEPB
@@ -3898,7 +3898,7 @@ The Metal Pig
 'kissed': K*EUFD
 'her': HER
 'little': HREUL
-'half-strangled': HAF/H-PB/STRAPBG/-LD
+'half-strangled': HAF/H-PB/STRAPBG/*LD
 'Bellissima.': KPA/PWEL/HREUS/PHA/TPHR-RB/TP-PL
 'At': KPA/AT
 'this': TH

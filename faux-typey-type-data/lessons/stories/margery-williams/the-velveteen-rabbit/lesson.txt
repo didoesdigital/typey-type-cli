@@ -3615,7 +3615,7 @@ The Velveteen Rabbit
 'then': THEPB
 'something': S-G
 'hadn't': H-PBT
-'tickled': TEUBG/-LD
+'tickled': TEUBG/*LD
 'his': HEUS
 'nose,': TPHOES/KW-BG
 'and': SKP

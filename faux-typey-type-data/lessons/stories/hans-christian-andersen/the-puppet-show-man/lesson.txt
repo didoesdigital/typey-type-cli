@@ -1262,7 +1262,7 @@ The Puppet-Show Man
 'away,': WA*EU/KW-BG
 'my': PHEU
 'head': HED
-'whirled,': WHEURL/-D/KW-BG
+'whirled,': WHEUR/*LD/KW-BG
 'and': SKP
 'I': EU
 'was': WAS

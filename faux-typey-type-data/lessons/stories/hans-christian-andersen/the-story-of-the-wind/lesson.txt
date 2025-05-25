@@ -1630,7 +1630,7 @@ The Story of the Wind
 'her': HER
 'hair,': HAEUR/KW-BG
 'and': SKP
-'dishevelled': TKEUS/H*/*E/SR*/*E/HR*/HR*/-D
+'dishevelled': TKEURB/EFL/*LD
 'it;': T/STPH*FPLT
 'or': OR
 'sometimes,': STAOEUPLS/KW-BG

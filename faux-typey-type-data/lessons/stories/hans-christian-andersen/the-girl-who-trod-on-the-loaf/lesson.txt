@@ -2361,7 +2361,7 @@ The Girl Who Trod on the Loaf
 'birds,': PWEURDZ/KW-BG
 'till': TEUL
 'they': THE
-'equalled': *E/KW*/*U/A*/HR*/HR*/-D
+'equalled': KWAL/*LD
 'the': -T
 'weight': WAET
 'of': -F

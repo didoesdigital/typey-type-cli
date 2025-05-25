@@ -1187,7 +1187,7 @@ Riquet With the Tuft
 'Tuft,': KPA/TUFT/KW-BG
 'wherein': WR-PB
 'she': SHE
-'tattled': TAT/-LD
+'tattled': TAT/*LD
 'at': AT
 'such': SUFP
 'a': AEU

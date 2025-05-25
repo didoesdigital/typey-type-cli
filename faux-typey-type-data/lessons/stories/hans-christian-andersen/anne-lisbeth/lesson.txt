@@ -840,7 +840,7 @@ Anne Lisbeth
 'as': AS
 'the': -T
 'boat': PWOET
-'heeled': HAOEL/-D
+'heeled': HAOE/*LD
 'over': OEFR
 'and': SKP
 'lay': HRAEU

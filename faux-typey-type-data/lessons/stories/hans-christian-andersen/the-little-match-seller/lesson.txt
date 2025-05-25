@@ -342,7 +342,7 @@ The Little Match-Seller
 'which': WEU
 'the': -T
 'wind': WEUPBD
-'howled,': HOUL/-D/KW-BG
+'howled,': HOU/*LD/KW-BG
 'although': HR*T
 'the': -T
 'largest': HRARPBLG/EFT

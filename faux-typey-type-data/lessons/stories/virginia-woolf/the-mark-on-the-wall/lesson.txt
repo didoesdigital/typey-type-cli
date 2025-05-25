@@ -2817,7 +2817,7 @@ The Mark on the Wall
 'with': W
 'all': AUL
 'leaves': HREFS
-'close-furled,': KHROES/H-PB/TPURL/-D/KW-BG
+'close-furled,': KHROES/H-PB/TPUR/*LD/KW-BG
 'nothing': TPHOG
 'tender': TERPBD
 'exposed': EBGS/POED/-D

@@ -209,7 +209,7 @@
 "HAT/KW-BG": "hat,",
 "SHOUT/-D": "shouted",
 "THR": "there",
-"TEUBG/-LD": "tickled",
+"TEUBG/*LD": "tickled",
 "TKPWROE/EPL/TKA*RB/EU": "grow—I",
 "TPHOE": "know",
 "WEL/STPH*FPLT": "well;",

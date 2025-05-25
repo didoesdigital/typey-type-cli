@@ -186,7 +186,7 @@ The Wicked Prince
 'could': KO
 'nowhere': TPHO/WR
 'be': -B
-'equalled.': *E/KW*/*U/A*/HR*/HR*/-D/TP-PL
+'equalled.': KWAL/*LD/TP-PL
 'He': KPA/HE
 'erected': AOE/REBGD
 'magnificent': PHAFPBT

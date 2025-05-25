@@ -2693,7 +2693,7 @@ The Ugly Duckling
 'they': THE
 'fell': TPEL
 'and': SKP
-'whirled': WHEURL/-D
+'whirled': WHEUR/*LD
 'them': THEPL
 'in': TPH
 'the': -T
@@ -2836,7 +2836,7 @@ The Ugly Duckling
 'watched': WAFPD
 'them.': THEPL/TP-PL
 'He': KPA/HE
-'whirled': WHEURL/-D
+'whirled': WHEUR/*LD
 'himself': HEUPLS
 'in': TPH
 'the': -T

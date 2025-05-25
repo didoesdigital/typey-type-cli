@@ -397,7 +397,7 @@ The Wedding of Mrs Fox
 'the': -T
 'bench,': PWEFRPB/KW-BG
 'and': SKP
-'cudgelled': KR*/*U/TK*/TKPW*/*E/HR*/HR*/-D
+'cudgelled': KR*/*U/TK*/TKPW*/*E/HR*/*LD
 'all': AUL
 'the': -T
 'rabble,': RABL/KW-BG

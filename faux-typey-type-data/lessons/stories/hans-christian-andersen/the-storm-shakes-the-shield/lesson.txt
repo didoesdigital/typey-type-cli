@@ -1349,7 +1349,7 @@ The Storm Shakes the Shield
 'looked': HRAOBGD
 'like': HRAOEUBG
 'a': AEU
-'furled': TPURL/-D
+'furled': TPUR/*LD
 'umbrella.': UPL/PWREL/HRA/TP-PL
 'He': KPA/HE
 'said': SED

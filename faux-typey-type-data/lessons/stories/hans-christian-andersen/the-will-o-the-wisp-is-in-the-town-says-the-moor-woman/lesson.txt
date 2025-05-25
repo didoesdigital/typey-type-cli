@@ -3733,7 +3733,7 @@ The Will-O-the Wisp Is in the Town, Says the Moor Woman
 'The': KPA/-T
 'little': HREUL
 'elf-maidens': *EFL/H-PB/PHAEUD/*EPB/-S
-'whirled': WHEURL/-D
+'whirled': WHEUR/*LD
 'round': ROUPBD
 'three': THRAOE
 'times': TAOEUPLS

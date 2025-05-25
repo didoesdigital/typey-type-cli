@@ -1323,7 +1323,7 @@ The Elfin Hill
 'immediately.': PHAOELD/TP-PL
 'Then': KPA/THEPB
 'they': THE
-'tickled': TEUBG/-LD
+'tickled': TEUBG/*LD
 'the': -T
 'ladies': HRAEUDZ
 'who': WHO

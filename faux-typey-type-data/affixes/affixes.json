@@ -1587,6 +1587,7 @@
     ["/P-P/O*RG", ".org"],
     ["/O*UR", "our"],
     ["/AOEUZ/A*U", "ise"],
+    ["/*LD", "led"],
     ["/*ERS", "ers"],
     ["/*ES", "ess"],
     ["/*ET", "eth"],

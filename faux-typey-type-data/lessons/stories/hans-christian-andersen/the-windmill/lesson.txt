@@ -360,7 +360,7 @@ The Windmill
 'there': THR
 'that': THA
 'it': T
-'tickled': TEUBG/-LD
+'tickled': TEUBG/*LD
 'me.': PHE/TP-PL
 'The': KPA/-T
 'little': HREUL

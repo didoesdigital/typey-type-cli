@@ -73,7 +73,7 @@ The Lion and the Mouse
 'Lion': KPA/HRO*EUPB
 'was': WAS
 'so': SO
-'tickled': TEUBG/-LD
+'tickled': TEUBG/*LD
 'at': AT
 'the': -T
 'idea': KWR-D

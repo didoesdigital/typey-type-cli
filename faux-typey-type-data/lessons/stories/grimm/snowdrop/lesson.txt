@@ -1232,7 +1232,7 @@ Snowdrop
 'they': THE
 'found': TPOUPBD
 'what': WHA
-'ailed': AEUL/-D
+'ailed': A/*EU/*LD
 'her,': HER/KW-BG
 'they': THE
 'cut': KUT
