@@ -933,7 +933,8 @@
     ["A*E/", "'"],
     ["AOE/", "e"],
     ["KWR*EU/", "i"],
-    ["KWRAO*E/", "e"]
+    ["KWRAO*E/", "e"],
+    ["PO*EUP/", "."]
   ],
   "suffixes": [
     ["/PRO*EPT", "-appropriate"],

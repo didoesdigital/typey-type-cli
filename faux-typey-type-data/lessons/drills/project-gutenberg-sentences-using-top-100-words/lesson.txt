@@ -2256,7 +2256,7 @@ Project Gutenberg sentences using top 100 words
 'did!'': TK/SKHRAPL/AE
 ''You': A*E/KPA*/U
 'know?': TPHOE/H-F
-'".And': KW-GS/TP-PL/AFPBD
+'".And': KW-GS/PO*EUP/AFPBD
 'now!"': TPHOU/SKHRAPL/KR-GS
 '"A': KW-GS/KPA*/AEU
 'little."': HREUL/TP-PL/KR-GS

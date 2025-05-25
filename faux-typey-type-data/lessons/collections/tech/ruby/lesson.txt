@@ -38,7 +38,7 @@ Ruby
 '.load_tasks': TP-PL/HRAOD/RUPBD/TAFBGS
 'if': TP
 'Rails': RA*EULS
-'.env': TP-PL/TPH*FPB
+'.env': PO*EUP/TPH*FPB
 '.development?': TP-PL/SREPLT/H-F
 '||': PAO*EUP/PAO*EUP
 '.test?': TP-PL/TEFT/H-F
@@ -47,10 +47,10 @@ Ruby
 'default:': TKEFLT/STPH-FPLT
 ''rspec-rerun:spec'': A*E/R*/SP*EBG/H-PB/RE/RUPB/STPH-FPLT/SP*EBG/AE
 'ARGV': A*RG/SR*
-'.size': TP-PL/SAOEUZ
+'.size': PO*EUP/SAOEUZ
 'exit': KPEUT
 '1': #S
-'.open': TP-PL/OEP
+'.open': PO*EUP/OEP
 '(ARGV[0],': PREPB/A*RG/SR*/PWR-BGT/#O/PWR*BGT/KW-BG
 ''r')': A*E/R*/AE/PR*EPB
 ''w')': A*E/W*/AE/PR*EPB
@@ -58,13 +58,13 @@ Ruby
 'dict.puts': TKEUBGT/TP-PL/PUTS
 '"{"': KW-GS/TPR-BGT/KR-GS
 'Regexp': KPA/REG/EBGS
-'.new': TP-PL/TPHU
+'.new': PO*EUP/TPHU
 ''(['': A*E/PREPB/PWR-BGT/AE
 '+': PHR*US
-'.keys': TP-PL/KAOES
-'.map': TP-PL/PHAP
+'.keys': PO*EUP/KAOES
+'.map': PO*EUP/PHAP
 '|punk|': PAO*EUP/PUPBG/PAO*EUP
-'.escape': TP-PL/SKAEP
+'.escape': PO*EUP/SKAEP
 'punk': PUPBG
 ''])'': A*E/PWR*BGT/PR*EPB/AE
 '.rstrip': P-P/R*/STREUP
@@ -74,7 +74,7 @@ Ruby
 'else': ELS
 '%("#{word}")': P*ERS/PREPB/KR-GS/HAERB/TPR-BGT/WORD/TPR*BGT/KR-GS/PR*EPB
 'JSON': SKWRO*FPB
-'.parse': TP-PL/PARS
+'.parse': PO*EUP/PARS
 '.join(',')': TP-PL/SKWROEUPB/PREPB/AE/KW-BG/AE/PR*EPB
 '"'#{line}':': KW-GS/AE/HAERB/TPR-BGT/HRAOEUPB/TPR*BGT/AE/STPH-FPLT
 '#{translation}"': SPWO*L/TPR-BGT/THRAEUGS/TPR*BGT/KR-GS
@@ -120,7 +120,7 @@ Ruby
 'raise': RAEUZ
 '&&': SPHAPBD/SPHAPBD
 '==': KWA*LS/KWA*LS
-'.try': TP-PL/TREU
+'.try': PO*EUP/TREU
 'attributes': TR-BTS
 'self': S*EF
 'set_page_title': SET/RUPBD/PAEUPBLG/RUPBD/TAOEULT
