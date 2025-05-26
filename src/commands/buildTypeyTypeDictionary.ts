@@ -93,7 +93,33 @@ const run = async (options: Options) => {
     affixMisstrokes
   );
 
-  await fs.writeFile(`${affixesPath}`, JSON.stringify(newAffixes, null, 2));
+  // NOTE: we hand-craft this JSON string purely to preserve the formatting of
+  // the existing affixes.json file so that it is easy to perform git diffs
+  // over time. A far simpler and safer approach to stringifying would be
+  // `JSON.stringify(newAffixes, null, 2)` but that introduces excess line
+  // breaks that make diffs annoying to read.
+  const stringifiedPrefixes = newAffixes.prefixes
+    .map(
+      ([outline, translation]) =>
+        `    [${JSON.stringify(outline)}, ${JSON.stringify(translation)}]`
+    )
+    .join(",\n");
+  const stringifiedSuffixes = newAffixes.suffixes
+    .map(
+      ([outline, translation]) =>
+        `    [${JSON.stringify(outline)}, ${JSON.stringify(translation)}]`
+    )
+    .join(",\n");
+  const stringifiedAffixesJson = `{
+  "prefixes": [
+${stringifiedPrefixes}
+  ],
+  "suffixes": [
+${stringifiedSuffixes}
+  ]
+}
+`;
+  await fs.writeFile(`${affixesPath}`, stringifiedAffixesJson);
 
   // NOTE: The `typey-type.json` dictionary is no longer used after Dec 2024
   // but we continue to build it for anyone that may be relying on it:
