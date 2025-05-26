@@ -1,9 +1,8 @@
-import LATEST_TYPEY_TYPE_FULL_DICT_NAME from "../../../shared/constant/latestTypeyTypeFullDictName";
-import misstrokesJSON from "../../../shared/json/misstrokes.json";
+import LATEST_TYPEY_TYPE_FULL_DICT_NAME from "../../constant/latestTypeyTypeFullDictName";
+import misstrokesJSON from "../../json/misstrokes.json";
 import createGlobalLookupDictionary from "./createGlobalLookupDictionary";
 import getAffixMisstrokesFromMisstrokes from "../affixes/getAffixMisstrokesFromMisstrokes";
 import getAffixesFromLookupDict from "../affixes/getAffixesFromLookupDict";
-import AFFIXES from "../affixes/affixes";
 import type {
   PersonalDictionaryNameAndContents,
   StenoDictionary,
@@ -2412,11 +2411,6 @@ const testAffixes = getAffixesFromLookupDict(
   testGlobalLookupDictionary,
   affixMisstrokes
 );
-// const affixesLoadFunction = () => {
-//   return testAffixes;
-// };
-// AFFIXES.setLoadFunction(affixesLoadFunction);
-// AFFIXES.setSharedAffixes(testAffixes);
 
 export {
   testTypeyTypeDict,
