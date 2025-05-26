@@ -1,6 +1,6 @@
+import misstrokesJSON from "../../json/misstrokes.json";
 import createStrokeHintForPhrase from "./createStrokeHintForPhrase";
 import createGlobalLookupDictionary from "./createGlobalLookupDictionary";
-import misstrokesJSON from "../../../shared/json/misstrokes.json";
 import {
   testGlobalLookupDictionary as globalLookupDictionary,
   testAffixes,

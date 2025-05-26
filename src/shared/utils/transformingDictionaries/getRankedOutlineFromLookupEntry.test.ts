@@ -1,4 +1,4 @@
-import misstrokesJSON from "../../../shared/json/misstrokes.json";
+import misstrokesJSON from "../../json/misstrokes.json";
 import LATEST_TYPEY_TYPE_FULL_DICT_NAME from "../../constant/latestTypeyTypeFullDictName";
 import AFFIXES from "../affixes/affixes";
 import getAffixMisstrokesFromMisstrokes from "../affixes/getAffixMisstrokesFromMisstrokes";
