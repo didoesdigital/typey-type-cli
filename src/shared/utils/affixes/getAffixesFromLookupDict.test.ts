@@ -1,9 +1,6 @@
 import getAffixesFromLookupDict from "./getAffixesFromLookupDict";
 
-import type {
-  AffixObject,
-  LookupDictWithNamespacedDicts,
-} from "../../../shared/types";
+import type { AffixObject, LookupDictWithNamespacedDicts } from "../../types";
 
 describe("getAffixesFromLookupDict", () => {
   it("returns only the highest ranked affix outlines", async () => {

@@ -1,4 +1,4 @@
-import { AffixObject } from "../../../shared/types";
+import { AffixObject } from "../../types";
 
 const testAffixes: AffixObject = {
   prefixes: [],
