@@ -1,4 +1,3 @@
-import LATEST_PLOVER_DICT_NAME from "../../constant/latestPloverDictName";
 import SOURCE_NAMESPACES from "../../constant/sourceNamespaces";
 import { addOutlinesToWordsInCombinedDict } from "./transformingDictionaries";
 import type {
@@ -9,8 +8,7 @@ import type {
 
 const combineValidDictionaries = (
   personalDictionariesNamesAndContents: PersonalDictionaryNameAndContents[],
-  typeyDicts: ReadDictionariesData,
-  ploverDict: any = null
+  typeyDicts: ReadDictionariesData
 ) => {
   let combinedLookupDictionary = new Map();
   let numberOfPersonalDictionaries =
@@ -41,17 +39,6 @@ const combineValidDictionaries = (
       new Set()
     );
   });
-
-  // 3. Add Plover dictionary entries
-  if (!!ploverDict) {
-    // eslint-disable-next-line
-    [combinedLookupDictionary, _] = addOutlinesToWordsInCombinedDict(
-      ploverDict,
-      combinedLookupDictionary,
-      `${SOURCE_NAMESPACES.get("plover")}:${LATEST_PLOVER_DICT_NAME}`,
-      new Set()
-    );
-  }
 
   outlinesWeHaveSeen = new Set();
 
