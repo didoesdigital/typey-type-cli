@@ -1,4 +1,4 @@
-import { AffixObject } from "../../types";
+import type { AffixObject } from "../../types";
 
 export type LoadFunction = () => AffixObject;
 
