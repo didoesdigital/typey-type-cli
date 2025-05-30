@@ -12,9 +12,16 @@ let maybeAffixes: AffixObject | null = null;
  * affixes object using `getAffixesFromLookupDict()`.
  */
 let loadFunction: LoadFunction = () => {
-  throw new Error("There's no affix load function to load the affixes.");
-  // const defaultAffixes: AffixObject = { prefixes: [], suffixes: [] };
-  // return defaultAffixes;
+  // throw new Error("There's no affix load function to load the affixes.");
+  //
+  // Note: first render of the web app on pages using affixes will call
+  // getSharedAffixes and try to call this loadFunction before the
+  // dictionaries have been loaded, before setLoadFunction has been called,
+  // so it will always return the null object first. So long as a render
+  // occurs after setSharedAffixes and setLoadFunction are called, the web app
+  // should show the correct ranking of strokes.
+  const defaultAffixes: AffixObject = { prefixes: [], suffixes: [] };
+  return defaultAffixes;
 };
 
 /**
