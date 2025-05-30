@@ -2874,7 +2874,7 @@ Top 10000 Project Gutenberg words
 'pursuit': PUR/SAOUT
 'pull': PUL
 'furniture': TPURPBT
-'additions': A/TKEUGS/-S
+'additions': AGS/-S
 'hid': HEUD
 'rope': ROEP
 'VI': R-6

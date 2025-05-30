@@ -388,7 +388,7 @@ Multi-syllable words with multiple strokes
 'instructions': EUPB/STRUBGS/-S
 'hatred': HAEU/TRED
 'pursuit': PUR/SAOUT
-'additions': A/TKEUGS/-S
+'additions': AGS/-S
 'vanished': SRAPB/EURBD
 'elder': ELD/ER
 'annual': APB/WAL

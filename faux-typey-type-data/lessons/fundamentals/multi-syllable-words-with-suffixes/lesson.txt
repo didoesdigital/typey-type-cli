@@ -154,7 +154,7 @@ Multi-syllable words with suffixes
 'hesitated': HES/TAEUT/-D
 'fury': TPAOU/REU
 'instructions': EUPB/STRUBGS/-S
-'additions': A/TKEUGS/-S
+'additions': AGS/-S
 'annual': APB/WAL
 'consequently': KWEPBT/HREU
 'magic': PHAPBLG/EUBG

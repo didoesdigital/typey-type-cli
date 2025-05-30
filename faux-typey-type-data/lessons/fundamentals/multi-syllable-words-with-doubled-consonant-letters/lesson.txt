@@ -277,7 +277,7 @@ Multi-syllable words with doubled consonant letters
 'possibility': POBT
 'butter': PWAOURT
 'issued': *EURBD
-'additions': A/TKEUGS/-S
+'additions': AGS/-S
 'supplied': SPHRAOEUD
 'lesson': HROEFPB
 'annual': APB/WAL

@@ -125,7 +125,6 @@ Multi-syllable words with prefixes
 'overcome': AUFR/KOPL
 'awake': A/WAEUBG
 'instructions': EUPB/STRUBGS/-S
-'additions': A/TKEUGS/-S
 'detail': TKE/TAEUL
 'distinctly': TKEUS/TEUPBGT/HREU
 'indignation': EUPB/TKEUG/TPHAEUGS
