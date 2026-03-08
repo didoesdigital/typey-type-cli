@@ -1543,7 +1543,7 @@ Single-Stroke Briefs
 'creature': KRAOEFP
 'credibility': KREBLT
 'credible': KREUBL
-'credit': KRET
+'credit': KRETD
 'creed': KRAOED
 'creek': KRAOEBG
 'creel': KRAOEL

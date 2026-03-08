@@ -40,9 +40,9 @@ Proverbial phrases starting with G
 'hang': HAPBG
 'himself.': HEUPLS/TP-PL
 'Give': KPA/TKPWEUF
-'credit': KRET
+'credit': KRETD
 'where': W-R
-'credit': KRET
+'credit': KRETD
 'is': S
 'due.': TKAOU/TP-PL
 'Give': KPA/TKPWEUF

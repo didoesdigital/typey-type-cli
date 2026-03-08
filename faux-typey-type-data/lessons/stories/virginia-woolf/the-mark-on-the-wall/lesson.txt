@@ -1077,7 +1077,7 @@ The Mark on the Wall
 'track': TRABG
 'indirectly': EUPB/TKREBGT/HREU
 'reflecting': RAOE/TPHREBGT/-G
-'credit': KRET
+'credit': KRETD
 'upon': POPB
 'myself,': PHAO*EUS/KW-BG
 'for': TPOR

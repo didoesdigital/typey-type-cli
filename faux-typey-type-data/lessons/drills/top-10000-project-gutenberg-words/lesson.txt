@@ -1676,7 +1676,7 @@ Top 10000 Project Gutenberg words
 'worst': WOFRT
 'sold': SOELD
 'Don': TKO*PB
-'credit': KRET
+'credit': KRETD
 'chosen': KHOEFPB
 'hoped': HOEPD
 'printed': PREUPBTD

@@ -2420,7 +2420,7 @@ She Was Good for Nothing
 'build.': PWEULD/TP-PL
 'Eric': *ERBG
 'had': H
-'credit,': KRET/KW-BG
+'credit,': KRETD/KW-BG
 'so': SO
 'he': HE
 'borrowed': PWO*ERD

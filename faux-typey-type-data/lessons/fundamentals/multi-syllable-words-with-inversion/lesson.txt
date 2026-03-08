@@ -18,6 +18,7 @@ Multi-syllable words with inversion
 'understanding': URPBGD
 'absolutely': SHRAOULT
 'sending': SEPBGD
+'credit': KRETD
 'destroy': STKROEU
 'partly': PARLT
 'destroyed': STKROEUD
