@@ -803,7 +803,7 @@ The Psyche
 'humble': HUPL/-BL
 'room,': RAOPL/KW-BG
 'and': SKP
-'modelled': PHOD/ELD/A*U
+'modelled': PHOD/-LD/A*U
 'a': AEU
 'Psyche': KPA/SAOEUBG
 'of': -F
