@@ -723,7 +723,7 @@ Single-Stroke Briefs
 'bucket': PWUBGT
 'bud': PWUD
 'budge': PWUPBLG
-'budget': PWUGT
+'budget': PWUGTD
 'buff': PWUF
 'buffer': PWUFR
 'buffered': PWUFRD
