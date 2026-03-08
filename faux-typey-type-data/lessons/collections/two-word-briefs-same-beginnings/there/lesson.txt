@@ -4,7 +4,7 @@ Two-word briefs There *
 'there can': THR-BG
 'there could': THR-BGD
 'there has': THR-Z
-'there is': THR-LGS
+'there is': THR*S
 'there should': THR-RBD
 'there was': THR-FS
 'there were': THR-RP

@@ -62,7 +62,7 @@ Two-word briefs * is
 'she is': SHES
 'that is': THAS
 'then is': STHEPB
-'there is': THR-LGS
+'there is': THR*S
 'thing is': TH*EUPBGS
 'this is': TH-S
 'thought is': STHAUT
