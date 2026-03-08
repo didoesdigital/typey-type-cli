@@ -2312,7 +2312,7 @@ Single-Stroke Briefs
 'goiter': TKPWOEURT
 'gold': TKPWOELD
 'golf': TKPWOFL
-'golfer': TKPWOFR
+'golfer': TKPWOFRL
 'gone': TKPWOPB
 'gong': TKPWOPBG
 'gonna': TKPW*G

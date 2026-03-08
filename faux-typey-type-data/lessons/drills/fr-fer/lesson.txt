@@ -10,7 +10,7 @@ FR: -fer
 'differ': TK-FR
 'duffer': TKUFR
 'gaffer': TKPWAFR
-'golfer': TKPWOFR
+'golfer': TKPWOFRL
 'heifer': HEFR
 'infer': TPH-FR
 'lifer': HRAOEUFR
