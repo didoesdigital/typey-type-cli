@@ -114,7 +114,7 @@ Androcles
 'like': HRAOEUBG
 'a': AEU
 'dog.': TKOG/TP-PL
-'then': THEPB
+'Then': KPA/THEPB
 'the': -T
 'Lion': KPA/HRO*EUPB
 'took': TAOBG
