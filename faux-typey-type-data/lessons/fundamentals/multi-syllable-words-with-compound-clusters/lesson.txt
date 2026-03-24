@@ -81,7 +81,7 @@ Multi-syllable words with compound clusters
 'construction': KRUBGS
 'Germans': SKWR*EFRPBS
 'instruction': STRUBGS
-'introduction': TROUGS
+'introduction': TROUBGS
 'revolution': REFGS
 'tradition': TRAGS
 'sensation': STPHAEUGS

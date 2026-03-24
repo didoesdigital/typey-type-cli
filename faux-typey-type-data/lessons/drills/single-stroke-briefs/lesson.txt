@@ -2931,7 +2931,7 @@ Single-Stroke Briefs
 'introduce': TROU
 'introduced': TROUD
 'introducing': TROUG
-'introduction': TROUGS
+'introduction': TROUBGS
 'introvert': SPWRO*EFRT
 'intrude': SPWRAOUD
 'intrusion': SPWRAOUGS
