@@ -34,6 +34,7 @@ Multi-syllable words with compound clusters
 'everybody': EFRB
 'vision': SREUGS
 'branches': PWRAFRPBS
+'temple': TEFRPL
 'conclusion': KHRAO*UGS
 'confusion': KAUFGS
 'emotion': AO*EGS
@@ -99,6 +100,7 @@ Multi-syllable words with compound clusters
 'exclusion': SKHRAOUGS
 'combination': KPWEUPBGS
 'institution': STPHAOUGS
+'ample': AFRPL
 'reserved': REFRBD
 'donation': TKOEPBGS
 'representation': REPGS
@@ -184,6 +186,7 @@ Multi-syllable words with compound clusters
 'comprehension': KPREPBGS
 'recommendation': REPLGS
 'exhaustion': KPAUGS
+'jumping': SKWRUFRPG
 'cavern': KAFRPB
 'taxation': TA*EUBGS
 'calculation': KHRAEUGS
@@ -220,6 +223,7 @@ Multi-syllable words with compound clusters
 'suppression': SPREGS
 'friction': TPREUBGS
 'participation': PARPGS
+'sample': SAFRPL
 'digestion': SKWREGS
 'subscription': SKR*EUPGS
 'infection': TPEBGS

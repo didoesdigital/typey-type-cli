@@ -277,7 +277,6 @@ One-syllable words with left-hand consonants with multiple keys
 'male': PHAEL
 'mode': PHOED
 'brings': PWREUS
-'lamp': HRAFRP
 'nurse': TPHURS
 'gifts': TKPWEUFTS
 'debt': TKET
@@ -379,7 +378,6 @@ One-syllable words with left-hand consonants with multiple keys
 'fur': TPUR
 'neat': TPHAOET
 'lap': HRAP
-'damp': TKAFRP
 'bills': PWEULS
 'mill': PHEUL
 'map': PHAP
@@ -389,7 +387,6 @@ One-syllable words with left-hand consonants with multiple keys
 'niece': TPHAOES
 'smart': SPHART
 'lo': HRO
-'jump': SKWRUFRP
 'cliff': KHREUF
 'dies': TKAOEUZ
 'guy': TKPWAOEU
@@ -517,7 +514,6 @@ One-syllable words with left-hand consonants with multiple keys
 'knives': TPHAOEUFS
 'yacht': KWROT
 'slid': SHREUD
-'lump': HRUFRP
 'grapes': TKPWRAEUPS
 'nail': TPHAEUL
 'mouse': PHOUS
@@ -551,7 +547,6 @@ One-syllable words with left-hand consonants with multiple keys
 'gait': TKPWAEUT
 'clutched': KHRUFPD
 'sneer': STPHAOER
-'plump': PHRUFRP
 'blest': PWHREFT
 'draft': TKRAFT
 'Claude': KHRAUD
@@ -597,7 +592,6 @@ One-syllable words with left-hand consonants with multiple keys
 'mice': PHAOEUS
 'guise': TKPWAOEUZ
 'drugs': TKRUGS
-'limp': HREUFRP
 'vase': SRAS
 'nets': TPHETS
 'dice': TKAOEUS
@@ -615,7 +609,6 @@ One-syllable words with left-hand consonants with multiple keys
 'greed': TKPWRAOED
 'lids': HREUDZ
 'muse': PHAOUS
-'clump': KHRUFRP
 'flute': TPHRAOUT
 'yore': KWROER
 'jay': SKWRAEU
