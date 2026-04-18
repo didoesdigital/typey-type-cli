@@ -9,7 +9,7 @@
     "chmod": "sh -c 'chmod u+x ./build/index.js'",
     "compile": "tsc --project tsconfig.build.json",
     "dev": "ts-node src/index.ts",
-    "lint:check": "eslint '**/meta.json' 'src/**/*.{js,ts}'",
+    "lint:check": "eslint 'src/**/*.{js,ts}'",
     "lint:fix": "yarn lint:check --fix && yarn prettier",
     "prettier": "prettier --write 'faux-typey-type-data/lesson-source-data/**/meta.json' 'src/**/*.{js,ts}' --loglevel 'warn'",
     "test": "yarn build && jest --coverage",
@@ -65,20 +65,20 @@
     "tar@^6.2.1": ">=7.5.11"
   },
   "devDependencies": {
+    "@eslint/js": "9.39.4",
     "@types/jest": "^30.0.0",
     "@types/node": "^24.1.0",
-    "@typescript-eslint/eslint-plugin": "^5.38.0",
-    "@typescript-eslint/parser": "^5.38.0",
     "commander": "^8.3.0",
-    "eslint": "^8.24.0",
+    "eslint": "9.39.4",
     "eslint-config-prettier": "^8.5.0",
-    "eslint-plugin-prettier": "^4.2.1",
+    "globals": "^17.3.0",
     "jest": "^30.3.0",
     "jest-silent-reporter": "^0.6.0",
     "prettier": "2.7.1",
     "ts-jest": "^29.4.6",
     "ts-node": "^10.9.2",
-    "typescript": "5.9.2"
+    "typescript": "5.9.2",
+    "typescript-eslint": "8.58.1"
   },
   "bugs": "https://github.com/didoesdigital/typey-type-cli/issues",
   "keywords": [
