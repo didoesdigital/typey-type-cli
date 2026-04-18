@@ -7,7 +7,7 @@
     "build": "yarn clean && yarn compile && yarn chmod",
     "clean": "sh -c 'if [ -e build ] ; then rm -r ./build; fi;'",
     "chmod": "sh -c 'chmod u+x ./build/index.js'",
-    "compile": "tsc --build",
+    "compile": "tsc --project tsconfig.build.json",
     "dev": "ts-node src/index.ts",
     "lint:check": "eslint '**/meta.json' 'src/**/*.{js,ts}'",
     "lint:fix": "yarn lint:check --fix && yarn prettier",
