@@ -1032,10 +1032,19 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:*, @types/node@npm:^18.7.21":
+"@types/node@npm:*":
   version: 18.8.1
   resolution: "@types/node@npm:18.8.1"
   checksum: 10c0/957f6bd069d127bef690d6c60af7014bfdbefe91d72871b6d7a9f9476eb3445b0b1665adcc832aa94f25aac97ebaf97f7b082f21a5019efc8947a141eac547ef
+  languageName: node
+  linkType: hard
+
+"@types/node@npm:^24.1.0":
+  version: 24.12.2
+  resolution: "@types/node@npm:24.12.2"
+  dependencies:
+    undici-types: "npm:~7.16.0"
+  checksum: 10c0/710050c42f89075c4479e4e1e4c2532486b0c41b1e2a8a13ad88641c88b88cdaea87414e19224f30028719737bd70e327edcaa184d50e86b9418941edd7eb02b
   languageName: node
   linkType: hard
 
@@ -4475,7 +4484,7 @@ __metadata:
   resolution: "typey-type-cli@workspace:."
   dependencies:
     "@types/jest": "npm:^29.1.1"
-    "@types/node": "npm:^18.7.21"
+    "@types/node": "npm:^24.1.0"
     "@typescript-eslint/eslint-plugin": "npm:^5.38.0"
     "@typescript-eslint/parser": "npm:^5.38.0"
     commander: "npm:^8.3.0"
@@ -4492,6 +4501,13 @@ __metadata:
     typey-type: ./bin/run
   languageName: unknown
   linkType: soft
+
+"undici-types@npm:~7.16.0":
+  version: 7.16.0
+  resolution: "undici-types@npm:7.16.0"
+  checksum: 10c0/3033e2f2b5c9f1504bdc5934646cb54e37ecaca0f9249c983f7b1fc2e87c6d18399ebb05dc7fd5419e02b2e915f734d872a65da2e3eeed1813951c427d33cc9a
+  languageName: node
+  linkType: hard
 
 "unique-filename@npm:^3.0.0":
   version: 3.0.0
