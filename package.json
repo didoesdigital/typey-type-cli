@@ -30,7 +30,7 @@
     "/build"
   ],
   "engines": {
-    "node": ">=18.0.0"
+    "node": ">=24.14.1"
   },
   "devDependencies": {
     "@types/jest": "^29.1.1",
