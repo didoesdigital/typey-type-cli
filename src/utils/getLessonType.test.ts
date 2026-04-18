@@ -256,7 +256,7 @@ describe("getLessonType", () => {
         words,
         title
       );
-    }).toThrowError("Unknown lesson type: undefined");
+    }).toThrow("Unknown lesson type: undefined");
   });
 
   it("throws an error for bad meta files with valid title", async () => {
@@ -276,6 +276,6 @@ describe("getLessonType", () => {
         words,
         title
       );
-    }).toThrowError("Unknown lesson type: My bad lesson");
+    }).toThrow("Unknown lesson type: My bad lesson");
   });
 });
