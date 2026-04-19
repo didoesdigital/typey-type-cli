@@ -3,7 +3,7 @@ import namespacedTypeyDict from "../consts/namespacedTypeyDict";
 import { StenoDictionary } from "../shared/types";
 
 describe("createLookupDict", () => {
-  xit("combines dictionaries into a lookup Map with multiple outlines for a word, ranked/sorted", async () => {
+  it.skip("combines dictionaries into a lookup Map with multiple outlines for a word, ranked/sorted", async () => {
     expect(
       createLookupDict([
         [{ "APL/PWEURBT": "ambitious" }, "test.json"],
