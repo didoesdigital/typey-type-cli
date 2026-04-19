@@ -32,7 +32,6 @@ const run = async () => {
     Object.entries(newEmojiStrategy).filter((entry) => {
       const oldEntryUnicodeMatchesNewStrategyKey = oldEntries.find(
         (oldEntry) => {
-          // eslint-disable-next-line @typescript-eslint/ban-ts-comment
           // @ts-ignore
           return oldEntry[1].unicode === entry[0];
         }

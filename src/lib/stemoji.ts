@@ -740,11 +740,9 @@ const makeStenoEmoji = (dictionary: StenoDictionary, strategy: string) => {
       a: PreviousEmojiStrategyWithDuplicates,
       shortname: PreviousEmojiStrategyEntry["shortname"]
     ) => {
-      // eslint-disable-next-line @typescript-eslint/ban-ts-comment
       // @ts-ignore
       let substitute = substitutes[shortname];
 
-      // eslint-disable-next-line @typescript-eslint/ban-ts-comment
       // @ts-ignore
       const processSubstitutes = (newShort, newSubs) => {
         Object.keys(newSubs).forEach((key) => {
@@ -759,6 +757,7 @@ const makeStenoEmoji = (dictionary: StenoDictionary, strategy: string) => {
               let subs = newSubs;
               if (newSubs[key].includes(key)) {
                 subs = { ...newSubs };
+                // eslint-disable-next-line @typescript-eslint/no-dynamic-delete
                 delete subs[key];
               }
               processSubstitutes(substitute, subs);
@@ -811,7 +810,8 @@ const makeStenoEmoji = (dictionary: StenoDictionary, strategy: string) => {
     } else {
       try {
         p[word].push(n);
-      } catch (error) {
+        // eslint-disable-next-line @typescript-eslint/no-unused-vars
+      } catch (_error) {
         console.error(
           "ERROR: could not add this outline to the dictionaryByWord using this translation as the key:"
         );

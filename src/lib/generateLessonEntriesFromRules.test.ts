@@ -108,7 +108,6 @@ describe("generateLessonEntriesFromRules", () => {
     const generatedWords = generateLessonEntriesFromRules(
       lookupDict,
       {
-        // eslint-disable-next-line @typescript-eslint/ban-ts-comment
         // @ts-ignore
         madeUpRule: true,
         anotherMadeUpRule: false,

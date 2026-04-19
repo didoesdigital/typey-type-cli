@@ -39,6 +39,19 @@ const tsConfig = defineConfig({
       },
     ],
 
+    // Disable tseslint.configs.recommendedTypeChecked rules with lots of errors until we can gradually address them:
+    "@typescript-eslint/no-unsafe-member-access": "off",
+    "@typescript-eslint/no-unsafe-assignment": "off",
+    "@typescript-eslint/require-await": "off",
+    "@typescript-eslint/no-unsafe-call": "off",
+    "@typescript-eslint/no-unsafe-argument": "off",
+    "@typescript-eslint/no-unsafe-return": "off",
+    "@typescript-eslint/no-redundant-type-constituents": "off",
+    "@typescript-eslint/restrict-template-expressions": "off",
+    "@typescript-eslint/no-duplicate-type-constituents": "off",
+    "@typescript-eslint/no-floating-promises": "off",
+    "@typescript-eslint/restrict-plus-operands": "off",
+
     // Note: you must disable the base rule as it can report incorrect errors
     "no-empty-function": "off",
     "@typescript-eslint/no-empty-function": "error",
