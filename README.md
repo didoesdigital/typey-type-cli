@@ -216,12 +216,6 @@ yarn build && node --inspect-brk ./build/index.js build-typey-type-dictionary --
 yarn build && node --inspect-brk ./build/index.js build-lesson-index
 ```
 
-For interactive debugging of tests, edit the `tsconfig.json` file to compile tests and edit the `jest.config.js` file to include the `build` directory:
-
-```sh
-yarn build && node --inspect-brk ./node_modules/jest/bin/jest.js --runInBand build/shared/utils/transformingDictionaries/rankOutlines/rankOutlines.test.js
-```
-
 ## Testing
 
 ```sh
