@@ -12,10 +12,10 @@
     "lint:check": "eslint 'src/**/*.{js,ts}'",
     "lint:fix": "yarn lint:check --fix && yarn prettier",
     "prettier": "prettier --write 'faux-typey-type-data/lesson-source-data/**/meta.json' 'src/**/*.{js,ts}' --log-level 'warn'",
-    "test": "yarn build && jest --coverage",
-    "test:only": "jest",
-    "test:silent": "jest --coverage=false --silent --verbose=false --reporters='jest-silent-reporter'",
-    "test:watch": "yarn build && jest --watch"
+    "test": "yarn build && vitest run --coverage",
+    "test:only": "vitest run",
+    "test:silent": "vitest run --silent 'passed-only'",
+    "test:watch": "yarn build && vitest watch"
   },
   "bin": {
     "typey-type": "./bin/run"
@@ -66,19 +66,17 @@
   },
   "devDependencies": {
     "@eslint/js": "9.39.4",
-    "@types/jest": "^30.0.0",
     "@types/node": "^24.1.0",
+    "@vitest/coverage-v8": "4.1.4",
     "commander": "^8.3.0",
     "eslint": "9.39.4",
     "eslint-config-prettier": "10.1.4",
     "globals": "^17.3.0",
-    "jest": "^30.3.0",
-    "jest-silent-reporter": "^0.6.0",
     "prettier": "3.8.1",
-    "ts-jest": "^29.4.6",
     "ts-node": "^10.9.2",
     "typescript": "5.9.2",
-    "typescript-eslint": "8.58.1"
+    "typescript-eslint": "8.58.1",
+    "vitest": "4.1.4"
   },
   "bugs": "https://github.com/didoesdigital/typey-type-cli/issues",
   "keywords": [
