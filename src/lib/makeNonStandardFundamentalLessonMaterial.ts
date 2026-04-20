@@ -13,16 +13,16 @@ const makeNonStandardFundamentalLessonMaterial = (
   recommendedLookupDict: LookupDictWithNamespacedDicts,
   rules: Rules,
   exclusions: Translation[],
-  words: string[]
+  words: string[],
 ) => {
   const entries = generateLessonEntriesFromRules(
     recommendedLookupDict,
     rules,
     exclusions,
-    words
+    words,
   );
   const transformedEntries = transformEntriesTranslations(entries, rules).sort(
-    (a, b) => words.indexOf(a[1]) - words.indexOf(b[1])
+    (a, b) => words.indexOf(a[1]) - words.indexOf(b[1]),
   );
 
   return [entries, transformedEntries];

@@ -108,7 +108,7 @@ describe("rankAffixes", () => {
     const result = rankAffixes(
       outlinesAndSourceDicts,
       affixMisstrokes,
-      "{auto^}"
+      "{auto^}",
     );
     expect(result).toEqual([
       ["O*EUT", "personal.json", "user"],

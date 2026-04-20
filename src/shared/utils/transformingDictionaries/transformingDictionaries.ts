@@ -8,7 +8,7 @@ import type {
 
 function generateListOfWordsAndStrokes(
   wordList: string[],
-  globalLookupDictionary: LookupDictWithNamespacedDicts
+  globalLookupDictionary: LookupDictWithNamespacedDicts,
 ) {
   // wordList = [ 'bed,', 'man!', "'sinatra'", 'and again', 'media query', 'push origin master', 'diff --cached', 'diff -- cached' ]
   const sourceAndPresentedMaterial = [];
@@ -19,7 +19,7 @@ function generateListOfWordsAndStrokes(
 
     const strokes = createStrokeHintForPhrase(
       wordOrPhraseMaterial,
-      globalLookupDictionary
+      globalLookupDictionary,
     );
 
     sourceAndPresentedMaterial.push({
@@ -56,7 +56,7 @@ function addOutlinesToWordsInCombinedDict(
   dictContent: StenoDictionary,
   combinedLookupDictionary: LookupDictWithNamespacedDicts,
   dictName: DictName,
-  outlinesWeHaveSeen: Set<Outline>
+  outlinesWeHaveSeen: Set<Outline>,
 ): [LookupDictWithNamespacedDicts, Set<Outline>] {
   for (const [outline, translation] of Object.entries(dictContent)) {
     const seen = outlinesWeHaveSeen.has(outline);
@@ -77,7 +77,7 @@ function addOutlinesToWordsInCombinedDict(
 
 function getListOfValidDictionariesAddedAndInConfig(
   dictNamesFromAddedConfig: DictName[],
-  namesOfValidAddedDictionaries: DictName[]
+  namesOfValidAddedDictionaries: DictName[],
 ) {
   const listOfValidDictionariesAddedAndInConfig: DictName[] = [];
   const numberOfDictionariesInAddedConfig = dictNamesFromAddedConfig.length;

@@ -36,7 +36,7 @@ const intermediateCombinedDictPath =
   "../lesson-intermediate-data/typey-type-standard-dict-set-combined.json";
 
 const standardDictionarySetPaths = standardDictionarySet.map(
-  (standardDictName) => `${standardDictionariesDir}/${standardDictName}`
+  (standardDictName) => `${standardDictionariesDir}/${standardDictName}`,
 );
 
 type Options = {
@@ -54,7 +54,7 @@ const run = async (options: Options) => {
   const perfObserver = new PerformanceObserver((items) => {
     items.getEntries().forEach((entry) => {
       console.log(
-        `⏱  ${entry.duration} ms to build lesson using ${entry.name}`
+        `⏱  ${entry.duration} ms to build lesson using ${entry.name}`,
       );
     });
   });
@@ -63,7 +63,7 @@ const run = async (options: Options) => {
 
   if (!(await checkFileExists(options.metadata))) {
     throw new Error(
-      `Provided lesson metadata file doesn't exist. ${options.metadata}`
+      `Provided lesson metadata file doesn't exist. ${options.metadata}`,
     );
   }
 
@@ -75,7 +75,7 @@ const run = async (options: Options) => {
   } catch (error) {
     console.error(
       `Error: there was an error parsing the metadata file ${options.metadata}. `,
-      error
+      error,
     );
   }
 
@@ -109,7 +109,7 @@ const run = async (options: Options) => {
     if (!Array.isArray(vocabulary)) {
       // Note: this check is mostly to make types easier to work with below
       throw new Error(
-        `The meta.json vocabulary field should be an array but the vocabulary found in ${slug} was not an array.`
+        `The meta.json vocabulary field should be an array but the vocabulary found in ${slug} was not an array.`,
       );
     }
 
@@ -129,10 +129,10 @@ const run = async (options: Options) => {
           path.basename(dictFile),
         ];
         return result;
-      })
+      }),
     ).catch((error) => {
       throw new Error(
-        `There was an error reading the vocabulary files. ${error}`
+        `There was an error reading the vocabulary files. ${error}`,
       );
     });
     vocabLookupDict = createLookupDict(vocabDicts);
@@ -146,17 +146,17 @@ const run = async (options: Options) => {
       recommendedDictionarySet.map(async (dictFile: string) => {
         const dict = await fs.readFile(
           `${dictionariesDir}/${dictFile}`,
-          "utf8"
+          "utf8",
         );
         const allRecommendedDictsResult = [
           JSON.parse(dict),
           path.basename(dictFile),
         ];
         return allRecommendedDictsResult;
-      })
+      }),
     ).catch((error) => {
       throw new Error(
-        `There was an error reading the recommended dictionary set. ${error}`
+        `There was an error reading the recommended dictionary set. ${error}`,
       );
     });
 
@@ -170,7 +170,7 @@ const run = async (options: Options) => {
     firstRecommendedDict,
     rules,
     words,
-    title
+    title,
   );
 
   switch (lessonTypeAndData.lessonType) {
@@ -178,7 +178,7 @@ const run = async (options: Options) => {
       [entries, transformedEntries] = makeStandardFundamentalLessonMaterial(
         lessonTypeAndData.vocabLookupDict,
         lessonTypeAndData.rules,
-        exclusions
+        exclusions,
       );
       break;
 
@@ -187,7 +187,7 @@ const run = async (options: Options) => {
         lessonTypeAndData.recommendedLookupDict,
         lessonTypeAndData.rules,
         exclusions,
-        lessonTypeAndData.words
+        lessonTypeAndData.words,
       );
       break;
 
@@ -196,14 +196,14 @@ const run = async (options: Options) => {
         lessonTypeAndData.vocabLookupDict,
         lessonTypeAndData.words,
         // lessons with presentationOptions: "Prefixes", "Suffixes", "Suffixes and prefix briefs"
-        presentationOptions || {}
+        presentationOptions || {},
       );
       break;
 
     case "nonStandardDrill":
       [entries, transformedEntries] = makeNonStandardDrillLessonMaterial(
         lessonTypeAndData.words,
-        lessonTypeAndData.firstRecommendedDict
+        lessonTypeAndData.firstRecommendedDict,
       );
       break;
   }
@@ -212,7 +212,7 @@ const run = async (options: Options) => {
     transformedEntries,
     title,
     customMessage || null,
-    ignoredCharacters || null
+    ignoredCharacters || null,
   );
 
   await copyLessonOverview(options.target);
@@ -227,7 +227,7 @@ const run = async (options: Options) => {
 
   const lessonDictTarget = options.target.replace(
     /lesson\.txt$/,
-    `${slug ? slug : slugifyTitle(title)}.json`
+    `${slug ? slug : slugifyTitle(title)}.json`,
   );
 
   await fs.writeFile(lessonDictTarget, lessonDict).catch((err) => {

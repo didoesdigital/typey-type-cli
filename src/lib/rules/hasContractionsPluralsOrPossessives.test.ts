@@ -3,7 +3,7 @@ import hasContractionsPluralsOrPossessives from "./hasContractionsPluralsOrPosse
 describe("hasContractionsPluralsOrPossessives", () => {
   it("returns true for hasn't", async () => {
     expect(hasContractionsPluralsOrPossessives("HAFPBT", "hasn't")).toEqual(
-      true
+      true,
     );
   });
 
@@ -13,7 +13,7 @@ describe("hasContractionsPluralsOrPossessives", () => {
 
   it("returns false for L'Oreal", async () => {
     expect(
-      hasContractionsPluralsOrPossessives("HRAUR/KWRAL", "L'Oreal")
+      hasContractionsPluralsOrPossessives("HRAUR/KWRAL", "L'Oreal"),
     ).toEqual(false);
   });
 

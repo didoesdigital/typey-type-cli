@@ -36,7 +36,7 @@ describe("generateLessonEntriesFromRules", () => {
     const generatedWords = generateLessonEntriesFromRules(
       lookupDict,
       { isOneSyllable: true },
-      []
+      [],
     );
 
     expect(generatedWords).toEqual([
@@ -55,7 +55,7 @@ describe("generateLessonEntriesFromRules", () => {
       lookupDict,
       { isFingerspelled: true },
       [],
-      ["a", "A"]
+      ["a", "A"],
     );
 
     expect(generatedWords).toEqual([
@@ -80,7 +80,7 @@ describe("generateLessonEntriesFromRules", () => {
     const generatedWords = generateLessonEntriesFromRules(
       lookupDict,
       rules,
-      []
+      [],
     );
 
     expect(generatedWords).toEqual([
@@ -117,7 +117,7 @@ describe("generateLessonEntriesFromRules", () => {
         isSingleStroke: true,
         hasSimpleStenoKeys: true,
       },
-      []
+      [],
     );
 
     expect(generatedWords).toEqual([

@@ -42,7 +42,7 @@ const misstrokes = {};
  * @returns A realistic steno dictionary
  */
 const combineDictNamesAndContentsIntoDict = (
-  dictionariesNamesAndContents: DictionaryNameAndContents[]
+  dictionariesNamesAndContents: DictionaryNameAndContents[],
 ): StenoDictionary => {
   const tempLookupDict: TempDict = new Map();
 
@@ -70,14 +70,14 @@ const combineDictNamesAndContentsIntoDict = (
   tempLookupDict.forEach((outlinesAndDictNames, translation) => {
     const foundTopGutenbergEntry = outlinesAndDictNames.find(
       (outlineAndDictName) =>
-        outlineAndDictName[1] === "top-10000-project-gutenberg-words.json"
+        outlineAndDictName[1] === "top-10000-project-gutenberg-words.json",
     );
 
     const listOfStrokeAndDictAndNamespace = outlinesAndDictNames.map(
       (outlinesAndDictNames): StrokeAndDictionaryAndNamespace => [
         ...outlinesAndDictNames,
         "typey",
-      ]
+      ],
     );
 
     if (foundTopGutenbergEntry) {
@@ -87,7 +87,7 @@ const combineDictNamesAndContentsIntoDict = (
         listOfStrokeAndDictAndNamespace,
         misstrokes,
         translation,
-        AFFIXES.getSharedAffixes()
+        AFFIXES.getSharedAffixes(),
       );
 
       const bestOutline = allOutlines[0][0];

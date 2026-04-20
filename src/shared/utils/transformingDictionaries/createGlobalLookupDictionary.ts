@@ -10,7 +10,7 @@ import type {
 
 const addConfig = (
   dict: LookupDictWithNamespacedDicts,
-  config: DictionaryConfigurationList
+  config: DictionaryConfigurationList,
 ): LookupDictWithNamespacedDictsAndConfig => {
   dict.configuration = config;
   return dict as LookupDictWithNamespacedDictsAndConfig;
@@ -18,7 +18,7 @@ const addConfig = (
 
 const createGlobalLookupDictionary = (
   personalDictionariesNamesAndContents: PersonalDictionaryNameAndContents[],
-  typeyDicts: ReadDictionariesData
+  typeyDicts: ReadDictionariesData,
 ): LookupDictWithNamespacedDictsAndConfig => {
   // TODO: one day, this could be the place we check for whether Typey Type dictionaries are enabled and if so combineValidDictionaries with them and add to 'configuration'
 
@@ -26,13 +26,13 @@ const createGlobalLookupDictionary = (
     combineValidDictionaries(personalDictionariesNamesAndContents, typeyDicts);
 
   const typeyDictsConfigEntries = typeyDicts.map(
-    (readDictData) => `${SOURCE_NAMESPACES.get("typey")}:${readDictData[1]}`
+    (readDictData) => `${SOURCE_NAMESPACES.get("typey")}:${readDictData[1]}`,
   );
 
   const configuration = [
     ...typeyDictsConfigEntries,
     ...personalDictionariesNamesAndContents.map(
-      (d) => `${SOURCE_NAMESPACES.get("user")}:${d[0]}`
+      (d) => `${SOURCE_NAMESPACES.get("user")}:${d[0]}`,
     ),
   ];
 

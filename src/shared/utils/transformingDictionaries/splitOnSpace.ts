@@ -7,7 +7,7 @@ const splitOnSpace: SplitterFunction = (
   globalLookupDictionary,
   affixList,
   depth,
-  _precedingChar
+  _precedingChar,
 ) => {
   const phraseBits = wordOrPhraseMaterial
     .split(/ /)
@@ -26,7 +26,7 @@ const splitOnSpace: SplitterFunction = (
         affixList,
         depth++,
         // NOTE: we always use " " as preceding char because we don't capture the split space in / /
-        " "
+        " ",
       );
     })
     .join("/");

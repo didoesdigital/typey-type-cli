@@ -17,13 +17,13 @@ const run = async () => {
 
   const newEmojiStrategyRaw = await fs.readFile(
     "vendor/emoji_strategy.json",
-    "utf8"
+    "utf8",
   );
   const newEmojiStrategy = JSON.parse(newEmojiStrategyRaw);
 
   const oldEmojiStrategyRaw = await fs.readFile(
     "vendor/emoji_strategy_c8900a0.json",
-    "utf8"
+    "utf8",
   );
   const oldEmojiStrategy = JSON.parse(oldEmojiStrategyRaw);
   const oldEntries = Object.entries(oldEmojiStrategy);
@@ -34,17 +34,17 @@ const run = async () => {
         (oldEntry) => {
           // @ts-ignore
           return oldEntry[1].unicode === entry[0];
-        }
+        },
       );
 
       return !!oldEntryUnicodeMatchesNewStrategyKey;
-    })
+    }),
   );
 
   await fs
     .writeFile(
       "vendor/emoji_strategy_reduced_to_c8900a0_chars.json",
-      JSON.stringify(oldEmojiNewFormat, null, 2) + "\n"
+      JSON.stringify(oldEmojiNewFormat, null, 2) + "\n",
     )
     .catch((err) => {
       if (err) {
@@ -56,7 +56,7 @@ const run = async () => {
   performance.measure(
     "build-emoji-strategy",
     "build-emoji-strategy-start",
-    "build-emoji-strategy-end"
+    "build-emoji-strategy-end",
   );
 };
 

@@ -136,11 +136,11 @@ const generateLessonEntriesFromRules = (
   lookupDict: LookupDictWithNamespacedDicts,
   rules: Rules,
   translationExclusions: string[],
-  words?: string[]
+  words?: string[],
 ): DictEntries => {
   const filters: FilterAndExpectation[] = [];
   const validRules = Object.keys(rules).filter(
-    (ruleName) => ruleName in ruleFunctions
+    (ruleName) => ruleName in ruleFunctions,
   );
 
   for (let i = 0; i < validRules.length; i++) {
@@ -162,14 +162,14 @@ const generateLessonEntriesFromRules = (
   const entriesList = [];
   for (const [translation, strokesAndNamespacedDicts] of lookupDict) {
     const listOfStrokeAndDictAndNamespace = splitIntoStrokesDictsAndNamespaces(
-      strokesAndNamespacedDicts
+      strokesAndNamespacedDicts,
     );
 
     const allOutlines = rankOutlines(
       listOfStrokeAndDictAndNamespace,
       misstrokes,
       translation,
-      AFFIXES.getSharedAffixes()
+      AFFIXES.getSharedAffixes(),
     );
 
     const bestStrokeAndDictAndName = allOutlines[0];

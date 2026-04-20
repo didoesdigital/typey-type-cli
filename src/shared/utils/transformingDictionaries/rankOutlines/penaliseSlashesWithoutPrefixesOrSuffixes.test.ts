@@ -36,13 +36,13 @@ describe("penaliseSlashesWithoutPrefixesOrSuffixes", () => {
           },
           LATEST_TYPEY_TYPE_FULL_DICT_NAME,
         ],
-      ]
+      ],
     );
 
     const customAffixMisstrokes = getAffixMisstrokesFromMisstrokes(misstrokes);
     const customTestAffixes = getAffixesFromLookupDict(
       customGlobalLookupDictionary,
-      customAffixMisstrokes
+      customAffixMisstrokes,
     );
 
     AFFIXES.setSharedAffixes(customTestAffixes);
@@ -59,8 +59,8 @@ describe("penaliseSlashesWithoutPrefixesOrSuffixes", () => {
       penaliseSlashesWithoutPrefixesOrSuffixes(
         outline,
         translation,
-        AFFIXES.getSharedAffixes()
-      )
+        AFFIXES.getSharedAffixes(),
+      ),
     ).toEqual(2);
   });
 
@@ -71,7 +71,7 @@ describe("penaliseSlashesWithoutPrefixesOrSuffixes", () => {
     const penalty = penaliseSlashesWithoutPrefixesOrSuffixes(
       outline,
       translation,
-      AFFIXES.getSharedAffixes()
+      AFFIXES.getSharedAffixes(),
     );
 
     expect(penalty).toBeGreaterThan(0);
@@ -84,8 +84,8 @@ describe("penaliseSlashesWithoutPrefixesOrSuffixes", () => {
       penaliseSlashesWithoutPrefixesOrSuffixes(
         outline,
         translation,
-        AFFIXES.getSharedAffixes()
-      )
+        AFFIXES.getSharedAffixes(),
+      ),
     ).toEqual(0);
   });
 
@@ -95,7 +95,7 @@ describe("penaliseSlashesWithoutPrefixesOrSuffixes", () => {
     const penalty = penaliseSlashesWithoutPrefixesOrSuffixes(
       outline,
       translation,
-      AFFIXES.getSharedAffixes()
+      AFFIXES.getSharedAffixes(),
     );
 
     expect(penalty).toEqual(0);
@@ -108,8 +108,8 @@ describe("penaliseSlashesWithoutPrefixesOrSuffixes", () => {
       penaliseSlashesWithoutPrefixesOrSuffixes(
         outline,
         translation,
-        AFFIXES.getSharedAffixes()
-      )
+        AFFIXES.getSharedAffixes(),
+      ),
     ).toEqual(0);
   });
 });

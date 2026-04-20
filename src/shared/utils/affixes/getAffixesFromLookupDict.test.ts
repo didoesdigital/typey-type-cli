@@ -34,7 +34,7 @@ describe("getAffixesFromLookupDict", () => {
     };
 
     expect(getAffixesFromLookupDict(lookupDict, affixMisstrokes)).toEqual(
-      expectedResult
+      expectedResult,
     );
   });
 
@@ -63,7 +63,7 @@ describe("getAffixesFromLookupDict", () => {
     };
 
     expect(getAffixesFromLookupDict(lookupDict, affixMisstrokes)).toEqual(
-      expectedResult
+      expectedResult,
     );
   });
 });

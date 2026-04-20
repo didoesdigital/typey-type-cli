@@ -12,7 +12,7 @@ const copyLessonOverview = async (target: string) => {
   const targetOverview = target.replace("lesson.txt", lessonOverviewFilename);
   const sourceOverview = targetOverview.replace(
     lessonTargetDataDir,
-    lessonSourceDataDir
+    lessonSourceDataDir,
   );
 
   if (await checkFileExists(sourceOverview)) {

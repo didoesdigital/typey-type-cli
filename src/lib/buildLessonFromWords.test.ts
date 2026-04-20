@@ -15,8 +15,8 @@ describe("buildLessonFromWords", () => {
         [["PHREFD", "pleased"]],
         "Pleased",
         "Hint: use “Case sensitive” setting to learn how to fingerspell uppercase and lowercase letters",
-        null
-      )
+        null,
+      ),
     ).toEqual(`Pleased
 
 'pleased': PHREFD

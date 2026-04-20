@@ -43,7 +43,7 @@ const run = async () => {
   const perfObserver = new PerformanceObserver((items) => {
     items.getEntries().forEach((entry) => {
       console.log(
-        `⏱  ${entry.duration} ms to copy dictionaries from files listed in ${dictionariesIndexSource}`
+        `⏱  ${entry.duration} ms to copy dictionaries from files listed in ${dictionariesIndexSource}`,
       );
     });
   });
@@ -64,7 +64,7 @@ const run = async () => {
   } catch (error) {
     console.error(
       `Error: there was an error parsing the source dictionaries index file. `,
-      error
+      error,
     );
   }
 
@@ -79,7 +79,7 @@ const run = async () => {
       } catch (error) {
         console.error(
           `Unable to copy dictionary: ${dictionaryPath}. Make sure the directory exists first? `,
-          error
+          error,
         );
       }
     });
@@ -91,7 +91,7 @@ const run = async () => {
     listOfDiDoesDigitalDictionaries = (
       await fs.readdir(didoesdigitalDir)
     ).filter(
-      (dictName) => !["emoji.json", "misstrokes.json"].includes(dictName)
+      (dictName) => !["emoji.json", "misstrokes.json"].includes(dictName),
     );
   } catch (err) {
     console.error(err);
@@ -112,7 +112,7 @@ const run = async () => {
       } catch (error) {
         console.error(
           `Unable to copy dictionary: ${didoesdigitalDict}. `,
-          error
+          error,
         );
       }
     }

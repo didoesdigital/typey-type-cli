@@ -3,7 +3,7 @@ import type { DictionaryNameAndContents } from "../cli-types";
 
 const zipDictNameAndContents = (
   dictionaryNames: DictName[],
-  dictionariesContents: StenoDictionary[]
+  dictionariesContents: StenoDictionary[],
 ): DictionaryNameAndContents[] => {
   const zipped: DictionaryNameAndContents[] = [];
   let index = 0;

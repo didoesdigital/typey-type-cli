@@ -31,13 +31,13 @@ const run = async (options: Options) => {
     standardDictionarySet.map(async (dictFile: string) => {
       const dict = await fs.readFile(
         `${standardDictionariesDir}/${dictFile}`,
-        "utf8"
+        "utf8",
       );
       return JSON.parse(dict);
-    })
+    }),
   ).catch((error) => {
     throw new Error(
-      `There was an error reading the standard Typey Type dictionary set to build the emoji dict. ${error}`
+      `There was an error reading the standard Typey Type dictionary set to build the emoji dict. ${error}`,
     );
   });
 
@@ -54,7 +54,7 @@ const run = async (options: Options) => {
   await fs
     .writeFile(
       options.target,
-      JSON.stringify(emojiDictionarySortedByKey, null, 2) + "\n"
+      JSON.stringify(emojiDictionarySortedByKey, null, 2) + "\n",
     )
     .catch((err) => {
       if (err) {
@@ -66,7 +66,7 @@ const run = async (options: Options) => {
   performance.measure(
     "build-emoji-dict",
     "build-emoji-dict-start",
-    "build-emoji-dict-end"
+    "build-emoji-dict-end",
   );
 };
 

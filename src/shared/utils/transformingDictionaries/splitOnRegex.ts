@@ -8,7 +8,7 @@ const splitOnRegex = (regexWithCaptureGroups: RegExp) => {
     globalLookupDictionary,
     affixList,
     depth,
-    precedingChar
+    precedingChar,
   ) => {
     const phraseBits = wordOrPhraseMaterial
       .split(regexWithCaptureGroups)
@@ -26,7 +26,7 @@ const splitOnRegex = (regexWithCaptureGroups: RegExp) => {
           globalLookupDictionary,
           affixList,
           depth++,
-          i === 0 ? precedingChar || " " : phraseBits[i - 1].slice(-1) // TODO: Probably breaks emoji
+          i === 0 ? precedingChar || " " : phraseBits[i - 1].slice(-1), // TODO: Probably breaks emoji
         );
       })
       .join("/");

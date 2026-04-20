@@ -7,11 +7,11 @@ import lessonIntermediateDir from "../consts/lessonIntermediateDir";
 import type { LessonPathWithoutBasenameAndWithFilename } from "../cli-types";
 
 const readWordCount = async (
-  metaPath: LessonPathWithoutBasenameAndWithFilename
+  metaPath: LessonPathWithoutBasenameAndWithFilename,
 ) => {
   const wordCountPath = `${lessonIntermediateDir}${metaPath.replace(
     "lesson.txt",
-    "word-count.txt"
+    "word-count.txt",
   )}`;
 
   let result = 0;
@@ -21,7 +21,7 @@ const readWordCount = async (
     result = +wordCount;
   } catch (error) {
     throw new Error(
-      `No word count file for ${metaPath} at ${wordCountPath}. Try run build lesson command first? ${error}`
+      `No word count file for ${metaPath} at ${wordCountPath}. Try run build lesson command first? ${error}`,
     );
   }
 

@@ -6,11 +6,11 @@ import type { StenoDictionary } from "../shared/types";
 
 const makeNonStandardDrillLessonMaterial = (
   words: string[],
-  firstRecommendedDict: StenoDictionary
+  firstRecommendedDict: StenoDictionary,
 ) => {
   const entries = convertDictionaryToEntriesFilteredByWordList(
     words,
-    firstRecommendedDict
+    firstRecommendedDict,
   );
   const transformedEntries = entries;
 

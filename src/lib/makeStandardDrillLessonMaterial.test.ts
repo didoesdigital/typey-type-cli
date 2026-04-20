@@ -30,7 +30,7 @@ describe("makeStandardDrillLessonMaterial", () => {
     const [entries, transformedEntries] = makeStandardDrillLessonMaterial(
       lessonTypeAndData.vocabLookupDict,
       lessonTypeAndData.words,
-      {}
+      {},
     );
 
     expect(entries).toEqual([
@@ -88,7 +88,7 @@ describe("makeStandardDrillLessonMaterial", () => {
     const [entries, transformedEntries] = makeStandardDrillLessonMaterial(
       lessonTypeAndData.vocabLookupDict,
       lessonTypeAndData.words,
-      presentationOptions
+      presentationOptions,
     );
 
     expect(entries).toEqual([

@@ -6,7 +6,7 @@ import type { LookupDictWithNamespacedDicts } from "../../types";
 const createStrokeHintForPhrase = (
   wordOrPhraseMaterial: string,
   globalLookupDictionary: LookupDictWithNamespacedDicts,
-  affixList = AFFIXES.getSharedAffixes()
+  affixList = AFFIXES.getSharedAffixes(),
 ) => {
   return (
     recursiveBuildStrokeHint(
@@ -14,7 +14,7 @@ const createStrokeHintForPhrase = (
       globalLookupDictionary,
       affixList,
       0,
-      ""
+      "",
     ) || "xxx"
   );
 };

@@ -50,7 +50,7 @@ const rightSideStenoLetterNumberMap = new Map([
  * @returns - a single steno stroke with numbers normalised e.g. `R-7`, `2`, `#-Z`
  */
 const normaliseNumbers = (
-  stroke: SingleStrokeUsingNumberBar
+  stroke: SingleStrokeUsingNumberBar,
 ): SingleStrokeUsingNumberBar => {
   if (stroke === "#") return stroke;
 
@@ -93,12 +93,12 @@ const normaliseNumbers = (
 
   const leftHandNormalised = [...leftHand].map(
     (letterStenoKey) =>
-      leftSideStenoLetterNumberMap.get(letterStenoKey) ?? letterStenoKey
+      leftSideStenoLetterNumberMap.get(letterStenoKey) ?? letterStenoKey,
   );
 
   const rightHandNormalised = [...rightHand].map(
     (letterStenoKey) =>
-      rightSideStenoLetterNumberMap.get(letterStenoKey) ?? letterStenoKey
+      rightSideStenoLetterNumberMap.get(letterStenoKey) ?? letterStenoKey,
   );
 
   const normalisedStroke = leftHandNormalised

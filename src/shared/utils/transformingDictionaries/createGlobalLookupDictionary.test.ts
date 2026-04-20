@@ -41,7 +41,7 @@ describe("create a global lookup dictionary", () => {
     expect(
       createGlobalLookupDictionary(personalDicts, [
         [typeyDict, LATEST_TYPEY_TYPE_FULL_DICT_NAME],
-      ])
+      ]),
     ).toEqual(expectedGlobalDict);
   });
 });

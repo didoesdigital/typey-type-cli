@@ -39,14 +39,14 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "A Farmer";
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("KPA/AEU KPA/TPAR/PHER");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("KPA/AEU/KPA/TPAR/PHER");
     });
 
     it('showing sensible slash separated strokes for "iFarmer"', () => {
       const wordOrPhraseMaterial = "iFarmer";
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("*EU/KPA*/TPAR/PHER");
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("KWR*EU/KPA*/TPAR/PHER");
     });
@@ -54,21 +54,21 @@ describe("create stroke hint for phrase", () => {
     it("showing hint word starting with apostrophe using dictionary formatting symbols", () => {
       const wordOrPhraseMaterial = "'twas";
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("TWA*S");
     });
 
     it("show full word hints for a phrase ending with apostrophe and ess when the exact condensed stroke entry exists", () => {
       const wordOrPhraseMaterial = "gentlemen's";
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("SKWR*EPL/AES");
     });
 
     it("show full word hints for a phrase ending with apostrophe and ess when there is no condensed stroke entry", () => {
       const wordOrPhraseMaterial = "optometrist's";
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("OP/TOPL/TREUFT/AES");
     });
 
@@ -76,14 +76,14 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "podiatrist's optometrist's";
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("POED/TREUFT/AES OP/TOPL/TREUFT/AES");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("POED/TREUFT/AES/OP/TOPL/TREUFT/AES");
     });
 
     it("show full word hints for a phrase containing a capitalised word with an apostrophe", () => {
       const wordOrPhraseMaterial = "Isn't";
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("KPA/S-PBT");
     });
 
@@ -91,7 +91,7 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "it can't";
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("T K-PBT");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("T/K-PBT");
     });
 
@@ -99,7 +99,7 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "it Can't";
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("T KPA/K-PBT");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("T/KPA/K-PBT");
     });
 
@@ -107,7 +107,7 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "a a a a a a a a a a a a";
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("AEU AEU AEU AEU AEU AEU AEU AEU AEU AEU AEU AEU");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("AEU/AEU/AEU/AEU/AEU/AEU/AEU/AEU/AEU/AEU/AEU/AEU");
     });
 
@@ -117,7 +117,7 @@ describe("create stroke hint for phrase", () => {
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("AEU/AEU/AEU/AEU/AEU/AEU/AEU/AEU/AEU/AEU/AEU/AEU/xxx");
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("AEU/AEU/AEU/AEU/AEU/AEU/AEU/AEU/AEU/AEU/AEU/AEU xxx");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("AEU/AEU/AEU/AEU/AEU/AEU/AEU/AEU/AEU/AEU/AEU/AEU");
     });
 
@@ -129,9 +129,9 @@ describe("create stroke hint for phrase", () => {
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("WUPB/EPL/TKA*RB/TWO/KW-BG/#P/#H/H-PB/R5/KR-GS/#F/AE/#-P");
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("WUPB/EPL/TKA*RB/TWO/KW-BG/#P-/#H/H-PB/R5/KR-GS/#F/AE/#-P/KHR-PB/*E");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual(
-        "WUPB/EPL/TKA*RB/TWO/KW-BG/#P-/#H/H-PB/#A/KR-GS/#F/AE/#-P/KHR-PB/*E/*EU/TKPW*/H*/T*/STPH*FPLT/TPH*"
+        "WUPB/EPL/TKA*RB/TWO/KW-BG/#P-/#H/H-PB/#A/KR-GS/#F/AE/#-P/KHR-PB/*E/*EU/TKPW*/H*/T*/STPH*FPLT/TPH*",
       );
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("WUPB/EPL/TKA*RB/TWO/KW-BG/#P-/#H/H-PB/#A/KR-GS/#F/AE/#-P/KHR-PB/AOE/KWR*EU/TKPW*/H*/T*/STPH*FPLT/TPH*");
     });
@@ -139,7 +139,7 @@ describe("create stroke hint for phrase", () => {
     it("with only punctuation dash", () => {
       const wordOrPhraseMaterial = "-";
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("H-PB");
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("H*B");
     });
@@ -147,7 +147,7 @@ describe("create stroke hint for phrase", () => {
     it("with only punctuation at symbol", () => {
       const wordOrPhraseMaterial = "@";
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("SKWRAT");
     });
 
@@ -155,7 +155,7 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = '"It';
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("KW-GS KPA*/T");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("KW-GS/KPA*/T");
     });
 
@@ -172,8 +172,8 @@ describe("create stroke hint for phrase", () => {
               },
               LATEST_TYPEY_TYPE_FULL_DICT_NAME,
             ],
-          ])
-        )
+          ]),
+        ),
       ).toEqual("KW-GS/KPA*/POEURT/SKHRAPL");
     });
 
@@ -192,8 +192,8 @@ describe("create stroke hint for phrase", () => {
               },
               LATEST_TYPEY_TYPE_FULL_DICT_NAME,
             ],
-          ])
-        )
+          ]),
+        ),
       ).toEqual("KW-GS/KPA*/AERBGS");
     });
 
@@ -212,8 +212,8 @@ describe("create stroke hint for phrase", () => {
               },
               LATEST_TYPEY_TYPE_FULL_DICT_NAME,
             ],
-          ])
-        )
+          ]),
+        ),
       ).toEqual("KPA/AERBGS");
     });
 
@@ -222,7 +222,7 @@ describe("create stroke hint for phrase", () => {
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("SKHRAPL TP*/O*/O*");
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("SKHRAPL/TP*/O*/O*");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
         // ).toEqual("SKHRAPL/TP*/KWRO/KWRO");
       ).toEqual("SKHRAPL/TP*/SKWRAO");
     });
@@ -232,7 +232,7 @@ describe("create stroke hint for phrase", () => {
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("TP*/O*/O* SKHRAPL");
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("TP*/O*/O*/SKHRAPL");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
         // ).toEqual("TP*/KWRO/KWRO/SKHRAPL");
       ).toEqual("TP*/SKWRAO/SKHRAPL");
     });
@@ -241,7 +241,7 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = 'houses?" It';
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("HO*UFS H-F KR-GS KPA/T");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("HO*UFS/H-F/KR-GS/KPA/T");
     });
 
@@ -249,7 +249,7 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "houses?";
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("HO*UFS H-F");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("HO*UFS/H-F");
     });
 
@@ -257,7 +257,7 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "be?";
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("-B H-F");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("-B/H-F");
     });
 
@@ -265,35 +265,35 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "be?'";
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("-B H-F AE");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("-B/H-F/AE");
     });
 
     it("with word that is a prefix and a word as a prefix to a word", () => {
       const wordOrPhraseMaterial = "bekettle";
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("PWE/KET/*L");
     });
 
     it("with prefix that is also a word that has trailing hyphen and a word", () => {
       const wordOrPhraseMaterial = "quasi-experimental";
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("KWAS/KWREU/SPAOERL");
     });
 
     it("with prefix that includes a hyphen and a word", () => {
       const wordOrPhraseMaterial = "re-cover";
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("R*E/KOFR");
     });
 
     it("with prefix that includes a hyphen and a gibberish word", () => {
       const wordOrPhraseMaterial = "self-dckx";
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("SEF/TK*/KR*/K*/KP*");
     });
 
@@ -301,7 +301,7 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "quasi-confuzzled";
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("KWAS/KWREU/KR*/O*/TPH*/TP*/*U/STKPW*/STKPW*/HR*/*E/TK*");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
         // ).toEqual("KWAS/KWREU/KAUPB/TP*/*U/STKPW*/STKPW*/HR*/-D");
       ).toEqual("KWAS/KWREU/KAUPB/TP*/*U/STKPW*/STKPW*/*LD");
     });
@@ -309,7 +309,7 @@ describe("create stroke hint for phrase", () => {
     it("with prefix that is not a word that has trailing hyphen and a word", () => {
       const wordOrPhraseMaterial = "gly-oxide";
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("TKPWHRAOEU/KPAOEUD");
     });
 
@@ -317,7 +317,7 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "gly-confuzzled";
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("TKPWHRAOEU/KR*/O*/TPH*/TP*/*U/STKPW*/STKPW*/HR*/*E/TK*");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
         // ).toEqual("TKPWHRAOEU/KAUPB/TP*/*U/STKPW*/STKPW*/HR*/-D");
       ).toEqual("TKPWHRAOEU/KAUPB/TP*/*U/STKPW*/STKPW*/*LD");
     });
@@ -326,14 +326,14 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "computer-ectomy";
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("KPAOUR H-PB EBGT/PHEU");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("KPAOUR/H-PB/EBGT/PHEU");
     });
 
     it("with unhyphenated compound word and suffix", () => {
       const wordOrPhraseMaterial = "computerectomy";
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("KPAOUR/EBGT/PHEU");
     });
 
@@ -341,7 +341,7 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "store-room";
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("STOR H-PB RAOPL");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("STOR/H-PB/RAOPL");
     });
 
@@ -353,14 +353,14 @@ describe("create stroke hint for phrase", () => {
     it("with only a suffix, not showing a suffix outline but instead treating it as a word", () => {
       const wordOrPhraseMaterial = "ectomy";
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("EBGT/SKWRO/PHEU");
     });
 
     it("with mid^ prefix without a hyphen", () => {
       const wordOrPhraseMaterial = "mid^";
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("PHEUD");
     });
 
@@ -369,14 +369,14 @@ describe("create stroke hint for phrase", () => {
         [];
       const midDashPrefixGlobalLookupDictionary = createGlobalLookupDictionary(
         midDashPrefixPersonalDictionaries,
-        [[{ "PHEUD/H-PB": "{mid-^}" }, LATEST_TYPEY_TYPE_FULL_DICT_NAME]]
+        [[{ "PHEUD/H-PB": "{mid-^}" }, LATEST_TYPEY_TYPE_FULL_DICT_NAME]],
       );
       const wordOrPhraseMaterial = "mid-^";
       expect(
         createStrokeHintForPhrase(
           wordOrPhraseMaterial,
-          midDashPrefixGlobalLookupDictionary
-        )
+          midDashPrefixGlobalLookupDictionary,
+        ),
       ).toEqual("PHEUD/H-PB");
     });
 
@@ -384,7 +384,7 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "a hit-and-miss";
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("AEU H-PLS");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("AEU/H-PLS");
     });
 
@@ -392,7 +392,7 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "aaaa-aaaa";
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("A*/A*/A*/A* H-PB A*/A*/A*/A*");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("A*/A*/A*/A*/H-PB/A*/A*/A*/A*");
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("AEU/AEU/A/AEU/H-PB/AEU/AEU/A/AEU");
     });
@@ -400,7 +400,7 @@ describe("create stroke hint for phrase", () => {
     it("with random, hyphenated gibberish", () => {
       const wordOrPhraseMaterial = "dckx-dckx";
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("TK*/KR*/K*/KP*/H-PB/TK*/KR*/K*/KP*");
     });
 
@@ -411,8 +411,8 @@ describe("create stroke hint for phrase", () => {
         expect(
           createStrokeHintForPhrase(
             wordOrPhraseMaterial,
-            globalLookupDictionary
-          )
+            globalLookupDictionary,
+          ),
         ).toEqual("KR*/H-PB/xxx");
       });
     });
@@ -424,8 +424,8 @@ describe("create stroke hint for phrase", () => {
         expect(
           createStrokeHintForPhrase(
             wordOrPhraseMaterial,
-            globalLookupDictionary
-          )
+            globalLookupDictionary,
+          ),
         ).toEqual("xxx/H-PB/xxx");
       });
     });
@@ -435,7 +435,7 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = 'and said: "You';
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("SKP SAEUD STPH-FPLT KW-GS KPA*/U");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("SKP/SAEUD/STPH-FPLT/KW-GS/KPA*/U");
     });
 
@@ -444,7 +444,7 @@ describe("create stroke hint for phrase", () => {
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("P-P KR-GS KPA/OUDZ");
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("TP-PL KR-GS KPA/OUDZ");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("TP-PL/KR-GS/KPA/OUDZ");
     });
 
@@ -453,7 +453,7 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "a hit-and-miss.";
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("AEU H-PLS TP-PL");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("AEU/H-PLS/TP-PL");
     });
 
@@ -461,7 +461,7 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = '"you';
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("KW-GS U");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("KW-GS/U");
     });
 
@@ -470,7 +470,7 @@ describe("create stroke hint for phrase", () => {
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("KAT TP-PL KW-GS KPA/U"); // ideally it would be KAT TP-PL KW-GS U
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("KAT/TP-PL/KW-GS/KPA/U");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("KAT/TP-PL/KW-GS/KPA*/U");
     });
 
@@ -478,7 +478,7 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = 'cat." You';
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("KAT P-P KR-GS KPA/U"); // ideally it would be KAT TP-PL KR-GS U
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("KAT/TP-PL/KR-GS/KPA/U");
     });
 
@@ -486,7 +486,7 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "her.";
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("HER TP-PL");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("HER/TP-PL");
     });
 
@@ -495,7 +495,7 @@ describe("create stroke hint for phrase", () => {
 
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("KPA/TPH KWROUR KR-PGS");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("KPA/TPH/KWROUR/KR-PGS");
     });
 
@@ -504,7 +504,7 @@ describe("create stroke hint for phrase", () => {
 
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("KPA/TPH KWROUR KR-PGS KW-BG U");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("KPA/TPH/KWROUR/KR-PGS/KW-BG/U");
     });
   });
@@ -524,7 +524,7 @@ describe("create stroke hint for phrase", () => {
             },
             LATEST_TYPEY_TYPE_FULL_DICT_NAME,
           ],
-        ])
+        ]),
       );
       expect(result).toEqual("EUPL/PERS/TPHAEUT/-D");
     });
@@ -543,7 +543,7 @@ describe("create stroke hint for phrase", () => {
             },
             LATEST_TYPEY_TYPE_FULL_DICT_NAME,
           ],
-        ])
+        ]),
       );
       expect(result).toEqual("TO/-D"); // "TO*E/-D" produces "toeed" not "toed"
     });
@@ -554,7 +554,7 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "a b c d e f g h i";
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("AEU PW* KR* TK* *E TP* TKPW* H* *EU");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("AEU/PW*/KR*/TK*/*E/TP*/TKPW*/H*/*EU");
     });
 
@@ -562,7 +562,7 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "j k l m n o p q r";
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("SKWR* K* HR* PH* TPH* O* P* KW* R*");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("SKWR*/K*/HR*/PH*/TPH*/O*/P*/KW*/R*");
     });
 
@@ -570,7 +570,7 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "s t u v w x y z";
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("S* T* *U SR* W* KP* KWR* STKPW*");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("S*/T*/*U/SR*/W*/KP*/KWR*/STKPW*");
     });
 
@@ -578,7 +578,7 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "A B C D E F G H I";
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("KPA/AEU PW*P KR*P TK*P *EP TP*P TKPW*P H*P EU");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("KPA/AEU/PW*P/KR*P/TK*P/*EP/TP*P/TKPW*P/H*P/EU");
     });
 
@@ -586,7 +586,7 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "J K L M N O P Q R";
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("SKWR*P K*P HR*P PH*P TPH*P O*P P*P KW*P R*P");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("SKWR*P/K*P/HR*P/PH*P/TPH*P/O*P/P*P/KW*P/R*P");
     });
 
@@ -594,7 +594,7 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "S T U V W X Y Z";
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("S*P T*P *UP 5R W*P 10R KWR*P STKPW*P");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("S*P/T*P/*UP/5R/W*P/10R/KWR*P/STKPW*P");
     });
   });
@@ -606,9 +606,9 @@ describe("create stroke hint for phrase", () => {
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("SKHRAPL/HAERB/TPHRORB/P*ERS/SKP*/KW-BG/TP-PL/KHR-PB/STPH*FPLT/KW-L/H-F/SKWRAT");
       const wordOrPhraseMaterial = "! # $ % & , . : ; = ? @";
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual(
-        "SKHRAPL/HAERB/TPHRORB/P*ERS/SKP*/KW-BG/TP-PL/STPH-FPLT/STPH*FPLT/KW-L/H-F/SKWRAT"
+        "SKHRAPL/HAERB/TPHRORB/P*ERS/SKP*/KW-BG/TP-PL/STPH-FPLT/STPH*FPLT/KW-L/H-F/SKWRAT",
       );
     });
 
@@ -616,9 +616,9 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "* ^ ` | ~ — – - ©";
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("STA*R KR-RT KH-FG PAO*EUP T*LD EPL/TKA*RB EPB/TKA*RB H*B KPR-T");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual(
-        "STA*R/KR-RT/KH-FG/PAO*EUP/T*LD/EPL/TKA*RB/EPB/TKA*RB/H*B/KPR-T"
+        "STA*R/KR-RT/KH-FG/PAO*EUP/T*LD/EPL/TKA*RB/EPB/TKA*RB/H*B/KPR-T",
       );
     });
 
@@ -626,7 +626,7 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "( ) [ ] { }";
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("PREPB PR*EPB PWR-BGT PWR*BGT TPR-BGT TPR*BGT");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("PREPB/PR*EPB/PWR-BGT/PWR*BGT/TPR-BGT/TPR*BGT");
     });
   });
@@ -635,14 +635,14 @@ describe("create stroke hint for phrase", () => {
     it('shows outline for "{^.com}"', () => {
       const wordOrPhraseMaterial = "{^.com}";
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("KROPL");
     });
 
     it.skip('shows fingerspelled outline for non-affixy ".com"', () => {
       const wordOrPhraseMaterial = ".com";
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("TP-PL/KR*/O*/PH*");
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("TP-PL/KAU/PH*");
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("TP-PL/TK-LS/KAU/PH*");
@@ -660,7 +660,7 @@ describe("create stroke hint for phrase", () => {
             },
             LATEST_TYPEY_TYPE_FULL_DICT_NAME,
           ],
-        ]
+        ],
       );
       AFFIXES.setSharedAffixes({
         prefixes: [],
@@ -671,8 +671,8 @@ describe("create stroke hint for phrase", () => {
         createStrokeHintForPhrase(
           wordOrPhraseMaterial,
           customGlobalLookupDictionary,
-          AFFIXES.getSharedAffixes()
-        )
+          AFFIXES.getSharedAffixes(),
+        ),
       ).toEqual("TK*/*EU/TK*/O*/*E/S*/TK*/*EU/TKPW*/*EU/T*/A*/HR*/KROPL");
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("TK*/*EU/TK*/O*/*E/S*/TK*/*EU/TKPW*/*EU/T*/A*/HR* KROPL");
     });
@@ -683,7 +683,7 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "Mass.";
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("KPA/PHAS TP-PL");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("KPA/PHAS/TP-PL");
     });
   });
@@ -692,7 +692,7 @@ describe("create stroke hint for phrase", () => {
     it('shows outline for "Dr."', () => {
       const wordOrPhraseMaterial = "Dr.";
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("TKR-FPLT");
     });
 
@@ -701,14 +701,14 @@ describe("create stroke hint for phrase", () => {
       // Note: It would be amazing if it didn't choose KPA/ here but that seems really hard
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("TKR-FPLT KPA/KHAPBT");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("TKR-FPLT/KPA/KHAPBT");
     });
 
     it('shows outline for "Mx."', () => {
       const wordOrPhraseMaterial = "Mx.";
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("PH-BGS");
     });
 
@@ -716,14 +716,14 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "Mx. Eldridge";
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("PH-BGS EL/TKREUPBLG");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("PH-BGS/EL/TKREUPBLG");
     });
 
     it('shows outline for "Mr. and Mrs."', () => {
       const wordOrPhraseMaterial = "Mr. and Mrs.";
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("PHRARPLS");
     });
 
@@ -731,7 +731,7 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "Mr. and Mrs. Long";
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("PHRARPLS KPA/HROPBG");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("PHRARPLS/KPA/HROPBG");
     });
   });
@@ -743,7 +743,7 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "-0-1-2-3-4-5";
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("H*B #O H-PB #S H-PB #T- H-PB #P- H-PB #H H-PB #A");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("H*B/#O/H-PB/#S/H-PB/#T-/H-PB/#P-/H-PB/#H/H-PB/#A");
     });
 
@@ -753,7 +753,7 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "-5-6-7-8-9-10";
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("H*B #A H-PB #F H-PB #-P H-PB #L H-PB #-T H-PB 1/0");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("H*B/#A/H-PB/#F/H-PB/#-P/H-PB/#L/H-PB/#-T/H-PB/1/0");
     });
 
@@ -763,7 +763,7 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "0 0 1 2 3 4 5 6 7 8 9 10";
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("#O 0EU #S #T #P #H R5 #F #-P #L #-T 1/0");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("0EU/0EU/#S/#T/#P/#H/R5/#F/#-P/#L/#-T/1/0");
     });
 
@@ -773,7 +773,7 @@ describe("create stroke hint for phrase", () => {
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("1/0/0 9/0/0 1/0/0/0 1 KW-BG 0/0/0 1/0/0/0/0 1/0 KW-BG 0/0/0");
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("1-Z -9Z 1/THOUZ TPHOUZ 1-Z/HUPB/HUPB #SO/W-B/THUZ");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
         // ).toEqual("1-Z/-9Z/1/THOUZ/TPHOUZ/1-Z/HUPB/HUPB/#SO/W-B/THUZ");
       ).toEqual("1-Z/-9Z/1/THOUZ/TPHOUZ/1/0/THO*EUPB/#SO/W-B/THUZ");
     });
@@ -783,7 +783,7 @@ describe("create stroke hint for phrase", () => {
       // FIXME: should probably show #T-D or 2-D and #P-D
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("2-D 3-D");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("2-D/3-D");
     });
 
@@ -793,7 +793,7 @@ describe("create stroke hint for phrase", () => {
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("1-DZ TK-PL -9Z");
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("1-DZ TPHRORB -9Z");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("1-DZ/TPHRORB/-9Z");
     });
 
@@ -803,7 +803,7 @@ describe("create stroke hint for phrase", () => {
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("1 KHR-PB 0/0 9 KHR-PB 0/0 1/0 KHR-PB 0/0 1/9 KHR-PB 0/0 2/0 KHR-PB 0/0");
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("1-BG K-9 1/0 KHR-PB #-Z 1-9 KHR-PB #-Z 2/0 KHR-PB #-Z");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("1-BG/K-9/1/0/KHR-PB/#-Z/1-9/KHR-PB/#-Z/2/0/KHR-PB/#-Z");
     });
   });
@@ -812,35 +812,35 @@ describe("create stroke hint for phrase", () => {
     it("showing good stroke hint for known word and suffix with one hyphen", () => {
       const wordOrPhraseMaterial = "kettle-acre";
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("KET/*L/A*EURBG");
     });
 
     it("showing good stroke hint for known word and suffix with two hyphens", () => {
       const wordOrPhraseMaterial = "kettle-in-law";
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("KET/*L/*EUPB/HRAU");
     });
 
     it("showing good stroke hint for known word and prefix with one hyphen", () => {
       const wordOrPhraseMaterial = "ani-kettle";
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("AEUPB/SKWREU/KET/*L");
     });
 
     it("showing good stroke hint for known word and prefix with two hyphens", () => {
       const wordOrPhraseMaterial = "over-the-kettle";
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("AUFR/-T/KET/*L");
     });
 
     it("showing good stroke hint for known word and suffix containing a colon and numbers", () => {
       const wordOrPhraseMaterial = "kettle:10";
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
         // ).toEqual("KET/*L/10*BG");
       ).toEqual("KET/*L/10BG");
     });
@@ -848,35 +848,35 @@ describe("create stroke hint for phrase", () => {
     it.skip("showing good stroke hint for gibberish word and suffix with one hyphen", () => {
       const wordOrPhraseMaterial = "dckx-acre";
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("TK*/KR*/K*/KP*/A*EURBG");
     });
 
     it.skip("showing good stroke hint for gibberish word and suffix with two hyphens", () => {
       const wordOrPhraseMaterial = "dckx-in-law";
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("TK*/KR*/K*/KP*/*EUPB/HRAU");
     });
 
     it.skip("showing good stroke hint for gibberish word and prefix with one hyphen", () => {
       const wordOrPhraseMaterial = "ani-dckx";
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("AEUPB/SKWREU/TK*/KR*/K*/KP*");
     });
 
     it.skip("showing good stroke hint for gibberish word and prefix with two hyphens", () => {
       const wordOrPhraseMaterial = "over-the-dckx";
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("AUFR/-T/TK*/KR*/K*/KP*");
     });
 
     it.skip("showing good stroke hint for gibberish word and suffix containing a colon and numbers", () => {
       const wordOrPhraseMaterial = "dckx:10";
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("TK*/KR*/K*/KP*/10*BG");
     });
 
@@ -884,7 +884,7 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "#steno";
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("HAERB STOEUPB");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("HAERB/STOEUPB");
     });
 
@@ -892,7 +892,7 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "#Steno";
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("HAERB KPA*/STOEUPB");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("HAERB/KPA*/STOEUPB");
     });
 
@@ -900,7 +900,7 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "#StenoLife";
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("HAERB KPA*/STOEUPB KPA*/HRAOEUF");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("HAERB/KPA*/STOEUPB/KPA*/HRAOEUF");
     });
 
@@ -908,7 +908,7 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "This is #StenoLife";
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("KPA*/TH S HAERB KPA*/STOEUPB KPA*/HRAOEUF");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("KPA*/TH/S/HAERB/KPA*/STOEUPB/KPA*/HRAOEUF");
     });
 
@@ -927,22 +927,22 @@ describe("create stroke hint for phrase", () => {
             },
             LATEST_TYPEY_TYPE_FULL_DICT_NAME,
           ],
-        ]
+        ],
       );
       const wordOrPhraseMaterial = "mouse-hunter,";
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("PHOUS H-PB HUPB/TER KW-BG");
       expect(
         createStrokeHintForPhrase(
           wordOrPhraseMaterial,
-          mouseHunterGlobalLookupDictionary
-        )
+          mouseHunterGlobalLookupDictionary,
+        ),
       ).toEqual("PHOUS/H-PB/HUPB/TER/KW-BG");
     });
 
     it("showing good stroke hint for capitalised, hyphenated compound word with trailing punctuation", () => {
       const wordOrPhraseMaterial = "He-he!";
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("KPA/HE/H-PB/HE/SKHRAPL");
     });
 
@@ -964,8 +964,8 @@ describe("create stroke hint for phrase", () => {
       expect(
         createStrokeHintForPhrase(
           wordOrPhraseMaterial,
-          toHyphenDayCommaGlobalLookupDictionary
-        )
+          toHyphenDayCommaGlobalLookupDictionary,
+        ),
       ).toEqual("TO/H-PB/TPHAOEUT/KW-BG");
     });
 
@@ -988,8 +988,8 @@ describe("create stroke hint for phrase", () => {
       expect(
         createStrokeHintForPhrase(
           wordOrPhraseMaterial,
-          toHyphenDayCommaGlobalLookupDictionary
-        )
+          toHyphenDayCommaGlobalLookupDictionary,
+        ),
       ).toEqual("TO/TKA*EU/KW-BG");
     });
   });
@@ -998,14 +998,14 @@ describe("create stroke hint for phrase", () => {
     it.skip("showing good stroke hint for known word with added capital letter and punctuation", () => {
       const wordOrPhraseMaterial = "Stay tuned,";
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("KPA/STAOUPBD/KW-BG");
     });
 
     it.skip("showing good stroke hint for known word with added capital letter, punctuation, and internal apostrophe", () => {
       const wordOrPhraseMaterial = "\"They're";
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("KW-GS/KPA*/THER");
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("KW-GS/KPA*/THE/AE/RE");
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("KW-GS/KPA*/THE/AE/R*/*E");
@@ -1016,7 +1016,7 @@ describe("create stroke hint for phrase", () => {
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("KW-GS/KPA*/T/AE/S*");
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("KW-GS/KPA*/T/AES");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("KW-GS/KPA*/T-S");
     });
 
@@ -1038,7 +1038,7 @@ describe("create stroke hint for phrase", () => {
               },
               LATEST_TYPEY_TYPE_FULL_DICT_NAME,
             ],
-          ])
+          ]),
         );
         expect(result).toEqual("A*E/KPA*/THA");
       });
@@ -1060,7 +1060,7 @@ describe("create stroke hint for phrase", () => {
               },
               LATEST_TYPEY_TYPE_FULL_DICT_NAME,
             ],
-          ])
+          ]),
         );
         expect(result).toEqual("A*E/KPA*/THA");
       });
@@ -1077,14 +1077,14 @@ describe("create stroke hint for phrase", () => {
       ];
       const phrasingBriefGlobalLookupDictionary = createGlobalLookupDictionary(
         emptyPersonalDictionaries,
-        [[{}, LATEST_TYPEY_TYPE_FULL_DICT_NAME]]
+        [[{}, LATEST_TYPEY_TYPE_FULL_DICT_NAME]],
       );
       const wordOrPhraseMaterial = "it can't";
       expect(
         createStrokeHintForPhrase(
           wordOrPhraseMaterial,
-          phrasingBriefGlobalLookupDictionary
-        )
+          phrasingBriefGlobalLookupDictionary,
+        ),
       ).toEqual("KPWHO");
     });
   });
@@ -1110,8 +1110,8 @@ describe("create stroke hint for phrase", () => {
               },
               LATEST_TYPEY_TYPE_FULL_DICT_NAME,
             ],
-          ])
-        )
+          ]),
+        ),
       ).toEqual("T*D");
     });
   });
@@ -1122,7 +1122,7 @@ describe("create stroke hint for phrase", () => {
       const wordOrPhraseMaterial = "why it's";
       // expect(createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)).toEqual("KWR T-S");
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("KWR/T-S");
     });
   });
@@ -1131,7 +1131,7 @@ describe("create stroke hint for phrase", () => {
     it("returns HOR/TKEFRBZ for hors d'oeuvres", () => {
       const wordOrPhraseMaterial = "hors d'oeuvres";
       expect(
-        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary)
+        createStrokeHintForPhrase(wordOrPhraseMaterial, globalLookupDictionary),
       ).toEqual("HOR/TKEFRBZ");
     });
   });
@@ -1159,7 +1159,7 @@ describe("create stroke hint for phrase", () => {
             LATEST_TYPEY_TYPE_FULL_DICT_NAME,
           ],
         ]),
-        AFFIXES.getSharedAffixes()
+        AFFIXES.getSharedAffixes(),
       );
       expect(result).toEqual("WEUS");
     });
@@ -1180,7 +1180,7 @@ describe("create stroke hint for phrase", () => {
             LATEST_TYPEY_TYPE_FULL_DICT_NAME,
           ],
         ]),
-        AFFIXES.getSharedAffixes()
+        AFFIXES.getSharedAffixes(),
       );
       expect(result).toEqual("WR-PT");
     });
@@ -1199,14 +1199,14 @@ describe("create stroke hint for phrase", () => {
             },
             LATEST_TYPEY_TYPE_FULL_DICT_NAME,
           ],
-        ]
+        ],
       );
       const wordOrPhraseMaterial = "that,";
       expect(
         createStrokeHintForPhrase(
           wordOrPhraseMaterial,
-          thatCommaGlobalLookupDictionary
-        )
+          thatCommaGlobalLookupDictionary,
+        ),
       ).toEqual("THARBGS");
     });
   });
@@ -1227,14 +1227,14 @@ describe("create stroke hint for phrase", () => {
             },
             LATEST_TYPEY_TYPE_FULL_DICT_NAME,
           ],
-        ]
+        ],
       );
       const wordOrPhraseMaterial = "back.";
       expect(
         createStrokeHintForPhrase(
           wordOrPhraseMaterial,
-          backAffixGlobalLookupDictionary
-        )
+          backAffixGlobalLookupDictionary,
+        ),
       ).toEqual("PWABG/TP-PL");
     });
   });
@@ -1254,14 +1254,14 @@ describe("create stroke hint for phrase", () => {
             },
             LATEST_TYPEY_TYPE_FULL_DICT_NAME,
           ],
-        ]
+        ],
       );
       const wordOrPhraseMaterial = "well-loved";
       expect(
         createStrokeHintForPhrase(
           wordOrPhraseMaterial,
-          wellLovedGlobalLookupDictionary
-        )
+          wellLovedGlobalLookupDictionary,
+        ),
       ).toEqual("W*EL/HROFD");
     });
   });
@@ -1281,14 +1281,14 @@ describe("create stroke hint for phrase", () => {
             },
             LATEST_TYPEY_TYPE_FULL_DICT_NAME,
           ],
-        ]
+        ],
       );
       const wordOrPhraseMaterial = "sh";
       expect(
         createStrokeHintForPhrase(
           wordOrPhraseMaterial,
-          shGlobalLookupDictionary
-        )
+          shGlobalLookupDictionary,
+        ),
       ).toEqual("S*/H*");
     });
   });
@@ -1306,14 +1306,14 @@ describe("create stroke hint for phrase", () => {
             },
             LATEST_TYPEY_TYPE_FULL_DICT_NAME,
           ],
-        ]
+        ],
       );
       const wordOrPhraseMaterial = "enquiries";
       expect(
         createStrokeHintForPhrase(
           wordOrPhraseMaterial,
-          enquiriesGlobalLookupDictionary
-        )
+          enquiriesGlobalLookupDictionary,
+        ),
       ).toEqual("EPB/KWAOEUR/KWREU/KWREUS");
     });
   });
@@ -1332,14 +1332,14 @@ describe("create stroke hint for phrase", () => {
             },
             LATEST_TYPEY_TYPE_FULL_DICT_NAME,
           ],
-        ]
+        ],
       );
       const wordOrPhraseMaterial = "expostulated.";
       expect(
         createStrokeHintForPhrase(
           wordOrPhraseMaterial,
-          expostulatedGlobalLookupDictionary
-        )
+          expostulatedGlobalLookupDictionary,
+        ),
       ).toEqual("EBGS/POFT/HRAEUT/-D/TP-PL");
     });
   });
@@ -1364,12 +1364,12 @@ describe("create stroke hint for phrase", () => {
             },
             LATEST_TYPEY_TYPE_FULL_DICT_NAME,
           ],
-        ]
+        ],
       );
       const wordOrPhraseMaterial = "New Year's";
       const result = createStrokeHintForPhrase(
         wordOrPhraseMaterial,
-        knockdGlobalLookupDictionary
+        knockdGlobalLookupDictionary,
       );
       expect(result).toEqual("TPHAO*URS");
     });
@@ -1395,12 +1395,12 @@ describe("create stroke hint for phrase", () => {
             },
             LATEST_TYPEY_TYPE_FULL_DICT_NAME,
           ],
-        ]
+        ],
       );
       const wordOrPhraseMaterial = "so how's";
       const result = createStrokeHintForPhrase(
         wordOrPhraseMaterial,
-        knockdGlobalLookupDictionary
+        knockdGlobalLookupDictionary,
       );
       expect(result).toEqual("SHO*US");
     });
@@ -1422,12 +1422,12 @@ describe("create stroke hint for phrase", () => {
             },
             LATEST_TYPEY_TYPE_FULL_DICT_NAME,
           ],
-        ]
+        ],
       );
       const wordOrPhraseMaterial = "knock'd";
       const result = createStrokeHintForPhrase(
         wordOrPhraseMaterial,
-        knockdGlobalLookupDictionary
+        knockdGlobalLookupDictionary,
       );
       expect(result).toEqual("TPHOBG/*D");
     });
@@ -1451,12 +1451,12 @@ describe("create stroke hint for phrase", () => {
             },
             LATEST_TYPEY_TYPE_FULL_DICT_NAME,
           ],
-        ]
+        ],
       );
       const wordOrPhraseMaterial = "frolick'd";
       const result = createStrokeHintForPhrase(
         wordOrPhraseMaterial,
-        frolickdGlobalLookupDictionary
+        frolickdGlobalLookupDictionary,
       );
       expect(result).toEqual("TPROL/EUBG/*BG/*D");
     });
@@ -1479,12 +1479,12 @@ describe("create stroke hint for phrase", () => {
             },
             LATEST_TYPEY_TYPE_FULL_DICT_NAME,
           ],
-        ]
+        ],
       );
       const wordOrPhraseMaterial = "Heaven's";
       const result = createStrokeHintForPhrase(
         wordOrPhraseMaterial,
-        heavensGlobalLookupDictionary
+        heavensGlobalLookupDictionary,
       );
       // debugger;
       expect(result).toEqual("KPA/HEFPB/AES");
@@ -1511,7 +1511,7 @@ describe("create stroke hint for phrase", () => {
             },
             LATEST_TYPEY_TYPE_FULL_DICT_NAME,
           ],
-        ])
+        ]),
       );
       expect(result).toEqual("KO*EUPBG/AES");
     });
@@ -1537,7 +1537,7 @@ describe("create stroke hint for phrase", () => {
             },
             LATEST_TYPEY_TYPE_FULL_DICT_NAME,
           ],
-        ])
+        ]),
       );
       expect(result).toEqual("S/EPL/TKA*RB/EPL/TKA*RB/W-RS");
     });
@@ -1560,7 +1560,7 @@ describe("create stroke hint for phrase", () => {
             },
             LATEST_TYPEY_TYPE_FULL_DICT_NAME,
           ],
-        ])
+        ]),
       );
       expect(result).toEqual("KAOELG/EPL/TKA*RB/WHA/H-F");
     });
@@ -1586,7 +1586,7 @@ describe("create stroke hint for phrase", () => {
             },
             LATEST_TYPEY_TYPE_FULL_DICT_NAME,
           ],
-        ])
+        ]),
       );
       expect(result).toEqual("SAEU/EPL/TKA*RB/THATS");
     });
@@ -1609,7 +1609,7 @@ describe("create stroke hint for phrase", () => {
             },
             LATEST_TYPEY_TYPE_FULL_DICT_NAME,
           ],
-        ])
+        ]),
       );
       expect(result).toEqual("AOEPBG/EPL/TKA*RB/WOPBT");
     });
@@ -1630,7 +1630,7 @@ describe("create stroke hint for phrase", () => {
             },
             LATEST_TYPEY_TYPE_FULL_DICT_NAME,
           ],
-        ])
+        ]),
       );
       expect(result).toEqual("SED/STPH-FPLT");
     });
@@ -1649,7 +1649,7 @@ describe("create stroke hint for phrase", () => {
             },
             LATEST_TYPEY_TYPE_FULL_DICT_NAME,
           ],
-        ])
+        ]),
       );
       // expect(result).toEqual("A*/TK*/STKPW*/*E");
       // expect(result).toEqual("A/TK*/STKPW*/*E");
@@ -1671,7 +1671,7 @@ describe("create stroke hint for phrase", () => {
             },
             LATEST_TYPEY_TYPE_FULL_DICT_NAME,
           ],
-        ])
+        ]),
       );
       // expect(result).toEqual("*URP/A*RB/*T/*EU/O*/P*/*EU/A*/TPH*");
       // expect(result).toEqual("*URP/A*RB/*T/SKWREU/KWRO/*P/SKWREU/KWRA/*PB");
@@ -1698,20 +1698,20 @@ describe("create stroke hint for phrase", () => {
             },
             LATEST_TYPEY_TYPE_FULL_DICT_NAME,
           ],
-        ]
+        ],
       );
 
       const customAffixMisstrokes =
         getAffixMisstrokesFromMisstrokes(misstrokes);
       const customTestAffixes = getAffixesFromLookupDict(
         customGlobalLookupDictionary,
-        customAffixMisstrokes
+        customAffixMisstrokes,
       );
       AFFIXES.setSharedAffixes(customTestAffixes);
 
       const result = createStrokeHintForPhrase(
         wordOrPhraseMaterial,
-        customGlobalLookupDictionary
+        customGlobalLookupDictionary,
       );
 
       expect(result).toEqual("PH-BG/KEPB/*PB/SKWRA");
@@ -1732,7 +1732,7 @@ describe("create stroke hint for phrase", () => {
             },
             LATEST_TYPEY_TYPE_FULL_DICT_NAME,
           ],
-        ])
+        ]),
       );
       expect(result).toEqual("S-P/SKP");
     });
@@ -1750,7 +1750,7 @@ describe("create stroke hint for phrase", () => {
             },
             LATEST_TYPEY_TYPE_FULL_DICT_NAME,
           ],
-        ])
+        ]),
       );
       expect(result).toEqual("SKP/S-P");
     });
@@ -1768,7 +1768,7 @@ describe("create stroke hint for phrase", () => {
             },
             LATEST_TYPEY_TYPE_FULL_DICT_NAME,
           ],
-        ])
+        ]),
       );
       expect(result).toEqual("S-P/SKP/S-P");
     });
@@ -1790,7 +1790,7 @@ describe("create stroke hint for phrase", () => {
               LATEST_TYPEY_TYPE_FULL_DICT_NAME,
             ],
           ]),
-          AFFIXES.getSharedAffixes()
+          AFFIXES.getSharedAffixes(),
         );
         expect(result).toEqual("-T");
       });
@@ -1812,7 +1812,7 @@ describe("create stroke hint for phrase", () => {
               LATEST_TYPEY_TYPE_FULL_DICT_NAME,
             ],
           ]),
-          AFFIXES.getSharedAffixes()
+          AFFIXES.getSharedAffixes(),
         );
         expect(result).toEqual("KPA/-T");
       });
@@ -1835,7 +1835,7 @@ describe("create stroke hint for phrase", () => {
               LATEST_TYPEY_TYPE_FULL_DICT_NAME,
             ],
           ]),
-          AFFIXES.getSharedAffixes()
+          AFFIXES.getSharedAffixes(),
         );
         expect(result).toEqual("PWE/KET/*L");
       });
@@ -1859,7 +1859,7 @@ describe("create stroke hint for phrase", () => {
               LATEST_TYPEY_TYPE_FULL_DICT_NAME,
             ],
           ]),
-          AFFIXES.getSharedAffixes()
+          AFFIXES.getSharedAffixes(),
         );
         expect(result).toEqual("SAOUT/O*RS");
       });
@@ -1886,7 +1886,7 @@ describe("create stroke hint for phrase", () => {
               LATEST_TYPEY_TYPE_FULL_DICT_NAME,
             ],
           ]),
-          AFFIXES.getSharedAffixes()
+          AFFIXES.getSharedAffixes(),
         );
         expect(result).toEqual("KWAS/KWREU/KAUPB/TP*/*U/STKPW*/STKPW*/*LD");
       });
@@ -1916,7 +1916,7 @@ describe("create stroke hint for phrase", () => {
               LATEST_TYPEY_TYPE_FULL_DICT_NAME,
             ],
           ]),
-          AFFIXES.getSharedAffixes()
+          AFFIXES.getSharedAffixes(),
         );
         expect(result).toEqual("S/EPL/TKA*RB/EPL/TKA*RB/W-RS");
       });
@@ -1944,7 +1944,7 @@ describe("create stroke hint for phrase", () => {
               LATEST_TYPEY_TYPE_FULL_DICT_NAME,
             ],
           ]),
-          AFFIXES.getSharedAffixes()
+          AFFIXES.getSharedAffixes(),
         );
         expect(result).toEqual("POED/TREUFT/AES");
       });
@@ -1971,7 +1971,7 @@ describe("create stroke hint for phrase", () => {
               LATEST_TYPEY_TYPE_FULL_DICT_NAME,
             ],
           ]),
-          AFFIXES.getSharedAffixes()
+          AFFIXES.getSharedAffixes(),
         );
         expect(result).toEqual("POED/TREUFT/AES/OP/TOPL/TREUFT/AES");
       });
@@ -1999,7 +1999,7 @@ describe("create stroke hint for phrase", () => {
               LATEST_TYPEY_TYPE_FULL_DICT_NAME,
             ],
           ]),
-          AFFIXES.getSharedAffixes()
+          AFFIXES.getSharedAffixes(),
         );
         expect(result).toEqual("SOFR/KW-BG/SO/TKPWAOD");
       });
@@ -2027,7 +2027,7 @@ describe("create stroke hint for phrase", () => {
               LATEST_TYPEY_TYPE_FULL_DICT_NAME,
             ],
           ]),
-          AFFIXES.getSharedAffixes()
+          AFFIXES.getSharedAffixes(),
         );
         expect(result).toEqual("WHAPL/KW-BG/PWAPL/KW-BG/THAUG/KW-BG/PHAPL");
         // expect(result).toEqual("WHAPL/KW-BG/PWAPL/KW-BG/THAPBG/U/KW-BG/PHAPL");
@@ -2056,7 +2056,7 @@ describe("create stroke hint for phrase", () => {
               LATEST_TYPEY_TYPE_FULL_DICT_NAME,
             ],
           ]),
-          AFFIXES.getSharedAffixes()
+          AFFIXES.getSharedAffixes(),
         );
         expect(result).toEqual("AEU/HR-PS");
       });
@@ -2075,7 +2075,7 @@ describe("create stroke hint for phrase", () => {
               LATEST_TYPEY_TYPE_FULL_DICT_NAME,
             ],
           ]),
-          AFFIXES.getSharedAffixes()
+          AFFIXES.getSharedAffixes(),
         );
         expect(result).toEqual("AEU/xxx");
       });
@@ -2096,7 +2096,7 @@ describe("create stroke hint for phrase", () => {
               LATEST_TYPEY_TYPE_FULL_DICT_NAME,
             ],
           ]),
-          AFFIXES.getSharedAffixes()
+          AFFIXES.getSharedAffixes(),
         );
         expect(result).toEqual("AEU/TP-PL/TP-PL/TP-PL");
       });
@@ -2117,7 +2117,7 @@ describe("create stroke hint for phrase", () => {
             LATEST_TYPEY_TYPE_FULL_DICT_NAME,
           ],
         ]),
-        AFFIXES.getSharedAffixes()
+        AFFIXES.getSharedAffixes(),
       );
       expect(result).toEqual("HAS/OEPB/PROT");
     });
@@ -2135,7 +2135,7 @@ describe("create stroke hint for phrase", () => {
             LATEST_TYPEY_TYPE_FULL_DICT_NAME,
           ],
         ]),
-        AFFIXES.getSharedAffixes()
+        AFFIXES.getSharedAffixes(),
       );
       expect(result).toEqual("S/KPA*/PRO/TOE/TAOEUP/KPA*/-F");
     });
@@ -2153,7 +2153,7 @@ describe("create stroke hint for phrase", () => {
             LATEST_TYPEY_TYPE_FULL_DICT_NAME,
           ],
         ]),
-        AFFIXES.getSharedAffixes()
+        AFFIXES.getSharedAffixes(),
       );
       expect(result).toEqual("SRAOUL/KPA*/-F");
     });
@@ -2171,7 +2171,7 @@ describe("create stroke hint for phrase", () => {
             LATEST_TYPEY_TYPE_FULL_DICT_NAME,
           ],
         ]),
-        AFFIXES.getSharedAffixes()
+        AFFIXES.getSharedAffixes(),
       );
       expect(result).toEqual("TO/STR*EUPBG");
     });
@@ -2194,7 +2194,7 @@ describe("create stroke hint for phrase", () => {
               LATEST_TYPEY_TYPE_FULL_DICT_NAME,
             ],
           ]),
-          AFFIXES.getSharedAffixes()
+          AFFIXES.getSharedAffixes(),
         );
         // expect(result).toEqual("20/OEU/20");
         // expect(result).toEqual("#TO/OEU/#TO");
@@ -2218,7 +2218,7 @@ describe("create stroke hint for phrase", () => {
               LATEST_TYPEY_TYPE_FULL_DICT_NAME,
             ],
           ]),
-          AFFIXES.getSharedAffixes()
+          AFFIXES.getSharedAffixes(),
         );
         expect(result).toEqual("20/OEU/20/TP-PL");
       });
@@ -2241,7 +2241,7 @@ describe("create stroke hint for phrase", () => {
             LATEST_TYPEY_TYPE_FULL_DICT_NAME,
           ],
         ]),
-        AFFIXES.getSharedAffixes()
+        AFFIXES.getSharedAffixes(),
       );
       expect(result).toEqual("S-P/TPRO*E");
     });
@@ -2263,7 +2263,7 @@ describe("create stroke hint for phrase", () => {
             LATEST_TYPEY_TYPE_FULL_DICT_NAME,
           ],
         ]),
-        AFFIXES.getSharedAffixes()
+        AFFIXES.getSharedAffixes(),
       );
       // expect(result).toEqual("PHAERPBLG H-PB PORGS");
       expect(result).toEqual("PHAERPBLG/H-PB/PORGS");
@@ -2284,7 +2284,7 @@ describe("create stroke hint for phrase", () => {
             LATEST_TYPEY_TYPE_FULL_DICT_NAME,
           ],
         ]),
-        AFFIXES.getSharedAffixes()
+        AFFIXES.getSharedAffixes(),
       );
       expect(result).toEqual("SEF/KROL");
     });
@@ -2303,7 +2303,7 @@ describe("create stroke hint for phrase", () => {
             LATEST_TYPEY_TYPE_FULL_DICT_NAME,
           ],
         ]),
-        AFFIXES.getSharedAffixes()
+        AFFIXES.getSharedAffixes(),
       );
       // expect(result).toEqual("SEF/TPH*/O*/T*/A*/R*/*E/A*/HR*/W*/O*/R*/TK*");
       // expect(result).toEqual("SEF/TPH*/O*/T*/A*/R*/*E/A*/HR*/W*/KWRO/R*D");
@@ -2325,7 +2325,7 @@ describe("create stroke hint for phrase", () => {
             LATEST_TYPEY_TYPE_FULL_DICT_NAME,
           ],
         ]),
-        AFFIXES.getSharedAffixes()
+        AFFIXES.getSharedAffixes(),
       );
       expect(result).toEqual("KW-GS/KPA*/HRA*ED/H-PB/PWEURD/KW-BG");
     });

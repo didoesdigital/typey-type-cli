@@ -13,8 +13,8 @@ describe("preferPhrasingBriefStarters", () => {
         outlineA,
         outlineB,
         outlineALengthWithAllPenalties,
-        outlineBLengthWithAllPenalties
-      )
+        outlineBLengthWithAllPenalties,
+      ),
     ).toEqual([4, 6]);
   });
 
@@ -30,8 +30,8 @@ describe("preferPhrasingBriefStarters", () => {
         outlineA,
         outlineB,
         outlineALengthWithAllPenalties,
-        outlineBLengthWithAllPenalties
-      )
+        outlineBLengthWithAllPenalties,
+      ),
     ).toEqual([9, 12]);
   });
 
@@ -47,8 +47,8 @@ describe("preferPhrasingBriefStarters", () => {
         outlineA,
         outlineB,
         outlineALengthWithAllPenalties,
-        outlineBLengthWithAllPenalties
-      )
+        outlineBLengthWithAllPenalties,
+      ),
     ).toEqual([7, 6]);
   });
 });

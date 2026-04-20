@@ -15,7 +15,7 @@ function rankOutlines(
   arrayOfStrokesAndTheirSourceDictNames: StrokeAndDictionaryAndNamespace[],
   misstrokesJSON: StenoDictionary,
   translation: string,
-  affixes: AffixObject = { suffixes: [], prefixes: [] }
+  affixes: AffixObject = { suffixes: [], prefixes: [] },
 ) {
   misstrokesJSON = misstrokesJSON || {};
   arrayOfStrokesAndTheirSourceDictNames.sort((a, b) => {
@@ -60,12 +60,12 @@ function rankOutlines(
     outlineALengthWithAllPenalties += penaliseSlashesWithoutPrefixesOrSuffixes(
       outlineA,
       translation,
-      affixes
+      affixes,
     );
     outlineBLengthWithAllPenalties += penaliseSlashesWithoutPrefixesOrSuffixes(
       outlineB,
       translation,
-      affixes
+      affixes,
     );
 
     // In the future, we'll add this to prioritise phrasing brief starters
@@ -82,12 +82,12 @@ function rankOutlines(
       outlineALengthWithAllPenalties += penaliseStretchKeys(
         outlineA,
         outlineB,
-        translation
+        translation,
       );
       outlineBLengthWithAllPenalties += penaliseStretchKeys(
         outlineB,
         outlineA,
-        translation
+        translation,
       );
     }
 

@@ -33,7 +33,7 @@ const run = async () => {
   } catch (error) {
     console.error(
       `Unable to copy recommendations course: ${lessonRecommendationsSource}.`,
-      error
+      error,
     );
   }
 
@@ -44,12 +44,12 @@ const run = async () => {
     // });
     await fs.copyFile(
       flashcardsRecommendationsSource,
-      flashcardsRecommendationsTarget
+      flashcardsRecommendationsTarget,
     );
   } catch (error) {
     console.error(
       `Unable to copy recommendations course: ${flashcardsRecommendationsSource}.`,
-      error
+      error,
     );
   }
 

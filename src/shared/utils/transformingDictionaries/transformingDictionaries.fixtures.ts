@@ -2403,13 +2403,13 @@ const testTypeyTypeFull = { ...testTypeyTypeDict, ...testTypeyTypeExtras };
 
 const testGlobalLookupDictionary = createGlobalLookupDictionary(
   personalDictionaries,
-  [[testTypeyTypeFull, LATEST_TYPEY_TYPE_FULL_DICT_NAME]]
+  [[testTypeyTypeFull, LATEST_TYPEY_TYPE_FULL_DICT_NAME]],
 );
 const misstrokes = misstrokesJSON as StenoDictionary;
 const affixMisstrokes = getAffixMisstrokesFromMisstrokes(misstrokes);
 const testAffixes = getAffixesFromLookupDict(
   testGlobalLookupDictionary,
-  affixMisstrokes
+  affixMisstrokes,
 );
 
 export {

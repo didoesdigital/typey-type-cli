@@ -11,12 +11,12 @@ import type {
 const makeStandardFundamentalLessonMaterial = (
   vocabLookupDict: LookupDictWithNamespacedDicts,
   rules: Rules,
-  exclusions: Translation[]
+  exclusions: Translation[],
 ) => {
   const entries = generateLessonEntriesFromRules(
     vocabLookupDict,
     rules,
-    exclusions
+    exclusions,
   );
   const transformedEntries = entries;
 

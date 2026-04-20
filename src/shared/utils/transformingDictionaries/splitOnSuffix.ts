@@ -5,7 +5,7 @@ import type { AffixItem } from "../../types";
 
 const getMatchingSuffix = (
   wordOrPhraseMaterial: string,
-  suffixes: AffixItem[]
+  suffixes: AffixItem[],
 ) => {
   let i = 0;
   let suffixFound = false;
@@ -29,11 +29,11 @@ const splitOnSuffix: SplitterFunction = (
   globalLookupDictionary,
   affixList,
   depth,
-  _precedingChar
+  _precedingChar,
 ) => {
   const suffixEntry = getMatchingSuffix(
     wordOrPhraseMaterial,
-    affixList.suffixes
+    affixList.suffixes,
   );
   if (suffixEntry === null) {
     return null;
@@ -61,7 +61,7 @@ const splitOnSuffix: SplitterFunction = (
         globalLookupDictionary,
         affixList,
         depth,
-        i === 0 ? "" : suffixAndRest[i - 1].slice(-1) // TODO: Probably breaks emoji
+        i === 0 ? "" : suffixAndRest[i - 1].slice(-1), // TODO: Probably breaks emoji
       );
     })
     .join("/");

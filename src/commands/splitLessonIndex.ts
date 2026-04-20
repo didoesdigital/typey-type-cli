@@ -41,7 +41,7 @@ const run = async () => {
     parsedJSON = JSON.parse(lessonIndex);
   } catch (error) {
     throw new Error(
-      `Error: there was an error parsing the lesson index. ${error}`
+      `Error: there was an error parsing the lesson index. ${error}`,
     );
   }
 
@@ -50,7 +50,7 @@ const run = async () => {
     .filter(
       (lessonMeta: ParsedLessonIndexMeta) =>
         !lessonMeta.path.includes("fundamentals") &&
-        !lessonMeta.path.includes("drills")
+        !lessonMeta.path.includes("drills"),
     )
     .forEach(async (lessonMeta: ParsedLessonIndexMeta) => {
       /** e.g. "faux-typey-type-data/lesson-source-data/stories/proverbs/proverbs-starting-with-a/meta.json" */

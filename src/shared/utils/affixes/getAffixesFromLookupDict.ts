@@ -39,7 +39,7 @@ import type {
  */
 const getAffixesFromLookupDict = (
   lookupDict: LookupDictWithNamespacedDicts,
-  affixMisstrokes: StenoDictionary
+  affixMisstrokes: StenoDictionary,
 ): AffixObject => {
   const suffixes = [];
   const prefixes = [];
@@ -48,7 +48,7 @@ const getAffixesFromLookupDict = (
       const bestSuffixOutline = rankAffixes(
         splitIntoStrokesDictsAndNamespaces(outlinesAndSourceDicts),
         affixMisstrokes,
-        phrase
+        phrase,
       )[0][0];
       const suffixOutlineWithLeadingSlash: SuffixOutlineWithLeadingSlash = `/${bestSuffixOutline}`;
       const suffixTextWithNoTPRBGTS: SuffixTextWithNoTPRBGTS = phrase
@@ -65,7 +65,7 @@ const getAffixesFromLookupDict = (
       const bestPrefixOutline = rankAffixes(
         splitIntoStrokesDictsAndNamespaces(outlinesAndSourceDicts),
         affixMisstrokes,
-        phrase
+        phrase,
       )[0][0];
       const prefixOutlineWithSlash: PrefixOutlineWithSlash = `${bestPrefixOutline}/`;
       const prefixTextWithNoTPRBGTS: PrefixTextWithNoTPRBGTS = phrase

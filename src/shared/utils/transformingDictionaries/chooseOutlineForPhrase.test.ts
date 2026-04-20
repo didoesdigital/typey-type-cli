@@ -36,8 +36,8 @@ describe("choose outline for phrase", () => {
           globalLookupDictionary,
           chosenStroke,
           strokeLookupAttempts,
-          precedingChar
-        )
+          precedingChar,
+        ),
       ).toEqual(["KP-PL", 1]);
     });
 
@@ -52,8 +52,8 @@ describe("choose outline for phrase", () => {
           globalLookupDictionary,
           chosenStroke,
           strokeLookupAttempts,
-          precedingChar
-        )
+          precedingChar,
+        ),
       ).toEqual(["P*ERS", 1]);
     });
 
@@ -76,8 +76,8 @@ describe("choose outline for phrase", () => {
           globalLookupDictionary,
           chosenStroke,
           strokeLookupAttempts,
-          precedingChar
-        )
+          precedingChar,
+        ),
       ).toEqual(["TP-L/TP-L", 1]);
     });
 
@@ -92,8 +92,8 @@ describe("choose outline for phrase", () => {
           globalLookupDictionary,
           chosenStroke,
           strokeLookupAttempts,
-          "3"
-        )
+          "3",
+        ),
       ).toEqual(["KHR-PB", 1]);
     });
 
@@ -108,8 +108,8 @@ describe("choose outline for phrase", () => {
           globalLookupDictionary,
           chosenStroke,
           strokeLookupAttempts,
-          "d"
-        )
+          "d",
+        ),
       ).toEqual(["STPH-FPLT", 1]);
     });
 
@@ -124,8 +124,8 @@ describe("choose outline for phrase", () => {
           globalLookupDictionary,
           chosenStroke,
           strokeLookupAttempts,
-          precedingChar
-        )
+          precedingChar,
+        ),
       ).toEqual(["KR-RT", 1]);
     });
 
@@ -140,8 +140,8 @@ describe("choose outline for phrase", () => {
           globalLookupDictionary,
           chosenStroke,
           strokeLookupAttempts,
-          precedingChar
-        )
+          precedingChar,
+        ),
       ).toEqual(["PREPB", 1]);
     });
 
@@ -182,8 +182,8 @@ describe("choose outline for phrase", () => {
           globalLookupDictionary,
           chosenStroke,
           strokeLookupAttempts,
-          precedingChar
-        )
+          precedingChar,
+        ),
       ).toEqual(["TK-PL", 1]);
     });
 
@@ -198,8 +198,8 @@ describe("choose outline for phrase", () => {
           globalLookupDictionary,
           chosenStroke,
           strokeLookupAttempts,
-          precedingChar
-        )
+          precedingChar,
+        ),
       ).toEqual(["HAERB", 1]);
     });
 
@@ -214,8 +214,8 @@ describe("choose outline for phrase", () => {
           globalLookupDictionary,
           chosenStroke,
           strokeLookupAttempts,
-          precedingChar
-        )
+          precedingChar,
+        ),
       ).toEqual(["PWRABG", 1]);
     });
 
@@ -238,8 +238,8 @@ describe("choose outline for phrase", () => {
           globalLookupDictionary,
           chosenStroke,
           strokeLookupAttempts,
-          precedingChar
-        )
+          precedingChar,
+        ),
       ).toEqual(["OERBGS", 1]);
     });
 
@@ -254,8 +254,8 @@ describe("choose outline for phrase", () => {
           globalLookupDictionary,
           chosenStroke,
           strokeLookupAttempts,
-          precedingChar
-        )
+          precedingChar,
+        ),
       ).toEqual(["HRAO*EUBG", 1]);
     });
 
@@ -270,8 +270,8 @@ describe("choose outline for phrase", () => {
           globalLookupDictionary,
           chosenStroke,
           strokeLookupAttempts,
-          precedingChar
-        )
+          precedingChar,
+        ),
       ).toEqual(["H-PLS", 1]);
     });
 
@@ -286,8 +286,8 @@ describe("choose outline for phrase", () => {
           globalLookupDictionary,
           chosenStroke,
           strokeLookupAttempts,
-          precedingChar
-        )
+          precedingChar,
+        ),
       ).toEqual(["RE/HREPBT", 1]);
     });
 
@@ -302,8 +302,8 @@ describe("choose outline for phrase", () => {
           globalLookupDictionary,
           chosenStroke,
           strokeLookupAttempts,
-          precedingChar
-        )
+          precedingChar,
+        ),
       ).toEqual(["O*EUT/SKROL", 1]);
     });
 
@@ -318,8 +318,8 @@ describe("choose outline for phrase", () => {
           globalLookupDictionary,
           chosenStroke,
           strokeLookupAttempts,
-          precedingChar
-        )
+          precedingChar,
+        ),
       ).toEqual(["HROPBG", 1]);
     });
 
@@ -334,8 +334,8 @@ describe("choose outline for phrase", () => {
           globalLookupDictionary,
           chosenStroke,
           strokeLookupAttempts,
-          precedingChar
-        )
+          precedingChar,
+        ),
       ).toEqual(["HROPBG/-G", 1]);
     });
 
@@ -350,8 +350,8 @@ describe("choose outline for phrase", () => {
           globalLookupDictionary,
           chosenStroke,
           strokeLookupAttempts,
-          precedingChar
-        )
+          precedingChar,
+        ),
       ).toEqual(["KUF/-G/-S", 1]);
     });
 
@@ -366,8 +366,8 @@ describe("choose outline for phrase", () => {
           globalLookupDictionary,
           chosenStroke,
           strokeLookupAttempts,
-          precedingChar
-        )
+          precedingChar,
+        ),
       ).toEqual(["PWUF/ET/-G/-S", 1]);
     });
 
@@ -382,8 +382,8 @@ describe("choose outline for phrase", () => {
           globalLookupDictionary,
           chosenStroke,
           strokeLookupAttempts,
-          precedingChar
-        )
+          precedingChar,
+        ),
       ).toEqual(["WAPBGD/-S", 1]);
     });
 
@@ -391,17 +391,18 @@ describe("choose outline for phrase", () => {
       const wordOrPhrase = "as";
       const chosenStroke = "";
       const strokeLookupAttempts = 0;
-      const globalLookupDictionaryForAs: LookupDictWithNamespacedDicts = new Map([
-        [
-          "as",
+      const globalLookupDictionaryForAs: LookupDictWithNamespacedDicts =
+        new Map([
           [
-            ["TEFT/A/AZ", "typey:typey-type.json"],
-            ["TEFT/AS", "typey:typey-type.json"],
-            ["TEFT/ASZ", "typey:typey-type.json"],
-            ["TEFT/AZ", "typey:typey-type.json"],
+            "as",
+            [
+              ["TEFT/A/AZ", "typey:typey-type.json"],
+              ["TEFT/AS", "typey:typey-type.json"],
+              ["TEFT/ASZ", "typey:typey-type.json"],
+              ["TEFT/AZ", "typey:typey-type.json"],
+            ],
           ],
-        ],
-      ]);
+        ]);
 
       // maybe it would be nice to prioritise AZ over AS here…
       // not of prioritising S over Z endings…
@@ -412,8 +413,8 @@ describe("choose outline for phrase", () => {
           globalLookupDictionaryForAs,
           chosenStroke,
           strokeLookupAttempts,
-          precedingChar
-        )
+          precedingChar,
+        ),
       ).toEqual(["TEFT/AS", 1]);
     });
 
@@ -439,8 +440,8 @@ describe("choose outline for phrase", () => {
           globalLookupDictionaryForRest,
           chosenStroke,
           strokeLookupAttempts,
-          precedingChar
-        )
+          precedingChar,
+        ),
       ).toEqual(["REFT", 1]);
     });
 
@@ -468,8 +469,8 @@ describe("choose outline for phrase", () => {
           globalLookupDictionaryForInto,
           chosenStroke,
           strokeLookupAttempts,
-          precedingChar
-        )
+          precedingChar,
+        ),
       ).toEqual(["TEFT/TPHAO", 1]);
     });
 
@@ -477,8 +478,8 @@ describe("choose outline for phrase", () => {
       const wordOrPhrase = "get";
       const chosenStroke = "";
       const strokeLookupAttempts = 0;
-      const globalLookupDictionaryForGet: LookupDictWithNamespacedDicts = new Map(
-        [
+      const globalLookupDictionaryForGet: LookupDictWithNamespacedDicts =
+        new Map([
           [
             "get",
             [
@@ -486,8 +487,7 @@ describe("choose outline for phrase", () => {
               ["TKPWET", "typey:top-10000-project-gutenberg-words.json"],
             ],
           ],
-        ]
-      );
+        ]);
 
       expect(
         chooseOutlineForPhrase(
@@ -495,8 +495,8 @@ describe("choose outline for phrase", () => {
           globalLookupDictionaryForGet,
           chosenStroke,
           strokeLookupAttempts,
-          precedingChar
-        )
+          precedingChar,
+        ),
       ).toEqual(["TKPWET", 1]);
     });
 
@@ -511,8 +511,8 @@ describe("choose outline for phrase", () => {
           globalLookupDictionary,
           chosenStroke,
           strokeLookupAttempts,
-          precedingChar
-        )
+          precedingChar,
+        ),
       ).toEqual(["AEU", 1]);
     });
 
@@ -527,8 +527,8 @@ describe("choose outline for phrase", () => {
           globalLookupDictionary,
           chosenStroke,
           strokeLookupAttempts,
-          precedingChar
-        )
+          precedingChar,
+        ),
       ).toEqual(["KPA/AEU", 1]);
     });
 
@@ -543,8 +543,8 @@ describe("choose outline for phrase", () => {
           globalLookupDictionary,
           chosenStroke,
           strokeLookupAttempts,
-          precedingChar
-        )
+          precedingChar,
+        ),
       ).toEqual(["*EU", 1]);
     });
 
@@ -559,8 +559,8 @@ describe("choose outline for phrase", () => {
           globalLookupDictionary,
           chosenStroke,
           strokeLookupAttempts,
-          precedingChar
-        )
+          precedingChar,
+        ),
       ).toEqual(["EU", 1]);
     });
 
@@ -588,8 +588,8 @@ describe("choose outline for phrase", () => {
           globalLookupDictionaryForSituation,
           chosenStroke,
           strokeLookupAttempts,
-          precedingChar
-        )
+          precedingChar,
+        ),
       ).toEqual(["TRUFT", 1]);
     });
 
@@ -604,8 +604,8 @@ describe("choose outline for phrase", () => {
           globalLookupDictionary,
           chosenStroke,
           strokeLookupAttempts,
-          precedingChar
-        )
+          precedingChar,
+        ),
       ).toEqual(["PHAEUD/*EPB", 1]);
     });
 
@@ -620,8 +620,8 @@ describe("choose outline for phrase", () => {
           globalLookupDictionary,
           chosenStroke,
           strokeLookupAttempts,
-          precedingChar
-        )
+          precedingChar,
+        ),
       ).toEqual(["#O", 1]);
     });
   });
@@ -649,8 +649,8 @@ describe("choose outline for phrase", () => {
           globalLookupDictionaryWithHROFRSfirst,
           chosenStroke,
           strokeLookupAttempts,
-          precedingChar
-        )
+          precedingChar,
+        ),
       ).toEqual(["HROFRS", 1]);
     });
 
@@ -675,8 +675,8 @@ describe("choose outline for phrase", () => {
           globalLookupDictionaryWithHRUFRSfirst,
           chosenStroke,
           strokeLookupAttempts,
-          precedingChar
-        )
+          precedingChar,
+        ),
       ).toEqual(["HRUFRS", 1]);
     });
   });
@@ -700,8 +700,8 @@ describe("choose outline for phrase", () => {
           chosenStroke,
           strokeLookupAttempts,
           precedingChar,
-          affixList
-        )
+          affixList,
+        ),
       ).toEqual(["*URP/TPEUFRT", 1]);
     });
   });
@@ -727,8 +727,8 @@ describe("choose outline for phrase", () => {
           globalLookupDictionary,
           chosenStroke,
           strokeLookupAttempts,
-          precedingChar
-        )
+          precedingChar,
+        ),
       ).toEqual(["TRAFL/HREUPBG", 1]);
     });
   });
@@ -745,8 +745,8 @@ describe("choose outline for phrase", () => {
           globalLookupDictionary,
           chosenStroke,
           strokeLookupAttempts,
-          precedingChar
-        )
+          precedingChar,
+        ),
       ).toEqual(["OP/TOPL/TREUFT/AES", 1]);
     });
   });
@@ -772,8 +772,8 @@ describe("choose outline for phrase", () => {
           globalLookupDictionary,
           chosenStroke,
           strokeLookupAttempts,
-          precedingChar
-        )
+          precedingChar,
+        ),
       ).toEqual(["TRAFL/*LG", 1]);
     });
   });
@@ -795,8 +795,8 @@ describe("choose outline for phrase", () => {
           globalLookupDictionary,
           chosenStroke,
           strokeLookupAttempts,
-          precedingChar
-        )
+          precedingChar,
+        ),
       ).toEqual(["TPHAR/AEUT/-G", 1]);
     });
 
@@ -811,8 +811,8 @@ describe("choose outline for phrase", () => {
           globalLookupDictionary,
           chosenStroke,
           strokeLookupAttempts,
-          precedingChar
-        )
+          precedingChar,
+        ),
       ).toEqual(["SAO*ET/-G", 1]);
     });
 
@@ -827,8 +827,8 @@ describe("choose outline for phrase", () => {
           globalLookupDictionary,
           chosenStroke,
           strokeLookupAttempts,
-          precedingChar
-        )
+          precedingChar,
+        ),
       ).toEqual(["SAO*ET/TK-LS/-G", 1]);
     });
 
@@ -843,8 +843,8 @@ describe("choose outline for phrase", () => {
           globalLookupDictionary,
           chosenStroke,
           strokeLookupAttempts,
-          precedingChar
-        )
+          precedingChar,
+        ),
       ).toEqual(["PWEUPBG/-G", 1]);
     });
 
@@ -859,8 +859,8 @@ describe("choose outline for phrase", () => {
           globalLookupDictionary,
           chosenStroke,
           strokeLookupAttempts,
-          precedingChar
-        )
+          precedingChar,
+        ),
       ).toEqual(["PWEUPB/-PBLG/TK-LS/-G", 1]);
     });
 
@@ -875,8 +875,8 @@ describe("choose outline for phrase", () => {
           globalLookupDictionary,
           chosenStroke,
           strokeLookupAttempts,
-          precedingChar
-        )
+          precedingChar,
+        ),
       ).toEqual(["HROPBLG/-G", 1]);
     });
 
@@ -891,8 +891,8 @@ describe("choose outline for phrase", () => {
           globalLookupDictionary,
           chosenStroke,
           strokeLookupAttempts,
-          precedingChar
-        )
+          precedingChar,
+        ),
       ).toEqual(["HROPBLG/-G/-S", 1]);
     });
   });

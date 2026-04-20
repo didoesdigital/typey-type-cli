@@ -1,7 +1,7 @@
 import type { NewEmojiStrategy, PreviousEmojiStrategy } from "../lib/stemoji";
 
 const convertNewEmojiStrategyToPrevious = (
-  emojisInNewStrategyFormat: NewEmojiStrategy
+  emojisInNewStrategyFormat: NewEmojiStrategy,
 ): PreviousEmojiStrategy => {
   const newEntries = Object.entries(emojisInNewStrategyFormat);
   const result: PreviousEmojiStrategy = {};

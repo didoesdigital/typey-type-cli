@@ -37,7 +37,7 @@ describe("createFingerspellingStroke", () => {
       ["a", [["AEU", "typey:typey-type.json"]]],
     ]);
     expect(
-      createFingerspellingStroke("Kosciusko", lookupDict, affixList)
+      createFingerspellingStroke("Kosciusko", lookupDict, affixList),
     ).toEqual("K*P/O*/S*/KR*/*EU/*U/S*/K*/O*");
   });
 
@@ -48,7 +48,7 @@ describe("createFingerspellingStroke", () => {
       ["{&s}", [["S*", "typey:typey-type.json"]]],
     ]);
     expect(createFingerspellingStroke("es", lookupDict, affixList)).toEqual(
-      "E*/S*"
+      "E*/S*",
     );
   });
 
@@ -58,7 +58,7 @@ describe("createFingerspellingStroke", () => {
       ["a", [["AEU", "typey:typey-type.json"]]],
     ]);
     expect(createFingerspellingStroke("€100", lookupDict, affixList)).toEqual(
-      "xxx/#S/#O/#O"
+      "xxx/#S/#O/#O",
     );
   });
 

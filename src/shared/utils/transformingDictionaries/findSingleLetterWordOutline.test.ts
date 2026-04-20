@@ -40,13 +40,13 @@ describe("findSingleLetterWordOutline", () => {
           },
           LATEST_TYPEY_TYPE_FULL_DICT_NAME,
         ],
-      ]
+      ],
     );
 
     const customAffixMisstrokes = getAffixMisstrokesFromMisstrokes(misstrokes);
     const customTestAffixes = getAffixesFromLookupDict(
       customGlobalLookupDictionary,
-      customAffixMisstrokes
+      customAffixMisstrokes,
     );
 
     AFFIXES.setSharedAffixes(customTestAffixes);
@@ -62,7 +62,7 @@ describe("findSingleLetterWordOutline", () => {
       ["a", [["AEU", "typey:typey-type.json"]]],
     ]);
     expect(
-      findSingleLetterWordOutline("a", lookupDict, "AEU", affixList, " ")
+      findSingleLetterWordOutline("a", lookupDict, "AEU", affixList, " "),
     ).toEqual("AEU");
   });
 
@@ -78,7 +78,7 @@ describe("findSingleLetterWordOutline", () => {
       ],
     ]);
     expect(
-      findSingleLetterWordOutline("a", lookupDict, "AEU", affixList, " ")
+      findSingleLetterWordOutline("a", lookupDict, "AEU", affixList, " "),
     ).toEqual("AEUZ");
   });
 
@@ -90,7 +90,7 @@ describe("findSingleLetterWordOutline", () => {
       ["{^}{-|}", [["KPA*", "typey:typey-type.json"]]],
     ]);
     expect(
-      findSingleLetterWordOutline("A", lookupDict, "KPA/AEU", affixList, "")
+      findSingleLetterWordOutline("A", lookupDict, "KPA/AEU", affixList, ""),
     ).toEqual("KPA/AEU");
   });
 
@@ -102,7 +102,7 @@ describe("findSingleLetterWordOutline", () => {
       ["{^}{-|}", [["KPA*", "typey:typey-type.json"]]],
     ]);
     expect(
-      findSingleLetterWordOutline("A", lookupDict, "KPA/AEU", affixList, "-")
+      findSingleLetterWordOutline("A", lookupDict, "KPA/AEU", affixList, "-"),
     ).toEqual("KPA*/AEU");
   });
 
@@ -133,7 +133,7 @@ describe("findSingleLetterWordOutline", () => {
       ],
     ]);
     expect(
-      findSingleLetterWordOutline("A", lookupDict, "KPA/AEU", affixList, "")
+      findSingleLetterWordOutline("A", lookupDict, "KPA/AEU", affixList, ""),
     ).toEqual("KPAZ/AEUZ");
   });
 
@@ -141,7 +141,7 @@ describe("findSingleLetterWordOutline", () => {
     const affixList = AFFIXES.getSharedAffixes();
     const lookupDict: LookupDictWithNamespacedDicts = new Map([]);
     expect(
-      findSingleLetterWordOutline("I", lookupDict, "EU", affixList, "")
+      findSingleLetterWordOutline("I", lookupDict, "EU", affixList, ""),
     ).toEqual("EU");
   });
 
@@ -151,7 +151,7 @@ describe("findSingleLetterWordOutline", () => {
       ["I", [["EU", "typey:typey-type.json"]]],
     ]);
     expect(
-      findSingleLetterWordOutline("I", lookupDict, "EU", affixList, " ")
+      findSingleLetterWordOutline("I", lookupDict, "EU", affixList, " "),
     ).toEqual("EU");
   });
 
@@ -167,7 +167,7 @@ describe("findSingleLetterWordOutline", () => {
       ],
     ]);
     expect(
-      findSingleLetterWordOutline("I", lookupDict, "EU", affixList, " ")
+      findSingleLetterWordOutline("I", lookupDict, "EU", affixList, " "),
     ).toEqual("EUZ");
   });
 
@@ -177,7 +177,7 @@ describe("findSingleLetterWordOutline", () => {
       ["X", [["10R", "typey:typey-type.json"]]],
     ]);
     expect(
-      findSingleLetterWordOutline("X", lookupDict, "10R", affixList, "")
+      findSingleLetterWordOutline("X", lookupDict, "10R", affixList, ""),
     ).toEqual("10R");
   });
 
@@ -185,7 +185,7 @@ describe("findSingleLetterWordOutline", () => {
     const affixList = AFFIXES.getSharedAffixes();
     const lookupDict: LookupDictWithNamespacedDicts = new Map([]);
     expect(
-      findSingleLetterWordOutline("P", lookupDict, "xxx", affixList, "")
+      findSingleLetterWordOutline("P", lookupDict, "xxx", affixList, ""),
     ).toEqual("xxx");
   });
 
@@ -193,7 +193,7 @@ describe("findSingleLetterWordOutline", () => {
     const affixList = AFFIXES.getSharedAffixes();
     const lookupDict: LookupDictWithNamespacedDicts = new Map([]);
     expect(
-      findSingleLetterWordOutline("V", lookupDict, "5R", affixList, "")
+      findSingleLetterWordOutline("V", lookupDict, "5R", affixList, ""),
     ).toEqual("5R");
   });
 
@@ -209,7 +209,7 @@ describe("findSingleLetterWordOutline", () => {
       ],
     ]);
     expect(
-      findSingleLetterWordOutline("X", lookupDict, "10R", affixList, "")
+      findSingleLetterWordOutline("X", lookupDict, "10R", affixList, ""),
     ).toEqual("10RZ");
   });
 });

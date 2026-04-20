@@ -17,6 +17,6 @@ const twoKeyPerFingerCombinations = [
 
 const hasOneKeyPerFinger = (outline: string, _translation: string) =>
   !twoKeyPerFingerCombinations.some((twoKeyCombo) =>
-    outline.includes(twoKeyCombo)
+    outline.includes(twoKeyCombo),
   );
 export default hasOneKeyPerFinger;

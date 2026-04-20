@@ -6,7 +6,7 @@ const findSingleLetterWordOutline = (
   globalLookupDictionary: LookupDictWithNamespacedDicts,
   strokeForOneCharacterWord: string,
   affixList: AffixObject,
-  precedingChar: string
+  precedingChar: string,
 ) => {
   // try look it up from personal dictionaries:
   // single letter words, natural capitalisation
@@ -17,29 +17,31 @@ const findSingleLetterWordOutline = (
       strokeForOneCharacterWord = getRankedOutlineFromLookupEntry(
         lookupEntry,
         modifiedWordOrPhrase,
-        affixList
+        affixList,
       );
     }
   }
   // single letter word, capitalised for start of sentence
   else if (wordOrPhrase === "A") {
     const letterAEntry = globalLookupDictionary.get("a");
-    const capitalisationTranslation = ["", ".", "?", "!"].includes(precedingChar)
+    const capitalisationTranslation = ["", ".", "?", "!"].includes(
+      precedingChar,
+    )
       ? "{}{-|}"
       : "{^}{-|}";
     const capitalisationEntry = globalLookupDictionary.get(
-      capitalisationTranslation
+      capitalisationTranslation,
     );
     if (letterAEntry && capitalisationEntry) {
       const letterAOutline = getRankedOutlineFromLookupEntry(
         letterAEntry,
         "a",
-        affixList
+        affixList,
       );
       const capitalisationOutline = getRankedOutlineFromLookupEntry(
         capitalisationEntry,
         capitalisationTranslation,
-        affixList
+        affixList,
       );
       strokeForOneCharacterWord = capitalisationOutline + "/" + letterAOutline;
     }
@@ -52,7 +54,7 @@ const findSingleLetterWordOutline = (
       strokeForOneCharacterWord = getRankedOutlineFromLookupEntry(
         lookupEntry,
         modifiedWordOrPhrase,
-        affixList
+        affixList,
       );
     }
   }

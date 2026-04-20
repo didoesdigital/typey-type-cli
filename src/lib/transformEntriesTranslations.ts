@@ -30,7 +30,7 @@ const allTransforms: TranslationTransforms = {
  */
 const transformEntriesTranslations = (
   entries: DictEntries,
-  transforms: TransformOptions
+  transforms: TransformOptions,
 ): DictEntries => {
   let transformedEntries = entries;
 

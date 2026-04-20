@@ -10,7 +10,7 @@ describe("normaliseDictEntries", () => {
       normaliseDictEntries([
         ["#SG", "1 grand"],
         ["#HG", "4 grand"],
-      ])
+      ]),
     ).toEqual([
       ["1-G", "1 grand"],
       ["4-G", "4 grand"],
@@ -22,7 +22,7 @@ describe("normaliseDictEntries", () => {
       normaliseDictEntries([
         ["#B", "test"],
         ["#G", "test"],
-      ])
+      ]),
     ).toEqual([
       ["#-B", "test"],
       ["#-G", "test"],

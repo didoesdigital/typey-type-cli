@@ -15,7 +15,7 @@ import type { LookupDictWithNamespacedDicts, Outline } from "../../types";
 
 const globalLookupDictionary = createGlobalLookupDictionary(
   personalDictionaries,
-  [[testTypeyTypeDict, LATEST_TYPEY_TYPE_FULL_DICT_NAME]]
+  [[testTypeyTypeDict, LATEST_TYPEY_TYPE_FULL_DICT_NAME]],
 );
 
 describe("add outlines for words to combined lookup dict", () => {
@@ -88,8 +88,8 @@ describe("add outlines for words to combined lookup dict", () => {
         dictContent,
         combinedLookupDictionary,
         dictName,
-        seenSet
-      )
+        seenSet,
+      ),
     ).toEqual([expectedResult, expectedSet]);
   });
 });
@@ -114,7 +114,7 @@ describe("generate dictionary entries", () => {
     const top100Words = ['the', 'of', 'and', 'to', 'in', 'I', 'that', 'was', 'his', 'he', 'it', 'with', 'is', 'for', 'as', 'had', 'you', 'not', 'be', 'her', 'on', 'at', 'by', 'which', 'have', 'or', 'from', 'this', 'him', 'but', 'all', 'she', 'they', 'were', 'my', 'are', 'me', 'one', 'their', 'so', 'an', 'said', 'them', 'we', 'who', 'would', 'been', 'will', 'no', 'when', 'there', 'if', 'more', 'out', 'up', 'into', 'do', 'any', 'your', 'what', 'has', 'man', 'could', 'other', 'than', 'our', 'some', 'very', 'time', 'upon', 'about', 'may', 'its', 'only', 'now', 'like', 'little', 'then', 'can', 'should', 'made', 'did', 'us', 'such', 'a', 'great', 'before', 'must', 'two', 'these', 'see', 'know', 'over', 'much', 'down', 'after', 'first', 'Mr.', 'good', 'men'];
 
     expect(
-      generateListOfWordsAndStrokes(top100Words, globalLookupDictionary)
+      generateListOfWordsAndStrokes(top100Words, globalLookupDictionary),
     ).toEqual([
       { phrase: "the", stroke: "-T" },
       { phrase: "of", stroke: "-F" },
@@ -275,8 +275,8 @@ describe("generate dictionary entries", () => {
     expect(
       generateListOfWordsAndStrokes(
         wordList,
-        globalLookupDictionaryForMatchingCapitalisationAndPunctuation
-      )
+        globalLookupDictionaryForMatchingCapitalisationAndPunctuation,
+      ),
     ).toEqual(
       [
         { phrase: "a", stroke: "AEU" },
@@ -336,7 +336,7 @@ describe("generate dictionary entries", () => {
         .map(({ phrase, stroke }) => ({
           phrase: phrase,
           stroke: stroke.replace(/ /g, "/"),
-        }))
+        })),
       // expect(generateListOfWordsAndStrokes(wordList, globalLookupDictionaryForMatchingCapitalisationAndPunctuation)).toEqual(
       //   [
       //     {phrase: " ", stroke: "S-P", lookups: 1},

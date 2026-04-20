@@ -24,13 +24,13 @@ const misstrokes = misstrokesJSON as StenoDictionary;
 const getRankedOutlineFromLookupEntry = (
   lookupEntries: StrokeAndNamespacedDict[],
   translation: Translation,
-  affixList = AFFIXES.getSharedAffixes()
+  affixList = AFFIXES.getSharedAffixes(),
 ) =>
   rankOutlines(
     splitIntoStrokesDictsAndNamespaces(lookupEntries),
     misstrokes,
     translation,
-    affixList
+    affixList,
   )[0][0];
 
 export default getRankedOutlineFromLookupEntry;

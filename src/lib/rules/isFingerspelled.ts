@@ -70,7 +70,7 @@ const isFingerspelled = (outline: string, _translation: string) =>
     .every(
       (stroke) =>
         FINGERSPELLING_KEYS.includes(stroke) ||
-        FINGERSPELLED_PUNCTUATION.includes(stroke)
+        FINGERSPELLED_PUNCTUATION.includes(stroke),
     );
 
 export default isFingerspelled;

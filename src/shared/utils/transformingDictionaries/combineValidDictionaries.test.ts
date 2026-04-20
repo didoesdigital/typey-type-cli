@@ -120,7 +120,7 @@ describe("combining valid dictionaries without sorting", () => {
     expect(
       combineValidDictionaries(personalDictionaries, [
         [testTypeyTypeDict, "typey-type-full.json"],
-      ])
+      ]),
     ).toEqual(expectedCombinedDict);
   });
 
@@ -177,7 +177,7 @@ describe("combining valid dictionaries without sorting", () => {
     expect(
       combineValidDictionaries(personalDictionaries, [
         [testTypeyTypeDict, "typey-type.json"],
-      ])
+      ]),
     ).toEqual(expectedCombinedDict);
   });
 });

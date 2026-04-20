@@ -11,7 +11,7 @@ describe("createLookupDict", () => {
           { "APL/PWEURB/OUS": "ambitious", "EUPL/PWEURBS": "ambitious" },
           "test2.json",
         ],
-      ])
+      ]),
     ).toEqual(
       new Map([
         ["0", [["#O", "plover:built-in-numbers.json"]]],
@@ -32,7 +32,7 @@ describe("createLookupDict", () => {
             ["APL/PWEURB/OUS", namespacedTypeyDict],
           ],
         ],
-      ])
+      ]),
     );
   });
 

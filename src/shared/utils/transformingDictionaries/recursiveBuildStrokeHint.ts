@@ -23,7 +23,7 @@ export type SplitterArgs = [
   globalLookupDictionary: LookupDictWithNamespacedDicts,
   affixList: AffixObject,
   depth: number,
-  precedingChar: string
+  precedingChar: string,
 ];
 
 export type SplitterFunction = (...args: SplitterArgs) => Outline | null;
@@ -60,7 +60,7 @@ const recursiveBuildStrokeHint = (
   globalLookupDictionary: LookupDictWithNamespacedDicts,
   affixList = AFFIXES.getSharedAffixes(),
   depth: number,
-  precedingChar = ""
+  precedingChar = "",
 ): null | Outline | UnknownStroke => {
   if (depth > limit) {
     return unknownStroke;
@@ -84,7 +84,7 @@ const recursiveBuildStrokeHint = (
     stroke,
     strokeLookupAttempts,
     precedingChar,
-    affixList
+    affixList,
   );
   if (stroke !== "xxx") return stroke;
 
@@ -140,7 +140,7 @@ const recursiveBuildStrokeHint = (
     createFingerspellingStroke(
       wordOrPhraseMaterial,
       globalLookupDictionary,
-      affixList
+      affixList,
     );
 
   if (fingerspelledStrokes !== null) return fingerspelledStrokes;

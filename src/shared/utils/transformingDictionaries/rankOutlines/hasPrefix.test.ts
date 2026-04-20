@@ -36,13 +36,13 @@ describe("hasPrefix", () => {
           },
           LATEST_TYPEY_TYPE_FULL_DICT_NAME,
         ],
-      ]
+      ],
     );
 
     const customAffixMisstrokes = getAffixMisstrokesFromMisstrokes(misstrokes);
     const customTestAffixes = getAffixesFromLookupDict(
       customGlobalLookupDictionary,
-      customAffixMisstrokes
+      customAffixMisstrokes,
     );
 
     AFFIXES.setSharedAffixes(customTestAffixes);
@@ -57,7 +57,7 @@ describe("hasPrefix", () => {
     const translation = "along";
 
     expect(
-      hasPrefix(outline, translation, AFFIXES.getSharedAffixes().prefixes)
+      hasPrefix(outline, translation, AFFIXES.getSharedAffixes().prefixes),
     ).toEqual(true);
   });
 
@@ -65,7 +65,7 @@ describe("hasPrefix", () => {
     const outline = "TKPWUT/*EPB/PWERG";
     const translation = "Gutenberg";
     expect(
-      hasPrefix(outline, translation, AFFIXES.getSharedAffixes().prefixes)
+      hasPrefix(outline, translation, AFFIXES.getSharedAffixes().prefixes),
     ).toEqual(false);
   });
 
@@ -73,7 +73,7 @@ describe("hasPrefix", () => {
     const outline = "TEFT";
     const translation = "test";
     expect(
-      hasPrefix(outline, translation, AFFIXES.getSharedAffixes().prefixes)
+      hasPrefix(outline, translation, AFFIXES.getSharedAffixes().prefixes),
     ).toEqual(false);
   });
 });

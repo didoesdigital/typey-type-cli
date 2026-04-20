@@ -5,7 +5,7 @@ import type { AffixObject } from "../../../types";
 const penaliseSlashesWithoutPrefixesOrSuffixes = (
   outline: string,
   translation: string,
-  affixes: AffixObject
+  affixes: AffixObject,
 ) => {
   if (!outline.includes("/")) return 0;
 

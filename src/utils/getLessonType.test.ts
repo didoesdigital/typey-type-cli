@@ -42,7 +42,7 @@ describe("getLessonType", () => {
       firstRecommendedDict,
       rules,
       words,
-      title
+      title,
     );
 
     const expectedResult = "standardFundamental";
@@ -99,7 +99,7 @@ describe("getLessonType", () => {
       firstRecommendedDict,
       rules,
       words,
-      title
+      title,
     );
 
     const expectedResult = "nonStandardFundamental";
@@ -131,7 +131,7 @@ describe("getLessonType", () => {
       firstRecommendedDict,
       rules,
       words,
-      title
+      title,
     );
 
     const expectedResult = "standardDrill";
@@ -176,7 +176,7 @@ describe("getLessonType", () => {
       firstRecommendedDict,
       rules,
       words,
-      title
+      title,
     );
 
     const expectedResult = "standardDrill";
@@ -231,7 +231,7 @@ describe("getLessonType", () => {
       firstRecommendedDict,
       rules,
       words,
-      title
+      title,
     );
 
     const expectedResult = "nonStandardDrill";
@@ -254,7 +254,7 @@ describe("getLessonType", () => {
         firstRecommendedDict,
         rules,
         words,
-        title
+        title,
       );
     }).toThrow("Unknown lesson type: undefined");
   });
@@ -274,7 +274,7 @@ describe("getLessonType", () => {
         firstRecommendedDict,
         rules,
         words,
-        title
+        title,
       );
     }).toThrow("Unknown lesson type: My bad lesson");
   });

@@ -17,7 +17,7 @@ type DictEntryMap = Map<Outline, Translation>;
  * @returns A realistic steno dictionary
  */
 const combineDictNamesAndContentsIntoFullDict = (
-  dictionariesNamesAndContents: DictionaryNameAndContents[]
+  dictionariesNamesAndContents: DictionaryNameAndContents[],
 ): StenoDictionary => {
   const result: DictEntryMap = new Map();
   dictionariesNamesAndContents.forEach((dictNameAndContents) => {

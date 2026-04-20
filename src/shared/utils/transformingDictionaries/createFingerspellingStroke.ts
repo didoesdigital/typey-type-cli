@@ -22,7 +22,7 @@ type InputText = string;
 const createFingerspellingStroke = (
   inputText: InputText,
   globalLookupDictionary: LookupDictWithNamespacedDicts,
-  affixList: AffixObject
+  affixList: AffixObject,
 ): Outline | UnknownStroke =>
   [...inputText]
     .map(
@@ -32,9 +32,9 @@ const createFingerspellingStroke = (
           singleCharacter,
           globalLookupDictionary,
           fingerspelledCharacters[singleCharacter] || "",
-          affixList
+          affixList,
           // i === 0 ? "" : [...inputText][i - 1].slice(-1)
-        ) || unknownStroke
+        ) || unknownStroke,
     )
     .join("/");
 

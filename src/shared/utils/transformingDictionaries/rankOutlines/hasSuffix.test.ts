@@ -36,13 +36,13 @@ describe("hasSuffix", () => {
           },
           LATEST_TYPEY_TYPE_FULL_DICT_NAME,
         ],
-      ]
+      ],
     );
 
     const customAffixMisstrokes = getAffixMisstrokesFromMisstrokes(misstrokes);
     const customTestAffixes = getAffixesFromLookupDict(
       customGlobalLookupDictionary,
-      customAffixMisstrokes
+      customAffixMisstrokes,
     );
 
     AFFIXES.setSharedAffixes(customTestAffixes);
@@ -57,7 +57,7 @@ describe("hasSuffix", () => {
     const translation = "swiftly";
 
     expect(
-      hasSuffix(outline, translation, AFFIXES.getSharedAffixes().suffixes)
+      hasSuffix(outline, translation, AFFIXES.getSharedAffixes().suffixes),
     ).toEqual(true);
   });
 
@@ -65,7 +65,7 @@ describe("hasSuffix", () => {
     const outline = "TKPWUT/*EPB/PWERG";
     const translation = "Gutenberg";
     expect(
-      hasSuffix(outline, translation, AFFIXES.getSharedAffixes().suffixes)
+      hasSuffix(outline, translation, AFFIXES.getSharedAffixes().suffixes),
     ).toEqual(false);
   });
 
@@ -73,7 +73,7 @@ describe("hasSuffix", () => {
     const outline = "TEFT";
     const translation = "test";
     expect(
-      hasSuffix(outline, translation, AFFIXES.getSharedAffixes().suffixes)
+      hasSuffix(outline, translation, AFFIXES.getSharedAffixes().suffixes),
     ).toEqual(false);
   });
 });

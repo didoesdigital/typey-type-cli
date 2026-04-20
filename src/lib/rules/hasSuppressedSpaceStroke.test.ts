@@ -3,7 +3,7 @@ import hasSuppressedSpaceStroke from "./hasSuppressedSpaceStroke";
 describe("hasSuppressedSpaceStroke", () => {
   it("returns true for /TK-LS/", async () => {
     expect(hasSuppressedSpaceStroke("TAOL/TK-LS/TEUP", "tooltip")).toEqual(
-      true
+      true,
     );
   });
 

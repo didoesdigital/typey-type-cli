@@ -5,7 +5,7 @@ const preferPhrasingBriefStarters = (
   outlineA: Outline,
   outlineB: Outline,
   outlineALengthWithAllPenalties: number,
-  outlineBLengthWithAllPenalties: number
+  outlineBLengthWithAllPenalties: number,
 ) => {
   if (
     translation.startsWith("and") &&

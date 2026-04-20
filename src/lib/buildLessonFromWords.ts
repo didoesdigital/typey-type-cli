@@ -8,7 +8,7 @@ const buildLessonFromWords = (
   entries: DictEntries,
   title: string,
   customMessage: string | null,
-  ignoredCharacters: string | null
+  ignoredCharacters: string | null,
 ) => {
   const flagIgnoredCharacters = ignoredCharacters
     ? `

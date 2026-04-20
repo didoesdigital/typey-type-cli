@@ -45,7 +45,7 @@ describe("makeNonStandardDrillLessonMaterial", () => {
 
     const [entries, transformedEntries] = makeNonStandardDrillLessonMaterial(
       lessonTypeAndData.words,
-      lessonTypeAndData.firstRecommendedDict
+      lessonTypeAndData.firstRecommendedDict,
     );
 
     expect(entries).toEqual([

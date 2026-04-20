@@ -4,7 +4,7 @@ import type { StenoDictionary } from "src/shared/types";
 
 if (process.argv.length < 3) {
   console.error(
-    `Please provide a path to your dictionary file, to create strokes with.`
+    `Please provide a path to your dictionary file, to create strokes with.`,
   );
   process.exit(1);
 }
@@ -65,13 +65,13 @@ const makeStenoEmoji = (dictionary: StenoDictionary, strategy: string) => {
     emojisInNewStrategyFormat = JSON.parse(fs.readFileSync(strategy, "utf8"));
   } catch (error) {
     console.error(
-      `There was an error reading the emoji strategy file to build the emoji dict. ${error}`
+      `There was an error reading the emoji strategy file to build the emoji dict. ${error}`,
     );
     process.exit(1);
   }
 
   const emojis: PreviousEmojiStrategy = convertNewEmojiStrategyToPrevious(
-    emojisInNewStrategyFormat
+    emojisInNewStrategyFormat,
   );
 
   // When we convert the dictionary as a JavaScript object to a
@@ -335,7 +335,7 @@ const makeStenoEmoji = (dictionary: StenoDictionary, strategy: string) => {
     Object.keys(emojis).some((x) => x !== emojis[x].shortname.replace(/:/g, ""))
   ) {
     console.error(
-      `Error: strategy contains key that is not equal to shortname`
+      `Error: strategy contains key that is not equal to shortname`,
     );
     process.exit(1);
   }
@@ -738,7 +738,7 @@ const makeStenoEmoji = (dictionary: StenoDictionary, strategy: string) => {
 
     const fn = (
       a: PreviousEmojiStrategyWithDuplicates,
-      shortname: PreviousEmojiStrategyEntry["shortname"]
+      shortname: PreviousEmojiStrategyEntry["shortname"],
     ) => {
       // @ts-ignore
       let substitute = substitutes[shortname];
@@ -813,7 +813,7 @@ const makeStenoEmoji = (dictionary: StenoDictionary, strategy: string) => {
         // eslint-disable-next-line @typescript-eslint/no-unused-vars
       } catch (_error) {
         console.error(
-          "ERROR: could not add this outline to the dictionaryByWord using this translation as the key:"
+          "ERROR: could not add this outline to the dictionaryByWord using this translation as the key:",
         );
         console.log({ outline: n, translation: word });
       }
@@ -871,7 +871,7 @@ const makeStenoEmoji = (dictionary: StenoDictionary, strategy: string) => {
           });
           return combo;
         },
-        [["PHOEPBLG"]]
+        [["PHOEPBLG"]],
       )
       .forEach((solution) => {
         p[solution.join("/")] = n.unicode;
@@ -920,8 +920,8 @@ const makeStenoEmoji = (dictionary: StenoDictionary, strategy: string) => {
 
   const emojiDictionarySortedByKey = Object.fromEntries(
     Object.entries(emojiDictionary).sort((a, b) =>
-      a[0] < b[0] ? -1 : a[0] > b[0] ? 1 : 0
-    )
+      a[0] < b[0] ? -1 : a[0] > b[0] ? 1 : 0,
+    ),
   );
 
   return emojiDictionarySortedByKey;

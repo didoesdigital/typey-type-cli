@@ -34,13 +34,13 @@ describe("getRankedOutlineFromLookupEntry", () => {
           },
           LATEST_TYPEY_TYPE_FULL_DICT_NAME,
         ],
-      ]
+      ],
     );
 
     const customAffixMisstrokes = getAffixMisstrokesFromMisstrokes(misstrokes);
     const customTestAffixes = getAffixesFromLookupDict(
       customGlobalLookupDictionary,
-      customAffixMisstrokes
+      customAffixMisstrokes,
     );
 
     AFFIXES.setSharedAffixes(customTestAffixes);
@@ -66,8 +66,8 @@ describe("getRankedOutlineFromLookupEntry", () => {
       getRankedOutlineFromLookupEntry(
         lookupEntry,
         translation,
-        AFFIXES.getSharedAffixes()
-      )
+        AFFIXES.getSharedAffixes(),
+      ),
     ).toEqual("KAOPBT");
   });
 
@@ -84,7 +84,7 @@ describe("getRankedOutlineFromLookupEntry", () => {
     const translation = "warmly";
 
     expect(getRankedOutlineFromLookupEntry(lookupEntry, translation)).toEqual(
-      "KAOPBT"
+      "KAOPBT",
     );
   });
 });

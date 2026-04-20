@@ -24,7 +24,10 @@ describe("convertDictionaryToEntriesFilteredByWordList", () => {
     };
 
     expect(
-      convertDictionaryToEntriesFilteredByWordList(words, recommendedDictionary)
+      convertDictionaryToEntriesFilteredByWordList(
+        words,
+        recommendedDictionary,
+      ),
     ).toEqual([
       ["KPWH", "it"],
       ["KPWH-BGD", "it could"],

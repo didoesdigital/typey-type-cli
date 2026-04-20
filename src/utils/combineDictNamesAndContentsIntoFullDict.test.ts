@@ -6,7 +6,7 @@ describe("combineDictNamesAndContentsIntoFullDict", () => {
       combineDictNamesAndContentsIntoFullDict([
         ["dict1.json", { TEFT: "test1", TEFTD: "tested" }],
         ["dict2.json", { TEFT: "test2", TEFGT: "test1" }],
-      ])
+      ]),
     ).toEqual({
       TEFT: "test2",
       TEFTD: "tested",
@@ -19,7 +19,7 @@ describe("combineDictNamesAndContentsIntoFullDict", () => {
       combineDictNamesAndContentsIntoFullDict([
         ["top-10000-project-gutenberg-words.json", { TEFT: "test1" }],
         ["dict2.json", { TEF: "test1" }],
-      ])
+      ]),
     ).toEqual({
       TEF: "test1",
       TEFT: "test1",
@@ -32,7 +32,7 @@ describe("combineDictNamesAndContentsIntoFullDict", () => {
         ["dict.json", { "TKW-D": "÷" }],
         ["symbols-briefs.json", { "TKWAO*EUD": "÷" }],
         ["other.json", { "TKW-D": "\u00f7" }],
-      ])
+      ]),
     ).toEqual({
       "TKW-D": "÷",
       "TKWAO*EUD": "÷",
@@ -59,7 +59,7 @@ describe("combineDictNamesAndContentsIntoFullDict", () => {
             "OR/TKER/*FS": "hors d'oeuvres",
           },
         ],
-      ])
+      ]),
     ).toEqual({
       "HOR/TKEFRBZ": "hors d'oeuvres",
       // If we kept all entries:

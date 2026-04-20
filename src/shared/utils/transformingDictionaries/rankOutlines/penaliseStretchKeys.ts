@@ -11,7 +11,7 @@ const splitAtLastChar = (outline: Outline): [string, string] => {
 const penaliseStretchKeys = (
   givenOutline: Outline,
   otherOutline: Outline,
-  translation: Translation
+  translation: Translation,
 ) => {
   const [givenOutlineAllButLastChar, givenOutlineLastChar] =
     splitAtLastChar(givenOutline);

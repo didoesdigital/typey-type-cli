@@ -6,7 +6,7 @@ describe("sortByStenoOrder", () => {
       sortByStenoOrder([
         ["ST", "st"],
         ["AT", "at"],
-      ])
+      ]),
     ).toEqual([
       ["ST", "st"],
       ["AT", "at"],
@@ -18,7 +18,7 @@ describe("sortByStenoOrder", () => {
       sortByStenoOrder([
         ["S", "s"],
         ["1", "1"],
-      ])
+      ]),
     ).toEqual([
       ["1", "1"],
       ["S", "s"],
@@ -33,7 +33,7 @@ describe("sortByStenoOrder", () => {
         ["1", "{&1}"],
         ["#", "=repeat_last_translation"],
         ["ST", "is it"],
-      ])
+      ]),
     ).toEqual([
       ["#", "=repeat_last_translation"],
       ["#S", "{&1}"],
@@ -48,7 +48,7 @@ describe("sortByStenoOrder", () => {
       sortByStenoOrder([
         ["-Z", "{^s}"],
         ["-D", "{^ed}"],
-      ])
+      ]),
     ).toEqual([
       ["-D", "{^ed}"],
       ["-Z", "{^s}"],
@@ -60,7 +60,7 @@ describe("sortByStenoOrder", () => {
       sortByStenoOrder([
         ["AT/AT", "at"],
         ["AT", "at"],
-      ])
+      ]),
     ).toEqual([
       ["AT", "at"],
       ["AT/AT", "at"],
@@ -72,7 +72,7 @@ describe("sortByStenoOrder", () => {
       sortByStenoOrder([
         ["ATD", "atd"],
         ["AT", "at"],
-      ])
+      ]),
     ).toEqual([
       ["AT", "at"],
       ["ATD", "atd"],
@@ -85,7 +85,7 @@ describe("sortByStenoOrder", () => {
         ["STAOEP/-L", "steeple"],
         ["STAOEP/-LS", "steeples"],
         ["STAOEP/-PBS", "steepness"],
-      ])
+      ]),
     ).toEqual([
       ["STAOEP/-PBS", "steepness"],
       ["STAOEP/-L", "steeple"],
@@ -98,7 +98,7 @@ describe("sortByStenoOrder", () => {
       sortByStenoOrder([
         ["STEULT/-D", "stilted"],
         ["STEULT/-S", "stilts"],
-      ])
+      ]),
     ).toEqual([
       ["STEULT/-S", "stilts"],
       ["STEULT/-D", "stilted"],
@@ -110,7 +110,7 @@ describe("sortByStenoOrder", () => {
       sortByStenoOrder([
         ["STPH-PBD", "sentenced"],
         ["STPH-PBSZ", "sentences"],
-      ])
+      ]),
     ).toEqual([
       ["STPH-PBSZ", "sentences"],
       ["STPH-PBD", "sentenced"],
@@ -122,7 +122,7 @@ describe("sortByStenoOrder", () => {
       sortByStenoOrder([
         ["12-R", "XII"],
         ["12EU", "21"],
-      ])
+      ]),
     ).toEqual([
       ["12EU", "21"],
       ["12-R", "XII"],

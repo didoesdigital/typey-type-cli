@@ -22,7 +22,7 @@ const run = async () => {
   const perfObserver = new PerformanceObserver((items) => {
     items.getEntries().forEach((entry) => {
       console.log(
-        `⏱  ${entry.duration} ms to build lesson index using ${lessonIndexSource}`
+        `⏱  ${entry.duration} ms to build lesson index using ${lessonIndexSource}`,
       );
     });
   });
@@ -37,7 +37,7 @@ const run = async () => {
   } catch (error) {
     console.error(
       `Error: there was an error parsing the source lesson index file. `,
-      error
+      error,
     );
   }
 
@@ -53,10 +53,10 @@ const run = async () => {
           }
           const metaContents = await fs.readFile(metaPath, "utf8");
           return JSON.parse(metaContents);
-        })
+        }),
       ).catch((error) => {
         throw new Error(
-          `There was an error reading the meta files to build the lesson index. ${error}`
+          `There was an error reading the meta files to build the lesson index. ${error}`,
         );
       })
     ).filter(Boolean); // Exclude missing meta files
@@ -64,7 +64,7 @@ const run = async () => {
     if (missingMetaFiles.length > 0) {
       console.error({ missingMetaFiles });
       throw new Error(
-        "The source lesson index includes lessons that don't have matching meta.json files."
+        "The source lesson index includes lessons that don't have matching meta.json files.",
       );
     }
 
@@ -94,7 +94,7 @@ const run = async () => {
         };
 
         return result;
-      })
+      }),
     );
 
     await fs

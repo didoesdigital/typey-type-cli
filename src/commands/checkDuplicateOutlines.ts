@@ -37,20 +37,20 @@ const run = async (options: Options) => {
       .map(async (dictFile: string) => {
         const dict = await fs.readFile(
           `${standardDictionariesDir}/${dictFile}`,
-          "utf8"
+          "utf8",
         );
         return JSON.parse(dict);
-      })
+      }),
   ).catch((error) => {
     throw new Error(
-      `There was an error reading the standard Typey Type dictionary set. ${error}`
+      `There was an error reading the standard Typey Type dictionary set. ${error}`,
     );
   });
   const zippedDictionariesNamesAndContents = zipDictNameAndContents(
     standardDictionarySet.filter(
-      (name) => !ignoreExpectedDuplicateDictionaries.includes(name)
+      (name) => !ignoreExpectedDuplicateDictionaries.includes(name),
     ),
-    standardDicts
+    standardDicts,
   );
 
   const seen = new Map();
@@ -80,12 +80,12 @@ const run = async (options: Options) => {
       const firstTranslation = listOfDictAndTranslation[0].translation;
       const differingTranslations = listOfDictAndTranslation.filter(
         (dictAndTranslation) =>
-          dictAndTranslation.translation !== firstTranslation
+          dictAndTranslation.translation !== firstTranslation,
       );
       if (differingTranslations.length > 0) {
         console.log(`"${outline}"`);
         console.log(
-          `  - ${listOfDictAndTranslation[0].dictName}: "${firstTranslation}"`
+          `  - ${listOfDictAndTranslation[0].dictName}: "${firstTranslation}"`,
         );
         for (const { dictName, translation } of differingTranslations) {
           console.log(`  - ${dictName}: "${translation}"`);
@@ -99,7 +99,7 @@ const run = async (options: Options) => {
   console.log(
     `Done checking dictionaries for duplicate outlines with ${
       options.uniqueTranslations ? "unique translations" : "any translations"
-    }.`
+    }.`,
   );
 };
 

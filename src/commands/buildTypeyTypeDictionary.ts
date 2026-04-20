@@ -55,24 +55,24 @@ const run = async (options: Options) => {
     standardDictionarySet.map(async (dictFile: string) => {
       const dict = await fs.readFile(
         `${standardDictionariesDir}/${dictFile}`,
-        "utf8"
+        "utf8",
       );
       return JSON.parse(dict);
-    })
+    }),
   ).catch((error) => {
     throw new Error(
-      `There was an error reading the standard Typey Type dictionary set. ${error}`
+      `There was an error reading the standard Typey Type dictionary set. ${error}`,
     );
   });
 
   const zippedDictionariesNamesAndContents = zipDictNameAndContents(
     standardDictionarySet,
-    standardDicts
+    standardDicts,
   );
 
   // NOTE: We actually use the `typey-type-full.json` dictionary after Dec 2024
   const combinedFullJSON = combineDictNamesAndContentsIntoFullDict(
-    zippedDictionariesNamesAndContents
+    zippedDictionariesNamesAndContents,
   );
   const combinedFull = JSON.stringify(combinedFullJSON, null, 2);
   await fs.writeFile(options.target, combinedFull).catch((err) => {
@@ -90,7 +90,7 @@ const run = async (options: Options) => {
   const affixMisstrokes = getAffixMisstrokesFromMisstrokes(misstrokes);
   const newAffixes: AffixObject = getAffixesFromLookupDict(
     combineValidDictionaries([], readDictionariesData),
-    affixMisstrokes
+    affixMisstrokes,
   );
 
   // NOTE: we hand-craft this JSON string purely to preserve the formatting of
@@ -101,13 +101,13 @@ const run = async (options: Options) => {
   const stringifiedPrefixes = newAffixes.prefixes
     .map(
       ([outline, translation]) =>
-        `    [${JSON.stringify(outline)}, ${JSON.stringify(translation)}]`
+        `    [${JSON.stringify(outline)}, ${JSON.stringify(translation)}]`,
     )
     .join(",\n");
   const stringifiedSuffixes = newAffixes.suffixes
     .map(
       ([outline, translation]) =>
-        `    [${JSON.stringify(outline)}, ${JSON.stringify(translation)}]`
+        `    [${JSON.stringify(outline)}, ${JSON.stringify(translation)}]`,
     )
     .join(",\n");
   const stringifiedAffixesJson = `{
@@ -124,7 +124,7 @@ ${stringifiedSuffixes}
   // NOTE: The `typey-type.json` dictionary is no longer used after Dec 2024
   // but we continue to build it for anyone that may be relying on it:
   const combinedSlimJSON = combineDictNamesAndContentsIntoDict(
-    zippedDictionariesNamesAndContents
+    zippedDictionariesNamesAndContents,
   );
   const combinedSlim = JSON.stringify(combinedSlimJSON, null, 2);
   const slimTarget = `${options.target.replace("-full.json", ".json")}`;

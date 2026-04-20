@@ -15,12 +15,12 @@ import type { StenoDictionary } from "../shared/types";
  */
 const convertDictionaryToEntriesFilteredByWordList = (
   words: string[],
-  recommendedDictionary: StenoDictionary
+  recommendedDictionary: StenoDictionary,
 ): DictEntries => {
   const wordSet = new Set(words);
 
   const dictionaryAsLesson: DictEntries = Object.entries(
-    recommendedDictionary
+    recommendedDictionary,
   ).filter((entry) => (wordSet.has(entry[1]) ? true : false));
 
   return dictionaryAsLesson;

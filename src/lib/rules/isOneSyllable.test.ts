@@ -67,13 +67,13 @@ describe("isOneSyllable", () => {
 
   it("returns false for phrases with punctuation", async () => {
     expect(
-      isOneSyllable("KHR-PB/STREUPBG/PREPB/#T/#A/#A/PR*EPB", ":string(255)")
+      isOneSyllable("KHR-PB/STREUPBG/PREPB/#T/#A/#A/PR*EPB", ":string(255)"),
     ).toEqual(false);
   });
 
   it("returns false for translations with new lines", async () => {
     expect(
-      isOneSyllable("OEBL/KOED/TPEPBS/SKWR-S", "{^}~~~js\n\n{^~~~^}{#Up}{^}")
+      isOneSyllable("OEBL/KOED/TPEPBS/SKWR-S", "{^}~~~js\n\n{^~~~^}{#Up}{^}"),
     ).toEqual(false);
   });
 });

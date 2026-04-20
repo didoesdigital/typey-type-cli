@@ -2256,14 +2256,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-config-prettier@npm:^8.5.0":
-  version: 8.5.0
-  resolution: "eslint-config-prettier@npm:8.5.0"
+"eslint-config-prettier@npm:10.1.4":
+  version: 10.1.4
+  resolution: "eslint-config-prettier@npm:10.1.4"
   peerDependencies:
     eslint: ">=7.0.0"
   bin:
     eslint-config-prettier: bin/cli.js
-  checksum: 10c0/e01efe3a30cc7a9d4944242b7944c4488514dfa198707d268474e1b938c6b8d1be1320c40ad01f1f3cde93bf393770b2d013e709c8411d41d9d0421fff86a12a
+  checksum: 10c0/715a2bd69a3d808366996bdb7507d472c4fb847400abfae52bb17736eaab82b639e6a6f83d677c82bce7be89809eea82f21fa2cb583876bd211b761310be3cf2
   languageName: node
   linkType: hard
 
@@ -4098,12 +4098,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prettier@npm:2.7.1":
-  version: 2.7.1
-  resolution: "prettier@npm:2.7.1"
+"prettier@npm:3.8.1":
+  version: 3.8.1
+  resolution: "prettier@npm:3.8.1"
   bin:
-    prettier: bin-prettier.js
-  checksum: 10c0/359d2b7ecf36bd52924a48331cae506d335f18637fde6c686212f952b9ce678ce9f554a80571049b36ec2897a8a6c40094b776dea371cc5c04c481cf5b78504b
+    prettier: bin/prettier.cjs
+  checksum: 10c0/33169b594009e48f570471271be7eac7cdcf88a209eed39ac3b8d6d78984039bfa9132f82b7e6ba3b06711f3bfe0222a62a1bfb87c43f50c25a83df1b78a2c42
   languageName: node
   linkType: hard
 
@@ -4651,11 +4651,11 @@ __metadata:
     "@types/node": "npm:^24.1.0"
     commander: "npm:^8.3.0"
     eslint: "npm:9.39.4"
-    eslint-config-prettier: "npm:^8.5.0"
+    eslint-config-prettier: "npm:10.1.4"
     globals: "npm:^17.3.0"
     jest: "npm:^30.3.0"
     jest-silent-reporter: "npm:^0.6.0"
-    prettier: "npm:2.7.1"
+    prettier: "npm:3.8.1"
     ts-jest: "npm:^29.4.6"
     ts-node: "npm:^10.9.2"
     typescript: "npm:5.9.2"

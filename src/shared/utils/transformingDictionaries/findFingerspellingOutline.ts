@@ -6,7 +6,7 @@ const findFingerspellingOutline = (
   globalLookupDictionary: LookupDictWithNamespacedDicts,
   strokeForOneCharacterWordPart: string,
   affixList: AffixObject,
-  precedingChar?: string // TODO: make this required and union undefined, and explicitly pass undefined where presently unused
+  precedingChar?: string, // TODO: make this required and union undefined, and explicitly pass undefined where presently unused
 ) => {
   if (precedingChar === " ") {
     let modifiedWordOrPhrase = `{${wordOrPhrase}}`; // for `houses?" It`
@@ -15,7 +15,7 @@ const findFingerspellingOutline = (
       strokeForOneCharacterWordPart = getRankedOutlineFromLookupEntry(
         lookupEntry,
         modifiedWordOrPhrase,
-        affixList
+        affixList,
       );
     } else {
       modifiedWordOrPhrase = wordOrPhrase; // for ` B`
@@ -24,7 +24,7 @@ const findFingerspellingOutline = (
         strokeForOneCharacterWordPart = getRankedOutlineFromLookupEntry(
           lookupEntry,
           modifiedWordOrPhrase,
-          affixList
+          affixList,
         );
       }
     }
@@ -36,7 +36,7 @@ const findFingerspellingOutline = (
       strokeForOneCharacterWordPart = getRankedOutlineFromLookupEntry(
         lookupEntry,
         modifiedWordOrPhrase,
-        affixList
+        affixList,
       );
     } else {
       // try look up lowercase letters from personal dictionaries:
@@ -46,7 +46,7 @@ const findFingerspellingOutline = (
         strokeForOneCharacterWordPart = getRankedOutlineFromLookupEntry(
           lookupEntry,
           modifiedWordOrPhrase,
-          affixList
+          affixList,
         );
       }
     }

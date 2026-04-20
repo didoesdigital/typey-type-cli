@@ -8,7 +8,7 @@ import type {
 
 const combineValidDictionaries = (
   personalDictionariesNamesAndContents: PersonalDictionaryNameAndContents[],
-  typeyDicts: ReadDictionariesData
+  typeyDicts: ReadDictionariesData,
 ) => {
   let combinedLookupDictionary = new Map();
   const numberOfPersonalDictionaries =
@@ -26,7 +26,7 @@ const combineValidDictionaries = (
         dictContent,
         combinedLookupDictionary,
         `${SOURCE_NAMESPACES.get("user")}:${dictName}`,
-        outlinesWeHaveSeen
+        outlinesWeHaveSeen,
       );
   }
 
@@ -36,7 +36,7 @@ const combineValidDictionaries = (
       readDictData[0],
       combinedLookupDictionary,
       `${SOURCE_NAMESPACES.get("typey")}:${readDictData[1]}`,
-      new Set()
+      new Set(),
     );
   });
 

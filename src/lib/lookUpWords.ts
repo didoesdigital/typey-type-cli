@@ -13,13 +13,13 @@ import type { LookupDictWithNamespacedDicts } from "../shared/types";
  */
 const lookUpWords = (
   words: string[],
-  lookupDict: LookupDictWithNamespacedDicts
+  lookupDict: LookupDictWithNamespacedDicts,
 ): DictEntries =>
   words.map((word) => {
     const hint = createStrokeHintForPhrase(
       word,
       lookupDict,
-      AFFIXES.getSharedAffixes()
+      AFFIXES.getSharedAffixes(),
     );
 
     return [hint, word];

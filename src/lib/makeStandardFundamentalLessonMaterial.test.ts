@@ -44,7 +44,7 @@ describe("makeStandardFundamentalLessonMaterial", () => {
     const [entries, transformedEntries] = makeStandardFundamentalLessonMaterial(
       lessonTypeAndData.vocabLookupDict,
       lessonTypeAndData.rules,
-      exclusions
+      exclusions,
     );
 
     expect(entries).toEqual([

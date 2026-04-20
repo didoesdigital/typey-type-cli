@@ -207,7 +207,7 @@ export type PrefixEntry = [PrefixOutlineWithSlash, PrefixTextWithNoTPRBGTS];
  */
 export type SuffixEntry = [
   SuffixOutlineWithLeadingSlash,
-  SuffixTextWithNoTPRBGTS
+  SuffixTextWithNoTPRBGTS,
 ];
 
 /**
@@ -217,7 +217,7 @@ export type SuffixEntry = [
  */
 export type AffixItem = [
   PrefixOutlineWithSlash | SuffixOutlineWithLeadingSlash,
-  PrefixTextWithNoTPRBGTS | SuffixTextWithNoTPRBGTS
+  PrefixTextWithNoTPRBGTS | SuffixTextWithNoTPRBGTS,
 ];
 
 /**

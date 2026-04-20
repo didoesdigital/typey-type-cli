@@ -10,8 +10,8 @@ import type {
 
 const namespaceRegex = new RegExp(
   `^(?<Source>(${Array.from(SOURCE_NAMESPACES.values()).join(
-    "|"
-  )})):(?<Name>.+)$`
+    "|",
+  )})):(?<Name>.+)$`,
 );
 
 /**
@@ -22,7 +22,7 @@ const namespaceRegex = new RegExp(
  * ["TEFT", "personal", "user"]
  */
 const splitIntoStrokesDictsAndNamespaces = (
-  strokesAndSources: StrokeAndNamespacedDict[]
+  strokesAndSources: StrokeAndNamespacedDict[],
 ): StrokeAndDictionaryAndNamespace[] =>
   strokesAndSources.map((strokesAndSource) => {
     const outline: Outline = strokesAndSource[0];

@@ -45,13 +45,13 @@ describe("startsWithPrefix", () => {
 
   it("returns false for outline starting with a down-ranked prefix outline when there is a better prefix outline included in the affixes prefix list", async () => {
     expect(startsWithPrefix("HO*EUP/KHORPBD/KWRA", "hypochondria")).toEqual(
-      false
+      false,
     );
   });
 
   it("returns true for outline starting with a up-ranked prefix outline", async () => {
     expect(startsWithPrefix("HOEUP/KHORPBD/KWRA", "hypochondria")).toEqual(
-      true
+      true,
     );
   });
 });

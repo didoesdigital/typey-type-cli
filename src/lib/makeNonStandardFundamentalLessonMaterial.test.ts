@@ -39,7 +39,7 @@ describe("makeNonStandardFundamentalLessonMaterial", () => {
         lessonTypeAndData.recommendedLookupDict,
         lessonTypeAndData.rules,
         exclusions,
-        lessonTypeAndData.words
+        lessonTypeAndData.words,
       );
 
     expect(entries).toEqual([

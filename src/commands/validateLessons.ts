@@ -23,17 +23,17 @@ const run = async () => {
     } catch (error) {
       console.error(
         `Error: there was an error parsing the lesson file for validation. `,
-        error
+        error,
       );
     }
 
     if (dict === null) {
       console.error(
-        `Found null dictionary validating lesson: ${singleStrokeLesson}`
+        `Found null dictionary validating lesson: ${singleStrokeLesson}`,
       );
 
       throw new Error(
-        `❌ Single-stroke lessons should have dictionary files to validate. `
+        `❌ Single-stroke lessons should have dictionary files to validate. `,
       );
     }
 
@@ -41,10 +41,10 @@ const run = async () => {
       if (outline.includes("/")) {
         const filename = singleStrokeLesson.replace(/.*\//, "");
         console.error(
-          `❌ ${filename} contains multi-stroke outline: ${outline}: ${translation}`
+          `❌ ${filename} contains multi-stroke outline: ${outline}: ${translation}`,
         );
         throw new Error(
-          `❌ Single-stroke lessons should not have multi-stroke outlines. `
+          `❌ Single-stroke lessons should not have multi-stroke outlines. `,
         );
       }
     }

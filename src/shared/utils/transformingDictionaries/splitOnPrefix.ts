@@ -7,7 +7,7 @@ import type { AffixItem } from "../../types";
 
 const getMatchingPrefix = (
   wordOrPhraseMaterial: string,
-  prefixes: AffixItem[]
+  prefixes: AffixItem[],
 ) => {
   let i = 0;
   let prefixFound = false;
@@ -31,11 +31,11 @@ const splitOnPrefix: SplitterFunction = (
   globalLookupDictionary,
   affixList,
   depth,
-  _precedingChar
+  _precedingChar,
 ) => {
   const prefixEntry = getMatchingPrefix(
     wordOrPhraseMaterial,
-    affixList.prefixes
+    affixList.prefixes,
   );
   if (prefixEntry === null) {
     return null;
@@ -60,7 +60,7 @@ const splitOnPrefix: SplitterFunction = (
           wordBit,
           globalLookupDictionary,
           fingerspelledCharacters[wordBit],
-          affixList
+          affixList,
         );
         if (fingerspelled) return fingerspelled;
       }
@@ -74,7 +74,7 @@ const splitOnPrefix: SplitterFunction = (
         globalLookupDictionary,
         affixList,
         depth++,
-        i === 0 ? "" : prefixAndRest[i - 1].slice(-1) // TODO: Probably breaks emoji
+        i === 0 ? "" : prefixAndRest[i - 1].slice(-1), // TODO: Probably breaks emoji
       );
     })
     .join("/");

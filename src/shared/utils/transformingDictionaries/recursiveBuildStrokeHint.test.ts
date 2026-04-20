@@ -39,7 +39,7 @@ describe("recursively build stroke hint for phrase", () => {
             ],
           ]),
           AFFIXES.getSharedAffixes(),
-          25
+          25,
         );
         expect(result).toEqual(unknownStroke);
       });
@@ -61,7 +61,7 @@ describe("recursively build stroke hint for phrase", () => {
             ],
           ]),
           AFFIXES.getSharedAffixes(),
-          0
+          0,
         );
         expect(result).toEqual(unknownStroke);
       });

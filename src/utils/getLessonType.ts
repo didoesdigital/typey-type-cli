@@ -42,7 +42,7 @@ const getLessonType = (
   firstRecommendedDict: StenoDictionary | undefined,
   rules: Rules | undefined,
   words: string[] | undefined,
-  title: string | undefined
+  title: string | undefined,
 ) => {
   // Fundamentals find entries that match rules from top 10000 words
   if (vocabLookupDict && rules && !(recommendedLookupDict && words)) {

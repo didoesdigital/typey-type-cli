@@ -40,13 +40,13 @@ describe("findFingerspellingOutline", () => {
           },
           LATEST_TYPEY_TYPE_FULL_DICT_NAME,
         ],
-      ]
+      ],
     );
 
     const customAffixMisstrokes = getAffixMisstrokesFromMisstrokes(misstrokes);
     const customTestAffixes = getAffixesFromLookupDict(
       customGlobalLookupDictionary,
-      customAffixMisstrokes
+      customAffixMisstrokes,
     );
 
     AFFIXES.setSharedAffixes(customTestAffixes);
@@ -65,7 +65,7 @@ describe("findFingerspellingOutline", () => {
       ["{}{-|}", [["KPA", "typey:typey-type.json"]]],
     ]);
     expect(
-      findFingerspellingOutline('"', lookupDict, "KR-GS", affixList, "?")
+      findFingerspellingOutline('"', lookupDict, "KR-GS", affixList, "?"),
     ).toEqual("KR-GS");
   });
 
@@ -82,7 +82,7 @@ describe("findFingerspellingOutline", () => {
       ["{&L}", [["-LZ", "my-personal-dict.json"]]],
     ]);
     expect(
-      findFingerspellingOutline("B", lookupDict, "PW*P", affixList, "")
+      findFingerspellingOutline("B", lookupDict, "PW*P", affixList, ""),
     ).toEqual("-BZ");
   });
 
@@ -99,7 +99,7 @@ describe("findFingerspellingOutline", () => {
       ["{&L}", [["-LZ", "my-personal-dict.json"]]],
     ]);
     expect(
-      findFingerspellingOutline("C", lookupDict, "KR*P", affixList, "")
+      findFingerspellingOutline("C", lookupDict, "KR*P", affixList, ""),
     ).toEqual("KR*P");
   });
 
@@ -110,7 +110,7 @@ describe("findFingerspellingOutline", () => {
       ["{^ed}", [["-D", "typey:typey-type.json"]]],
     ]);
     expect(
-      findFingerspellingOutline("e", lookupDict, "*E", affixList, undefined)
+      findFingerspellingOutline("e", lookupDict, "*E", affixList, undefined),
     ).toEqual("*E");
   });
 
@@ -123,7 +123,7 @@ describe("findFingerspellingOutline", () => {
       ["{&e}", [["*E", "typey:typey-type.json"]]],
     ]);
     expect(
-      findFingerspellingOutline("e", lookupDict, "*E", affixList, undefined)
+      findFingerspellingOutline("e", lookupDict, "*E", affixList, undefined),
     ).toEqual("*E");
   });
 
@@ -137,7 +137,7 @@ describe("findFingerspellingOutline", () => {
       // ["{&e}", [["*E", "typey:typey-type.json"]]],
     ]);
     expect(
-      findFingerspellingOutline("e", lookupDict, "*E", affixList, undefined)
+      findFingerspellingOutline("e", lookupDict, "*E", affixList, undefined),
     ).toEqual("EFPLT");
   });
 
@@ -149,7 +149,7 @@ describe("findFingerspellingOutline", () => {
       // ]],
     ]);
     expect(
-      findFingerspellingOutline("0", lookupDict, "0", affixList, undefined)
+      findFingerspellingOutline("0", lookupDict, "0", affixList, undefined),
     ).toEqual("0"); // thanks to FINGERSPELLED_LETTERS
   });
 
@@ -166,7 +166,7 @@ describe("findFingerspellingOutline", () => {
       ],
     ]);
     expect(
-      findFingerspellingOutline("0", lookupDict, "0", affixList, undefined)
+      findFingerspellingOutline("0", lookupDict, "0", affixList, undefined),
     ).toEqual("#O");
   });
 
@@ -176,7 +176,7 @@ describe("findFingerspellingOutline", () => {
       ["&", [["SKP", "typey:typey-type.json"]]],
     ]);
     expect(
-      findFingerspellingOutline("&", lookupDict, "SKP*", affixList, "")
+      findFingerspellingOutline("&", lookupDict, "SKP*", affixList, ""),
     ).toEqual("SKP*");
   });
 
@@ -193,7 +193,7 @@ describe("findFingerspellingOutline", () => {
       ],
     ]);
     expect(
-      findFingerspellingOutline("&", lookupDict, "SKP*", affixList, "")
+      findFingerspellingOutline("&", lookupDict, "SKP*", affixList, ""),
     ).toEqual("SP-PBD");
   });
 
@@ -213,7 +213,7 @@ describe("findFingerspellingOutline", () => {
       ["{[^}", [["PWR-BGT", "plover:plover.json"]]],
     ]);
     expect(
-      findFingerspellingOutline("[", lookupDict, "PWR-BGT", affixList, " ")
+      findFingerspellingOutline("[", lookupDict, "PWR-BGT", affixList, " "),
     ).toEqual("PWR-BG");
   });
 
@@ -233,7 +233,7 @@ describe("findFingerspellingOutline", () => {
       ["{[^}", [["PWR-BGT", "plover:plover.json"]]],
     ]);
     expect(
-      findFingerspellingOutline("[", lookupDict, "PWR-BGT", affixList, "")
+      findFingerspellingOutline("[", lookupDict, "PWR-BGT", affixList, ""),
     ).toEqual("PWR-BGT");
   });
 
@@ -249,7 +249,7 @@ describe("findFingerspellingOutline", () => {
       ],
     ]);
     expect(
-      findFingerspellingOutline(",", lookupDict, "KW-BG", affixList, undefined)
+      findFingerspellingOutline(",", lookupDict, "KW-BG", affixList, undefined),
     ).toEqual("KW-BG");
   });
 
@@ -273,7 +273,7 @@ describe("findFingerspellingOutline", () => {
       ],
     ]);
     expect(
-      findFingerspellingOutline("—", lookupDict, "EPL/TKA*RB", affixList, " ")
+      findFingerspellingOutline("—", lookupDict, "EPL/TKA*RB", affixList, " "),
     ).toEqual("EPL/TKA*RB"); // thanks to FINGERSPELLED_LETTERS
   });
 
@@ -286,7 +286,7 @@ describe("findFingerspellingOutline", () => {
       ["{^'}", [["AE", "typey:typey-type.json"]]],
     ]);
     expect(
-      findFingerspellingOutline("t", lookupDict, "T*", affixList, " ")
+      findFingerspellingOutline("t", lookupDict, "T*", affixList, " "),
     ).toEqual("T*/SP-S");
   });
 
@@ -301,7 +301,7 @@ describe("findFingerspellingOutline", () => {
       ["{^}{-|}", [["KPA*", "typey:typey-type.json"]]],
     ]);
     expect(
-      findFingerspellingOutline("s", lookupDict, "S*", affixList, undefined)
+      findFingerspellingOutline("s", lookupDict, "S*", affixList, undefined),
     ).toEqual("S*");
   });
 
@@ -314,7 +314,7 @@ describe("findFingerspellingOutline", () => {
       ["{,}", [["KW-BG", "typey:typey-type.json"]]],
     ]);
     expect(
-      findFingerspellingOutline(",", lookupDict, "KW-BG", affixList, undefined)
+      findFingerspellingOutline(",", lookupDict, "KW-BG", affixList, undefined),
     ).toEqual("KW-BG");
   });
 
@@ -327,7 +327,7 @@ describe("findFingerspellingOutline", () => {
       ["{,}", [["KW-BG", "typey:typey-type.json"]]],
     ]);
     expect(
-      findFingerspellingOutline(",", lookupDict, "", affixList, undefined)
+      findFingerspellingOutline(",", lookupDict, "", affixList, undefined),
     ).toEqual("");
   });
 });

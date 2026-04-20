@@ -16,10 +16,10 @@ import type {
  * @returns A lookup dictionary e.g. `new Map([["test", [["TEFGT", "typey:typey-type.json"], ["TEFT/-G", "typey:typey-type.json"]]])
  */
 const createLookupDict = (
-  dictionariesAndTheirNames: [StenoDictionary, DictName][]
+  dictionariesAndTheirNames: [StenoDictionary, DictName][],
 ): LookupDictWithNamespacedDicts => {
   const lookupDict: LookupDictWithNamespacedDicts = new Map(
-    numberDictionaryEntries
+    numberDictionaryEntries,
   );
 
   for (let dict = 0; dict < dictionariesAndTheirNames.length; dict++) {

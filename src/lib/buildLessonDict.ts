@@ -8,7 +8,7 @@ type LessonDictString = string;
  * Builds lesson dictionary string in preparation for writing to a file
  */
 const buildLessonDict = async (
-  entries: DictEntries
+  entries: DictEntries,
 ): Promise<LessonDictString> => {
   return (
     JSON.stringify(Object.fromEntries(entries), null, " ")

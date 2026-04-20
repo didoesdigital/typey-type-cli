@@ -7,7 +7,7 @@ import type { LoadFunction } from "../shared/utils/affixes/affixes";
 const loadAffixes: LoadFunction = () => {
   try {
     const newAffixes: AffixObject = JSON.parse(
-      fs.readFileSync(affixesPath, "utf8")
+      fs.readFileSync(affixesPath, "utf8"),
     );
     return newAffixes;
   } catch (error) {

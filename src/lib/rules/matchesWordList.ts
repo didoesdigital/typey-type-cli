@@ -5,7 +5,7 @@ import type { Rules } from "../../cli-types";
 const matchesWordList = (
   translation: Translation,
   words: string[],
-  rules: Rules
+  rules: Rules,
 ) => {
   let transformed = translation;
 

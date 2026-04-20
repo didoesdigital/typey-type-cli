@@ -42,7 +42,7 @@ function getVowelSuffixPriority(outline: string) {
 function rankAffixes(
   arrayOfStrokesAndTheirSourceDictNames: StrokeAndDictionaryAndNamespace[],
   affixMisstrokes: StenoDictionary,
-  translation: string
+  translation: string,
 ) {
   arrayOfStrokesAndTheirSourceDictNames.sort((a, b) => {
     if (a[2] === "user" && b[2] !== "user") return -1;
@@ -88,12 +88,12 @@ function rankAffixes(
       outlineALengthWithAllPenalties += penaliseStretchKeys(
         outlineA,
         outlineB,
-        translation
+        translation,
       );
       outlineBLengthWithAllPenalties += penaliseStretchKeys(
         outlineB,
         outlineA,
-        translation
+        translation,
       );
     }
 

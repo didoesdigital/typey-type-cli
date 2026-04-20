@@ -57,7 +57,7 @@ function isLessonTextValid(lessonText: string) {
 function isPeak(
   currentItemLength: number,
   previousItemLength: number,
-  nextItemLength: number
+  nextItemLength: number,
 ) {
   let isPeak = false;
   if (

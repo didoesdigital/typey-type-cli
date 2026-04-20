@@ -17,7 +17,7 @@ const chooseOutlineForPhrase = (
   chosenStroke: string | undefined,
   strokeLookupAttempts: number,
   precedingChar: string,
-  affixList = AFFIXES.getSharedAffixes()
+  affixList = AFFIXES.getSharedAffixes(),
 ): ChooseOutlineForPhraseResult => {
   const suffixes = affixList.suffixes;
   const suffixesLength = suffixes.length;
@@ -35,7 +35,7 @@ const chooseOutlineForPhrase = (
     chosenStroke = getRankedOutlineFromLookupEntry(
       lookupEntry,
       wordOrPhrase,
-      affixList
+      affixList,
     );
   } else {
     chosenStroke = undefined;
@@ -44,26 +44,26 @@ const chooseOutlineForPhrase = (
   let spacedCapitalisationOutline = "KPA";
   const spacedCapitalisationTranslation = "{}{-|}";
   const spacedCapitalisationEntry = globalLookupDictionary.get(
-    spacedCapitalisationTranslation
+    spacedCapitalisationTranslation,
   );
   if (spacedCapitalisationEntry) {
     spacedCapitalisationOutline = getRankedOutlineFromLookupEntry(
       spacedCapitalisationEntry,
       spacedCapitalisationTranslation,
-      affixList
+      affixList,
     );
   }
 
   let unspacedCapitalisationOutline = "KPA*";
   const unspacedCapitalisationTranslation = "{^}{-|}";
   const unspacedCapitalisationEntry = globalLookupDictionary.get(
-    unspacedCapitalisationTranslation
+    unspacedCapitalisationTranslation,
   );
   if (unspacedCapitalisationEntry) {
     unspacedCapitalisationOutline = getRankedOutlineFromLookupEntry(
       unspacedCapitalisationEntry,
       unspacedCapitalisationTranslation,
-      affixList
+      affixList,
     );
   }
 
@@ -74,7 +74,7 @@ const chooseOutlineForPhrase = (
     uppercaseOutline = getRankedOutlineFromLookupEntry(
       uppercaseEntry,
       uppercaseTranslation,
-      affixList
+      affixList,
     );
   }
 
@@ -85,18 +85,20 @@ const chooseOutlineForPhrase = (
     lowercaseOutline = getRankedOutlineFromLookupEntry(
       lowercaseEntry,
       lowercaseTranslation,
-      affixList
+      affixList,
     );
   }
 
   let suppressSpaceOutline = "TK-LS";
   const suppressSpaceTranslation = "{^^}";
-  const suppressSpaceEntry = globalLookupDictionary.get(suppressSpaceTranslation);
+  const suppressSpaceEntry = globalLookupDictionary.get(
+    suppressSpaceTranslation,
+  );
   if (suppressSpaceEntry) {
     suppressSpaceOutline = getRankedOutlineFromLookupEntry(
       suppressSpaceEntry,
       suppressSpaceTranslation,
-      affixList
+      affixList,
     );
   }
 
@@ -107,7 +109,7 @@ const chooseOutlineForPhrase = (
       globalLookupDictionary,
       strokeForOneCharacterWord,
       affixList,
-      precedingChar
+      precedingChar,
     );
 
     return [strokeForOneCharacterWord, strokeLookupAttempts + 1];
@@ -125,7 +127,7 @@ const chooseOutlineForPhrase = (
       globalLookupDictionary,
       strokeForOneCharacterWordPart,
       affixList,
-      precedingChar
+      precedingChar,
     );
 
     if (precedingChar === " " && wordOrPhrase === '"') {
@@ -142,7 +144,7 @@ const chooseOutlineForPhrase = (
       lookupEntry = getRankedOutlineFromLookupEntry(
         lookupEntry,
         modifiedWordOrPhrase,
-        affixList
+        affixList,
       );
     }
     const uppercasedStroke = lookupEntry;
@@ -162,7 +164,7 @@ const chooseOutlineForPhrase = (
       lookupEntry = getRankedOutlineFromLookupEntry(
         lookupEntry,
         modifiedWordOrPhrase,
-        affixList
+        affixList,
       );
     }
     const uppercasedStroke = lookupEntry;
@@ -202,7 +204,7 @@ const chooseOutlineForPhrase = (
         originalEntry = getRankedOutlineFromLookupEntry(
           originalEntry,
           mainWord,
-          affixList
+          affixList,
         );
       }
 
@@ -213,14 +215,14 @@ const chooseOutlineForPhrase = (
   // tom => Tom
   if (!chosenStroke) {
     const modifiedWordOrPhrase = wordOrPhrase.replace(/(^|\s)\S/g, (l) =>
-      l.toUpperCase()
+      l.toUpperCase(),
     );
     let lookupEntry: any = globalLookupDictionary.get(modifiedWordOrPhrase);
     if (lookupEntry) {
       lookupEntry = getRankedOutlineFromLookupEntry(
         lookupEntry,
         modifiedWordOrPhrase,
-        affixList
+        affixList,
       );
     }
     const capitalisedStroke = lookupEntry;
@@ -238,7 +240,7 @@ const chooseOutlineForPhrase = (
       lookupEntry = getRankedOutlineFromLookupEntry(
         lookupEntry,
         modifiedWordOrPhrase,
-        affixList
+        affixList,
       );
     }
     const lowercasedStroke = lookupEntry;
@@ -274,7 +276,7 @@ const chooseOutlineForPhrase = (
       lookupEntry = getRankedOutlineFromLookupEntry(
         lookupEntry,
         modifiedWordOrPhrase,
-        affixList
+        affixList,
       );
     }
     const lowercasedStroke = lookupEntry;
@@ -309,7 +311,7 @@ const chooseOutlineForPhrase = (
         chosenStroke = getRankedOutlineFromLookupEntry(
           lookupEntry,
           modifiedWordOrPhrase,
-          affixList
+          affixList,
         );
       }
     }
@@ -322,7 +324,7 @@ const chooseOutlineForPhrase = (
         chosenStroke = getRankedOutlineFromLookupEntry(
           lookupEntry,
           modifiedWordOrPhrase,
-          affixList
+          affixList,
         );
       }
     }
@@ -336,7 +338,7 @@ const chooseOutlineForPhrase = (
       chosenStroke = getRankedOutlineFromLookupEntry(
         lookupEntry,
         modifiedWordOrPhrase,
-        affixList
+        affixList,
       );
     }
   }
@@ -349,7 +351,7 @@ const chooseOutlineForPhrase = (
       chosenStroke = getRankedOutlineFromLookupEntry(
         lookupEntry,
         modifiedWordOrPhrase,
-        affixList
+        affixList,
       );
     }
   }
@@ -362,7 +364,7 @@ const chooseOutlineForPhrase = (
       chosenStroke = getRankedOutlineFromLookupEntry(
         lookupEntry,
         modifiedWordOrPhrase,
-        affixList
+        affixList,
       );
     }
   }
@@ -375,7 +377,7 @@ const chooseOutlineForPhrase = (
       chosenStroke = getRankedOutlineFromLookupEntry(
         lookupEntry,
         modifiedWordOrPhrase,
-        affixList
+        affixList,
       );
     }
   }
@@ -388,7 +390,7 @@ const chooseOutlineForPhrase = (
       chosenStroke = getRankedOutlineFromLookupEntry(
         lookupEntry,
         modifiedWordOrPhrase,
-        affixList
+        affixList,
       );
     }
   }
@@ -401,7 +403,7 @@ const chooseOutlineForPhrase = (
       chosenStroke = getRankedOutlineFromLookupEntry(
         lookupEntry,
         modifiedWordOrPhrase,
-        affixList
+        affixList,
       );
     }
   }
@@ -415,7 +417,7 @@ const chooseOutlineForPhrase = (
       chosenStroke = getRankedOutlineFromLookupEntry(
         lookupEntry,
         modifiedWordOrPhrase,
-        affixList
+        affixList,
       );
     }
   }
@@ -428,7 +430,7 @@ const chooseOutlineForPhrase = (
       chosenStroke = getRankedOutlineFromLookupEntry(
         lookupEntry,
         modifiedWordOrPhrase,
-        affixList
+        affixList,
       );
     }
   }
@@ -441,7 +443,7 @@ const chooseOutlineForPhrase = (
       chosenStroke = getRankedOutlineFromLookupEntry(
         lookupEntry,
         modifiedWordOrPhrase,
-        affixList
+        affixList,
       );
     }
   }
@@ -454,7 +456,7 @@ const chooseOutlineForPhrase = (
       chosenStroke = getRankedOutlineFromLookupEntry(
         lookupEntry,
         modifiedWordOrPhrase,
-        affixList
+        affixList,
       );
     }
   }
@@ -467,7 +469,7 @@ const chooseOutlineForPhrase = (
       chosenStroke = getRankedOutlineFromLookupEntry(
         lookupEntry,
         modifiedWordOrPhrase,
-        affixList
+        affixList,
       );
     }
   }
@@ -480,7 +482,7 @@ const chooseOutlineForPhrase = (
       chosenStroke = getRankedOutlineFromLookupEntry(
         lookupEntry,
         modifiedWordOrPhrase,
-        affixList
+        affixList,
       );
     }
   }
@@ -493,7 +495,7 @@ const chooseOutlineForPhrase = (
       chosenStroke = getRankedOutlineFromLookupEntry(
         lookupEntry,
         modifiedWordOrPhrase,
-        affixList
+        affixList,
       );
     }
   }
@@ -506,7 +508,7 @@ const chooseOutlineForPhrase = (
       chosenStroke = getRankedOutlineFromLookupEntry(
         lookupEntry,
         modifiedWordOrPhrase,
-        affixList
+        affixList,
       );
     }
   }
@@ -518,7 +520,7 @@ const chooseOutlineForPhrase = (
     // bingeing <- binge -> /TK-LS/-G
     if (wordOrPhrase.endsWith("eing")) {
       const ingSuffixEntry = suffixes.find(
-        (suffixEntry) => suffixEntry[1] === "ing"
+        (suffixEntry) => suffixEntry[1] === "ing",
       );
       const ingSuffixOutlineWithSlash = ingSuffixEntry
         ? ingSuffixEntry[0]
@@ -530,7 +532,7 @@ const chooseOutlineForPhrase = (
           getRankedOutlineFromLookupEntry(
             lookupEntry,
             modifiedWordOrPhrase,
-            affixList
+            affixList,
           ) +
           suppressSpaceStrokeWithSlash +
           ingSuffixOutlineWithSlash;
@@ -562,7 +564,7 @@ const chooseOutlineForPhrase = (
             getRankedOutlineFromLookupEntry(
               lookupEntry,
               modifiedWordOrPhrase,
-              affixList
+              affixList,
             );
         }
       }
@@ -584,7 +586,7 @@ const chooseOutlineForPhrase = (
             getRankedOutlineFromLookupEntry(
               lookupEntry,
               modifiedWordOrPhrase,
-              affixList
+              affixList,
             ) + suffixes[j][0];
         }
       }
@@ -598,7 +600,7 @@ const chooseOutlineForPhrase = (
     // impersonateed <- impersonate + ed -> /-D
     if (wordOrPhrase.endsWith("ed")) {
       const edSuffixEntry = suffixes.find(
-        (suffixEntry) => suffixEntry[1] === "ed"
+        (suffixEntry) => suffixEntry[1] === "ed",
       );
       const edSuffixOutlineWithSlash = edSuffixEntry
         ? edSuffixEntry[0]
@@ -610,7 +612,7 @@ const chooseOutlineForPhrase = (
           getRankedOutlineFromLookupEntry(
             lookupEntry,
             modifiedWordOrPhrase,
-            affixList
+            affixList,
           ) + edSuffixOutlineWithSlash;
       }
     }
@@ -640,7 +642,7 @@ const chooseOutlineForPhrase = (
     const ingRegex = new RegExp(".+[bcdfghjklmnpqrstuvwxz]ing$");
     if (ingRegex.test(wordOrPhrase)) {
       const ingSuffixEntry = suffixes.find(
-        (suffixEntry) => suffixEntry[1] === "ing"
+        (suffixEntry) => suffixEntry[1] === "ing",
       );
       const ingSuffixOutlineWithSlash = ingSuffixEntry
         ? ingSuffixEntry[0]
@@ -652,7 +654,7 @@ const chooseOutlineForPhrase = (
           getRankedOutlineFromLookupEntry(
             lookupEntry,
             modifiedWordOrPhrase,
-            affixList
+            affixList,
           ) + ingSuffixOutlineWithSlash;
       }
     }

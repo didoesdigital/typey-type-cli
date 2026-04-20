@@ -32,11 +32,11 @@ async function main() {
     .description("Builds a lesson according to its metadata")
     .requiredOption(
       "--metadata <filePath>",
-      "The lesson metadata source file path"
+      "The lesson metadata source file path",
     )
     .requiredOption(
       "--target <filePath>",
-      "The target file path to build the lesson"
+      "The target file path to build the lesson",
     )
     .action(buildLesson.run);
 
@@ -60,7 +60,7 @@ async function main() {
     .description("Builds Typey Type dictionaries")
     .requiredOption(
       "--target <filePath>",
-      "The target file path to build the dictionary"
+      "The target file path to build the dictionary",
     )
     .action(buildTypeyTypeDictionary.run);
 
@@ -69,7 +69,7 @@ async function main() {
     .description("Builds an emoji dictionary")
     .requiredOption(
       "--target <filePath>",
-      "The target file path to build the dictionary"
+      "The target file path to build the dictionary",
     )
     .action(buildEmojiDictionary.run);
 
@@ -87,7 +87,7 @@ async function main() {
   program
     .command("validate-lessons")
     .description(
-      "Runs basic checks on lesson files to make sure they are as expected"
+      "Runs basic checks on lesson files to make sure they are as expected",
     )
     .action(validateLessons.run);
 
@@ -101,14 +101,14 @@ async function main() {
     .description("Checks for outlines duplicated across dictionaries")
     .option(
       "-u, --unique-translations",
-      "show only duplicate outlines with differing translations"
+      "show only duplicate outlines with differing translations",
     )
     .action(checkDuplicateOutlines.run);
 
   program
     .command("check-for-fingerspelled-strokes")
     .description(
-      "Checks given dictionaries for outlines containing only fingerspelled strokes"
+      "Checks given dictionaries for outlines containing only fingerspelled strokes",
     )
     .argument("<dictionary_paths...>", "dictionaries to check")
     .action(checkForFingerspelledStrokes.run);

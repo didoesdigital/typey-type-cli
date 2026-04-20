@@ -24,7 +24,7 @@ const run = async (argument: DictionaryPathArgument[]) => {
       const dict = await fs.readFile(dictFile, "utf8");
       const result: DictionaryNameAndContents = [dictFile, JSON.parse(dict)];
       return result;
-    })
+    }),
   ).catch((error) => {
     throw new Error(`There was an error given dictionaries. ${error}`);
   });
@@ -40,7 +40,7 @@ const run = async (argument: DictionaryPathArgument[]) => {
           return previousList;
         }
       },
-      emptyFingerspelledOutlines.slice()
+      emptyFingerspelledOutlines.slice(),
     );
 
     if (fingerspelledOutlines.length > 0) {
@@ -54,7 +54,7 @@ const run = async (argument: DictionaryPathArgument[]) => {
   console.log(
     result.length
       ? JSON.stringify(result, null, 2)
-      : "No fingerspelled outlines! 🎉"
+      : "No fingerspelled outlines! 🎉",
   );
 };
 
