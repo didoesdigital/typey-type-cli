@@ -119,7 +119,6 @@ export default defineConfig([
     languageOptions: {
       globals: {
         ...globals.node,
-        ...globals.jest,
       },
       parser: tsParser,
       parserOptions: {
