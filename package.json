@@ -32,11 +32,6 @@
   "engines": {
     "node": ">=24.14.1"
   },
-  "resolutions": {
-    "tar@^6.1.2": ">=7.5.11",
-    "tar@^6.1.11": ">=7.5.11",
-    "tar@^6.2.1": ">=7.5.11"
-  },
   "devDependencies": {
     "@eslint/js": "9.39.4",
     "@types/node": "^24.1.0",
