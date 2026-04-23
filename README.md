@@ -19,7 +19,7 @@ Note: both the source and output lesson data is committed in git so that it's ea
 Requirements:
 
 - Node version 24 or later. Note: the project is currently built with Node version 24.
-- Install [yarn](https://yarnpkg.com/getting-started/install) v4.
+- Install [pnpm](https://pnpm.io/installation) v10.
 - The CLI uses built-in tools including:
     - [GNU Make](https://www.gnu.org/software/make/)
     - `find`, which is usually part of [findutils](https://www.gnu.org/software/findutils/)
@@ -53,10 +53,10 @@ Change directory into the cloned repository:
 cd typey-type-cli
 ```
 
-Yarn install the dependencies:
+`pnpm` install the dependencies:
 
 ```
-yarn install
+pnpm install --frozen-lockfile
 ```
 
 You'll also need the Typey Type data repo somewhere nearby to produce lessons, which you *can* clone by itself but I recommend setting up the Typey Type app with the data repo included as a submodule so you have everything you might want in the right place:
@@ -71,7 +71,7 @@ git submodule update --init --recursive
 If you want to install the Typey Type app dependencies:
 
 ```
-yarn install
+pnpm install --frozen-lockfile
 ```
 
 ## Updates
@@ -79,11 +79,11 @@ yarn install
 ```
 cd typey-type-cli
 git pull
-yarn
+pnpm install --frozen-lockfile
 cd ../
 cd typey-type
 git pull
-yarn
+pnpm install --frozen-lockfile
 git submodule update
 ```
 
@@ -183,37 +183,37 @@ time make collect-misstrokes
 To check for outlines that are duplicated across Typey Type dictionaries:
 
 ```sh
-yarn dev help check-duplicate-outlines
-yarn dev check-duplicate-outlines
-yarn dev check-duplicate-outlines --unique-translations
+pnpm dev help check-duplicate-outlines
+pnpm dev check-duplicate-outlines
+pnpm dev check-duplicate-outlines --unique-translations
 ```
 
 To check for outlines that contain only fingerspelled strokes in the provided dictionaries:
 
 ```sh
-yarn dev help check-for-fingerspelled-strokes
-yarn dev check-for-fingerspelled-strokes <dictionary_paths...>
+pnpm dev help check-for-fingerspelled-strokes
+pnpm dev check-for-fingerspelled-strokes <dictionary_paths...>
 ```
 
-For example, you could run `yarn dev check-for-fingerspelled-strokes didoesdigital/steno-dictionaries/dictionaries/condensed-*.json | pbcopy` to check all of the condensed strokes dictionaries for fingerspelled strokes and copy the results to the pasteboard/clipboard.
+For example, you could run `pnpm dev check-for-fingerspelled-strokes didoesdigital/steno-dictionaries/dictionaries/condensed-*.json | pbcopy` to check all of the condensed strokes dictionaries for fingerspelled strokes and copy the results to the pasteboard/clipboard.
 
 ## Debugging
 
 While you can run CLI commands individually, for lessons, just use `make`. If you want to run a command though, do this:
 
 ```sh
-yarn dev <command>
-yarn dev help
+pnpm dev <command>
+pnpm dev help
 ```
 
-For example, `yarn dev build-emoji-dictionary --target didoesdigital/steno-dictionaries/dictionaries/emoji.json`.
+For example, `pnpm dev build-emoji-dictionary --target didoesdigital/steno-dictionaries/dictionaries/emoji.json`.
 
 For interactive debugging, here are some options:
 
 ```sh
-yarn build && node --inspect-brk ./build/index.js build-lesson --target=faux-typey-type-data/lessons/drills/homophones/lesson.txt --metadata=faux-typey-type-data/lesson-source-data/drills/homophones/meta.json
-yarn build && node --inspect-brk ./build/index.js build-typey-type-dictionary --target=faux-typey-type-data/lesson-intermediate-data/typey-type-standard-dict-set-combined.json
-yarn build && node --inspect-brk ./build/index.js build-lesson-index
+pnpm build && node --inspect-brk ./build/index.js build-lesson --target=faux-typey-type-data/lessons/drills/homophones/lesson.txt --metadata=faux-typey-type-data/lesson-source-data/drills/homophones/meta.json
+pnpm build && node --inspect-brk ./build/index.js build-typey-type-dictionary --target=faux-typey-type-data/lesson-intermediate-data/typey-type-standard-dict-set-combined.json
+pnpm build && node --inspect-brk ./build/index.js build-lesson-index
 ```
 
 ## Testing
@@ -225,16 +225,16 @@ time make lint-and-test
 … or:
 
 ```sh
-yarn lint:check
-yarn lint:fix
-yarn test
-yarn test:watch
+pnpm lint:check
+pnpm lint:fix
+pnpm test
+pnpm test:watch
 ```
 
 ## Validate lessons
 
 ```sh
-yarn dev validate-lessons
+pnpm dev validate-lessons
 ```
 
 ## Build
@@ -242,7 +242,7 @@ yarn dev validate-lessons
 This cleans the `build` directory, compiles all the TypeScript to JavaScript and makes the `./build/index.js` executable:
 
 ```sh
-yarn build
+pnpm build
 ```
 
 ## Cleaning
@@ -402,8 +402,8 @@ Intermediate data is produced from source files but before creating target files
 To scaffold some files to add a new rule for lessons that are generated according to rules:
 
 ```sh
-yarn dev add-new-rule --rule <ruleName>
-yarn dev add-new-rule --rule testRule  # example
+pnpm dev add-new-rule --rule <ruleName>
+pnpm dev add-new-rule --rule testRule  # example
 ```
 
 ## Contributing
