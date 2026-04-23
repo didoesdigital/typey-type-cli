@@ -56,7 +56,7 @@ describe("${options.rule}", () => {
     }
   });
 
-  console.log("📣 Update the following files and run yarn test:");
+  console.log("📣 Update the following files and run pnpm test:");
   console.log(ruleFilePath);
   console.log(ruleTestFilePath);
 };
