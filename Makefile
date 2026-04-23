@@ -174,13 +174,13 @@ $(ORIGINAL_FINGERSPELLING_ENTRIES): ./didoesdigital/steno-dictionaries/dictionar
 # compile CLI
 build: build/index.js
 build/index.js: $(ALL_TS_FILES)
-	@yarn build
+	@pnpm run build
 
 # lint-and-test
 lint-and-test: tmp/make/lint-and-test.timestamp
 tmp/make/lint-and-test.timestamp: build/index.js $(ALL_TS_FILES)
-	@yarn lint:fix
-	@yarn test:only
+	@pnpm run lint:fix
+	@pnpm run test:only
 	@mkdir -p tmp/make/
 	@touch tmp/make/lint-and-test.timestamp
 
