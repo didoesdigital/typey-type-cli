@@ -91,8 +91,6 @@ export default defineConfig([
     "**/.*",
     // … and allow specific dot files:
     "!**/.prettierrc.json",
-    // Ignore deps files:
-    "**/yarn.lock",
     // Ignore build output folders:
     "**/build/",
     // Ignore log files:
