@@ -4,18 +4,18 @@
   "description": "Typey Type CLI: generates steno word lists, dictionaries, and lessons",
   "main": "build/index.js",
   "scripts": {
-    "build": "yarn clean && yarn compile && yarn chmod",
+    "build": "pnpm run clean && pnpm run compile && pnpm run chmod",
     "clean": "sh -c 'if [ -e build ] ; then rm -r ./build; fi;'",
     "chmod": "sh -c 'chmod u+x ./build/index.js'",
     "compile": "tsc --project tsconfig.build.json",
     "dev": "ts-node src/index.ts",
     "lint:check": "eslint 'src/**/*.{js,ts}'",
-    "lint:fix": "yarn lint:check --fix && yarn prettier",
+    "lint:fix": "pnpm run lint:check --fix && pnpm run prettier",
     "prettier": "prettier --write 'faux-typey-type-data/lesson-source-data/**/meta.json' 'src/**/*.{js,ts}' --log-level 'warn'",
-    "test": "yarn build && vitest run --coverage",
+    "test": "pnpm run build && vitest run --coverage",
     "test:only": "vitest run",
     "test:silent": "vitest run --silent 'passed-only'",
-    "test:watch": "yarn build && vitest watch"
+    "test:watch": "pnpm run build && vitest watch"
   },
   "bin": {
     "typey-type": "./bin/run"
